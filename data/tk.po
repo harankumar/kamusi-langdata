@@ -1,0 +1,88 @@
+#ar
+msgid Arabic
+msgstr arapça
+
+#az
+msgid Azerbaijani
+msgstr azerbaýjança
+
+#de
+msgid German
+msgstr nemisçe
+
+#en
+msgid English
+msgstr iňlisçe
+
+#es
+msgid Spanish
+msgstr ispança
+
+#fa
+msgid Persian
+msgstr parsça
+
+#fr
+msgid French
+msgstr fransuzça
+
+#hy
+msgid Armenian
+msgstr ermençe
+
+#it
+msgid Italian
+msgstr italýança
+
+#ja
+msgid Japanese
+msgstr ýaponça
+
+#ka
+msgid Georgian
+msgstr gruzinçe
+
+#kk
+msgid Kazakh
+msgstr gazakça
+
+#ky
+msgid Kyrgyz
+msgstr gyrgyzça
+
+#nl
+msgid Dutch
+msgstr golland dilini
+
+#ps
+msgid Pashto
+msgstr paştoça
+
+#ru
+msgid Russian
+msgstr orusça
+
+#tg
+msgid Tajik
+msgstr täjikçe
+
+#tk
+msgid Turkmen
+msgstr türkmençe
+
+#tr
+msgid Turkish
+msgstr türkçe
+
+#uk
+msgid Ukrainian
+msgstr ukrainça
+
+#uz
+msgid Uzbek
+msgstr özbekçe
+
+#zh
+msgid Chinese
+msgstr hytaýça
+

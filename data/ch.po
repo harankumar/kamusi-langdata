@@ -1,0 +1,1572 @@
+#aa
+msgid Afar
+msgstr ᎠᏩᎳ
+
+#ab
+msgid Abkhazian
+msgstr ᎠᏆᏏᎠᏂ
+
+#ace
+msgid Achinese
+msgstr ᎠᏥᏂᏏ
+
+#ada
+msgid Adangme
+msgstr ᎠᏓᎾᎦᎺ
+
+#ady
+msgid Adyghe
+msgstr ᎠᏗᎨ
+
+#af
+msgid Afrikaans
+msgstr ᎠᎬᎿᎨᏍᏛ
+
+#agq
+msgid Aghem
+msgstr ᎠᎨᎹ
+
+#ain
+msgid Ainu
+msgstr ᎠᏱᏄ
+
+#ak
+msgid Akan
+msgstr ᎠᎧᎾ
+
+#ale
+msgid Aleut
+msgstr ᎠᎵᎤᏘ
+
+#alt
+msgid Southern Altai
+msgstr ᏧᎦᎾᏮ ᏗᏜ ᎠᎵᏔᎢ
+
+#am
+msgid Amharic
+msgstr ᎠᎹᎭᎵᎩ
+
+#an
+msgid Aragonese
+msgstr ᎠᏩᎪᏂᏏ
+
+#anp
+msgid Angika
+msgstr ᎠᎾᎩᎧ
+
+#ar
+msgid Arabic
+msgstr ᎡᎳᏈ
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr ᎪᎯᏊ ᎢᎬᏥᎩ ᎠᏟᎶᏍᏗ ᎡᎳᏈ
+
+#arn
+msgid Mapuche
+msgstr ᎹᏊᏤ
+
+#arp
+msgid Arapaho
+msgstr ᎠᏩᏈᎰ
+
+#as
+msgid Assamese
+msgstr ᎠᏌᎻᏏ
+
+#asa
+msgid Asu
+msgstr ᎠᏑ
+
+#ast
+msgid Asturian
+msgstr ᎠᏍᏚᎵᎠᏂ
+
+#av
+msgid Avaric
+msgstr ᎠᏩᎵᎧ
+
+#awa
+msgid Awadhi
+msgstr ᎠᏩᏗ
+
+#ay
+msgid Aymara
+msgstr ᎠᏱᎹᎳ
+
+#az
+msgid Azerbaijani
+msgstr ᎠᏎᏆᏣᏂ
+
+#az-short
+msgid Azeri
+msgstr ᎠᏎᎵ
+
+#ba
+msgid Bashkir
+msgstr ᏆᏍᎯᎩᎠ
+
+#ban
+msgid Balinese
+msgstr ᏆᎵᏁᏏ
+
+#bas
+msgid Basaa
+msgstr ᏆᏌᎠ
+
+#be
+msgid Belarusian
+msgstr ᏇᎳᎷᏏ
+
+#bem
+msgid Bemba
+msgstr ᏇᎹᏆ
+
+#bez
+msgid Bena
+msgstr ᏇᎾ
+
+#bg
+msgid Bulgarian
+msgstr ᏊᎵᎨᎵᎠᏂ
+
+#bho
+msgid Bhojpuri
+msgstr ᏉᏣᏊᎵ
+
+#bi
+msgid Bislama
+msgstr ᏈᏍᎳᎹ
+
+#bin
+msgid Bini
+msgstr ᏈᏂ
+
+#bla
+msgid Siksika
+msgstr ᏏᎩᏏᎧ
+
+#bm
+msgid Bambara
+msgstr ᏆᎻᏆᎳ
+
+#bn
+msgid Bengali
+msgstr ᏇᏂᎦᎳ
+
+#bo
+msgid Tibetan
+msgstr ᏘᏇᏔᏂ
+
+#br
+msgid Breton
+msgstr ᏇᏙᏂ
+
+#brx
+msgid Bodo
+msgstr ᏉᏙ
+
+#bs
+msgid Bosnian
+msgstr ᏆᏍᏂᎠᏂ
+
+#bug
+msgid Buginese
+msgstr ᏈᎥᎩᏂᏍ
+
+#byn
+msgid Blin
+msgstr ᏟᏂ
+
+#ca
+msgid Catalan
+msgstr ᎨᏔᎳᏂ
+
+#cay
+msgid Cayuga
+msgstr ᎧᏳᎦ
+
+#ce
+msgid Chechen
+msgstr ᏤᏤᏂ
+
+#ceb
+msgid Cebuano
+msgstr ᏎᏆᏃ
+
+#cgg
+msgid Chiga
+msgstr ᏥᎦ
+
+#ch
+msgid Chamorro
+msgstr ᏣᎼᎶ
+
+#chk
+msgid Chuukese
+msgstr ᏧᎨᏎ
+
+#chm
+msgid Mari
+msgstr ᎹᎵ
+
+#cho
+msgid Choctaw
+msgstr ᎠᏣᏓ
+
+#chr
+msgid Cherokee
+msgstr ᏣᎳᎩ
+
+#chy
+msgid Cheyenne
+msgstr ᏣᏰᏂ
+
+#ckb
+msgid Central Kurdish
+msgstr ᎠᏰᏟ ᎫᏗᏏ
+
+#co
+msgid Corsican
+msgstr ᎪᎵᏍᎢᎧᏂ
+
+#crs
+msgid Seselwa Creole French
+msgstr ᏎᏎᎵᏩ ᏟᏲᎵ ᎠᏂᎦᎸ
+
+#cs
+msgid Czech
+msgstr ᏤᎩ
+
+#cu
+msgid Church Slavic
+msgstr ᏧᏂᎳᏫᏍᏗ ᏍᎳᏫᎪ
+
+#cv
+msgid Chuvash
+msgstr ᏧᏩᏏ
+
+#cy
+msgid Welsh
+msgstr ᏪᎵᏏ
+
+#da
+msgid Danish
+msgstr ᏕᏂᏍ
+
+#dak
+msgid Dakota
+msgstr ᏓᎪᏔ
+
+#dar
+msgid Dargwa
+msgstr ᏓᎳᏆ
+
+#dav
+msgid Taita
+msgstr ᏔᎢᏔ
+
+#de
+msgid German
+msgstr ᏙᎢᏥ
+
+#de AT
+msgid Austrian German
+msgstr ᎠᏟᏯᏂ ᎠᏂᏓᏥ
+
+#de CH
+msgid Swiss High German
+msgstr ᏍᏫᏏ ᎦᎸᎳᏗ ᎠᏂᏓᏥ
+
+#dgr
+msgid Dogrib
+msgstr ᎩᏟ ᎤᏄᎳᏥ
+
+#dje
+msgid Zarma
+msgstr ᏌᎹ
+
+#dsb
+msgid Lower Sorbian
+msgstr ᎡᎳᏗ ᏐᏈᎠᏂ
+
+#dua
+msgid Duala
+msgstr ᏚᎠᎳ
+
+#dv
+msgid Divehi
+msgstr ᏗᏪᎯ
+
+#dyo
+msgid Jola-Fonyi
+msgstr ᏦᎳ-ᏬᏱ
+
+#dz
+msgid Dzongkha
+msgstr ᏓᏐᏅᎧ
+
+#dzg
+msgid Dazaga
+msgstr ᏓᏌᎦ
+
+#ebu
+msgid Embu
+msgstr ᎡᎻᏊ
+
+#ee
+msgid Ewe
+msgstr ᎡᏪ
+
+#efi
+msgid Efik
+msgstr ᎡᏫᎩ
+
+#eka
+msgid Ekajuk
+msgstr ᎨᎧᏧᎧ
+
+#el
+msgid Greek
+msgstr ᎠᏂᎪᎢ
+
+#en
+msgid English
+msgstr ᎩᎵᏏ
+
+#en AU
+msgid Australian English
+msgstr ᎡᎳᏗᏜ ᎩᎵᏏ
+
+#en CA
+msgid Canadian English
+msgstr ᎨᎾᏓ ᎩᎵᏏ
+
+#en GB
+msgid British English
+msgstr ᎩᎵᏏᏲ ᎩᎵᏏ
+
+#en GB-short
+msgid UK English
+msgstr UK ᎩᎵᏏ
+
+#en US
+msgid United States English
+msgstr ᎠᎹᏰᏟ ᎩᎵᏏ
+
+#en US-short
+msgid US English
+msgstr US ᎩᎵᏏ
+
+#eo
+msgid Esperanto
+msgstr ᎡᏍᏇᎳᏂᏙ
+
+#es
+msgid Spanish
+msgstr ᏍᏆᏂ
+
+#es 419
+msgid Latin American Spanish
+msgstr ᏔᏘᏂ ᎠᎹᏰᏟ ᏍᏆᏂ
+
+#es ES
+msgid European Spanish
+msgstr ᎠᏂᏍᏆᏂᏱ ᏍᏆᏂ
+
+#es MX
+msgid Mexican Spanish
+msgstr ᏍᏆᏂᏱ ᏍᏆᏂ
+
+#et
+msgid Estonian
+msgstr ᎡᏍᏙᏂᎠᏂ
+
+#eu
+msgid Basque
+msgstr ᏆᏍᎨ
+
+#ewo
+msgid Ewondo
+msgstr ᎡᏬᏂᏙ
+
+#fa
+msgid Persian
+msgstr ᏇᏏᎠᏂ
+
+#ff
+msgid Fulah
+msgstr ᏊᎳᏂ
+
+#fi
+msgid Finnish
+msgstr ᏈᏂᏍ
+
+#fil
+msgid Filipino
+msgstr ᎠᏈᎵᎩ
+
+#fj
+msgid Fijian
+msgstr ᏫᏥᎠᏂ
+
+#fo
+msgid Faroese
+msgstr ᏇᎶᎡᏍ
+
+#fon
+msgid Fon
+msgstr ᏠᏂ
+
+#fr
+msgid French
+msgstr ᎦᎸᏥ
+
+#fr CA
+msgid Canadian French
+msgstr ᎨᎾᏓ ᎦᎸᏥ
+
+#fr CH
+msgid Swiss French
+msgstr ᏍᏫᏏ ᎦᎸᏥ
+
+#fur
+msgid Friulian
+msgstr ᏞᎤᎵᎠᏂ
+
+#fy
+msgid Western Frisian
+msgstr ᏭᏕᎵᎬ ᏗᏜ ᏟᏏᎠᏂ
+
+#ga
+msgid Irish
+msgstr ᎨᎵᎩ
+
+#gd
+msgid Scottish Gaelic
+msgstr ᏍᎦᏗ ᎨᎵᎩ
+
+#gez
+msgid Geez
+msgstr ᎩᏏ
+
+#gil
+msgid Gilbertese
+msgstr ᎩᏇᏘᏏ
+
+#gl
+msgid Galician
+msgstr ᎦᎵᏏᎠᏂ
+
+#gn
+msgid Guarani
+msgstr ᏆᎳᏂ
+
+#gor
+msgid Gorontalo
+msgstr ᎪᎶᏂᏔᏃ
+
+#gsw
+msgid Swiss German
+msgstr ᏍᏫᏏ ᎠᏂᏓᏥ
+
+#gu
+msgid Gujarati
+msgstr ᎫᏣᎳᏘ
+
+#guz
+msgid Gusii
+msgstr ᎫᏏ
+
+#gv
+msgid Manx
+msgstr ᎹᎾᎧᏏ
+
+#gwi
+msgid Gwichʼin
+msgstr ᏈᏥᏂ
+
+#ha
+msgid Hausa
+msgstr ᎭᎤᏌ
+
+#haw
+msgid Hawaiian
+msgstr ᎭᏩᎼ
+
+#he
+msgid Hebrew
+msgstr ᎠᏂᏈᎷ
+
+#hi
+msgid Hindi
+msgstr ᎯᏂᏗ
+
+#hil
+msgid Hiligaynon
+msgstr ᎯᎵᎨᎾᏂ
+
+#hmn
+msgid Hmong
+msgstr ᎭᎼᏂᎩ
+
+#hr
+msgid Croatian
+msgstr ᎧᎶᎡᏏᏂ
+
+#hsb
+msgid Upper Sorbian
+msgstr ᎦᎸᎳᏗᎨ ᏐᎵᏈᎠᏂ
+
+#ht
+msgid Haitian Creole
+msgstr ᎮᏏᎠᏂ ᏟᏲᎵ
+
+#hu
+msgid Hungarian
+msgstr ᎲᏂᎦᎵᎠᏂ
+
+#hup
+msgid Hupa
+msgstr ᎠᏂᎱᏆ
+
+#hy
+msgid Armenian
+msgstr ᎠᎳᎻᎠᏂ
+
+#hz
+msgid Herero
+msgstr ᎮᎴᎶ
+
+#ia
+msgid Interlingua
+msgstr ᎠᏰᏟ ᎦᏬᏂᎯᏍᏗ
+
+#iba
+msgid Iban
+msgstr ᎢᏆᏂ
+
+#ibb
+msgid Ibibio
+msgstr ᎢᏈᏈᎣ
+
+#id
+msgid Indonesian
+msgstr ᎢᏂᏙᏂᏏᎠ
+
+#ig
+msgid Igbo
+msgstr ᎢᎦᎪ
+
+#ii
+msgid Sichuan Yi
+msgstr ᏏᏧᏩᏂ Ᏹ
+
+#ilo
+msgid Iloko
+msgstr ᎢᎶᎪ
+
+#inh
+msgid Ingush
+msgstr ᎢᏂᎫᏏ
+
+#io
+msgid Ido
+msgstr ᎢᏙ
+
+#is
+msgid Icelandic
+msgstr ᏧᏁᏍᏓᎸᎯᎢᎩ
+
+#it
+msgid Italian
+msgstr ᎬᏩᎵᏲᏥᎢ
+
+#iu
+msgid Inuktitut
+msgstr ᎢᏄᎦᏘᏚ
+
+#ja
+msgid Japanese
+msgstr ᏣᏩᏂᏏ
+
+#jbo
+msgid Lojban
+msgstr ᎶᏣᏆᏂ
+
+#jgo
+msgid Ngomba
+msgstr ᎾᎪᏆ
+
+#jmc
+msgid Machame
+msgstr ᎹᏣᎺ
+
+#jv
+msgid Javanese
+msgstr ᏆᏌ ᏣᏩ
+
+#ka
+msgid Georgian
+msgstr ᏦᏥᎠᏂ
+
+#kab
+msgid Kabyle
+msgstr ᎧᏈᎴ
+
+#kac
+msgid Kachin
+msgstr ᎧᏥᏂ
+
+#kaj
+msgid Jju
+msgstr ᏥᏧ
+
+#kam
+msgid Kamba
+msgstr ᎧᎻᏆ
+
+#kbd
+msgid Kabardian
+msgstr ᎧᏆᏗᎠᏂ
+
+#kcg
+msgid Tyap
+msgstr ᏔᏯᏆ
+
+#kde
+msgid Makonde
+msgstr ᎹᎪᏕ
+
+#kea
+msgid Kabuverdianu
+msgstr ᎧᏊᏪᏗᎠᏄ
+
+#kfo
+msgid Koro
+msgstr ᎪᎶ
+
+#kha
+msgid Khasi
+msgstr ᎧᏏ
+
+#khq
+msgid Koyra Chiini
+msgstr ᎪᏱᎳ ᏥᏂ
+
+#ki
+msgid Kikuyu
+msgstr ᎩᎫᏳ
+
+#kj
+msgid Kuanyama
+msgstr ᎫᏩᏂᎠᎹ
+
+#kk
+msgid Kazakh
+msgstr ᎧᏌᎧ
+
+#kkj
+msgid Kako
+msgstr ᎧᎪ
+
+#kl
+msgid Kalaallisut
+msgstr ᎧᎳᎵᏑᏘ
+
+#kln
+msgid Kalenjin
+msgstr ᎧᎴᏂᏥᏂ
+
+#km
+msgid Khmer
+msgstr ᎩᎻᎷ
+
+#kmb
+msgid Kimbundu
+msgstr ᎩᎻᏊᏚ
+
+#kn
+msgid Kannada
+msgstr ᎧᎾᏓ
+
+#ko
+msgid Korean
+msgstr ᎪᎵᎠᏂ
+
+#kok
+msgid Konkani
+msgstr ᎧᏂᎧᏂ
+
+#kpe
+msgid Kpelle
+msgstr ᏇᎴ
+
+#kr
+msgid Kanuri
+msgstr ᎧᏄᎵ
+
+#krc
+msgid Karachay-Balkar
+msgstr ᎧᎳᏣᏱ-ᏆᎵᎧᎵ
+
+#krl
+msgid Karelian
+msgstr ᎧᎴᎵᎠᏂ
+
+#kru
+msgid Kurukh
+msgstr ᎫᎷᎩ
+
+#ks
+msgid Kashmiri
+msgstr ᎧᏏᎻᎵ
+
+#ksb
+msgid Shambala
+msgstr ᏝᎻᏆᎸ
+
+#ksf
+msgid Bafia
+msgstr ᏆᏫᎠ
+
+#ksh
+msgid Colognian
+msgstr ᎪᎶᏂᎠᏂ
+
+#ku
+msgid Kurdish
+msgstr ᎫᏗᏏ
+
+#kum
+msgid Kumyk
+msgstr ᎫᎻᎧ
+
+#kv
+msgid Komi
+msgstr ᎪᎻ
+
+#kw
+msgid Cornish
+msgstr ᏎᎷᎭ
+
+#ky
+msgid Kyrgyz
+msgstr ᎩᎵᏣᎢᏍ
+
+#la
+msgid Latin
+msgstr ᎳᏘᏂ
+
+#lad
+msgid Ladino
+msgstr ᎳᏗᏃ
+
+#lag
+msgid Langi
+msgstr ᎳᏂᎩ
+
+#lb
+msgid Luxembourgish
+msgstr ᎸᎦᏏᎻᏋᎢᏍ
+
+#lez
+msgid Lezghian
+msgstr ᎴᏏᎦᏂ
+
+#lg
+msgid Ganda
+msgstr ᎦᏂᏓ
+
+#li
+msgid Limburgish
+msgstr ᎴᎹᏊᎵᏏ
+
+#lkt
+msgid Lakota
+msgstr ᎳᎪᏓ
+
+#ln
+msgid Lingala
+msgstr ᎵᏂᎦᎳ
+
+#lo
+msgid Lao
+msgstr ᎳᎣ
+
+#loz
+msgid Lozi
+msgstr ᎶᏏ
+
+#lrc
+msgid Northern Luri
+msgstr ᏧᏴᏢ ᏗᏜ ᎷᎵ
+
+#lt
+msgid Lithuanian
+msgstr ᎵᏚᏩᏂᎠᏂ
+
+#lu
+msgid Luba-Katanga
+msgstr ᎷᏆ-ᎧᏔᎦ
+
+#lua
+msgid Luba-Lulua
+msgstr ᎷᏆ-ᎷᎷᎠ
+
+#lun
+msgid Lunda
+msgstr ᎷᎾᏓ
+
+#luo
+msgid Luo
+msgstr ᎷᎣ
+
+#lus
+msgid Mizo
+msgstr ᎻᏐ
+
+#luy
+msgid Luyia
+msgstr ᎷᏱᎠ
+
+#lv
+msgid Latvian
+msgstr ᎳᏘᏫᎠᏂ
+
+#mad
+msgid Madurese
+msgstr ᎹᏚᎴᏏ
+
+#mag
+msgid Magahi
+msgstr ᎹᎦᎯ
+
+#mai
+msgid Maithili
+msgstr ᎹᏟᎵ
+
+#mak
+msgid Makasar
+msgstr ᎹᎧᏌ
+
+#mas
+msgid Masai
+msgstr ᎹᏌᏱ
+
+#mdf
+msgid Moksha
+msgstr ᎼᎧᏌ
+
+#men
+msgid Mende
+msgstr ᎺᎾᏕ
+
+#mer
+msgid Meru
+msgstr ᎺᎷ
+
+#mfe
+msgid Morisyen
+msgstr ᎼᎵᏏᎡᏂ
+
+#mg
+msgid Malagasy
+msgstr ᎹᎳᎦᏏ
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr ᎹᎫᏩ-ᎻᏙ
+
+#mgo
+msgid Metaʼ
+msgstr ᎺᎳ’
+
+#mh
+msgid Marshallese
+msgstr ᎹᏌᎵᏏ
+
+#mi
+msgid Māori
+msgstr ᎹᏫ
+
+#mic
+msgid Mi'kmaq
+msgstr ᎻᎧᎹᎩ
+
+#min
+msgid Minangkabau
+msgstr ᎻᎾᎧᏆᎤ
+
+#mk
+msgid Macedonian
+msgstr ᎹᏎᏙᏂᎠ
+
+#ml
+msgid Malayalam
+msgstr ᎹᎳᏯᎳᎻ
+
+#mn
+msgid Mongolian
+msgstr ᎹᏂᎪᎵᎠᏂ
+
+#mni
+msgid Manipuri
+msgstr ᎺᏂᏉᎵ
+
+#moh
+msgid Mohawk
+msgstr ᎼᎭᎩ
+
+#mos
+msgid Mossi
+msgstr ᎼᏍᏏ
+
+#mr
+msgid Marathi
+msgstr ᎹᎳᏘ
+
+#ms
+msgid Malay
+msgstr ᎹᎴ
+
+#mt
+msgid Maltese
+msgstr ᎹᎵᏘᏍ
+
+#mua
+msgid Mundang
+msgstr ᎽᏂᏓᎩ
+
+#mul
+msgid Multiple languages
+msgstr ᏧᏈᏍᏗ ᏗᎦᏬᏂᎯᏍᏗ
+
+#mus
+msgid Creek
+msgstr ᎠᎫᏌ
+
+#mwl
+msgid Mirandese
+msgstr ᎻᎳᏕᏏ
+
+#my
+msgid Burmese
+msgstr ᏋᎻᏍ
+
+#myv
+msgid Erzya
+msgstr ᎡᏏᏯ
+
+#mzn
+msgid Mazanderani
+msgstr ᎹᏌᏕᎳᏂ
+
+#na
+msgid Nauru
+msgstr ᏃᎤᎷ
+
+#nap
+msgid Neapolitan
+msgstr ᏂᏯᏆᎵᏔᏂ
+
+#naq
+msgid Nama
+msgstr ᎾᎹ
+
+#nb
+msgid Norwegian Bokmål
+msgstr ᏃᎵᏪᏥᏂ ᏉᎧᎹᎵ
+
+#nd
+msgid North Ndebele
+msgstr ᏧᏴᏢ ᏂᏕᏇᎴ
+
+#nds NL
+msgid Low Saxon
+msgstr ᎡᎳᏗ ᏁᏛᎳᏂ
+
+#ne
+msgid Nepali
+msgstr ᏁᏆᎵ
+
+#new
+msgid Newari
+msgstr ᏁᏩᎵ
+
+#ng
+msgid Ndonga
+msgstr ᎾᏙᎦ
+
+#nia
+msgid Nias
+msgstr ᏂᎠᏏ
+
+#niu
+msgid Niuean
+msgstr ᏂᏳᏫᏯᏂ
+
+#nl
+msgid Dutch
+msgstr ᏛᏥ
+
+#nl BE
+msgid Flemish
+msgstr ᏊᎵᏥᎥᎻ ᏛᏥ
+
+#nmg
+msgid Kwasio
+msgstr ᏆᏏᏲ
+
+#nn
+msgid Norwegian Nynorsk
+msgstr ᏃᎵᏪᏥᏂ ᎾᎵᏍᎩ
+
+#nnh
+msgid Ngiemboon
+msgstr ᎾᏥᏰᎹᏊᏂ
+
+#nog
+msgid Nogai
+msgstr ᏃᎦᏱ
+
+#nqo
+msgid N’Ko
+msgstr ᎾᎪ
+
+#nr
+msgid South Ndebele
+msgstr ᏧᎦᎾᏮ ᏂᏕᏇᎴ
+
+#nso
+msgid Northern Sotho
+msgstr ᏧᏴᏢ ᏗᏜ ᏐᏠ
+
+#nus
+msgid Nuer
+msgstr ᏄᏪᎵ
+
+#nv
+msgid Navajo
+msgstr ᎾᏩᎰ
+
+#ny
+msgid Nyanja
+msgstr ᏂᏯᏂᏣ
+
+#nyn
+msgid Nyankole
+msgstr ᏂᏯᎾᎪᎴ
+
+#oc
+msgid Occitan
+msgstr ᎠᏏᏔᏂ
+
+#om
+msgid Oromo
+msgstr ᎣᎶᎼ
+
+#or
+msgid Oriya
+msgstr ᎣᏗᎠ
+
+#os
+msgid Ossetic
+msgstr ᎣᏎᏘᎧ
+
+#pa
+msgid Punjabi
+msgstr ᏡᏂᏣᏈ
+
+#pag
+msgid Pangasinan
+msgstr ᏇᎦᏏᎠᏂ
+
+#pam
+msgid Pampanga
+msgstr ᏆᎹᏆᎾᎦ
+
+#pap
+msgid Papiamento
+msgstr ᏆᏈᏯᎺᎾᏙ
+
+#pau
+msgid Palauan
+msgstr ᏆᎳᎤᏩᏂ
+
+#pcm
+msgid Nigerian Pidgin
+msgstr ᎾᎩᎵᎠᏂ ᏈᏥᏂ
+
+#pl
+msgid Polish
+msgstr ᏉᎵᏍ
+
+#prg
+msgid Prussian
+msgstr ᏡᏏᎠᏂ
+
+#ps
+msgid Pashto
+msgstr ᏆᏍᏙ
+
+#pt
+msgid Portuguese
+msgstr ᏉᏧᎩᏍ
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr ᏆᏏᎵᎢ ᏉᏧᎦᎵ
+
+#pt PT
+msgid European Portuguese
+msgstr ᏉᏥᎦᎳ ᏉᏧᎦᎵ
+
+#qu
+msgid Quechua
+msgstr ᎨᏧᏩ
+
+#quc
+msgid Kʼicheʼ
+msgstr ᎩᏤ
+
+#rap
+msgid Rapanui
+msgstr ᎳᏆᏄᏫ
+
+#rar
+msgid Rarotongan
+msgstr ᎳᎶᏙᎾᎦᏂ
+
+#rm
+msgid Romansh
+msgstr ᎠᏂᎶᎺᏂ
+
+#rn
+msgid Rundi
+msgstr ᎷᏂᏗ
+
+#ro
+msgid Romanian
+msgstr ᎶᎹᏂᎠᏂ
+
+#ro MD
+msgid Moldovan
+msgstr ᎹᎵᏙᏫᎠ ᏣᎹᏂᎠᏂ
+
+#rof
+msgid Rombo
+msgstr ᎶᎹᏉ
+
+#root
+msgid Root
+msgstr ᎤᎾᏍᎦᎸ
+
+#ru
+msgid Russian
+msgstr ᏲᏅᎯ
+
+#rup
+msgid Aromanian
+msgstr ᎠᏬᎹᏂᎠᏂ
+
+#rw
+msgid Kinyarwanda
+msgstr ᎩᏂᏯᏩᏂᏓ
+
+#sa
+msgid Sanskrit
+msgstr ᏍᏂᏍᎩᏗ
+
+#sad
+msgid Sandawe
+msgstr ᏌᏅᏓᏫ
+
+#sah
+msgid Sakha
+msgstr ᏌᎧᎾ
+
+#saq
+msgid Samburu
+msgstr ᏌᎹᏊᎷ
+
+#sat
+msgid Santali
+msgstr ᏌᏂᏔᎵ
+
+#sba
+msgid Ngambay
+msgstr ᎾᎦᎹᏇ
+
+#sbp
+msgid Sangu
+msgstr ᏌᏁᎫ
+
+#sc
+msgid Sardinian
+msgstr ᏌᏗᏂᎠᏂ
+
+#scn
+msgid Sicilian
+msgstr ᏏᏏᎵᎠᏂ
+
+#sco
+msgid Scots
+msgstr ᏍᎦᏗ
+
+#sd
+msgid Sindhi
+msgstr ᏏᏂᏗ
+
+#se
+msgid Northern Sami
+msgstr ᏧᏴᏢ ᏗᏜ ᏌᎻ
+
+#see
+msgid Seneca
+msgstr ᏏᏂᎦ
+
+#seh
+msgid Sena
+msgstr ᏎᎾ
+
+#ses
+msgid Koyraboro Senni
+msgstr ᎪᏱᎳᏈᎶ ᏎᏂ
+
+#sg
+msgid Sango
+msgstr ᏌᏂᎪ
+
+#shi
+msgid Tachelhit
+msgstr ᏔᏤᎵᎯᏘ
+
+#shn
+msgid Shan
+msgstr ᏝᏂ
+
+#si
+msgid Sinhala
+msgstr ᏏᎾᎭᎳ
+
+#sk
+msgid Slovak
+msgstr ᏍᎶᏩᎩ
+
+#sl
+msgid Slovenian
+msgstr ᏍᎶᏫᏂᎠᏂ
+
+#sm
+msgid Samoan
+msgstr ᏌᎼᏯᏂ
+
+#sma
+msgid Southern Sami
+msgstr ᏧᎦᎾᏮ ᏗᏜ ᏌᎻ
+
+#smj
+msgid Lule Sami
+msgstr ᎷᎴ ᏌᎻ
+
+#smn
+msgid Inari Sami
+msgstr ᎢᎾᎵ ᏌᎻ
+
+#sms
+msgid Skolt Sami
+msgstr ᏍᎪᎵᏘ ᏌᎻ
+
+#sn
+msgid Shona
+msgstr ᏠᎾ
+
+#snk
+msgid Soninke
+msgstr ᏐᏂᏂᎨ
+
+#so
+msgid Somali
+msgstr ᏐᎹᎵ
+
+#sq
+msgid Albanian
+msgstr ᎠᎵᏇᏂ
+
+#sr
+msgid Serbian
+msgstr ᏎᏈᎠᏂ
+
+#srn
+msgid Sranan Tongo
+msgstr ᏏᎳᎾᏂ ᏙᏃᎪ
+
+#ss
+msgid Swati
+msgstr ᏍᏩᏘ
+
+#ssy
+msgid Saho
+msgstr ᏌᎰ
+
+#st
+msgid Southern Sotho
+msgstr ᏧᎦᎾᏮ ᏗᏜ ᏐᏠ
+
+#su
+msgid Sundanese
+msgstr ᏑᏂᏓᏂᏏ
+
+#suk
+msgid Sukuma
+msgstr ᏑᎫᎹ
+
+#sv
+msgid Swedish
+msgstr ᏍᏫᏗᏏ
+
+#sw
+msgid Swahili
+msgstr ᏍᏩᎯᎵ
+
+#sw CD
+msgid Congo Swahili
+msgstr ᎧᏂᎪ ᏍᏩᎯᎵ
+
+#swb
+msgid Comorian
+msgstr ᎪᎼᎵᎠᏂ
+
+#syr
+msgid Syriac
+msgstr ᏏᎵᎠᎩ
+
+#ta
+msgid Tamil
+msgstr ᏔᎻᎵ
+
+#te
+msgid Telugu
+msgstr ᏖᎷᎦ
+
+#tem
+msgid Timne
+msgstr ᏘᎹᏁ
+
+#teo
+msgid Teso
+msgstr ᏖᏐ
+
+#tet
+msgid Tetum
+msgstr ᏖᏚᎼ
+
+#tg
+msgid Tajik
+msgstr ᏔᏥᎩ
+
+#th
+msgid Thai
+msgstr ᏔᏱ
+
+#ti
+msgid Tigrinya
+msgstr ᏘᎩᎵᏂᎠ
+
+#tig
+msgid Tigre
+msgstr ᏢᏓᏥ
+
+#tk
+msgid Turkmen
+msgstr ᎠᏂᎬᎾ
+
+#tlh
+msgid Klingon
+msgstr ᏟᎦᎾ
+
+#tn
+msgid Tswana
+msgstr ᏧᏩᎾ
+
+#to
+msgid Tongan
+msgstr ᏙᎾᎦᏂ
+
+#tpi
+msgid Tok Pisin
+msgstr ᏙᎩ ᏈᏏᏂ
+
+#tr
+msgid Turkish
+msgstr ᎠᎬᎾ
+
+#trv
+msgid Taroko
+msgstr ᏔᎶᎪ
+
+#ts
+msgid Tsonga
+msgstr ᏦᎾᎦ
+
+#tt
+msgid Tatar
+msgstr ᏔᏔ
+
+#tum
+msgid Tumbuka
+msgstr ᏛᎹᏊᎧ
+
+#tvl
+msgid Tuvalu
+msgstr ᏚᏩᎷ
+
+#twq
+msgid Tasawaq
+msgstr ᏔᏌᏩᎩ
+
+#ty
+msgid Tahitian
+msgstr ᏔᎯᏘᎠᏂ
+
+#tyv
+msgid Tuvinian
+msgstr ᏚᏫᏂᎠᏂ
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr ᎠᏰᏟ ᎡᎶᎯ ᏓᏟᎶᏍᏗᏓᏅᎢ ᏔᎹᏏᏘ
+
+#udm
+msgid Udmurt
+msgstr ᎤᏚᎷᏘ
+
+#ug
+msgid Uyghur
+msgstr ᏫᎦ
+
+#uk
+msgid Ukrainian
+msgstr ᏳᎧᎴᏂᎠᏂ
+
+#umb
+msgid Umbundu
+msgstr ᎤᎹᏊᏅᏚ
+
+#und
+msgid Unknown language
+msgstr ᏄᏬᎵᏍᏛᎾ ᎦᏬᏂᎯᏍᏗ
+
+#ur
+msgid Urdu
+msgstr ᎤᎵᏚ
+
+#uz
+msgid Uzbek
+msgstr ᎤᏍᏇᎩ
+
+#vai
+msgid Vai
+msgstr ᏩᏱ
+
+#ve
+msgid Venda
+msgstr ᏫᏂᏓ
+
+#vi
+msgid Vietnamese
+msgstr ᏫᎡᏘᎾᎻᏍ
+
+#vo
+msgid Volapük
+msgstr ᏬᎳᏊᎩ
+
+#vun
+msgid Vunjo
+msgstr ᏭᎾᏦ
+
+#wa
+msgid Walloon
+msgstr ᏩᎷᎾ
+
+#wae
+msgid Walser
+msgstr ᏩᎵᏎᎵ
+
+#wal
+msgid Wolaytta
+msgstr ᏬᎳᏱᏔ
+
+#war
+msgid Waray
+msgstr ᏩᎴ
+
+#wo
+msgid Wolof
+msgstr ᏬᎶᏫ
+
+#xal
+msgid Kalmyk
+msgstr ᎧᎳᎻᎧ
+
+#xh
+msgid Xhosa
+msgstr ᏠᏌ
+
+#xog
+msgid Soga
+msgstr ᏐᎦ
+
+#yav
+msgid Yangben
+msgstr ᏰᎾᎦᏇᏂ
+
+#ybb
+msgid Yemba
+msgstr ᏰᎹᏋ
+
+#yi
+msgid Yiddish
+msgstr ᏱᏗᏍ
+
+#yo
+msgid Yoruba
+msgstr ᏲᏄᏆ
+
+#yue
+msgid Cantonese
+msgstr ᎨᎾᏙᏂᏏ
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr ᎠᏟᎶᏍᏗ ᎼᎶᎪ ᏔᎹᏏᏘ
+
+#zh
+msgid Chinese
+msgstr ᏓᎶᏂᎨ
+
+#zh Hans
+msgid Simplified Chinese
+msgstr ᎠᎯᏗᎨ ᏓᎶᏂᎨ
+
+#zh Hant
+msgid Traditional Chinese
+msgstr ᎤᏦᏍᏗ ᏓᎶᏂᎨ
+
+#zu
+msgid Zulu
+msgstr ᏑᎷ
+
+#zun
+msgid Zuni
+msgstr ᏑᏂ
+
+#zxx
+msgid No linguistic content
+msgstr Ꮭ ᎦᏬᏂᎯᏍᏗ ᎦᎸᏛᎢ ᏱᎩ
+
+#zza
+msgid Zaza
+msgstr ᏌᏌ
+

@@ -1,0 +1,4 @@
+#ky
+msgid Kyrgyz
+msgstr kirgiziska
+

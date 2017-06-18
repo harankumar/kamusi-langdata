@@ -1,0 +1,392 @@
+#af
+msgid Afrikaans
+msgstr Èdè Afrikani
+
+#ak
+msgid Akan
+msgstr Èdè Akani
+
+#am
+msgid Amharic
+msgstr Èdè Amariki
+
+#ar
+msgid Arabic
+msgstr Èdè Arabiki
+
+#as
+msgid Assamese
+msgstr Ti Assam
+
+#az
+msgid Azerbaijani
+msgstr Èdè Azerbaijani
+
+#be
+msgid Belarusian
+msgstr Èdè Belarusi
+
+#bg
+msgid Bulgarian
+msgstr Èdè Bugaria
+
+#bn
+msgid Bangla
+msgstr Èdè Bengali
+
+#br
+msgid Breton
+msgstr Èdè Bretoni
+
+#bs
+msgid Bosnian
+msgstr Èdè Bosnia
+
+#ca
+msgid Catalan
+msgstr Èdè Catala
+
+#cs
+msgid Czech
+msgstr Èdè seeki
+
+#cy
+msgid Welsh
+msgstr Èdè Welshi
+
+#da
+msgid Danish
+msgstr Èdè Ilẹ̀ Denmark
+
+#de
+msgid German
+msgstr Èdè Ilẹ̀ Gemani
+
+#el
+msgid Greek
+msgstr Èdè Giriki
+
+#en
+msgid English
+msgstr Èdè Gẹ̀ẹ́sì
+
+#eo
+msgid Esperanto
+msgstr Èdè Esperanto
+
+#es
+msgid Spanish
+msgstr Èdè Sipanisi
+
+#et
+msgid Estonian
+msgstr Èdè Estonia
+
+#eu
+msgid Basque
+msgstr Èdè Baski
+
+#fa
+msgid Persian
+msgstr Èdè Pasia
+
+#fi
+msgid Finnish
+msgstr Èdè Finisi
+
+#fil
+msgid Filipino
+msgstr Èdè Tagalogi
+
+#fo
+msgid Faroese
+msgstr Èdè Faroesi
+
+#fr
+msgid French
+msgstr Èdè Faransé
+
+#fy
+msgid Western Frisian
+msgstr Èdè Frisia
+
+#ga
+msgid Irish
+msgstr Èdè Ireland
+
+#gd
+msgid Scottish Gaelic
+msgstr Èdè Gaelik ti Ilu Scotland
+
+#gl
+msgid Galician
+msgstr Èdè Galicia
+
+#gn
+msgid Guarani
+msgstr Èdè Guarani
+
+#gu
+msgid Gujarati
+msgstr Èdè Gujarati
+
+#ha
+msgid Hausa
+msgstr Èdè Hausa
+
+#he
+msgid Hebrew
+msgstr Èdè Heberu
+
+#hi
+msgid Hindi
+msgstr Èdè Hindi
+
+#hr
+msgid Croatian
+msgstr Èdè Kroatia
+
+#hu
+msgid Hungarian
+msgstr Èdè Hungaria
+
+#hy
+msgid Armenian
+msgstr Èdè Ile Armenia
+
+#ia
+msgid Interlingua
+msgstr Èdè pipo
+
+#id
+msgid Indonesian
+msgstr Èdè Indonasia
+
+#ie
+msgid Interlingue
+msgstr Iru Èdè
+
+#ig
+msgid Igbo
+msgstr Èdè Ibo
+
+#is
+msgid Icelandic
+msgstr Èdè Icelandic
+
+#it
+msgid Italian
+msgstr Èdè Italiani
+
+#ja
+msgid Japanese
+msgstr Èdè Japanisi
+
+#jv
+msgid Javanese
+msgstr Èdè Javanasi
+
+#ka
+msgid Georgian
+msgstr Èdè Georgia
+
+#km
+msgid Khmer
+msgstr Èdè kameri
+
+#kn
+msgid Kannada
+msgstr Èdè Kannada
+
+#ko
+msgid Korean
+msgstr Èdè Koria
+
+#la
+msgid Latin
+msgstr Èdè Latini
+
+#lt
+msgid Lithuanian
+msgstr Èdè Lithuania
+
+#lv
+msgid Latvian
+msgstr Èdè Latvianu
+
+#mk
+msgid Macedonian
+msgstr Èdè Macedonia
+
+#mr
+msgid Marathi
+msgstr Èdè marathi
+
+#ms
+msgid Malay
+msgstr Èdè Malaya
+
+#mt
+msgid Maltese
+msgstr Èdè Malta
+
+#my
+msgid Burmese
+msgstr Èdè Bumiisi
+
+#ne
+msgid Nepali
+msgstr Èdè Nepali
+
+#nl
+msgid Dutch
+msgstr Èdè Duki
+
+#no
+msgid Norwegian
+msgstr Èdè Norway
+
+#oc
+msgid Occitan
+msgstr Èdè Occitani
+
+#pa
+msgid Punjabi
+msgstr Èdè Punjabi
+
+#pl
+msgid Polish
+msgstr Èdè Ilẹ̀ Polandi
+
+#pt
+msgid Portuguese
+msgstr Èdè Pọtugi
+
+#ro
+msgid Romanian
+msgstr Èdè Romania
+
+#ru
+msgid Russian
+msgstr Èdè ̣Rọọsia
+
+#rw
+msgid Kinyarwanda
+msgstr Èdè Ruwanda
+
+#sa
+msgid Sanskrit
+msgstr Èdè awon ara Indo
+
+#sd
+msgid Sindhi
+msgstr Èdè Sindhi
+
+#sh
+msgid Serbo-Croatian
+msgstr Èdè Serbo-Croatiani
+
+#si
+msgid Sinhala
+msgstr Èdè Sinhalese
+
+#sk
+msgid Slovak
+msgstr Èdè Slovaki
+
+#sl
+msgid Slovenian
+msgstr Èdè Slovenia
+
+#so
+msgid Somali
+msgstr Èdè ara Somalia
+
+#sq
+msgid Albanian
+msgstr Èdè Albania
+
+#sr
+msgid Serbian
+msgstr Èdè Serbia
+
+#st
+msgid Southern Sotho
+msgstr Èdè Sesoto
+
+#su
+msgid Sundanese
+msgstr Èdè Sudani
+
+#sv
+msgid Swedish
+msgstr Èdè Suwidiisi
+
+#sw
+msgid Swahili
+msgstr Èdè Swahili
+
+#ta
+msgid Tamil
+msgstr Èdè Tamili
+
+#te
+msgid Telugu
+msgstr Èdè Telugu
+
+#th
+msgid Thai
+msgstr Èdè Tai
+
+#ti
+msgid Tigrinya
+msgstr Èdè Tigrinya
+
+#tk
+msgid Turkmen
+msgstr Èdè Turkmen
+
+#tlh
+msgid Klingon
+msgstr Èdè Klingoni
+
+#tr
+msgid Turkish
+msgstr Èdè Tọọkisi
+
+#uk
+msgid Ukrainian
+msgstr Èdè Ukania
+
+#ur
+msgid Urdu
+msgstr Èdè Udu
+
+#uz
+msgid Uzbek
+msgstr Èdè Uzbek
+
+#vi
+msgid Vietnamese
+msgstr Èdè Jetinamu
+
+#xh
+msgid Xhosa
+msgstr Èdè Xhosa
+
+#yi
+msgid Yiddish
+msgstr Èdè Yiddishi
+
+#yo
+msgid Yoruba
+msgstr Èdè Yorùbá
+
+#zh
+msgid Chinese
+msgstr Èdè Mandari
+
+#zu
+msgid Zulu
+msgstr Èdè Ṣulu
+

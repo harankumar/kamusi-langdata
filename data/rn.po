@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Igikani
+
+#am
+msgid Amharic
+msgstr Ikimuhariki
+
+#ar
+msgid Arabic
+msgstr Icarabu
+
+#be
+msgid Belarusian
+msgstr Ikibelarusiya
+
+#bg
+msgid Bulgarian
+msgstr Ikinyabuligariya
+
+#bn
+msgid Bangla
+msgstr Ikibengali
+
+#cs
+msgid Czech
+msgstr Igiceke
+
+#de
+msgid German
+msgstr Ikidage
+
+#el
+msgid Greek
+msgstr Ikigereki
+
+#en
+msgid English
+msgstr Icongereza
+
+#es
+msgid Spanish
+msgstr Icesipanyolo
+
+#fa
+msgid Persian
+msgstr Igiperisi
+
+#fr
+msgid French
+msgstr Igifaransa
+
+#ha
+msgid Hausa
+msgstr Igihawusa
+
+#hi
+msgid Hindi
+msgstr Igihindi
+
+#hu
+msgid Hungarian
+msgstr Ikinyahongiriya
+
+#id
+msgid Indonesian
+msgstr Ikinyendoziya
+
+#ig
+msgid Igbo
+msgstr Ikigubo
+
+#it
+msgid Italian
+msgstr Igitaliyani
+
+#ja
+msgid Japanese
+msgstr Ikiyapani
+
+#jv
+msgid Javanese
+msgstr Ikinyejava
+
+#km
+msgid Khmer
+msgstr Igikambodiya
+
+#ko
+msgid Korean
+msgstr Ikinyakoreya
+
+#ms
+msgid Malay
+msgstr Ikinyamaleziya
+
+#my
+msgid Burmese
+msgstr Ikinyabirimaniya
+
+#ne
+msgid Nepali
+msgstr Ikinepali
+
+#nl
+msgid Dutch
+msgstr Igiholandi
+
+#pa
+msgid Punjabi
+msgstr Igipunjabi
+
+#pl
+msgid Polish
+msgstr Ikinyapolonye
+
+#pt
+msgid Portuguese
+msgstr Igiporutugari
+
+#rn
+msgid Rundi
+msgstr Ikirundi
+
+#ro
+msgid Romanian
+msgstr Ikinyarumaniya
+
+#ru
+msgid Russian
+msgstr Ikirusiya
+
+#rw
+msgid Kinyarwanda
+msgstr Ikinyarwanda
+
+#so
+msgid Somali
+msgstr Igisomali
+
+#sv
+msgid Swedish
+msgstr Igisuweduwa
+
+#ta
+msgid Tamil
+msgstr Igitamili
+
+#th
+msgid Thai
+msgstr Ikinyatayilandi
+
+#tr
+msgid Turkish
+msgstr Igiturukiya
+
+#uk
+msgid Ukrainian
+msgstr Ikinyayukereni
+
+#ur
+msgid Urdu
+msgstr Inyeyurudu
+
+#vi
+msgid Vietnamese
+msgstr Ikinyaviyetinamu
+
+#yo
+msgid Yoruba
+msgstr Ikiyoruba
+
+#zh
+msgid Chinese
+msgstr Igishinwa
+
+#zu
+msgid Zulu
+msgstr Ikizulu
+

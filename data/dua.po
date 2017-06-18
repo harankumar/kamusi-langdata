@@ -1,0 +1,4 @@
+#dua
+msgid Duala
+msgstr duálá
+

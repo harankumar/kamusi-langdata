@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Ishiyakani
+
+#am
+msgid Amharic
+msgstr Ishiyamuhali
+
+#ar
+msgid Arabic
+msgstr Ishiyalabu
+
+#be
+msgid Belarusian
+msgstr Ishibelalusi
+
+#bg
+msgid Bulgarian
+msgstr Ishibulugalia
+
+#bn
+msgid Bengali
+msgstr Ishibangila
+
+#cs
+msgid Czech
+msgstr Ishisheki
+
+#de
+msgid German
+msgstr Ishijelumani
+
+#el
+msgid Greek
+msgstr Ishigiliki
+
+#en
+msgid English
+msgstr Ishingelesa
+
+#es
+msgid Spanish
+msgstr Ishihisipaniya
+
+#fa
+msgid Persian
+msgstr Ishiajemi
+
+#fr
+msgid French
+msgstr Ishifalansa
+
+#ha
+msgid Hausa
+msgstr Ishihawusa
+
+#hi
+msgid Hindi
+msgstr Ishihindi
+
+#hu
+msgid Hungarian
+msgstr Ishihungali
+
+#id
+msgid Indonesian
+msgstr Ishihindonesia
+
+#ig
+msgid Igbo
+msgstr Ishihigibo
+
+#it
+msgid Italian
+msgstr Ishihitaliyano
+
+#ja
+msgid Japanese
+msgstr Ishijapani
+
+#jv
+msgid Javanese
+msgstr Ishijava
+
+#km
+msgid Khmer
+msgstr Ishikambodia
+
+#ko
+msgid Korean
+msgstr Ishikoleya
+
+#ms
+msgid Malay
+msgstr Ishimalesiya
+
+#my
+msgid Burmese
+msgstr Ishibuluma
+
+#ne
+msgid Nepali
+msgstr Ishinepali
+
+#nl
+msgid Dutch
+msgstr Ishiholansi
+
+#pa
+msgid Punjabi
+msgstr Ishipunjabi
+
+#pl
+msgid Polish
+msgstr Ishipolandi
+
+#pt
+msgid Portuguese
+msgstr Ishileno
+
+#ro
+msgid Romanian
+msgstr Ishilomaniya
+
+#ru
+msgid Russian
+msgstr Ishilusi
+
+#rw
+msgid Kinyarwanda
+msgstr Ishinyalwanda
+
+#sbp
+msgid Sangu
+msgstr Ishisangu
+
+#so
+msgid Somali
+msgstr Ishisomali
+
+#sv
+msgid Swedish
+msgstr Ishiswidi
+
+#ta
+msgid Tamil
+msgstr Ishitamili
+
+#th
+msgid Thai
+msgstr Ishitayilandi
+
+#tr
+msgid Turkish
+msgstr Ishituluki
+
+#uk
+msgid Ukrainian
+msgstr Ishiyukilaniya
+
+#ur
+msgid Urdu
+msgstr Ishiwuludi
+
+#vi
+msgid Vietnamese
+msgstr Ishivietinamu
+
+#yo
+msgid Yoruba
+msgstr Ishiyoluba
+
+#zh
+msgid Chinese
+msgstr Ishishina
+
+#zu
+msgid Zulu
+msgstr Ishisulu
+

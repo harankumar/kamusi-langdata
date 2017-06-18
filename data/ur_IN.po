@@ -1,0 +1,60 @@
+#af
+msgid Afrikaans
+msgstr افریقی
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr جدید معیاری عربی
+
+#awa
+msgid Awadhi
+msgstr اودھی
+
+#ckb
+msgid Central Kurdish
+msgstr سورانی کردی
+
+#dje
+msgid Zarma
+msgstr زرمہ
+
+#hr
+msgid Croatian
+msgstr کروشین
+
+#jv
+msgid Javanese
+msgstr جاوانیز
+
+#ka
+msgid Georgian
+msgstr جارجيائى
+
+#kl
+msgid Kalaallisut
+msgstr کلالیسٹ
+
+#kn
+msgid Kannada
+msgstr کنڑ
+
+#ku
+msgid Kurdish
+msgstr کرد
+
+#mag
+msgid Magahi
+msgstr مگہی
+
+#mas
+msgid Masai
+msgstr مسائی
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr معیاری مراقشی تمازیقی
+
+#zh Hans
+msgid Simplified Chinese
+msgstr آسان چینی
+

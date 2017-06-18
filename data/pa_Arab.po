@@ -1,0 +1,4 @@
+#pa
+msgid Punjabi
+msgstr پنجابی
+

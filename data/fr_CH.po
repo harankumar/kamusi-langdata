@@ -1,0 +1,12 @@
+#gu
+msgid Gujarati
+msgstr goudjrati
+
+#pdc
+msgid Pennsylvania German
+msgstr allemand de Pennsylvanie
+
+#sdh
+msgid Southern Kurdish
+msgstr kurde méridional
+

@@ -1,0 +1,16 @@
+#fa
+msgid Persian
+msgstr دری
+
+#pa
+msgid Punjabi
+msgstr پنجابی
+
+#ps
+msgid Pashto
+msgstr پشتو
+
+#uz
+msgid Uzbek
+msgstr اوزبیک
+

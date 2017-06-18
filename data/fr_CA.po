@@ -1,0 +1,248 @@
+#ady
+msgid Adyghe
+msgstr adygué
+
+#ang
+msgid Old English
+msgstr vieil anglais
+
+#arn
+msgid Mapuche
+msgstr araukan
+
+#az
+msgid Azerbaijani
+msgstr azerbaïdjanais
+
+#bez
+msgid Bena
+msgstr bena
+
+#bik
+msgid Bikol
+msgstr bicol
+
+#byn
+msgid Blin
+msgstr bilen
+
+#byv
+msgid Medumba
+msgstr medumba
+
+#chg
+msgid Chagatai
+msgstr tchagatay
+
+#chn
+msgid Chinook Jargon
+msgstr chinook
+
+#ckb
+msgid Central Kurdish
+msgstr kurde central
+
+#cr
+msgid Cree
+msgstr cri
+
+#den
+msgid Slave
+msgstr slave
+
+#dgr
+msgid Dogrib
+msgstr tlicho
+
+#esu
+msgid Central Yupik
+msgstr yupik central
+
+#ewo
+msgid Ewondo
+msgstr ewondo
+
+#frc
+msgid Cajun French
+msgstr cajun
+
+#frp
+msgid Arpitan
+msgstr franco-provençal
+
+#gbz
+msgid Zoroastrian Dari
+msgstr dari
+
+#goh
+msgid Old High German
+msgstr vieux haut-allemand
+
+#gu
+msgid Gujarati
+msgstr gujarati
+
+#ilo
+msgid Iloko
+msgstr ilocano
+
+#kbd
+msgid Kabardian
+msgstr kabarde
+
+#ken
+msgid Kenyang
+msgstr kenyang
+
+#kl
+msgid Kalaallisut
+msgstr kalaallisut
+
+#ksh
+msgid Colognian
+msgstr kölsch
+
+#liv
+msgid Livonian
+msgstr live
+
+#lzh
+msgid Literary Chinese
+msgstr chinois classique
+
+#mgo
+msgid Metaʼ
+msgstr meta’
+
+#mwr
+msgid Marwari
+msgstr marwari
+
+#mwv
+msgid Mentawai
+msgstr mentawai
+
+#nds
+msgid Low German
+msgstr bas allemand
+
+#nds NL
+msgid Low Saxon
+msgstr bas saxon
+
+#njo
+msgid Ao Naga
+msgstr ao naga
+
+#nwc
+msgid Classical Newari
+msgstr newari classique
+
+#nyn
+msgid Nyankole
+msgstr nkole
+
+#or
+msgid Odia
+msgstr odia
+
+#pau
+msgid Palauan
+msgstr palauan
+
+#pdc
+msgid Pennsylvania German
+msgstr allemand de Pennsylvanie
+
+#pdt
+msgid Plautdietsch
+msgstr bas allemand mennonite
+
+#peo
+msgid Old Persian
+msgstr vieux perse
+
+#pfl
+msgid Palatine German
+msgstr palatin
+
+#pro
+msgid Old Provençal
+msgstr ancien occitan
+
+#rar
+msgid Rarotongan
+msgstr rarotonga
+
+#rup
+msgid Aromanian
+msgstr aroumain
+
+#sat
+msgid Santali
+msgstr santali
+
+#sdh
+msgid Southern Kurdish
+msgstr kurde méridional
+
+#se
+msgid Northern Sami
+msgstr same du Nord
+
+#sei
+msgid Seri
+msgstr seri
+
+#sg
+msgid Sango
+msgstr sango
+
+#sga
+msgid Old Irish
+msgstr vieil irlandais
+
+#sly
+msgid Selayar
+msgstr selayar
+
+#sma
+msgid Southern Sami
+msgstr same du Sud
+
+#smj
+msgid Lule Sami
+msgstr same de Lule
+
+#sms
+msgid Skolt Sami
+msgstr same skolt
+
+#stq
+msgid Saterland Frisian
+msgstr frison de Saterland
+
+#sus
+msgid Susu
+msgstr sosso
+
+#sw CD
+msgid Congo Swahili
+msgstr swahili congolais
+
+#tru
+msgid Turoyo
+msgstr turoyo
+
+#tyv
+msgid Tuvinian
+msgstr touvain
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr tamazight
+
+#vo
+msgid Volapük
+msgstr volapük
+

@@ -1,0 +1,104 @@
+#ab
+msgid Abkhazian
+msgstr افریکانس
+
+#as
+msgid Assamese
+msgstr اسامی
+
+#az
+msgid Azerbaijani
+msgstr آذربایجانی
+
+#ba
+msgid Bashkir
+msgstr باشقیری
+
+#ckb
+msgid Central Kurdish
+msgstr کردی سورانی
+
+#dv
+msgid Divehi
+msgstr مالدیوی
+
+#es
+msgid Spanish
+msgstr هسپانوی
+
+#fi
+msgid Finnish
+msgstr فنلندی
+
+#ga
+msgid Irish
+msgstr آیرلندی
+
+#hr
+msgid Croatian
+msgstr کروشیایی
+
+#id
+msgid Indonesian
+msgstr اندونیزیایی
+
+#is
+msgid Icelandic
+msgstr آیسلندی
+
+#it
+msgid Italian
+msgstr ایتالوی
+
+#ja
+msgid Japanese
+msgstr جاپانی
+
+#ko
+msgid Korean
+msgstr کوریایی
+
+#ky
+msgid Kyrgyz
+msgstr قرغزی
+
+#mn
+msgid Mongolian
+msgstr مغلی
+
+#ne
+msgid Nepali
+msgstr نیپالی
+
+#nl
+msgid Dutch
+msgstr هالندی
+
+#no
+msgid Norwegian
+msgstr نارویژی
+
+#pl
+msgid Polish
+msgstr پولندی
+
+#pt
+msgid Portuguese
+msgstr پرتگالی
+
+#sq
+msgid Albanian
+msgstr البانیایی
+
+#sv
+msgid Swedish
+msgstr سویدنی
+
+#sw
+msgid Swahili
+msgstr سواحلی
+
+#tg
+msgid Tajik
+msgstr تاجکی
+

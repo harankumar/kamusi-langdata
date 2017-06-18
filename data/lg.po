@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Lu-akaani
+
+#am
+msgid Amharic
+msgstr Lu-amhariki
+
+#ar
+msgid Arabic
+msgstr Luwarabu
+
+#be
+msgid Belarusian
+msgstr Lubelarusi
+
+#bg
+msgid Bulgarian
+msgstr Lubulugariya
+
+#bn
+msgid Bangla
+msgstr Lubengali
+
+#cs
+msgid Czech
+msgstr Luceeke
+
+#de
+msgid German
+msgstr Ludaaki
+
+#el
+msgid Greek
+msgstr Lugereeki/Luyonaani
+
+#en
+msgid English
+msgstr Lungereza
+
+#es
+msgid Spanish
+msgstr Lusipanya
+
+#fa
+msgid Persian
+msgstr Luperusi
+
+#fr
+msgid French
+msgstr Lufalansa
+
+#ha
+msgid Hausa
+msgstr Luhawuza
+
+#hi
+msgid Hindi
+msgstr Luhindu
+
+#hu
+msgid Hungarian
+msgstr Luhangare
+
+#id
+msgid Indonesian
+msgstr Luyindonezya
+
+#ig
+msgid Igbo
+msgstr Luyibo
+
+#it
+msgid Italian
+msgstr Luyitale
+
+#ja
+msgid Japanese
+msgstr Lujapani
+
+#jv
+msgid Javanese
+msgstr Lunnajjava
+
+#km
+msgid Khmer
+msgstr Lukme
+
+#ko
+msgid Korean
+msgstr Lukoreya
+
+#lg
+msgid Ganda
+msgstr Luganda
+
+#ms
+msgid Malay
+msgstr Lumalayi
+
+#my
+msgid Burmese
+msgstr Lubbama
+
+#ne
+msgid Nepali
+msgstr Lunepali
+
+#nl
+msgid Dutch
+msgstr Luholandi
+
+#pa
+msgid Punjabi
+msgstr Lupunjabi
+
+#pl
+msgid Polish
+msgstr Lupolandi
+
+#pt
+msgid Portuguese
+msgstr Lupotugiizi
+
+#ro
+msgid Romanian
+msgstr Lulomaniya
+
+#ru
+msgid Russian
+msgstr Lulasa
+
+#rw
+msgid Kinyarwanda
+msgstr Lunarwanda
+
+#so
+msgid Somali
+msgstr Lusomaliya
+
+#sv
+msgid Swedish
+msgstr Luswideni
+
+#ta
+msgid Tamil
+msgstr Lutamiiru
+
+#th
+msgid Thai
+msgstr Luttaayi
+
+#tr
+msgid Turkish
+msgstr Lutake
+
+#uk
+msgid Ukrainian
+msgstr Luyukurayine
+
+#ur
+msgid Urdu
+msgstr Lu-urudu
+
+#vi
+msgid Vietnamese
+msgstr Luvyetinaamu
+
+#yo
+msgid Yoruba
+msgstr Luyoruba
+
+#zh
+msgid Chinese
+msgstr Lucayina
+
+#zu
+msgid Zulu
+msgstr Luzzulu
+

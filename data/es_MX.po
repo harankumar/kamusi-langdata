@@ -1,0 +1,116 @@
+#ace
+msgid Achinese
+msgstr acehnés
+
+#arp
+msgid Arapaho
+msgstr arapaho
+
+#ba
+msgid Bashkir
+msgstr bashkir
+
+#bas
+msgid Basaa
+msgstr basa
+
+#bax
+msgid Bamun
+msgstr bamun
+
+#bho
+msgid Bhojpuri
+msgstr bhojpuri
+
+#dum
+msgid Middle Dutch
+msgstr neerlandés medieval
+
+#en GB-short
+msgid UK English
+msgstr inglés (R. U.)
+
+#enm
+msgid Middle English
+msgstr inglés medieval
+
+#eu
+msgid Basque
+msgstr euskera
+
+#frm
+msgid Middle French
+msgstr francés medieval
+
+#gan
+msgid Gan Chinese
+msgstr gan (China)
+
+#gmh
+msgid Middle High German
+msgstr alemán de la alta edad media
+
+#grc
+msgid Ancient Greek
+msgstr griego antiguo
+
+#hak
+msgid Hakka Chinese
+msgstr kejia (China)
+
+#hsn
+msgid Xiang Chinese
+msgstr xiang (China)
+
+#lo
+msgid Lao
+msgstr lao
+
+#mga
+msgid Middle Irish
+msgstr irlandés medieval
+
+#nan
+msgid Min Nan Chinese
+msgstr min nan (Chino)
+
+#nso
+msgid Northern Sotho
+msgstr sotho septentrional
+
+#pa
+msgid Punjabi
+msgstr punyabí
+
+#rn
+msgid Rundi
+msgstr kiroundi
+
+#shu
+msgid Chadian Arabic
+msgstr árabe chadiano
+
+#ss
+msgid Swati
+msgstr siswati
+
+#sw
+msgid Swahili
+msgstr suajili
+
+#sw CD
+msgid Congo Swahili
+msgstr suajili del Congo
+
+#ug-variant
+msgid Uighur
+msgstr uyghur
+
+#wo
+msgid Wolof
+msgstr wolof
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr tamazight marroquí estándar
+

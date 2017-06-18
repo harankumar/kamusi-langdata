@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr riakan
+
+#am
+msgid Amharic
+msgstr riamarik
+
+#ar
+msgid Arabic
+msgstr riarab
+
+#be
+msgid Belarusian
+msgstr ribɛlɔrís
+
+#bg
+msgid Bulgarian
+msgstr ribulgarí
+
+#bn
+msgid Bangla
+msgstr ribɛngáli
+
+#cs
+msgid Czech
+msgstr ricɛ́k
+
+#de
+msgid German
+msgstr ridjɛrman
+
+#el
+msgid Greek
+msgstr rigrɛ́k
+
+#en
+msgid English
+msgstr riingɛrís
+
+#es
+msgid Spanish
+msgstr rikpanyá
+
+#fa
+msgid Persian
+msgstr ripɛrsán
+
+#fr
+msgid French
+msgstr ripɛrɛsǝ́
+
+#ha
+msgid Hausa
+msgstr rikaksa
+
+#hi
+msgid Hindi
+msgstr riíndí
+
+#hu
+msgid Hungarian
+msgstr riɔngrɔá
+
+#id
+msgid Indonesian
+msgstr riindonɛsí
+
+#ig
+msgid Igbo
+msgstr riigbo
+
+#it
+msgid Italian
+msgstr riitalyɛ́n
+
+#ja
+msgid Japanese
+msgstr rijapɔ́ŋ
+
+#jv
+msgid Javanese
+msgstr rijawanɛ́
+
+#km
+msgid Khmer
+msgstr rikmɛr
+
+#ko
+msgid Korean
+msgstr rikɔrɛɛ́
+
+#ksf
+msgid Bafia
+msgstr rikpa
+
+#ms
+msgid Malay
+msgstr rimalaí
+
+#my
+msgid Burmese
+msgstr ribirmán
+
+#ne
+msgid Nepali
+msgstr rinepalɛ́
+
+#nl
+msgid Dutch
+msgstr riɔlándɛ́
+
+#pa
+msgid Punjabi
+msgstr ripɛnjabí
+
+#pl
+msgid Polish
+msgstr ripɔlɔ́n
+
+#pt
+msgid Portuguese
+msgstr ripɔrtugɛ́
+
+#ro
+msgid Romanian
+msgstr rirɔmán
+
+#ru
+msgid Russian
+msgstr rirís
+
+#rw
+msgid Kinyarwanda
+msgstr rirwanda
+
+#so
+msgid Somali
+msgstr risomalí
+
+#sv
+msgid Swedish
+msgstr riswɛ́dǝ
+
+#ta
+msgid Tamil
+msgstr ritamúl
+
+#th
+msgid Thai
+msgstr ritaí
+
+#tr
+msgid Turkish
+msgstr riturk
+
+#uk
+msgid Ukrainian
+msgstr riukrɛ́n
+
+#ur
+msgid Urdu
+msgstr riurdú
+
+#vi
+msgid Vietnamese
+msgstr riwyɛtnám
+
+#yo
+msgid Yoruba
+msgstr riyúuba
+
+#zh
+msgid Chinese
+msgstr ricinɔá
+
+#zu
+msgid Zulu
+msgstr rizúlu
+

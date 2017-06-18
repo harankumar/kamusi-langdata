@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Hɔp u akan
+
+#am
+msgid Amharic
+msgstr Hɔp u amhārìk
+
+#ar
+msgid Arabic
+msgstr Hɔp u arâb
+
+#bas
+msgid Basaa
+msgstr Ɓàsàa
+
+#be
+msgid Belarusian
+msgstr Hɔp u bièlòrûs
+
+#bg
+msgid Bulgarian
+msgstr Hɔp u bûlgâr
+
+#bn
+msgid Bengali
+msgstr Hɔp u bɛŋgàli
+
+#cs
+msgid Czech
+msgstr Hɔp u cɛ̂k
+
+#de
+msgid German
+msgstr Hɔp u jamân
+
+#el
+msgid Greek
+msgstr Hɔp u gri ᷇kyà
+
+#en
+msgid English
+msgstr Hɔp u ŋgisì
+
+#es
+msgid Spanish
+msgstr Hɔp u panyā
+
+#fa
+msgid Persian
+msgstr Hɔp u pɛrsìà
+
+#fr
+msgid French
+msgstr Hɔp u pulàsi
+
+#ha
+msgid Hausa
+msgstr Hɔp u ɓausa
+
+#hi
+msgid Hindi
+msgstr Hɔp u hindì
+
+#hu
+msgid Hungarian
+msgstr Hɔp u hɔŋgrìi
+
+#id
+msgid Indonesian
+msgstr Hɔp u indònesìà
+
+#ig
+msgid Igbo
+msgstr Hɔp u iɓò
+
+#it
+msgid Italian
+msgstr Hɔp u italìà
+
+#ja
+msgid Japanese
+msgstr Hɔp u yapàn
+
+#jv
+msgid Javanese
+msgstr Hɔp u yavà
+
+#km
+msgid Khmer
+msgstr Hɔp u kmɛ̂r
+
+#ko
+msgid Korean
+msgstr Hɔp u kɔrēà
+
+#ms
+msgid Malay
+msgstr Hɔp u makɛ᷆
+
+#my
+msgid Burmese
+msgstr Hɔp u birmàn
+
+#ne
+msgid Nepali
+msgstr Hɔp u nepa᷆l
+
+#nl
+msgid Dutch
+msgstr Hɔp u nlɛ̀ndi
+
+#pa
+msgid Punjabi
+msgstr Hɔp u pɛnjàbi
+
+#pl
+msgid Polish
+msgstr Hɔp u pɔlɔ̄nà
+
+#pt
+msgid Portuguese
+msgstr Hɔp u pɔtɔ̄kì
+
+#ro
+msgid Romanian
+msgstr Hɔp u rùmanìà
+
+#ru
+msgid Russian
+msgstr Hɔp u ruslànd
+
+#rw
+msgid Kinyarwanda
+msgstr Hɔp u ruāndà
+
+#so
+msgid Somali
+msgstr Hɔp u somàlî
+
+#sv
+msgid Swedish
+msgstr Hɔp u suɛ᷆d
+
+#ta
+msgid Tamil
+msgstr Hɔp u tamu᷆l
+
+#th
+msgid Thai
+msgstr Hɔp u tây
+
+#tr
+msgid Turkish
+msgstr Hɔp u tûrk
+
+#uk
+msgid Ukrainian
+msgstr Hɔp u ukrǎnìà
+
+#ur
+msgid Urdu
+msgstr Hɔp u urdù
+
+#vi
+msgid Vietnamese
+msgstr Hɔp u vyɛ̄dnàm
+
+#yo
+msgid Yoruba
+msgstr Hɔp u yorūbà
+
+#zh
+msgid Chinese
+msgstr Hɔp u kinà
+
+#zu
+msgid Zulu
+msgstr Hɔp u zulù
+

@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Takanit
+
+#am
+msgid Amharic
+msgstr Tamahrict
+
+#ar
+msgid Arabic
+msgstr Taɛrabt
+
+#be
+msgid Belarusian
+msgstr Tabilarusit
+
+#bg
+msgid Bulgarian
+msgstr Tabulgarit
+
+#bn
+msgid Bangla
+msgstr Tabengalit
+
+#cs
+msgid Czech
+msgstr Tačikit
+
+#de
+msgid German
+msgstr Talmant
+
+#el
+msgid Greek
+msgstr Tagrikit
+
+#en
+msgid English
+msgstr Taglizit
+
+#es
+msgid Spanish
+msgstr Taspenyulit
+
+#fa
+msgid Persian
+msgstr Tafarisit
+
+#fr
+msgid French
+msgstr Tafransist
+
+#ha
+msgid Hausa
+msgstr Tahwasit
+
+#hi
+msgid Hindi
+msgstr Tahendit
+
+#hu
+msgid Hungarian
+msgstr Tahungarit
+
+#id
+msgid Indonesian
+msgstr Tandunisit
+
+#ig
+msgid Igbo
+msgstr Tigbut
+
+#it
+msgid Italian
+msgstr Taṭalyanit
+
+#ja
+msgid Japanese
+msgstr Tajapunit
+
+#jv
+msgid Javanese
+msgstr Tajavanit
+
+#kab
+msgid Kabyle
+msgstr Taqbaylit
+
+#km
+msgid Khmer
+msgstr Takemrit
+
+#ko
+msgid Korean
+msgstr Takurit
+
+#ms
+msgid Malay
+msgstr Tamalawit
+
+#my
+msgid Burmese
+msgstr Taburmisit
+
+#ne
+msgid Nepali
+msgstr Tanipalit
+
+#nl
+msgid Dutch
+msgstr Tadučit
+
+#pa
+msgid Punjabi
+msgstr Tapunjabit
+
+#pl
+msgid Polish
+msgstr Tapulunit
+
+#pt
+msgid Portuguese
+msgstr Tapurtugalit
+
+#ro
+msgid Romanian
+msgstr Tarumanit
+
+#ru
+msgid Russian
+msgstr Tarusit
+
+#rw
+msgid Kinyarwanda
+msgstr Taruwandit
+
+#so
+msgid Somali
+msgstr Taṣumalit
+
+#sv
+msgid Swedish
+msgstr Taswidit
+
+#ta
+msgid Tamil
+msgstr Taṭamulit
+
+#th
+msgid Thai
+msgstr Taṭaylundit
+
+#tr
+msgid Turkish
+msgstr Taṭurkit
+
+#uk
+msgid Ukrainian
+msgstr Tukranit
+
+#ur
+msgid Urdu
+msgstr Turdut
+
+#vi
+msgid Vietnamese
+msgstr Tabyiṭnamit
+
+#yo
+msgid Yoruba
+msgstr Tayurubit
+
+#zh
+msgid Chinese
+msgstr Tacinwat, Tamundarint
+
+#zu
+msgid Zulu
+msgstr Tazulut
+

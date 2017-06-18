@@ -1,0 +1,52 @@
+#ace
+msgid Achinese
+msgstr Aceh-Sprache
+
+#ach
+msgid Acoli
+msgstr Acholi-Sprache
+
+#bas
+msgid Basaa
+msgstr Basaa-Sprache
+
+#be
+msgid Belarusian
+msgstr Weissrussisch
+
+#bik
+msgid Bikol
+msgstr Bikol-Sprache
+
+#bin
+msgid Bini
+msgstr Bini-Sprache
+
+#chb
+msgid Chibcha
+msgstr Chibcha-Sprache
+
+#din
+msgid Dinka
+msgstr Dinka-Sprache
+
+#fan
+msgid Fang
+msgstr Pangwe-Sprache
+
+#gba
+msgid Gbaya
+msgstr Gbaya-Sprache
+
+#kmb
+msgid Kimbundu
+msgstr Kimbundu-Sprache
+
+#mus
+msgid Creek
+msgstr Muskogee-Sprache
+
+#prg
+msgid Prussian
+msgstr Altpreussisch
+

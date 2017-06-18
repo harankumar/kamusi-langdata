@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Chakan
+
+#am
+msgid Amharic
+msgstr Chamhali
+
+#ar
+msgid Arabic
+msgstr Chalabu
+
+#be
+msgid Belarusian
+msgstr Chibelalusi
+
+#bg
+msgid Bulgarian
+msgstr Chibulgalia
+
+#bn
+msgid Bengali
+msgstr Chibangla
+
+#cs
+msgid Czech
+msgstr Chichechi
+
+#de
+msgid German
+msgstr Chidyelumani
+
+#el
+msgid Greek
+msgstr Chigilichi
+
+#en
+msgid English
+msgstr Chiingeleza
+
+#es
+msgid Spanish
+msgstr Chihispania
+
+#fa
+msgid Persian
+msgstr Chiajemi
+
+#fr
+msgid French
+msgstr Chifalansa
+
+#ha
+msgid Hausa
+msgstr Chihausa
+
+#hi
+msgid Hindi
+msgstr Chihindi
+
+#hu
+msgid Hungarian
+msgstr Chihungali
+
+#id
+msgid Indonesian
+msgstr Chiiongonesia
+
+#ig
+msgid Igbo
+msgstr Chiigbo
+
+#it
+msgid Italian
+msgstr Chiitaliano
+
+#ja
+msgid Japanese
+msgstr Chidyapani
+
+#jv
+msgid Javanese
+msgstr Chidyava
+
+#kde
+msgid Makonde
+msgstr Chimakonde
+
+#km
+msgid Khmer
+msgstr Chikambodia
+
+#ko
+msgid Korean
+msgstr Chikolea
+
+#ms
+msgid Malay
+msgstr Chimalesia
+
+#my
+msgid Burmese
+msgstr Chibulma
+
+#ne
+msgid Nepali
+msgstr Chinepali
+
+#nl
+msgid Dutch
+msgstr Chiholanzi
+
+#pa
+msgid Punjabi
+msgstr Chipunjabi
+
+#pl
+msgid Polish
+msgstr Chipolandi
+
+#pt
+msgid Portuguese
+msgstr Chileno
+
+#ro
+msgid Romanian
+msgstr Chilomania
+
+#ru
+msgid Russian
+msgstr Chilusi
+
+#rw
+msgid Kinyarwanda
+msgstr Chinyalwanda
+
+#so
+msgid Somali
+msgstr Chisomali
+
+#sv
+msgid Swedish
+msgstr Chiswidi
+
+#ta
+msgid Tamil
+msgstr Chitamil
+
+#th
+msgid Thai
+msgstr Chitailandi
+
+#tr
+msgid Turkish
+msgstr Chituluchi
+
+#uk
+msgid Ukrainian
+msgstr Chiuklania
+
+#ur
+msgid Urdu
+msgstr Chiuldu
+
+#vi
+msgid Vietnamese
+msgstr Chivietinamu
+
+#yo
+msgid Yoruba
+msgstr Chiyoluba
+
+#zh
+msgid Chinese
+msgstr Chichina
+
+#zu
+msgid Zulu
+msgstr Chizulu
+

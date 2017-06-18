@@ -1,0 +1,4 @@
+#ksh
+msgid Colognian
+msgstr কোলোনিয়ান
+

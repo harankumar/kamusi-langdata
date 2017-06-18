@@ -1,0 +1,12 @@
+#as
+msgid Assamese
+msgstr অসমীয়া
+
+#ie
+msgid Interlingue
+msgstr উপস্থাপন ভাষা
+
+#km
+msgid Khmer
+msgstr কম্বোডিয়ান
+

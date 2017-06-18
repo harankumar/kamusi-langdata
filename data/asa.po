@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Kiakan
+
+#am
+msgid Amharic
+msgstr Kiamhari
+
+#ar
+msgid Arabic
+msgstr Kiarabu
+
+#asa
+msgid Asu
+msgstr Kipare
+
+#be
+msgid Belarusian
+msgstr Kibelarusi
+
+#bg
+msgid Bulgarian
+msgstr Kibulgaria
+
+#bn
+msgid Bangla
+msgstr Kibangla
+
+#cs
+msgid Czech
+msgstr Kicheki
+
+#de
+msgid German
+msgstr Kijerumani
+
+#el
+msgid Greek
+msgstr Kigiriki
+
+#en
+msgid English
+msgstr Kiingeredha
+
+#es
+msgid Spanish
+msgstr Kihithpania
+
+#fa
+msgid Persian
+msgstr Kiajemi
+
+#fr
+msgid French
+msgstr Kifarantha
+
+#ha
+msgid Hausa
+msgstr Kihautha
+
+#hi
+msgid Hindi
+msgstr Kihindi
+
+#hu
+msgid Hungarian
+msgstr Kihungari
+
+#id
+msgid Indonesian
+msgstr Kiindonethia
+
+#ig
+msgid Igbo
+msgstr Kiigbo
+
+#it
+msgid Italian
+msgstr Kiitaliaano
+
+#ja
+msgid Japanese
+msgstr Kijapani
+
+#jv
+msgid Javanese
+msgstr Kijava
+
+#km
+msgid Khmer
+msgstr Kikambodia
+
+#ko
+msgid Korean
+msgstr Kikorea
+
+#ms
+msgid Malay
+msgstr Kimalesia
+
+#my
+msgid Burmese
+msgstr Kiburma
+
+#ne
+msgid Nepali
+msgstr Kinepali
+
+#nl
+msgid Dutch
+msgstr Kiholandhi
+
+#pa
+msgid Punjabi
+msgstr Kipunjabi
+
+#pl
+msgid Polish
+msgstr Kipolandi
+
+#pt
+msgid Portuguese
+msgstr Kireno
+
+#ro
+msgid Romanian
+msgstr Kiromania
+
+#ru
+msgid Russian
+msgstr Kiruthi
+
+#rw
+msgid Kinyarwanda
+msgstr Kinyarandwa
+
+#so
+msgid Somali
+msgstr Kithomali
+
+#sv
+msgid Swedish
+msgstr Kithwidi
+
+#ta
+msgid Tamil
+msgstr Kitamil
+
+#th
+msgid Thai
+msgstr Kitailandi
+
+#tr
+msgid Turkish
+msgstr Kituruki
+
+#uk
+msgid Ukrainian
+msgstr Kiukrania
+
+#ur
+msgid Urdu
+msgstr Kiurdu
+
+#vi
+msgid Vietnamese
+msgstr Kivietinamu
+
+#yo
+msgid Yoruba
+msgstr Kiyoruba
+
+#zh
+msgid Chinese
+msgstr Kichina
+
+#zu
+msgid Zulu
+msgstr Kidhulu
+

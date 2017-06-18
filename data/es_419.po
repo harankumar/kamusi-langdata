@@ -1,0 +1,96 @@
+#ace
+msgid Achinese
+msgstr achenés
+
+#ady
+msgid Adyghe
+msgstr adigeo
+
+#arp
+msgid Arapaho
+msgstr arapajó
+
+#en GB-short
+msgid UK English
+msgstr inglés (R.U.)
+
+#eu
+msgid Basque
+msgstr vasco
+
+#goh
+msgid Old High German
+msgstr alemán de la alta edad antigua
+
+#grc
+msgid Ancient Greek
+msgstr griego clásico
+
+#gu
+msgid Gujarati
+msgstr gujarati
+
+#hsb
+msgid Upper Sorbian
+msgstr sorbio alto
+
+#ht
+msgid Haitian Creole
+msgstr haitiano
+
+#kea
+msgid Kabuverdianu
+msgstr Criollo (Cabo Verde)
+
+#lo
+msgid Lao
+msgstr laosiano
+
+#prg
+msgid Prussian
+msgstr prusiano antiguo
+
+#ps-variant
+msgid Pushto
+msgstr pashtún
+
+#rm
+msgid Romansh
+msgstr retorrománico
+
+#shu
+msgid Chadian Arabic
+msgstr árabe (Chad)
+
+#sw
+msgid Swahili
+msgstr swahili
+
+#sw CD
+msgid Congo Swahili
+msgstr swahili (Congo)
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr tamazight del Marruecos Central
+
+#ug-variant
+msgid Uighur
+msgstr uighur
+
+#wal
+msgid Wolaytta
+msgstr walamo
+
+#wuu
+msgid Wu Chinese
+msgstr wu
+
+#yi
+msgid Yiddish
+msgstr yídish
+
+#zun
+msgid Zuni
+msgstr zuni
+

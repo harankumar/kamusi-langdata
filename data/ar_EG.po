@@ -1,0 +1,4 @@
+#da
+msgid Danish
+msgstr الدنماركية
+

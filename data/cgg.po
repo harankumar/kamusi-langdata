@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Orukani
+
+#am
+msgid Amharic
+msgstr Orumariki
+
+#ar
+msgid Arabic
+msgstr Oruharabu
+
+#be
+msgid Belarusian
+msgstr Oruberarusi
+
+#bg
+msgid Bulgarian
+msgstr Oruburugariya
+
+#bn
+msgid Bangla
+msgstr Orubengari
+
+#cgg
+msgid Chiga
+msgstr Rukiga
+
+#cs
+msgid Czech
+msgstr Oruceeki
+
+#de
+msgid German
+msgstr Orugirimaani
+
+#el
+msgid Greek
+msgstr Oruguriiki
+
+#en
+msgid English
+msgstr Orungyereza
+
+#es
+msgid Spanish
+msgstr Orusupaani
+
+#fa
+msgid Persian
+msgstr Orupaasiya
+
+#fr
+msgid French
+msgstr Orufaransa
+
+#ha
+msgid Hausa
+msgstr Oruhausa
+
+#hi
+msgid Hindi
+msgstr Oruhindi
+
+#hu
+msgid Hungarian
+msgstr Oruhangare
+
+#id
+msgid Indonesian
+msgstr Oruindonezia
+
+#ig
+msgid Igbo
+msgstr Oruibo
+
+#it
+msgid Italian
+msgstr Oruyitare
+
+#ja
+msgid Japanese
+msgstr Orujapaani
+
+#jv
+msgid Javanese
+msgstr Orujava
+
+#km
+msgid Khmer
+msgstr Orukambodiya
+
+#ko
+msgid Korean
+msgstr Orukoreya
+
+#ms
+msgid Malay
+msgstr Orumalesiya
+
+#my
+msgid Burmese
+msgstr Oruburuma
+
+#ne
+msgid Nepali
+msgstr Orunepali
+
+#nl
+msgid Dutch
+msgstr Orudaaki
+
+#pa
+msgid Punjabi
+msgstr Orupungyabi
+
+#pl
+msgid Polish
+msgstr Orupoori
+
+#pt
+msgid Portuguese
+msgstr Orupocugo
+
+#ro
+msgid Romanian
+msgstr Oruromania
+
+#ru
+msgid Russian
+msgstr Orurrasha
+
+#rw
+msgid Kinyarwanda
+msgstr Orunyarwanda
+
+#so
+msgid Somali
+msgstr Orusomaari
+
+#sv
+msgid Swedish
+msgstr Oruswidi
+
+#ta
+msgid Tamil
+msgstr Orutamiri
+
+#th
+msgid Thai
+msgstr Orutailandi
+
+#tr
+msgid Turkish
+msgstr Orukuruki
+
+#uk
+msgid Ukrainian
+msgstr Orukuraini
+
+#ur
+msgid Urdu
+msgstr Oru-Urudu
+
+#vi
+msgid Vietnamese
+msgstr Oruviyetinaamu
+
+#yo
+msgid Yoruba
+msgstr Oruyoruba
+
+#zh
+msgid Chinese
+msgstr Oruchaina
+
+#zu
+msgid Zulu
+msgstr Oruzuru
+

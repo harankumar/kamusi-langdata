@@ -1,0 +1,256 @@
+#af
+msgid Afrikaans
+msgstr afrikansi
+
+#ak
+msgid Akan
+msgstr akan
+
+#am
+msgid Amharic
+msgstr liamariki
+
+#ar
+msgid Arabic
+msgstr lialabo
+
+#be
+msgid Belarusian
+msgstr libyelorisí
+
+#bg
+msgid Bulgarian
+msgstr libiligali
+
+#bn
+msgid Bangla
+msgstr libengali
+
+#cs
+msgid Czech
+msgstr litshekɛ
+
+#de
+msgid German
+msgstr lialemá
+
+#de AT
+msgid Austrian German
+msgstr lialémani ya Otrish
+
+#de CH
+msgid Swiss High German
+msgstr lialémani ya Swisi
+
+#el
+msgid Greek
+msgstr ligeleki
+
+#en
+msgid English
+msgstr lingɛlɛ́sa
+
+#en CA
+msgid Canadian English
+msgstr lingɛlɛ́sa ya Kanadá
+
+#en GB
+msgid British English
+msgstr lingɛlɛ́sa ya Ingɛlɛ́tɛlɛ
+
+#es
+msgid Spanish
+msgstr lisipanye
+
+#es 419
+msgid Latin American Spanish
+msgstr lispanyoli ya Ameríka Latína
+
+#es ES
+msgid European Spanish
+msgstr lispanyoli ya Erópa
+
+#fa
+msgid Persian
+msgstr lipelésanɛ
+
+#fr
+msgid French
+msgstr lifalansɛ́
+
+#fr CA
+msgid Canadian French
+msgstr lifalansɛ́ ya Kanadá
+
+#fr CH
+msgid Swiss French
+msgstr lifalansɛ́ ya Swisi
+
+#gsw
+msgid Swiss German
+msgstr lialemaniki
+
+#ha
+msgid Hausa
+msgstr hausa
+
+#he
+msgid Hebrew
+msgstr liébeleo
+
+#hi
+msgid Hindi
+msgstr lihindi
+
+#hu
+msgid Hungarian
+msgstr liongili
+
+#id
+msgid Indonesian
+msgstr lindonezi
+
+#ig
+msgid Igbo
+msgstr igbo
+
+#it
+msgid Italian
+msgstr litaliano
+
+#ja
+msgid Japanese
+msgstr lizapɔ
+
+#jv
+msgid Javanese
+msgstr lizava
+
+#kg
+msgid Kongo
+msgstr kikɔ́ngɔ
+
+#km
+msgid Khmer
+msgstr likambodza
+
+#ko
+msgid Korean
+msgstr likoreya
+
+#la
+msgid Latin
+msgstr latina
+
+#ln
+msgid Lingala
+msgstr lingála
+
+#lu
+msgid Luba-Katanga
+msgstr kiluba
+
+#lua
+msgid Luba-Lulua
+msgstr ciluba
+
+#ms
+msgid Malay
+msgstr limalezi
+
+#my
+msgid Burmese
+msgstr libilimá
+
+#ne
+msgid Nepali
+msgstr linepalɛ
+
+#nl
+msgid Dutch
+msgstr lifalamá
+
+#pa
+msgid Punjabi
+msgstr lipendzabi
+
+#pl
+msgid Polish
+msgstr lipolonɛ
+
+#pt
+msgid Portuguese
+msgstr lipulutugɛ́si
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr lipulutugɛ́si ya Brazil
+
+#pt PT
+msgid European Portuguese
+msgstr lipulutugɛ́si ya Erópa
+
+#rm
+msgid Romansh
+msgstr liromansh
+
+#ro
+msgid Romanian
+msgstr liromani
+
+#ru
+msgid Russian
+msgstr lirisí
+
+#rw
+msgid Kinyarwanda
+msgstr kinyarwanda
+
+#so
+msgid Somali
+msgstr lisomali
+
+#sv
+msgid Swedish
+msgstr lisuwedɛ
+
+#sw
+msgid Swahili
+msgstr kiswahíli
+
+#ta
+msgid Tamil
+msgstr litamuli
+
+#th
+msgid Thai
+msgstr litaye
+
+#tr
+msgid Turkish
+msgstr litiliki
+
+#uk
+msgid Ukrainian
+msgstr likrɛni
+
+#ur
+msgid Urdu
+msgstr liurdu
+
+#vi
+msgid Vietnamese
+msgstr liviyetinámi
+
+#yo
+msgid Yoruba
+msgstr yoruba
+
+#zh
+msgid Chinese
+msgstr lisinwa
+
+#zu
+msgid Zulu
+msgstr zulu
+

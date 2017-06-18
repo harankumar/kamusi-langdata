@@ -1,0 +1,2216 @@
+#aa
+msgid Afar
+msgstr Tiếng Afar
+
+#ab
+msgid Abkhazian
+msgstr Tiếng Abkhazia
+
+#ace
+msgid Achinese
+msgstr Tiếng Achinese
+
+#ach
+msgid Acoli
+msgstr Tiếng Acoli
+
+#ada
+msgid Adangme
+msgstr Tiếng Adangme
+
+#ady
+msgid Adyghe
+msgstr Tiếng Adyghe
+
+#ae
+msgid Avestan
+msgstr Tiếng Avestan
+
+#af
+msgid Afrikaans
+msgstr Tiếng Afrikaans
+
+#afh
+msgid Afrihili
+msgstr Tiếng Afrihili
+
+#agq
+msgid Aghem
+msgstr Tiếng Aghem
+
+#ain
+msgid Ainu
+msgstr Tiếng Ainu
+
+#ak
+msgid Akan
+msgstr Tiếng Akan
+
+#akk
+msgid Akkadian
+msgstr Tiếng Akkadia
+
+#akz
+msgid Alabama
+msgstr Tiếng Alabama
+
+#ale
+msgid Aleut
+msgstr Tiếng Aleut
+
+#aln
+msgid Gheg Albanian
+msgstr Tiếng Gheg Albani
+
+#alt
+msgid Southern Altai
+msgstr Tiếng Altai Miền Nam
+
+#am
+msgid Amharic
+msgstr Tiếng Amharic
+
+#an
+msgid Aragonese
+msgstr Tiếng Aragon
+
+#ang
+msgid Old English
+msgstr Tiếng Anh cổ
+
+#anp
+msgid Angika
+msgstr Tiếng Angika
+
+#ar
+msgid Arabic
+msgstr Tiếng Ả Rập
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr Tiếng Ả Rập Hiện đại
+
+#arc
+msgid Aramaic
+msgstr Tiếng Aramaic
+
+#arn
+msgid Mapuche
+msgstr Tiếng Mapuche
+
+#aro
+msgid Araona
+msgstr Tiếng Araona
+
+#arp
+msgid Arapaho
+msgstr Tiếng Arapaho
+
+#arq
+msgid Algerian Arabic
+msgstr Tiếng Ả Rập Algeria
+
+#arw
+msgid Arawak
+msgstr Tiếng Arawak
+
+#arz
+msgid Egyptian Arabic
+msgstr Tiếng Ả Rập Ai Cập
+
+#as
+msgid Assamese
+msgstr Tiếng Assam
+
+#asa
+msgid Asu
+msgstr Tiếng Asu
+
+#ase
+msgid American Sign Language
+msgstr Ngôn ngữ Ký hiệu Mỹ
+
+#ast
+msgid Asturian
+msgstr Tiếng Asturias
+
+#av
+msgid Avaric
+msgstr Tiếng Avaric
+
+#awa
+msgid Awadhi
+msgstr Tiếng Awadhi
+
+#ay
+msgid Aymara
+msgstr Tiếng Aymara
+
+#az
+msgid Azerbaijani
+msgstr Tiếng Azerbaijan
+
+#az-short
+msgid Azeri
+msgstr Tiếng Azeri
+
+#ba
+msgid Bashkir
+msgstr Tiếng Bashkir
+
+#bal
+msgid Baluchi
+msgstr Tiếng Baluchi
+
+#ban
+msgid Balinese
+msgstr Tiếng Bali
+
+#bar
+msgid Bavarian
+msgstr Tiếng Bavaria
+
+#bas
+msgid Basaa
+msgstr Tiếng Basaa
+
+#bax
+msgid Bamun
+msgstr Tiếng Bamun
+
+#bbc
+msgid Batak Toba
+msgstr Tiếng Batak Toba
+
+#bbj
+msgid Ghomala
+msgstr Tiếng Ghomala
+
+#be
+msgid Belarusian
+msgstr Tiếng Belarus
+
+#bej
+msgid Beja
+msgstr Tiếng Beja
+
+#bem
+msgid Bemba
+msgstr Tiếng Bemba
+
+#bew
+msgid Betawi
+msgstr Tiếng Betawi
+
+#bez
+msgid Bena
+msgstr Tiếng Bena
+
+#bfd
+msgid Bafut
+msgstr Tiếng Bafut
+
+#bfq
+msgid Badaga
+msgstr Tiếng Badaga
+
+#bg
+msgid Bulgarian
+msgstr Tiếng Bulgaria
+
+#bgn
+msgid Western Balochi
+msgstr Tiếng Tây Balochi
+
+#bho
+msgid Bhojpuri
+msgstr Tiếng Bhojpuri
+
+#bi
+msgid Bislama
+msgstr Tiếng Bislama
+
+#bik
+msgid Bikol
+msgstr Tiếng Bikol
+
+#bin
+msgid Bini
+msgstr Tiếng Bini
+
+#bjn
+msgid Banjar
+msgstr Tiếng Banjar
+
+#bkm
+msgid Kom
+msgstr Tiếng Kom
+
+#bla
+msgid Siksika
+msgstr Tiếng Siksika
+
+#bm
+msgid Bambara
+msgstr Tiếng Bambara
+
+#bn
+msgid Bangla
+msgstr Tiếng Bangla
+
+#bo
+msgid Tibetan
+msgstr Tiếng Tây Tạng
+
+#bpy
+msgid Bishnupriya
+msgstr Tiếng Bishnupriya
+
+#bqi
+msgid Bakhtiari
+msgstr Tiếng Bakhtiari
+
+#br
+msgid Breton
+msgstr Tiếng Breton
+
+#bra
+msgid Braj
+msgstr Tiếng Braj
+
+#brh
+msgid Brahui
+msgstr Tiếng Brahui
+
+#brx
+msgid Bodo
+msgstr Tiếng Bodo
+
+#bs
+msgid Bosnian
+msgstr Tiếng Bosnia
+
+#bss
+msgid Akoose
+msgstr Tiếng Akoose
+
+#bua
+msgid Buriat
+msgstr Tiếng Buriat
+
+#bug
+msgid Buginese
+msgstr Tiếng Bugin
+
+#bum
+msgid Bulu
+msgstr Tiếng Bulu
+
+#byn
+msgid Blin
+msgstr Tiếng Blin
+
+#byv
+msgid Medumba
+msgstr Tiếng Medumba
+
+#ca
+msgid Catalan
+msgstr Tiếng Catalan
+
+#cad
+msgid Caddo
+msgstr Tiếng Caddo
+
+#car
+msgid Carib
+msgstr Tiếng Carib
+
+#cay
+msgid Cayuga
+msgstr Tiếng Cayuga
+
+#cch
+msgid Atsam
+msgstr Tiếng Atsam
+
+#ce
+msgid Chechen
+msgstr Tiếng Chechen
+
+#ceb
+msgid Cebuano
+msgstr Tiếng Cebuano
+
+#cgg
+msgid Chiga
+msgstr Tiếng Chiga
+
+#ch
+msgid Chamorro
+msgstr Tiếng Chamorro
+
+#chb
+msgid Chibcha
+msgstr Tiếng Chibcha
+
+#chg
+msgid Chagatai
+msgstr Tiếng Chagatai
+
+#chk
+msgid Chuukese
+msgstr Tiếng Chuuk
+
+#chm
+msgid Mari
+msgstr Tiếng Mari
+
+#chn
+msgid Chinook Jargon
+msgstr Biệt ngữ Chinook
+
+#cho
+msgid Choctaw
+msgstr Tiếng Choctaw
+
+#chp
+msgid Chipewyan
+msgstr Tiếng Chipewyan
+
+#chr
+msgid Cherokee
+msgstr Tiếng Cherokee
+
+#chy
+msgid Cheyenne
+msgstr Tiếng Cheyenne
+
+#ckb
+msgid Central Kurdish
+msgstr Tiếng Kurd Miền Trung
+
+#co
+msgid Corsican
+msgstr Tiếng Corsica
+
+#cop
+msgid Coptic
+msgstr Tiếng Coptic
+
+#cps
+msgid Capiznon
+msgstr Tiếng Capiznon
+
+#cr
+msgid Cree
+msgstr Tiếng Cree
+
+#crh
+msgid Crimean Turkish
+msgstr Tiếng Thổ Nhĩ Kỳ Crimean
+
+#crs
+msgid Seselwa Creole French
+msgstr Tiếng Pháp Seselwa Creole
+
+#cs
+msgid Czech
+msgstr Tiếng Séc
+
+#csb
+msgid Kashubian
+msgstr Tiếng Kashubia
+
+#cu
+msgid Church Slavic
+msgstr Tiếng Slavơ Nhà thờ
+
+#cv
+msgid Chuvash
+msgstr Tiếng Chuvash
+
+#cy
+msgid Welsh
+msgstr Tiếng Wales
+
+#da
+msgid Danish
+msgstr Tiếng Đan Mạch
+
+#dak
+msgid Dakota
+msgstr Tiếng Dakota
+
+#dar
+msgid Dargwa
+msgstr Tiếng Dargwa
+
+#dav
+msgid Taita
+msgstr Tiếng Taita
+
+#de
+msgid German
+msgstr Tiếng Đức
+
+#de CH
+msgid Swiss High German
+msgstr Tiếng Thượng Giéc-man (Thụy Sĩ)
+
+#del
+msgid Delaware
+msgstr Tiếng Delaware
+
+#den
+msgid Slave
+msgstr Tiếng Slave
+
+#dgr
+msgid Dogrib
+msgstr Tiếng Dogrib
+
+#din
+msgid Dinka
+msgstr Tiếng Dinka
+
+#dje
+msgid Zarma
+msgstr Tiếng Zarma
+
+#doi
+msgid Dogri
+msgstr Tiếng Dogri
+
+#dsb
+msgid Lower Sorbian
+msgstr Tiếng Hạ Sorbia
+
+#dtp
+msgid Central Dusun
+msgstr Tiếng Dusun Miền Trung
+
+#dua
+msgid Duala
+msgstr Tiếng Duala
+
+#dum
+msgid Middle Dutch
+msgstr Tiếng Hà Lan Trung cổ
+
+#dv
+msgid Divehi
+msgstr Tiếng Divehi
+
+#dyo
+msgid Jola-Fonyi
+msgstr Tiếng Jola-Fonyi
+
+#dyu
+msgid Dyula
+msgstr Tiếng Dyula
+
+#dz
+msgid Dzongkha
+msgstr Tiếng Dzongkha
+
+#dzg
+msgid Dazaga
+msgstr Tiếng Dazaga
+
+#ebu
+msgid Embu
+msgstr Tiếng Embu
+
+#ee
+msgid Ewe
+msgstr Tiếng Ewe
+
+#efi
+msgid Efik
+msgstr Tiếng Efik
+
+#egl
+msgid Emilian
+msgstr Tiếng Emilia
+
+#egy
+msgid Ancient Egyptian
+msgstr Tiếng Ai Cập cổ
+
+#eka
+msgid Ekajuk
+msgstr Tiếng Ekajuk
+
+#el
+msgid Greek
+msgstr Tiếng Hy Lạp
+
+#elx
+msgid Elamite
+msgstr Tiếng Elamite
+
+#en
+msgid English
+msgstr Tiếng Anh
+
+#en GB
+msgid British English
+msgstr Tiếng Anh (Anh)
+
+#en GB-short
+msgid UK English
+msgstr Tiếng Anh (Anh)
+
+#en US
+msgid American English
+msgstr Tiếng Anh (Mỹ)
+
+#en US-short
+msgid US English
+msgstr Tiếng Anh (Mỹ)
+
+#enm
+msgid Middle English
+msgstr Tiếng Anh Trung cổ
+
+#eo
+msgid Esperanto
+msgstr Tiếng Quốc Tế Ngữ
+
+#es
+msgid Spanish
+msgstr Tiếng Tây Ban Nha
+
+#es 419
+msgid Latin American Spanish
+msgstr Tiếng Tây Ban Nha (Mỹ La tinh)
+
+#es ES
+msgid European Spanish
+msgstr Tiếng Tây Ban Nha (Châu Âu)
+
+#esu
+msgid Central Yupik
+msgstr Tiếng Yupik Miền Trung
+
+#et
+msgid Estonian
+msgstr Tiếng Estonia
+
+#eu
+msgid Basque
+msgstr Tiếng Basque
+
+#ewo
+msgid Ewondo
+msgstr Tiếng Ewondo
+
+#ext
+msgid Extremaduran
+msgstr Tiếng Extremadura
+
+#fa
+msgid Persian
+msgstr Tiếng Ba Tư
+
+#fan
+msgid Fang
+msgstr Tiếng Fang
+
+#fat
+msgid Fanti
+msgstr Tiếng Fanti
+
+#ff
+msgid Fulah
+msgstr Tiếng Fulah
+
+#fi
+msgid Finnish
+msgstr Tiếng Phần Lan
+
+#fil
+msgid Filipino
+msgstr Tiếng Philippines
+
+#fj
+msgid Fijian
+msgstr Tiếng Fiji
+
+#fo
+msgid Faroese
+msgstr Tiếng Faroe
+
+#fon
+msgid Fon
+msgstr Tiếng Fon
+
+#fr
+msgid French
+msgstr Tiếng Pháp
+
+#frc
+msgid Cajun French
+msgstr Tiếng Pháp Cajun
+
+#frm
+msgid Middle French
+msgstr Tiếng Pháp Trung cổ
+
+#fro
+msgid Old French
+msgstr Tiếng Pháp cổ
+
+#frp
+msgid Arpitan
+msgstr Tiếng Arpitan
+
+#frr
+msgid Northern Frisian
+msgstr Tiếng Frisia Miền Bắc
+
+#frs
+msgid Eastern Frisian
+msgstr Tiếng Frisian Miền Đông
+
+#fur
+msgid Friulian
+msgstr Tiếng Friulian
+
+#fy
+msgid Western Frisian
+msgstr Tiếng Frisia
+
+#ga
+msgid Irish
+msgstr Tiếng Ireland
+
+#gaa
+msgid Ga
+msgstr Tiếng Ga
+
+#gag
+msgid Gagauz
+msgstr Tiếng Gagauz
+
+#gan
+msgid Gan Chinese
+msgstr Tiếng Cám
+
+#gay
+msgid Gayo
+msgstr Tiếng Gayo
+
+#gba
+msgid Gbaya
+msgstr Tiếng Gbaya
+
+#gd
+msgid Scottish Gaelic
+msgstr Tiếng Gael Scotland
+
+#gez
+msgid Geez
+msgstr Tiếng Geez
+
+#gil
+msgid Gilbertese
+msgstr Tiếng Gilbert
+
+#gl
+msgid Galician
+msgstr Tiếng Galician
+
+#glk
+msgid Gilaki
+msgstr Tiếng Gilaki
+
+#gmh
+msgid Middle High German
+msgstr Tiếng Thượng Giéc-man Trung cổ
+
+#gn
+msgid Guarani
+msgstr Tiếng Guarani
+
+#goh
+msgid Old High German
+msgstr Tiếng Thượng Giéc-man cổ
+
+#gom
+msgid Goan Konkani
+msgstr Tiếng Goan Konkani
+
+#gon
+msgid Gondi
+msgstr Tiếng Gondi
+
+#gor
+msgid Gorontalo
+msgstr Tiếng Gorontalo
+
+#got
+msgid Gothic
+msgstr Tiếng Gô-tích
+
+#grb
+msgid Grebo
+msgstr Tiếng Grebo
+
+#grc
+msgid Ancient Greek
+msgstr Tiếng Hy Lạp cổ
+
+#gsw
+msgid Swiss German
+msgstr Tiếng Đức (Thụy Sĩ)
+
+#gu
+msgid Gujarati
+msgstr Tiếng Gujarati
+
+#gur
+msgid Frafra
+msgstr Tiếng Frafra
+
+#guz
+msgid Gusii
+msgstr Tiếng Gusii
+
+#gv
+msgid Manx
+msgstr Tiếng Manx
+
+#gwi
+msgid Gwichʼin
+msgstr Tiếng Gwichʼin
+
+#ha
+msgid Hausa
+msgstr Tiếng Hausa
+
+#hai
+msgid Haida
+msgstr Tiếng Haida
+
+#hak
+msgid Hakka Chinese
+msgstr Tiếng Khách Gia
+
+#haw
+msgid Hawaiian
+msgstr Tiếng Hawaii
+
+#he
+msgid Hebrew
+msgstr Tiếng Do Thái
+
+#hi
+msgid Hindi
+msgstr Tiếng Hindi
+
+#hif
+msgid Fiji Hindi
+msgstr Tiếng Fiji Hindi
+
+#hil
+msgid Hiligaynon
+msgstr Tiếng Hiligaynon
+
+#hit
+msgid Hittite
+msgstr Tiếng Hittite
+
+#hmn
+msgid Hmong
+msgstr Tiếng Hmông
+
+#ho
+msgid Hiri Motu
+msgstr Tiếng Hiri Motu
+
+#hr
+msgid Croatian
+msgstr Tiếng Croatia
+
+#hsb
+msgid Upper Sorbian
+msgstr Tiếng Thượng Sorbia
+
+#hsn
+msgid Xiang Chinese
+msgstr Tiếng Tương
+
+#ht
+msgid Haitian Creole
+msgstr Tiếng Haiti
+
+#hu
+msgid Hungarian
+msgstr Tiếng Hungary
+
+#hup
+msgid Hupa
+msgstr Tiếng Hupa
+
+#hy
+msgid Armenian
+msgstr Tiếng Armenia
+
+#hz
+msgid Herero
+msgstr Tiếng Herero
+
+#ia
+msgid Interlingua
+msgstr Tiếng Khoa Học Quốc Tế
+
+#iba
+msgid Iban
+msgstr Tiếng Iban
+
+#ibb
+msgid Ibibio
+msgstr Tiếng Ibibio
+
+#id
+msgid Indonesian
+msgstr Tiếng Indonesia
+
+#ie
+msgid Interlingue
+msgstr Tiếng Interlingue
+
+#ig
+msgid Igbo
+msgstr Tiếng Igbo
+
+#ii
+msgid Sichuan Yi
+msgstr Tiếng Di Tứ Xuyên
+
+#ik
+msgid Inupiaq
+msgstr Tiếng Inupiaq
+
+#ilo
+msgid Iloko
+msgstr Tiếng Iloko
+
+#inh
+msgid Ingush
+msgstr Tiếng Ingush
+
+#io
+msgid Ido
+msgstr Tiếng Ido
+
+#is
+msgid Icelandic
+msgstr Tiếng Iceland
+
+#it
+msgid Italian
+msgstr Tiếng Ý
+
+#iu
+msgid Inuktitut
+msgstr Tiếng Inuktitut
+
+#izh
+msgid Ingrian
+msgstr Tiếng Ingria
+
+#ja
+msgid Japanese
+msgstr Tiếng Nhật
+
+#jam
+msgid Jamaican Creole English
+msgstr Tiếng Anh Jamaica Creole
+
+#jbo
+msgid Lojban
+msgstr Tiếng Lojban
+
+#jgo
+msgid Ngomba
+msgstr Tiếng Ngomba
+
+#jmc
+msgid Machame
+msgstr Tiếng Machame
+
+#jpr
+msgid Judeo-Persian
+msgstr Tiếng Judeo-Ba Tư
+
+#jrb
+msgid Judeo-Arabic
+msgstr Tiếng Judeo-Ả Rập
+
+#jut
+msgid Jutish
+msgstr Tiếng Jutish
+
+#jv
+msgid Javanese
+msgstr Tiếng Java
+
+#ka
+msgid Georgian
+msgstr Tiếng Gruzia
+
+#kaa
+msgid Kara-Kalpak
+msgstr Tiếng Kara-Kalpak
+
+#kab
+msgid Kabyle
+msgstr Tiếng Kabyle
+
+#kac
+msgid Kachin
+msgstr Tiếng Kachin
+
+#kaj
+msgid Jju
+msgstr Tiếng Jju
+
+#kam
+msgid Kamba
+msgstr Tiếng Kamba
+
+#kaw
+msgid Kawi
+msgstr Tiếng Kawi
+
+#kbd
+msgid Kabardian
+msgstr Tiếng Kabardian
+
+#kbl
+msgid Kanembu
+msgstr Tiếng Kanembu
+
+#kcg
+msgid Tyap
+msgstr Tiếng Tyap
+
+#kde
+msgid Makonde
+msgstr Tiếng Makonde
+
+#kea
+msgid Kabuverdianu
+msgstr Tiếng Kabuverdianu
+
+#kfo
+msgid Koro
+msgstr Tiếng Koro
+
+#kg
+msgid Kongo
+msgstr Tiếng Kongo
+
+#kha
+msgid Khasi
+msgstr Tiếng Khasi
+
+#kho
+msgid Khotanese
+msgstr Tiếng Khotan
+
+#khq
+msgid Koyra Chiini
+msgstr Tiếng Koyra Chiini
+
+#ki
+msgid Kikuyu
+msgstr Tiếng Kikuyu
+
+#kj
+msgid Kuanyama
+msgstr Tiếng Kuanyama
+
+#kk
+msgid Kazakh
+msgstr Tiếng Kazakh
+
+#kkj
+msgid Kako
+msgstr Tiếng Kako
+
+#kl
+msgid Kalaallisut
+msgstr Tiếng Kalaallisut
+
+#kln
+msgid Kalenjin
+msgstr Tiếng Kalenjin
+
+#km
+msgid Khmer
+msgstr Tiếng Khơ-me
+
+#kmb
+msgid Kimbundu
+msgstr Tiếng Kimbundu
+
+#kn
+msgid Kannada
+msgstr Tiếng Kannada
+
+#ko
+msgid Korean
+msgstr Tiếng Hàn
+
+#koi
+msgid Komi-Permyak
+msgstr Tiếng Komi-Permyak
+
+#kok
+msgid Konkani
+msgstr Tiếng Konkani
+
+#kos
+msgid Kosraean
+msgstr Tiếng Kosrae
+
+#kpe
+msgid Kpelle
+msgstr Tiếng Kpelle
+
+#kr
+msgid Kanuri
+msgstr Tiếng Kanuri
+
+#krc
+msgid Karachay-Balkar
+msgstr Tiếng Karachay-Balkar
+
+#krl
+msgid Karelian
+msgstr Tiếng Karelian
+
+#kru
+msgid Kurukh
+msgstr Tiếng Kurukh
+
+#ks
+msgid Kashmiri
+msgstr Tiếng Kashmir
+
+#ksb
+msgid Shambala
+msgstr Tiếng Shambala
+
+#ksf
+msgid Bafia
+msgstr Tiếng Bafia
+
+#ksh
+msgid Colognian
+msgstr Tiếng Cologne
+
+#ku
+msgid Kurdish
+msgstr Tiếng Kurd
+
+#kum
+msgid Kumyk
+msgstr Tiếng Kumyk
+
+#kut
+msgid Kutenai
+msgstr Tiếng Kutenai
+
+#kv
+msgid Komi
+msgstr Tiếng Komi
+
+#kw
+msgid Cornish
+msgstr Tiếng Cornwall
+
+#ky
+msgid Kyrgyz
+msgstr Tiếng Kyrgyz
+
+#la
+msgid Latin
+msgstr Tiếng La-tinh
+
+#lad
+msgid Ladino
+msgstr Tiếng Ladino
+
+#lag
+msgid Langi
+msgstr Tiếng Langi
+
+#lah
+msgid Lahnda
+msgstr Tiếng Lahnda
+
+#lam
+msgid Lamba
+msgstr Tiếng Lamba
+
+#lb
+msgid Luxembourgish
+msgstr Tiếng Luxembourg
+
+#lez
+msgid Lezghian
+msgstr Tiếng Lezghian
+
+#lg
+msgid Ganda
+msgstr Tiếng Ganda
+
+#li
+msgid Limburgish
+msgstr Tiếng Limburg
+
+#lkt
+msgid Lakota
+msgstr Tiếng Lakota
+
+#ln
+msgid Lingala
+msgstr Tiếng Lingala
+
+#lo
+msgid Lao
+msgstr Tiếng Lào
+
+#lol
+msgid Mongo
+msgstr Tiếng Mongo
+
+#loz
+msgid Lozi
+msgstr Tiếng Lozi
+
+#lrc
+msgid Northern Luri
+msgstr Tiếng Bắc Luri
+
+#lt
+msgid Lithuanian
+msgstr Tiếng Litva
+
+#lu
+msgid Luba-Katanga
+msgstr Tiếng Luba-Katanga
+
+#lua
+msgid Luba-Lulua
+msgstr Tiếng Luba-Lulua
+
+#lui
+msgid Luiseno
+msgstr Tiếng Luiseno
+
+#lun
+msgid Lunda
+msgstr Tiếng Lunda
+
+#luo
+msgid Luo
+msgstr Tiếng Luo
+
+#lus
+msgid Mizo
+msgstr Tiếng Lushai
+
+#luy
+msgid Luyia
+msgstr Tiếng Luyia
+
+#lv
+msgid Latvian
+msgstr Tiếng Latvia
+
+#mad
+msgid Madurese
+msgstr Tiếng Madura
+
+#maf
+msgid Mafa
+msgstr Tiếng Mafa
+
+#mag
+msgid Magahi
+msgstr Tiếng Magahi
+
+#mai
+msgid Maithili
+msgstr Tiếng Maithili
+
+#mak
+msgid Makasar
+msgstr Tiếng Makasar
+
+#man
+msgid Mandingo
+msgstr Tiếng Mandingo
+
+#mas
+msgid Masai
+msgstr Tiếng Masai
+
+#mde
+msgid Maba
+msgstr Tiếng Maba
+
+#mdf
+msgid Moksha
+msgstr Tiếng Moksha
+
+#mdr
+msgid Mandar
+msgstr Tiếng Mandar
+
+#men
+msgid Mende
+msgstr Tiếng Mende
+
+#mer
+msgid Meru
+msgstr Tiếng Meru
+
+#mfe
+msgid Morisyen
+msgstr Tiếng Morisyen
+
+#mg
+msgid Malagasy
+msgstr Tiếng Malagasy
+
+#mga
+msgid Middle Irish
+msgstr Tiếng Ai-len Trung cổ
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr Tiếng Makhuwa-Meetto
+
+#mgo
+msgid Metaʼ
+msgstr Tiếng Meta’
+
+#mh
+msgid Marshallese
+msgstr Tiếng Marshall
+
+#mi
+msgid Maori
+msgstr Tiếng Maori
+
+#mic
+msgid Mi'kmaq
+msgstr Tiếng Micmac
+
+#min
+msgid Minangkabau
+msgstr Tiếng Minangkabau
+
+#mk
+msgid Macedonian
+msgstr Tiếng Macedonia
+
+#ml
+msgid Malayalam
+msgstr Tiếng Malayalam
+
+#mn
+msgid Mongolian
+msgstr Tiếng Mông Cổ
+
+#mnc
+msgid Manchu
+msgstr Tiếng Mãn Châu
+
+#mni
+msgid Manipuri
+msgstr Tiếng Manipuri
+
+#moh
+msgid Mohawk
+msgstr Tiếng Mohawk
+
+#mos
+msgid Mossi
+msgstr Tiếng Mossi
+
+#mr
+msgid Marathi
+msgstr Tiếng Marathi
+
+#ms
+msgid Malay
+msgstr Tiếng Mã Lai
+
+#mt
+msgid Maltese
+msgstr Tiếng Malta
+
+#mua
+msgid Mundang
+msgstr Tiếng Mundang
+
+#mul
+msgid Multiple languages
+msgstr Nhiều Ngôn ngữ
+
+#mus
+msgid Creek
+msgstr Tiếng Creek
+
+#mwl
+msgid Mirandese
+msgstr Tiếng Miranda
+
+#mwr
+msgid Marwari
+msgstr Tiếng Marwari
+
+#my
+msgid Burmese
+msgstr Tiếng Miến Điện
+
+#mye
+msgid Myene
+msgstr Tiếng Myene
+
+#myv
+msgid Erzya
+msgstr Tiếng Erzya
+
+#mzn
+msgid Mazanderani
+msgstr Tiếng Mazanderani
+
+#na
+msgid Nauru
+msgstr Tiếng Nauru
+
+#nan
+msgid Min Nan Chinese
+msgstr Tiếng Mân Nam
+
+#nap
+msgid Neapolitan
+msgstr Tiếng Napoli
+
+#naq
+msgid Nama
+msgstr Tiếng Nama
+
+#nb
+msgid Norwegian Bokmål
+msgstr Tiếng Na Uy (Bokmål)
+
+#nd
+msgid North Ndebele
+msgstr Tiếng Ndebele Miền Bắc
+
+#nds
+msgid Low German
+msgstr Tiếng Hạ Giéc-man
+
+#nds NL
+msgid Low Saxon
+msgstr Tiếng Hạ Saxon
+
+#ne
+msgid Nepali
+msgstr Tiếng Nepal
+
+#new
+msgid Newari
+msgstr Tiếng Newari
+
+#ng
+msgid Ndonga
+msgstr Tiếng Ndonga
+
+#nia
+msgid Nias
+msgstr Tiếng Nias
+
+#niu
+msgid Niuean
+msgstr Tiếng Niuean
+
+#njo
+msgid Ao Naga
+msgstr Tiếng Ao Naga
+
+#nl
+msgid Dutch
+msgstr Tiếng Hà Lan
+
+#nl BE
+msgid Flemish
+msgstr Tiếng Flemish
+
+#nmg
+msgid Kwasio
+msgstr Tiếng Kwasio
+
+#nn
+msgid Norwegian Nynorsk
+msgstr Tiếng Na Uy (Nynorsk)
+
+#nnh
+msgid Ngiemboon
+msgstr Tiếng Ngiemboon
+
+#no
+msgid Norwegian
+msgstr Tiếng Na Uy
+
+#nog
+msgid Nogai
+msgstr Tiếng Nogai
+
+#non
+msgid Old Norse
+msgstr Tiếng Na Uy cổ
+
+#nqo
+msgid N’Ko
+msgstr Tiếng N’Ko
+
+#nr
+msgid South Ndebele
+msgstr Tiếng Ndebele Miền Nam
+
+#nso
+msgid Northern Sotho
+msgstr Tiếng Sotho Miền Bắc
+
+#nus
+msgid Nuer
+msgstr Tiếng Nuer
+
+#nv
+msgid Navajo
+msgstr Tiếng Navajo
+
+#nwc
+msgid Classical Newari
+msgstr Tiếng Newari cổ
+
+#ny
+msgid Nyanja
+msgstr Tiếng Nyanja
+
+#nym
+msgid Nyamwezi
+msgstr Tiếng Nyamwezi
+
+#nyn
+msgid Nyankole
+msgstr Tiếng Nyankole
+
+#nyo
+msgid Nyoro
+msgstr Tiếng Nyoro
+
+#nzi
+msgid Nzima
+msgstr Tiếng Nzima
+
+#oc
+msgid Occitan
+msgstr Tiếng Occitan
+
+#oj
+msgid Ojibwa
+msgstr Tiếng Ojibwa
+
+#om
+msgid Oromo
+msgstr Tiếng Oromo
+
+#or
+msgid Odia
+msgstr Tiếng Odia
+
+#os
+msgid Ossetic
+msgstr Tiếng Ossetic
+
+#osa
+msgid Osage
+msgstr Tiếng Osage
+
+#ota
+msgid Ottoman Turkish
+msgstr Tiếng Thổ Nhĩ Kỳ Ottoman
+
+#pa
+msgid Punjabi
+msgstr Tiếng Punjab
+
+#pag
+msgid Pangasinan
+msgstr Tiếng Pangasinan
+
+#pal
+msgid Pahlavi
+msgstr Tiếng Pahlavi
+
+#pam
+msgid Pampanga
+msgstr Tiếng Pampanga
+
+#pap
+msgid Papiamento
+msgstr Tiếng Papiamento
+
+#pau
+msgid Palauan
+msgstr Tiếng Palauan
+
+#pcm
+msgid Nigerian Pidgin
+msgstr Tiếng Nigeria Pidgin
+
+#peo
+msgid Old Persian
+msgstr Tiếng Ba Tư cổ
+
+#phn
+msgid Phoenician
+msgstr Tiếng Phoenicia
+
+#pi
+msgid Pali
+msgstr Tiếng Pali
+
+#pl
+msgid Polish
+msgstr Tiếng Ba Lan
+
+#pon
+msgid Pohnpeian
+msgstr Tiếng Pohnpeian
+
+#prg
+msgid Prussian
+msgstr Tiếng Prussia
+
+#pro
+msgid Old Provençal
+msgstr Tiếng Provençal cổ
+
+#ps
+msgid Pashto
+msgstr Tiếng Pashto
+
+#ps-variant
+msgid Pushto
+msgstr Tiếng Pushto
+
+#pt
+msgid Portuguese
+msgstr Tiếng Bồ Đào Nha
+
+#pt PT
+msgid European Portuguese
+msgstr Tiếng Bồ Đào Nha (Châu Âu)
+
+#qu
+msgid Quechua
+msgstr Tiếng Quechua
+
+#quc
+msgid Kʼicheʼ
+msgstr Tiếng Kʼicheʼ
+
+#qug
+msgid Chimborazo Highland Quichua
+msgstr Tiếng Quechua ở Cao nguyên Chimborazo
+
+#raj
+msgid Rajasthani
+msgstr Tiếng Rajasthani
+
+#rap
+msgid Rapanui
+msgstr Tiếng Rapanui
+
+#rar
+msgid Rarotongan
+msgstr Tiếng Rarotongan
+
+#rm
+msgid Romansh
+msgstr Tiếng Romansh
+
+#rn
+msgid Rundi
+msgstr Tiếng Rundi
+
+#ro
+msgid Romanian
+msgstr Tiếng Romania
+
+#ro MD
+msgid Moldavian
+msgstr Tiếng Moldova
+
+#rof
+msgid Rombo
+msgstr Tiếng Rombo
+
+#rom
+msgid Romany
+msgstr Tiếng Romany
+
+#root
+msgid Root
+msgstr Tiếng Root
+
+#ru
+msgid Russian
+msgstr Tiếng Nga
+
+#rup
+msgid Aromanian
+msgstr Tiếng Aromania
+
+#rw
+msgid Kinyarwanda
+msgstr Tiếng Kinyarwanda
+
+#rwk
+msgid Rwa
+msgstr Tiếng Rwa
+
+#sa
+msgid Sanskrit
+msgstr Tiếng Phạn
+
+#sad
+msgid Sandawe
+msgstr Tiếng Sandawe
+
+#sah
+msgid Sakha
+msgstr Tiếng Sakha
+
+#sam
+msgid Samaritan Aramaic
+msgstr Tiếng Samaritan Aramaic
+
+#saq
+msgid Samburu
+msgstr Tiếng Samburu
+
+#sas
+msgid Sasak
+msgstr Tiếng Sasak
+
+#sat
+msgid Santali
+msgstr Tiếng Santali
+
+#sba
+msgid Ngambay
+msgstr Tiếng Ngambay
+
+#sbp
+msgid Sangu
+msgstr Tiếng Sangu
+
+#sc
+msgid Sardinian
+msgstr Tiếng Sardinia
+
+#scn
+msgid Sicilian
+msgstr Tiếng Sicilia
+
+#sco
+msgid Scots
+msgstr Tiếng Scots
+
+#sd
+msgid Sindhi
+msgstr Tiếng Sindhi
+
+#sdh
+msgid Southern Kurdish
+msgstr Tiếng Kurd Miền Nam
+
+#se
+msgid Northern Sami
+msgstr Tiếng Sami Miền Bắc
+
+#see
+msgid Seneca
+msgstr Tiếng Seneca
+
+#seh
+msgid Sena
+msgstr Tiếng Sena
+
+#sel
+msgid Selkup
+msgstr Tiếng Selkup
+
+#ses
+msgid Koyraboro Senni
+msgstr Tiếng Koyraboro Senni
+
+#sg
+msgid Sango
+msgstr Tiếng Sango
+
+#sga
+msgid Old Irish
+msgstr Tiếng Ai-len cổ
+
+#sh
+msgid Serbo-Croatian
+msgstr Tiếng Serbo-Croatia
+
+#shi
+msgid Tachelhit
+msgstr Tiếng Tachelhit
+
+#shn
+msgid Shan
+msgstr Tiếng Shan
+
+#shu
+msgid Chadian Arabic
+msgstr Tiếng Ả-Rập Chad
+
+#si
+msgid Sinhala
+msgstr Tiếng Sinhala
+
+#sid
+msgid Sidamo
+msgstr Tiếng Sidamo
+
+#sk
+msgid Slovak
+msgstr Tiếng Slovak
+
+#sl
+msgid Slovenian
+msgstr Tiếng Slovenia
+
+#sm
+msgid Samoan
+msgstr Tiếng Samoa
+
+#sma
+msgid Southern Sami
+msgstr Tiếng Sami Miền Nam
+
+#smj
+msgid Lule Sami
+msgstr Tiếng Lule Sami
+
+#smn
+msgid Inari Sami
+msgstr Tiếng Inari Sami
+
+#sms
+msgid Skolt Sami
+msgstr Tiếng Skolt Sami
+
+#sn
+msgid Shona
+msgstr Tiếng Shona
+
+#snk
+msgid Soninke
+msgstr Tiếng Soninke
+
+#so
+msgid Somali
+msgstr Tiếng Somali
+
+#sog
+msgid Sogdien
+msgstr Tiếng Sogdien
+
+#sq
+msgid Albanian
+msgstr Tiếng Albania
+
+#sr
+msgid Serbian
+msgstr Tiếng Serbia
+
+#srn
+msgid Sranan Tongo
+msgstr Tiếng Sranan Tongo
+
+#srr
+msgid Serer
+msgstr Tiếng Serer
+
+#ss
+msgid Swati
+msgstr Tiếng Swati
+
+#ssy
+msgid Saho
+msgstr Tiếng Saho
+
+#st
+msgid Southern Sotho
+msgstr Tiếng Sotho Miền Nam
+
+#su
+msgid Sundanese
+msgstr Tiếng Sunda
+
+#suk
+msgid Sukuma
+msgstr Tiếng Sukuma
+
+#sus
+msgid Susu
+msgstr Tiếng Susu
+
+#sux
+msgid Sumerian
+msgstr Tiếng Sumeria
+
+#sv
+msgid Swedish
+msgstr Tiếng Thụy Điển
+
+#sw
+msgid Swahili
+msgstr Tiếng Swahili
+
+#sw CD
+msgid Congo Swahili
+msgstr Tiếng Swahili Congo
+
+#swb
+msgid Comorian
+msgstr Tiếng Cômo
+
+#syc
+msgid Classical Syriac
+msgstr Tiếng Syriac cổ
+
+#syr
+msgid Syriac
+msgstr Tiếng Syriac
+
+#ta
+msgid Tamil
+msgstr Tiếng Tamil
+
+#te
+msgid Telugu
+msgstr Tiếng Telugu
+
+#tem
+msgid Timne
+msgstr Tiếng Timne
+
+#teo
+msgid Teso
+msgstr Tiếng Teso
+
+#ter
+msgid Tereno
+msgstr Tiếng Tereno
+
+#tet
+msgid Tetum
+msgstr Tiếng Tetum
+
+#tg
+msgid Tajik
+msgstr Tiếng Tajik
+
+#th
+msgid Thai
+msgstr Tiếng Thái
+
+#ti
+msgid Tigrinya
+msgstr Tiếng Tigrinya
+
+#tig
+msgid Tigre
+msgstr Tiếng Tigre
+
+#tiv
+msgid Tiv
+msgstr Tiếng Tiv
+
+#tk
+msgid Turkmen
+msgstr Tiếng Turkmen
+
+#tkl
+msgid Tokelau
+msgstr Tiếng Tokelau
+
+#tl
+msgid Tagalog
+msgstr Tiếng Tagalog
+
+#tlh
+msgid Klingon
+msgstr Tiếng Klingon
+
+#tli
+msgid Tlingit
+msgstr Tiếng Tlingit
+
+#tmh
+msgid Tamashek
+msgstr Tiếng Tamashek
+
+#tn
+msgid Tswana
+msgstr Tiếng Tswana
+
+#to
+msgid Tongan
+msgstr Tiếng Tonga
+
+#tog
+msgid Nyasa Tonga
+msgstr Tiếng Nyasa Tonga
+
+#tpi
+msgid Tok Pisin
+msgstr Tiếng Tok Pisin
+
+#tr
+msgid Turkish
+msgstr Tiếng Thổ Nhĩ Kỳ
+
+#trv
+msgid Taroko
+msgstr Tiếng Taroko
+
+#ts
+msgid Tsonga
+msgstr Tiếng Tsonga
+
+#tsi
+msgid Tsimshian
+msgstr Tiếng Tsimshian
+
+#tt
+msgid Tatar
+msgstr Tiếng Tatar
+
+#tum
+msgid Tumbuka
+msgstr Tiếng Tumbuka
+
+#tvl
+msgid Tuvalu
+msgstr Tiếng Tuvalu
+
+#tw
+msgid Twi
+msgstr Tiếng Twi
+
+#twq
+msgid Tasawaq
+msgstr Tiếng Tasawaq
+
+#ty
+msgid Tahitian
+msgstr Tiếng Tahiti
+
+#tyv
+msgid Tuvinian
+msgstr Tiếng Tuvinian
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr Tiếng Tamazight Miền Trung Ma-rốc
+
+#udm
+msgid Udmurt
+msgstr Tiếng Udmurt
+
+#ug
+msgid Uyghur
+msgstr Tiếng Duy Ngô Nhĩ
+
+#uga
+msgid Ugaritic
+msgstr Tiếng Ugaritic
+
+#uk
+msgid Ukrainian
+msgstr Tiếng Ucraina
+
+#umb
+msgid Umbundu
+msgstr Tiếng Umbundu
+
+#und
+msgid Unknown language
+msgstr Ngôn ngữ không xác định
+
+#ur
+msgid Urdu
+msgstr Tiếng Urdu
+
+#uz
+msgid Uzbek
+msgstr Tiếng Uzbek
+
+#vai
+msgid Vai
+msgstr Tiếng Vai
+
+#ve
+msgid Venda
+msgstr Tiếng Venda
+
+#vi
+msgid Vietnamese
+msgstr Tiếng Việt
+
+#vo
+msgid Volapük
+msgstr Tiếng Volapük
+
+#vot
+msgid Votic
+msgstr Tiếng Votic
+
+#vun
+msgid Vunjo
+msgstr Tiếng Vunjo
+
+#wa
+msgid Walloon
+msgstr Tiếng Walloon
+
+#wae
+msgid Walser
+msgstr Tiếng Walser
+
+#wal
+msgid Wolaytta
+msgstr Tiếng Walamo
+
+#war
+msgid Waray
+msgstr Tiếng Waray
+
+#was
+msgid Washo
+msgstr Tiếng Washo
+
+#wbp
+msgid Warlpiri
+msgstr Tiếng Warlpiri
+
+#wo
+msgid Wolof
+msgstr Tiếng Wolof
+
+#wuu
+msgid Wu Chinese
+msgstr Tiếng Ngô
+
+#xal
+msgid Kalmyk
+msgstr Tiếng Kalmyk
+
+#xh
+msgid Xhosa
+msgstr Tiếng Xhosa
+
+#xog
+msgid Soga
+msgstr Tiếng Soga
+
+#yao
+msgid Yao
+msgstr Tiếng Yao
+
+#yap
+msgid Yapese
+msgstr Tiếng Yap
+
+#yav
+msgid Yangben
+msgstr Tiếng Yangben
+
+#ybb
+msgid Yemba
+msgstr Tiếng Yemba
+
+#yi
+msgid Yiddish
+msgstr Tiếng Yiddish
+
+#yo
+msgid Yoruba
+msgstr Tiếng Yoruba
+
+#yue
+msgid Cantonese
+msgstr Tiếng Quảng Đông
+
+#za
+msgid Zhuang
+msgstr Tiếng Choang
+
+#zap
+msgid Zapotec
+msgstr Tiếng Zapotec
+
+#zbl
+msgid Blissymbols
+msgstr Ký hiệu Blissymbols
+
+#zen
+msgid Zenaga
+msgstr Tiếng Zenaga
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr Tiếng Tamazight Chuẩn của Ma-rốc
+
+#zh
+msgid Chinese
+msgstr Tiếng Trung
+
+#zu
+msgid Zulu
+msgstr Tiếng Zulu
+
+#zun
+msgid Zuni
+msgstr Tiếng Zuni
+
+#zxx
+msgid No linguistic content
+msgstr Không có nội dung ngôn ngữ
+
+#zza
+msgid Zaza
+msgstr Tiếng Zaza
+

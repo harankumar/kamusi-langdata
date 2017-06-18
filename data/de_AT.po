@@ -1,0 +1,52 @@
+#ar 001
+msgid Modern Standard Arabic
+msgstr modernes Hocharabisch
+
+#car
+msgid Carib
+msgstr karibische Sprache
+
+#chb
+msgid Chibcha
+msgstr Chibcha-Sprache
+
+#del
+msgid Delaware
+msgstr Delawarisch
+
+#fur
+msgid Friulian
+msgstr Friulanisch
+
+#ha
+msgid Hausa
+msgstr Hausa
+
+#haw
+msgid Hawaiian
+msgstr Hawaiianisch
+
+#hmn
+msgid Hmong
+msgstr Miao-Sprache
+
+#mus
+msgid Creek
+msgstr Muskogee-Sprache
+
+#niu
+msgid Niuean
+msgstr Niueanisch
+
+#pag
+msgid Pangasinan
+msgstr Pangasinensisch
+
+#sh
+msgid Serbo-Croatian
+msgstr Serbokroatisch
+
+#szl
+msgid Silesian
+msgstr Schlesisch
+

@@ -1,0 +1,180 @@
+#agq
+msgid Aghem
+msgstr Aghem
+
+#ak
+msgid Akan
+msgstr Akan
+
+#am
+msgid Amharic
+msgstr Àmalì
+
+#ar
+msgid Arabic
+msgstr Àlabì
+
+#be
+msgid Belarusian
+msgstr Bɛ̀làlusàn
+
+#bg
+msgid Bulgarian
+msgstr Bùugɨlìa
+
+#bn
+msgid Bengali
+msgstr Bɨ̀ŋgalì
+
+#cs
+msgid Czech
+msgstr Chɛ̂
+
+#de
+msgid German
+msgstr Dzamɛ̀
+
+#el
+msgid Greek
+msgstr Gɨ̀lêʔ
+
+#en
+msgid English
+msgstr Kɨŋgele
+
+#es
+msgid Spanish
+msgstr Sɨ̀kpanìs
+
+#fa
+msgid Persian
+msgstr Kpɛɛshìa
+
+#fr
+msgid French
+msgstr Kɨ̀fàlàŋsi
+
+#ha
+msgid Hausa
+msgstr Kɨtsɔŋkaŋ
+
+#hi
+msgid Hindi
+msgstr Endì
+
+#hu
+msgid Hungarian
+msgstr Hɔŋgalìa
+
+#id
+msgid Indonesian
+msgstr Èndònɛshìa
+
+#ig
+msgid Igbo
+msgstr Egbò
+
+#it
+msgid Italian
+msgstr Ètalìa
+
+#ja
+msgid Japanese
+msgstr Dzàkpànê
+
+#jv
+msgid Javanese
+msgstr Dzàbvànê
+
+#km
+msgid Khmer
+msgstr Kɨmɛ̀
+
+#ko
+msgid Korean
+msgstr kùulîa
+
+#ms
+msgid Malay
+msgstr Màlae
+
+#my
+msgid Burmese
+msgstr Bùumɛsɛ̀
+
+#ne
+msgid Nepali
+msgstr Nɛ̀kpalì
+
+#nl
+msgid Dutch
+msgstr Dɔ̂s
+
+#pa
+msgid Punjabi
+msgstr Kpuwndzabì
+
+#pl
+msgid Polish
+msgstr Kpɔlìs
+
+#pt
+msgid Portuguese
+msgstr Kpotùwgîi
+
+#ro
+msgid Romanian
+msgstr Lùmanyìa
+
+#ru
+msgid Russian
+msgstr Lushìa
+
+#rw
+msgid Kinyarwanda
+msgstr Lùwandà
+
+#so
+msgid Somali
+msgstr Sòmalì
+
+#sv
+msgid Swedish
+msgstr Suedìs
+
+#ta
+msgid Tamil
+msgstr Tamì
+
+#th
+msgid Thai
+msgstr Tàe
+
+#tr
+msgid Turkish
+msgstr Tʉʉkìs
+
+#uk
+msgid Ukrainian
+msgstr Ùkɛlɛnìa
+
+#ur
+msgid Urdu
+msgstr Uudùw
+
+#vi
+msgid Vietnamese
+msgstr Vìyɛtnàmê
+
+#yo
+msgid Yoruba
+msgstr Yulùba
+
+#zh
+msgid Chinese
+msgstr Chàenê
+
+#zu
+msgid Zulu
+msgstr Zulù
+

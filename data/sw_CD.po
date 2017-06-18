@@ -1,0 +1,148 @@
+#ak
+msgid Akan
+msgstr Kiakan
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr Kiarabu cha Dunia Kilichosanifishwa
+
+#arq
+msgid Algerian Arabic
+msgstr Kiarabu cha Aljeria
+
+#az
+msgid Azerbaijani
+msgstr Kiazabajani
+
+#bug
+msgid Buginese
+msgstr Kibugini
+
+#gv
+msgid Manx
+msgstr Kimanksi
+
+#gwi
+msgid Gwichʼin
+msgstr Kigwichiin
+
+#hup
+msgid Hupa
+msgstr Kihupa
+
+#inh
+msgid Ingush
+msgstr Kiingush
+
+#jbo
+msgid Lojban
+msgstr Kilojban
+
+#kac
+msgid Kachin
+msgstr Kikachin
+
+#khq
+msgid Koyra Chiini
+msgstr Kikoyra Chiini
+
+#kkj
+msgid Kako
+msgstr Kikako
+
+#koi
+msgid Komi-Permyak
+msgstr Kikomipermyak
+
+#kru
+msgid Kurukh
+msgstr Kikurukh
+
+#kum
+msgid Kumyk
+msgstr Kikumyk
+
+#ky
+msgid Kyrgyz
+msgstr Kikirigizi
+
+#lam
+msgid Lamba
+msgstr Kilamba
+
+#li
+msgid Limburgish
+msgstr Kilimburgi
+
+#mak
+msgid Makasar
+msgstr mak
+
+#mdf
+msgid Moksha
+msgstr Kimoksha
+
+#mic
+msgid Mi'kmaq
+msgstr Kimikmaki
+
+#mk
+msgid Macedonian
+msgstr Kimasedonia
+
+#moh
+msgid Mohawk
+msgstr Kimohoki
+
+#mos
+msgid Mossi
+msgstr Kimossi
+
+#nnh
+msgid Ngiemboon
+msgstr Kingiemboon
+
+#nqo
+msgid N’Ko
+msgstr Kiinko
+
+#pcm
+msgid Nigerian Pidgin
+msgstr Pijini ya Nijeria
+
+#quc
+msgid Kʼicheʼ
+msgstr Kikiiche
+
+#root
+msgid Root
+msgstr Kiroot
+
+#shu
+msgid Chadian Arabic
+msgstr Kiarabu cha Chadi
+
+#srn
+msgid Sranan Tongo
+msgstr Kitongo cha Sranan
+
+#swb
+msgid Comorian
+msgstr Kikomoro
+
+#syr
+msgid Syriac
+msgstr Kisiria
+
+#udm
+msgid Udmurt
+msgstr Kiudumurti
+
+#wae
+msgid Walser
+msgstr Kiwalser
+
+#yi
+msgid Yiddish
+msgstr Kiyidi
+

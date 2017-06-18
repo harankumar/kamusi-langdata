@@ -1,0 +1,40 @@
+#arn
+msgid Mapuche
+msgstr المابودونجونية
+
+#gn
+msgid Guarani
+msgstr الغورانية
+
+#hsb
+msgid Upper Sorbian
+msgstr صوربيا العليا
+
+#lo
+msgid Lao
+msgstr اللاوو
+
+#or
+msgid Odia
+msgstr الأورية
+
+#sh
+msgid Serbo-Croatian
+msgstr الكرواتية الصربية
+
+#sma
+msgid Southern Sami
+msgstr سامي الجنوبية
+
+#sw
+msgid Swahili
+msgstr السواحيلية
+
+#sw CD
+msgid Congo Swahili
+msgstr السواحيلية الكونغولية
+
+#ti
+msgid Tigrinya
+msgstr التيغرينية
+

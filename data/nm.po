@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Kiɛl akan
+
+#am
+msgid Amharic
+msgstr Kiɛl amaria
+
+#ar
+msgid Arabic
+msgstr Kiɛl b’árabe
+
+#be
+msgid Belarusian
+msgstr Kiɛl belarussie
+
+#bg
+msgid Bulgarian
+msgstr Kiɛl bulgaria
+
+#bn
+msgid Bengali
+msgstr Kiɛl bengalia
+
+#cs
+msgid Czech
+msgstr Kiɛl bó tchɛk
+
+#de
+msgid German
+msgstr Jáman
+
+#el
+msgid Greek
+msgstr Kiɛl bó grɛk
+
+#en
+msgid English
+msgstr Ngɛ̄lɛ̄n
+
+#es
+msgid Spanish
+msgstr Paŋá
+
+#fa
+msgid Persian
+msgstr Kiɛl pɛrsia
+
+#fr
+msgid French
+msgstr Fala
+
+#ha
+msgid Hausa
+msgstr Kiɛl máwúsá
+
+#hi
+msgid Hindi
+msgstr Kiɛl b’indien
+
+#hu
+msgid Hungarian
+msgstr Kiɛl b’ɔ́ngrois
+
+#id
+msgid Indonesian
+msgstr Kiɛl indonesie
+
+#ig
+msgid Igbo
+msgstr Kiɛl ikbo
+
+#it
+msgid Italian
+msgstr Kiɛl italia
+
+#ja
+msgid Japanese
+msgstr Kiɛl bó japonɛ̌
+
+#jv
+msgid Javanese
+msgstr Kiɛl bó javanɛ̌
+
+#km
+msgid Khmer
+msgstr Kiɛl bó mɛr
+
+#ko
+msgid Korean
+msgstr Kiɛl koré
+
+#ms
+msgid Malay
+msgstr Kiɛl Malɛ̌siā
+
+#my
+msgid Burmese
+msgstr Kiɛl birmania
+
+#ne
+msgid Nepali
+msgstr Kiɛl nepal
+
+#nl
+msgid Dutch
+msgstr Kiɛl bóllandais
+
+#nmg
+msgid Kwasio
+msgstr Kwasio
+
+#pa
+msgid Punjabi
+msgstr Kiɛl pɛndjabi
+
+#pl
+msgid Polish
+msgstr Kiɛl pɔlɔŋe
+
+#pt
+msgid Portuguese
+msgstr Kiɛl bó pɔ̄rtugɛ̂
+
+#ro
+msgid Romanian
+msgstr Kiɛl bó rumɛ̂n
+
+#ru
+msgid Russian
+msgstr Kiɛl russia
+
+#rw
+msgid Kinyarwanda
+msgstr Kiɛl rwandā
+
+#so
+msgid Somali
+msgstr Kiɛl somaliā
+
+#sv
+msgid Swedish
+msgstr Kiɛl bó suedois
+
+#ta
+msgid Tamil
+msgstr Kiɛl tamul
+
+#th
+msgid Thai
+msgstr Kiɛl thaï
+
+#tr
+msgid Turkish
+msgstr Kiɛl bó turk
+
+#uk
+msgid Ukrainian
+msgstr Kiɛl b’ukrɛ̄nien
+
+#ur
+msgid Urdu
+msgstr Kiɛl úrdu
+
+#vi
+msgid Vietnamese
+msgstr Kiɛl viɛtnam
+
+#yo
+msgid Yoruba
+msgstr Yorúbâ
+
+#zh
+msgid Chinese
+msgstr Kiɛl bó chinois
+
+#zu
+msgid Zulu
+msgstr Zulu
+

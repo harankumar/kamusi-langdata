@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Kɨakáani
+
+#am
+msgid Amharic
+msgstr Kɨmʉháari
+
+#ar
+msgid Arabic
+msgstr Kɨaráabu
+
+#be
+msgid Belarusian
+msgstr Kɨberalúusi
+
+#bg
+msgid Bulgarian
+msgstr Kɨbulugária
+
+#bn
+msgid Bengali
+msgstr Kɨbangála
+
+#cs
+msgid Czech
+msgstr Kɨchéeki
+
+#de
+msgid German
+msgstr Kɨjerʉmáani
+
+#el
+msgid Greek
+msgstr Kɨgiríki
+
+#en
+msgid English
+msgstr Kɨɨngeréesa
+
+#es
+msgid Spanish
+msgstr Kɨhispánia
+
+#fa
+msgid Persian
+msgstr Kɨajéemi
+
+#fr
+msgid French
+msgstr Kɨfaráansa
+
+#ha
+msgid Hausa
+msgstr Kɨhaúusa
+
+#hi
+msgid Hindi
+msgstr Kɨhíindi
+
+#hu
+msgid Hungarian
+msgstr Kɨhungári
+
+#id
+msgid Indonesian
+msgstr Kɨɨndonésia
+
+#ig
+msgid Igbo
+msgstr Kiígibo
+
+#it
+msgid Italian
+msgstr Kɨtaliáano
+
+#ja
+msgid Japanese
+msgstr Kɨjapáani
+
+#jv
+msgid Javanese
+msgstr Kɨjáava
+
+#km
+msgid Khmer
+msgstr Kɨkambódia
+
+#ko
+msgid Korean
+msgstr Kɨkoréa
+
+#lag
+msgid Langi
+msgstr Kɨlaangi
+
+#ms
+msgid Malay
+msgstr Kɨmelésia
+
+#my
+msgid Burmese
+msgstr Kɨbáama
+
+#ne
+msgid Nepali
+msgstr Kɨnepáali
+
+#nl
+msgid Dutch
+msgstr Kɨholáanzi
+
+#pa
+msgid Punjabi
+msgstr Kɨpúnjabi
+
+#pl
+msgid Polish
+msgstr Kɨpólandi
+
+#pt
+msgid Portuguese
+msgstr Kɨréeno
+
+#ro
+msgid Romanian
+msgstr Kɨromanía
+
+#ru
+msgid Russian
+msgstr Kɨrúusi
+
+#rw
+msgid Kinyarwanda
+msgstr Kɨnyarwáanda
+
+#so
+msgid Somali
+msgstr Kɨsómáali
+
+#sv
+msgid Swedish
+msgstr Kɨswíidi
+
+#ta
+msgid Tamil
+msgstr Kɨtamíili
+
+#th
+msgid Thai
+msgstr Kɨtáilandi
+
+#tr
+msgid Turkish
+msgstr Kɨturúuki
+
+#uk
+msgid Ukrainian
+msgstr Kɨukɨranía
+
+#ur
+msgid Urdu
+msgstr Kɨúrdu
+
+#vi
+msgid Vietnamese
+msgstr Kɨvietináamu
+
+#yo
+msgid Yoruba
+msgstr Kɨyorúuba
+
+#zh
+msgid Chinese
+msgstr Kɨchíina
+
+#zu
+msgid Zulu
+msgstr Kɨzúulu
+

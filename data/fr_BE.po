@@ -1,0 +1,40 @@
+#frp
+msgid Arpitan
+msgstr franco-provençal
+
+#goh
+msgid Old High German
+msgstr ancien haut-allemand
+
+#got
+msgid Gothic
+msgstr gotique
+
+#gu
+msgid Gujarati
+msgstr gujarati
+
+#njo
+msgid Ao Naga
+msgstr ao
+
+#se
+msgid Northern Sami
+msgstr same du Nord
+
+#sma
+msgid Southern Sami
+msgstr same du Sud
+
+#smj
+msgid Lule Sami
+msgstr same de Lule
+
+#smn
+msgid Inari Sami
+msgstr same d’Inari
+
+#sms
+msgid Skolt Sami
+msgstr same skolt
+

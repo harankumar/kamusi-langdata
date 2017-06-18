@@ -1,0 +1,12 @@
+#en
+msgid English
+msgstr yaman
+
+#fr
+msgid French
+msgstr numbu buy
+
+#kkj
+msgid Kako
+msgstr kakɔ
+

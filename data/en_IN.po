@@ -1,0 +1,8 @@
+#bn
+msgid Bangla
+msgstr Bengali
+
+#or
+msgid Odia
+msgstr Oriya
+

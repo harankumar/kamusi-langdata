@@ -1,0 +1,32 @@
+#ar
+msgid Arabic
+msgstr Alâbɛ
+
+#de
+msgid German
+msgstr Njáman
+
+#el
+msgid Greek
+msgstr Ŋgɛlɛ̂k
+
+#en
+msgid English
+msgstr Aŋgɛlúshi
+
+#fr
+msgid French
+msgstr Fɛlánci
+
+#jgo
+msgid Ngomba
+msgstr Ndaꞌa
+
+#und
+msgid Unknown language
+msgstr cú-pʉɔ yi pɛ́ ká kɛ́ jí
+
+#zh
+msgid Chinese
+msgstr Shinwâ
+

@@ -1,0 +1,56 @@
+#arn
+msgid Mapuche
+msgstr мапудунгун
+
+#be
+msgid Belarusian
+msgstr бјелоруски
+
+#bm
+msgid Bambara
+msgstr бамананкан
+
+#bn
+msgid Bangla
+msgstr бангла
+
+#ff
+msgid Fulah
+msgstr фулах
+
+#ht
+msgid Haitian Creole
+msgstr хаићански креолски
+
+#lo
+msgid Lao
+msgstr лаошки
+
+#moh
+msgid Mohawk
+msgstr мохок
+
+#nqo
+msgid N’Ko
+msgstr н’ко
+
+#shi
+msgid Tachelhit
+msgstr јужни шилха
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr централноатласки тамашек
+
+#xh
+msgid Xhosa
+msgstr исикоса
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr стандардни марокански тамашек
+
+#zu
+msgid Zulu
+msgstr исизулу
+

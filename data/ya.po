@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr akánɛ
+
+#am
+msgid Amharic
+msgstr amalíke
+
+#ar
+msgid Arabic
+msgstr ́pakas
+
+#be
+msgid Belarusian
+msgstr pielúse
+
+#bg
+msgid Bulgarian
+msgstr bulgálɛ
+
+#bn
+msgid Bengali
+msgstr pengálɛ́ɛ
+
+#cs
+msgid Czech
+msgstr cɛ́kɛ́ɛ
+
+#de
+msgid German
+msgstr ŋndiáman
+
+#el
+msgid Greek
+msgstr yavánɛ
+
+#en
+msgid English
+msgstr íŋgilísé
+
+#es
+msgid Spanish
+msgstr nuɛspanyɔ́lɛ
+
+#fa
+msgid Persian
+msgstr nupɛ́lisɛ
+
+#fr
+msgid French
+msgstr feleŋsí
+
+#ha
+msgid Hausa
+msgstr pakas
+
+#hi
+msgid Hindi
+msgstr índí
+
+#hu
+msgid Hungarian
+msgstr ɔ́ŋgɛ
+
+#id
+msgid Indonesian
+msgstr índonísiɛ
+
+#ig
+msgid Igbo
+msgstr íbo
+
+#it
+msgid Italian
+msgstr itáliɛ
+
+#ja
+msgid Japanese
+msgstr ndiáman
+
+#jv
+msgid Javanese
+msgstr yávanɛ
+
+#km
+msgid Khmer
+msgstr kímɛɛ
+
+#ko
+msgid Korean
+msgstr kolíe
+
+#ms
+msgid Malay
+msgstr máliɛ
+
+#my
+msgid Burmese
+msgstr bímanɛ
+
+#ne
+msgid Nepali
+msgstr nunipálɛ
+
+#nl
+msgid Dutch
+msgstr nilándɛ
+
+#pa
+msgid Punjabi
+msgstr nupunsapíɛ́
+
+#pl
+msgid Polish
+msgstr nupolonɛ́ɛ
+
+#pt
+msgid Portuguese
+msgstr nupɔlitukɛ́ɛ
+
+#ro
+msgid Romanian
+msgstr nulumɛ́ŋɛ
+
+#ru
+msgid Russian
+msgstr nulúse
+
+#rw
+msgid Kinyarwanda
+msgstr nuluándɛ́ɛ
+
+#so
+msgid Somali
+msgstr nusomalíɛ
+
+#sv
+msgid Swedish
+msgstr nusuetua
+
+#ta
+msgid Tamil
+msgstr nutámule
+
+#th
+msgid Thai
+msgstr nutáyɛ
+
+#tr
+msgid Turkish
+msgstr nutúluke
+
+#uk
+msgid Ukrainian
+msgstr nukeleniɛ́ŋɛ
+
+#ur
+msgid Urdu
+msgstr nulutú
+
+#vi
+msgid Vietnamese
+msgstr nufiɛtnamíɛŋ
+
+#yav
+msgid Yangben
+msgstr nuasue
+
+#yo
+msgid Yoruba
+msgstr nuyolúpa
+
+#zh
+msgid Chinese
+msgstr sinúɛ
+
+#zu
+msgid Zulu
+msgstr nusulú
+

@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Akangowab
+
+#am
+msgid Amharic
+msgstr Amharicgowab
+
+#ar
+msgid Arabic
+msgstr Arabiǁî gowab
+
+#be
+msgid Belarusian
+msgstr Belarusanǁî gowab
+
+#bg
+msgid Bulgarian
+msgstr Bulgariaǁî gowab
+
+#bn
+msgid Bengali
+msgstr Bengaliǁî gowab
+
+#cs
+msgid Czech
+msgstr Czechǁî gowab
+
+#de
+msgid German
+msgstr Duits
+
+#el
+msgid Greek
+msgstr Xriks
+
+#en
+msgid English
+msgstr Engels
+
+#es
+msgid Spanish
+msgstr Spaans
+
+#fa
+msgid Persian
+msgstr Persiaǁî gowab
+
+#fr
+msgid French
+msgstr Frans
+
+#ha
+msgid Hausa
+msgstr Hausagowab
+
+#hi
+msgid Hindi
+msgstr Hindigowab
+
+#hu
+msgid Hungarian
+msgstr Hungariaǁî gowab
+
+#id
+msgid Indonesian
+msgstr Indonesiaǁî gowab
+
+#ig
+msgid Igbo
+msgstr Igbogowab
+
+#it
+msgid Italian
+msgstr Italians
+
+#ja
+msgid Japanese
+msgstr Japanees
+
+#jv
+msgid Javanese
+msgstr Javanese
+
+#km
+msgid Khmer
+msgstr Khmerǁî gowab, Central
+
+#ko
+msgid Korean
+msgstr Koreaǁî gowab
+
+#ms
+msgid Malay
+msgstr Malayǁî gowab
+
+#my
+msgid Burmese
+msgstr Burmesǁî gowab
+
+#naq
+msgid Nama
+msgstr Khoekhoegowab
+
+#ne
+msgid Nepali
+msgstr Nepalǁî gowab
+
+#nl
+msgid Dutch
+msgstr Hollands
+
+#pa
+msgid Punjabi
+msgstr Punjabigowab
+
+#pl
+msgid Polish
+msgstr Poleǁî gowab
+
+#pt
+msgid Portuguese
+msgstr Portugees
+
+#ro
+msgid Romanian
+msgstr Romaniaǁî gowab
+
+#ru
+msgid Russian
+msgstr Russiaǁî gowab
+
+#rw
+msgid Kinyarwanda
+msgstr Rwandaǁî gowab
+
+#so
+msgid Somali
+msgstr Somaliǁî gowab
+
+#sv
+msgid Swedish
+msgstr Swedeǁî gowab
+
+#ta
+msgid Tamil
+msgstr Tamilǁî gowab
+
+#th
+msgid Thai
+msgstr Thaiǁî gowab
+
+#tr
+msgid Turkish
+msgstr Turkeǁî gowab
+
+#uk
+msgid Ukrainian
+msgstr Ukrainiaǁî gowab
+
+#ur
+msgid Urdu
+msgstr Urduǁî gowab
+
+#vi
+msgid Vietnamese
+msgstr Vietnamǁî gowab
+
+#yo
+msgid Yoruba
+msgstr Yorubab
+
+#zh
+msgid Chinese
+msgstr Chineesǁî gowab, Mandarinni
+
+#zu
+msgid Zulu
+msgstr Zulub
+

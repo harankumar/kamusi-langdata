@@ -1,0 +1,56 @@
+#bm
+msgid Bambara
+msgstr бамананкан
+
+#bn
+msgid Bangla
+msgstr бангла
+
+#ff
+msgid Fulah
+msgstr фулах
+
+#gsw
+msgid Swiss German
+msgstr швајцарски немачки
+
+#ht
+msgid Haitian Creole
+msgstr хаићански креолски
+
+#lo
+msgid Lao
+msgstr лаошки
+
+#moh
+msgid Mohawk
+msgstr мохок
+
+#nqo
+msgid N’Ko
+msgstr н’ко
+
+#shi
+msgid Tachelhit
+msgstr јужни шилха
+
+#si
+msgid Sinhala
+msgstr синхалски
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr централноатласки тамашек
+
+#xh
+msgid Xhosa
+msgstr исикоса
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr стандардни марокански тамашек
+
+#zu
+msgid Zulu
+msgstr исизулу
+

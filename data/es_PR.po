@@ -1,0 +1,28 @@
+#ace
+msgid Achinese
+msgstr acehnés
+
+#arp
+msgid Arapaho
+msgstr arapaho
+
+#bho
+msgid Bhojpuri
+msgstr bhojpuri
+
+#grc
+msgid Ancient Greek
+msgstr griego antiguo
+
+#nso
+msgid Northern Sotho
+msgstr sotho septentrional
+
+#ss
+msgid Swati
+msgstr siswati
+
+#wo
+msgid Wolof
+msgstr wolof
+

@@ -1,0 +1,212 @@
+#an
+msgid Aragonese
+msgstr aragonés
+
+#ang
+msgid Old English
+msgstr anglés antic
+
+#as
+msgid Assamese
+msgstr assamés
+
+#az
+msgid Azerbaijani
+msgstr azerbaidjanés
+
+#ban
+msgid Balinese
+msgstr balinés
+
+#ce
+msgid Chechen
+msgstr txetxé
+
+#cy
+msgid Welsh
+msgstr gal·lés
+
+#da
+msgid Danish
+msgstr danés
+
+#dum
+msgid Middle Dutch
+msgstr neerlandés mitjà
+
+#en
+msgid English
+msgstr anglés
+
+#en GB-short
+msgid UK English
+msgstr anglés (GB)
+
+#en US-short
+msgid US English
+msgstr anglés (EUA)
+
+#enm
+msgid Middle English
+msgstr anglés mitjà
+
+#fi
+msgid Finnish
+msgstr finés
+
+#fo
+msgid Faroese
+msgstr feroés
+
+#fr
+msgid French
+msgstr francés
+
+#frm
+msgid Middle French
+msgstr francés mitjà
+
+#fro
+msgid Old French
+msgstr francés antic
+
+#ga
+msgid Irish
+msgstr irlandés
+
+#gd
+msgid Scottish Gaelic
+msgstr gaèlic escocés
+
+#gil
+msgid Gilbertese
+msgstr gilbertés
+
+#hu
+msgid Hungarian
+msgstr hongarés
+
+#is
+msgid Icelandic
+msgstr islandés
+
+#ja
+msgid Japanese
+msgstr japonés
+
+#jv
+msgid Javanese
+msgstr javanés
+
+#kho
+msgid Khotanese
+msgstr khotanés
+
+#kl
+msgid Kalaallisut
+msgstr grenlandés
+
+#lb
+msgid Luxembourgish
+msgstr luxemburgués
+
+#li
+msgid Limburgish
+msgstr limburgués
+
+#mad
+msgid Madurese
+msgstr madurés
+
+#mga
+msgid Middle Irish
+msgstr gaèlic irlandés mitjà
+
+#mh
+msgid Marshallese
+msgstr marshallés
+
+#mt
+msgid Maltese
+msgstr maltés
+
+#mwl
+msgid Mirandese
+msgstr mirandés
+
+#ne
+msgid Nepali
+msgstr nepalés
+
+#nl
+msgid Dutch
+msgstr neerlandés
+
+#pl
+msgid Polish
+msgstr polonés
+
+#pt
+msgid Portuguese
+msgstr portugués
+
+#ro
+msgid Romanian
+msgstr romanés
+
+#rup
+msgid Aromanian
+msgstr aromanés
+
+#rw
+msgid Kinyarwanda
+msgstr ruandés
+
+#sco
+msgid Scots
+msgstr escocés
+
+#sga
+msgid Old Irish
+msgstr irlandés antic
+
+#si
+msgid Sinhala
+msgstr singalés
+
+#sl
+msgid Slovenian
+msgstr eslové
+
+#sq
+msgid Albanian
+msgstr albanés
+
+#su
+msgid Sundanese
+msgstr sundanés
+
+#th
+msgid Thai
+msgstr tailandés
+
+#tkl
+msgid Tokelau
+msgstr tokelaués
+
+#to
+msgid Tongan
+msgstr tongalés
+
+#uk
+msgid Ukrainian
+msgstr ucraïnés
+
+#yue
+msgid Cantonese
+msgstr cantonés
+
+#zh
+msgid Chinese
+msgstr xinés
+

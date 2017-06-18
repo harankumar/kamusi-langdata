@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Thok aka̱ni
+
+#am
+msgid Amharic
+msgstr Thok bunyni
+
+#ar
+msgid Arabic
+msgstr Thok Jalabni
+
+#be
+msgid Belarusian
+msgstr Thok bälärutha
+
+#bg
+msgid Bulgarian
+msgstr Thok bälga̱a̱riani
+
+#bn
+msgid Bengali
+msgstr Thok bängali
+
+#cs
+msgid Czech
+msgstr Thok cik
+
+#de
+msgid German
+msgstr Thok jarmani
+
+#el
+msgid Greek
+msgstr Thok girikni
+
+#en
+msgid English
+msgstr Thok liŋli̱thni
+
+#es
+msgid Spanish
+msgstr Thok i̱thpaaniani
+
+#fa
+msgid Persian
+msgstr Thok perthiani
+
+#fr
+msgid French
+msgstr Thok pɔrɔthani
+
+#ha
+msgid Hausa
+msgstr Thok ɣowthani
+
+#hi
+msgid Hindi
+msgstr Thok ɣändini
+
+#hu
+msgid Hungarian
+msgstr Thok ɣänga̱a̱riɛni
+
+#id
+msgid Indonesian
+msgstr Thok indunithiani
+
+#ig
+msgid Igbo
+msgstr Thok i̱gboni
+
+#it
+msgid Italian
+msgstr Thok i̱taliani
+
+#ja
+msgid Japanese
+msgstr Thok japanni
+
+#jv
+msgid Javanese
+msgstr Thok jabanithni
+
+#km
+msgid Khmer
+msgstr Thok kameeri
+
+#ko
+msgid Korean
+msgstr Thok kuriani
+
+#ms
+msgid Malay
+msgstr Thok mayɛyni
+
+#my
+msgid Burmese
+msgstr Thok bormi̱thni
+
+#ne
+msgid Nepali
+msgstr Thok napalni
+
+#nl
+msgid Dutch
+msgstr Thok da̱c
+
+#nus
+msgid Nuer
+msgstr Thok Nath
+
+#pa
+msgid Punjabi
+msgstr Thok puɔnjabani
+
+#pl
+msgid Polish
+msgstr Thok pölicni
+
+#pt
+msgid Portuguese
+msgstr Thok puɔtigali
+
+#ro
+msgid Romanian
+msgstr Thok ji̱ röm
+
+#ru
+msgid Russian
+msgstr Thok ra̱ciaani
+
+#rw
+msgid Kinyarwanda
+msgstr Thok ruaandani
+
+#so
+msgid Somali
+msgstr Thok thomaaliani
+
+#sv
+msgid Swedish
+msgstr Thok i̱thwidicni
+
+#ta
+msgid Tamil
+msgstr Thok tamilni
+
+#th
+msgid Thai
+msgstr Thok tayni
+
+#tr
+msgid Turkish
+msgstr Thok turkicni
+
+#uk
+msgid Ukrainian
+msgstr Thok ukeraanini
+
+#ur
+msgid Urdu
+msgstr Thok udoni
+
+#vi
+msgid Vietnamese
+msgstr Thok betnaamni
+
+#yo
+msgid Yoruba
+msgstr Thok yurubani
+
+#zh
+msgid Chinese
+msgstr Thok cayna
+
+#zu
+msgid Zulu
+msgstr Thok dhuluni
+

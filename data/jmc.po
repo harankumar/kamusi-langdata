@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Kiakanyi
+
+#am
+msgid Amharic
+msgstr Kiamharyi
+
+#ar
+msgid Arabic
+msgstr Kyiarabu
+
+#be
+msgid Belarusian
+msgstr Kyibelarusi
+
+#bg
+msgid Bulgarian
+msgstr Kyibulgaryia
+
+#bn
+msgid Bangla
+msgstr Kyibangla
+
+#cs
+msgid Czech
+msgstr Kyichecki
+
+#de
+msgid German
+msgstr Kyijerumani
+
+#el
+msgid Greek
+msgstr Kyigiriki
+
+#en
+msgid English
+msgstr Kyingereza
+
+#es
+msgid Spanish
+msgstr Kyihispania
+
+#fa
+msgid Persian
+msgstr Kyiajemi
+
+#fr
+msgid French
+msgstr Kyifaransa
+
+#ha
+msgid Hausa
+msgstr Kyihausa
+
+#hi
+msgid Hindi
+msgstr Kyihindi
+
+#hu
+msgid Hungarian
+msgstr Kyihungari
+
+#id
+msgid Indonesian
+msgstr Kyiindonesia
+
+#ig
+msgid Igbo
+msgstr Kyiigbo
+
+#it
+msgid Italian
+msgstr Kyiitaliano
+
+#ja
+msgid Japanese
+msgstr Kyijapani
+
+#jmc
+msgid Machame
+msgstr Kimachame
+
+#jv
+msgid Javanese
+msgstr Kyijava
+
+#km
+msgid Khmer
+msgstr Kyikambodia
+
+#ko
+msgid Korean
+msgstr Kyikorea
+
+#ms
+msgid Malay
+msgstr Kyimalesia
+
+#my
+msgid Burmese
+msgstr Kyiburma
+
+#ne
+msgid Nepali
+msgstr Kyinepali
+
+#nl
+msgid Dutch
+msgstr Kyiholanzi
+
+#pa
+msgid Punjabi
+msgstr Kyipunjabi
+
+#pl
+msgid Polish
+msgstr Kyipolandi
+
+#pt
+msgid Portuguese
+msgstr Kyireno
+
+#ro
+msgid Romanian
+msgstr Kyiromania
+
+#ru
+msgid Russian
+msgstr Kyirusi
+
+#rw
+msgid Kinyarwanda
+msgstr Kyinyarwanda
+
+#so
+msgid Somali
+msgstr Kyisomalyi
+
+#sv
+msgid Swedish
+msgstr Kyiswidi
+
+#ta
+msgid Tamil
+msgstr Kyitamil
+
+#th
+msgid Thai
+msgstr Kyitailandi
+
+#tr
+msgid Turkish
+msgstr Kyiturukyi
+
+#uk
+msgid Ukrainian
+msgstr Kyiukrania
+
+#ur
+msgid Urdu
+msgstr Kyiurdu
+
+#vi
+msgid Vietnamese
+msgstr Kyivietinamu
+
+#yo
+msgid Yoruba
+msgstr Kyiyoruba
+
+#zh
+msgid Chinese
+msgstr Kyichina
+
+#zu
+msgid Zulu
+msgstr Kyizulu
+

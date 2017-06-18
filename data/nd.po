@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr isi-Akhani
+
+#am
+msgid Amharic
+msgstr isi-Amaharikhi
+
+#ar
+msgid Arabic
+msgstr isi-Alabhu
+
+#be
+msgid Belarusian
+msgstr isi-Bhelarashiyani
+
+#bg
+msgid Bulgarian
+msgstr isi-Bulgaria
+
+#bn
+msgid Bangla
+msgstr isi-Bhengali
+
+#cs
+msgid Czech
+msgstr isi-Czech
+
+#de
+msgid German
+msgstr isi-Jalimani
+
+#el
+msgid Greek
+msgstr isi-Giliki
+
+#en
+msgid English
+msgstr isi-Ngisi
+
+#es
+msgid Spanish
+msgstr isi-Sipeyini
+
+#fa
+msgid Persian
+msgstr isi-Pheshiyani
+
+#fr
+msgid French
+msgstr isi-Fulentshi
+
+#ha
+msgid Hausa
+msgstr isi-Hausa
+
+#hi
+msgid Hindi
+msgstr isi-Hindi
+
+#hu
+msgid Hungarian
+msgstr isi-Hangari
+
+#id
+msgid Indonesian
+msgstr isi-Indonesia
+
+#ig
+msgid Igbo
+msgstr isi-Igbo
+
+#it
+msgid Italian
+msgstr isi-Italiano
+
+#ja
+msgid Japanese
+msgstr isi-Japhani
+
+#jv
+msgid Javanese
+msgstr isi-Java
+
+#km
+msgid Khmer
+msgstr isi-Khambodiya
+
+#ko
+msgid Korean
+msgstr isi-Koriya
+
+#ms
+msgid Malay
+msgstr isi-Malayi
+
+#my
+msgid Burmese
+msgstr isi-Burma
+
+#nd
+msgid North Ndebele
+msgstr isiNdebele
+
+#ne
+msgid Nepali
+msgstr isi-Nepali
+
+#nl
+msgid Dutch
+msgstr isi-Dutch
+
+#pa
+msgid Punjabi
+msgstr isi-Phunjabi
+
+#pl
+msgid Polish
+msgstr isi-Pholoshi
+
+#pt
+msgid Portuguese
+msgstr isi-Potukezi
+
+#ro
+msgid Romanian
+msgstr isi-Romani
+
+#ru
+msgid Russian
+msgstr isi-Rashiya
+
+#rw
+msgid Kinyarwanda
+msgstr isi-Ruwanda
+
+#so
+msgid Somali
+msgstr isi-Somali
+
+#sv
+msgid Swedish
+msgstr isi-Swidishi
+
+#ta
+msgid Tamil
+msgstr isi-Thamil
+
+#th
+msgid Thai
+msgstr isi-Thayi
+
+#tr
+msgid Turkish
+msgstr isi-Thekishi
+
+#uk
+msgid Ukrainian
+msgstr isi-Ukrain
+
+#ur
+msgid Urdu
+msgstr isi-Udu
+
+#vi
+msgid Vietnamese
+msgstr isi-Vietnamese
+
+#yo
+msgid Yoruba
+msgstr isi-Yorubha
+
+#zh
+msgid Chinese
+msgstr isi-China
+
+#zu
+msgid Zulu
+msgstr isi-Zulu
+

@@ -1,0 +1,56 @@
+#ace
+msgid Achinese
+msgstr acehnés
+
+#arp
+msgid Arapaho
+msgstr arapaho
+
+#bho
+msgid Bhojpuri
+msgstr bhojpuri
+
+#eu
+msgid Basque
+msgstr euskera
+
+#grc
+msgid Ancient Greek
+msgstr griego antiguo
+
+#lo
+msgid Lao
+msgstr lao
+
+#nso
+msgid Northern Sotho
+msgstr sotho septentrional
+
+#pa
+msgid Punjabi
+msgstr punyabí
+
+#ss
+msgid Swati
+msgstr siswati
+
+#sw
+msgid Swahili
+msgstr suajili
+
+#sw CD
+msgid Congo Swahili
+msgstr suajili del Congo
+
+#tn
+msgid Tswana
+msgstr setswana
+
+#wo
+msgid Wolof
+msgstr wolof
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr tamazight marroquí estándar
+

@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Hiakan
+
+#am
+msgid Amharic
+msgstr Hiamhari
+
+#ar
+msgid Arabic
+msgstr Hiharabu
+
+#be
+msgid Belarusian
+msgstr Hibelarusi
+
+#bez
+msgid Bena
+msgstr Hibena
+
+#bg
+msgid Bulgarian
+msgstr Hibulgaria
+
+#bn
+msgid Bangla
+msgstr Hibangla
+
+#cs
+msgid Czech
+msgstr Hicheki
+
+#de
+msgid German
+msgstr Hijerumani
+
+#el
+msgid Greek
+msgstr Higiriki
+
+#en
+msgid English
+msgstr Hiingereza
+
+#es
+msgid Spanish
+msgstr Hihispania
+
+#fa
+msgid Persian
+msgstr Hiajemi
+
+#fr
+msgid French
+msgstr Hifaransa
+
+#ha
+msgid Hausa
+msgstr Hihausa
+
+#hi
+msgid Hindi
+msgstr Hihindi
+
+#hu
+msgid Hungarian
+msgstr Hihungari
+
+#id
+msgid Indonesian
+msgstr Hiindonesia
+
+#ig
+msgid Igbo
+msgstr Hiibo
+
+#it
+msgid Italian
+msgstr Hiitaliano
+
+#ja
+msgid Japanese
+msgstr Hijapani
+
+#jv
+msgid Javanese
+msgstr Hijava
+
+#km
+msgid Khmer
+msgstr Hikambodia
+
+#ko
+msgid Korean
+msgstr Hikorea
+
+#ms
+msgid Malay
+msgstr Himalesia
+
+#my
+msgid Burmese
+msgstr Hiburma
+
+#ne
+msgid Nepali
+msgstr Hinepali
+
+#nl
+msgid Dutch
+msgstr Hiholanzi
+
+#pa
+msgid Punjabi
+msgstr Hipunjabi
+
+#pl
+msgid Polish
+msgstr Hipolandi
+
+#pt
+msgid Portuguese
+msgstr Hileno
+
+#ro
+msgid Romanian
+msgstr Hilomania
+
+#ru
+msgid Russian
+msgstr Hilusi
+
+#rw
+msgid Kinyarwanda
+msgstr Hinyarwanda
+
+#so
+msgid Somali
+msgstr Hisomali
+
+#sv
+msgid Swedish
+msgstr Hiswidi
+
+#ta
+msgid Tamil
+msgstr Hitamil
+
+#th
+msgid Thai
+msgstr Hitailand
+
+#tr
+msgid Turkish
+msgstr Hituluki
+
+#uk
+msgid Ukrainian
+msgstr Hiukrania
+
+#ur
+msgid Urdu
+msgstr Hiurdu
+
+#vi
+msgid Vietnamese
+msgstr Hivietinamu
+
+#yo
+msgid Yoruba
+msgstr Hiyoruba
+
+#zh
+msgid Chinese
+msgstr Hichina
+
+#zu
+msgid Zulu
+msgstr Hizulu
+

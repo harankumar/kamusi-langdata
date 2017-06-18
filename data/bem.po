@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Ichi Akan
+
+#am
+msgid Amharic
+msgstr Ichi Amhari
+
+#ar
+msgid Arabic
+msgstr Ichi Arab
+
+#be
+msgid Belarusian
+msgstr Ichi Belarus
+
+#bem
+msgid Bemba
+msgstr Ichibemba
+
+#bg
+msgid Bulgarian
+msgstr Ichi Bulgariani
+
+#bn
+msgid Bangla
+msgstr Ichi Bengali
+
+#cs
+msgid Czech
+msgstr Ichi Cheki
+
+#de
+msgid German
+msgstr Ichi Jemani
+
+#el
+msgid Greek
+msgstr Ichi Griki
+
+#en
+msgid English
+msgstr Ichi Sungu
+
+#es
+msgid Spanish
+msgstr Ichi Spanishi
+
+#fa
+msgid Persian
+msgstr Ichi Pesia
+
+#fr
+msgid French
+msgstr Ichi Frenchi
+
+#ha
+msgid Hausa
+msgstr Ichi Hausa
+
+#hi
+msgid Hindi
+msgstr Ichi Hindu
+
+#hu
+msgid Hungarian
+msgstr Ichi Hangarian
+
+#id
+msgid Indonesian
+msgstr Ichi Indonesiani
+
+#ig
+msgid Igbo
+msgstr Ichi Ibo
+
+#it
+msgid Italian
+msgstr Ichi Italiani
+
+#ja
+msgid Japanese
+msgstr Ichi Japanisi
+
+#jv
+msgid Javanese
+msgstr Ichi Javanisi
+
+#km
+msgid Khmer
+msgstr Ichi Khmer
+
+#ko
+msgid Korean
+msgstr Ichi Koriani
+
+#ms
+msgid Malay
+msgstr Ichi Maleshani
+
+#my
+msgid Burmese
+msgstr Ichi Burma
+
+#ne
+msgid Nepali
+msgstr Ichi Nepali
+
+#nl
+msgid Dutch
+msgstr Ichi Dachi
+
+#pa
+msgid Punjabi
+msgstr Ichi Punjabi
+
+#pl
+msgid Polish
+msgstr Ichi Polishi
+
+#pt
+msgid Portuguese
+msgstr Ichi Potogisi
+
+#ro
+msgid Romanian
+msgstr Ichi Romaniani
+
+#ru
+msgid Russian
+msgstr Ichi Rusiani
+
+#rw
+msgid Kinyarwanda
+msgstr Ichi Rwanda
+
+#so
+msgid Somali
+msgstr Ichi Somalia
+
+#sv
+msgid Swedish
+msgstr Ichi Swideni
+
+#ta
+msgid Tamil
+msgstr Ichi Tamil
+
+#th
+msgid Thai
+msgstr Ichi Thai
+
+#tr
+msgid Turkish
+msgstr Ichi Takishi
+
+#uk
+msgid Ukrainian
+msgstr Ichi Ukraniani
+
+#ur
+msgid Urdu
+msgstr Ichi Urudu
+
+#vi
+msgid Vietnamese
+msgstr Ichi Vietinamu
+
+#yo
+msgid Yoruba
+msgstr Ichi Yoruba
+
+#zh
+msgid Chinese
+msgstr Ichi Chainisi
+
+#zu
+msgid Zulu
+msgstr Ichi Zulu
+

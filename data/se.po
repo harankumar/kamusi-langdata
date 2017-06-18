@@ -1,0 +1,432 @@
+#ace
+msgid Achinese
+msgstr acehgiella
+
+#af
+msgid Afrikaans
+msgstr afrikánsagiella
+
+#an
+msgid Aragonese
+msgstr aragoniagiella
+
+#ang
+msgid Old English
+msgstr boares eaŋgalasgiella
+
+#ar
+msgid Arabic
+msgstr arábagiella
+
+#ast
+msgid Asturian
+msgstr asturiagiella
+
+#be
+msgid Belarusian
+msgstr vilges-ruoššagiella
+
+#bg
+msgid Bulgarian
+msgstr bulgáriagiella
+
+#bn
+msgid Bangla
+msgstr bengalgiella
+
+#bo
+msgid Tibetan
+msgstr tibetagiella
+
+#br
+msgid Breton
+msgstr bretonagiella
+
+#bs
+msgid Bosnian
+msgstr bosniagiella
+
+#ca
+msgid Catalan
+msgstr katalánagiella
+
+#chm
+msgid Mari
+msgstr marigiella
+
+#co
+msgid Corsican
+msgstr corsicagiella
+
+#cs
+msgid Czech
+msgstr čeahkagiella
+
+#cy
+msgid Welsh
+msgstr kymragiella
+
+#da
+msgid Danish
+msgstr dánskkagiella
+
+#de
+msgid German
+msgstr duiskkagiella
+
+#dv
+msgid Divehi
+msgstr divehigiella
+
+#dz
+msgid Dzongkha
+msgstr dzongkhagiella
+
+#el
+msgid Greek
+msgstr greikkagiella
+
+#en
+msgid English
+msgstr eaŋgalsgiella
+
+#es
+msgid Spanish
+msgstr spánskkagiella
+
+#et
+msgid Estonian
+msgstr esttegiella
+
+#fa
+msgid Persian
+msgstr persijagiella
+
+#fi
+msgid Finnish
+msgstr suomagiella
+
+#fil
+msgid Filipino
+msgstr filippiinnagiella
+
+#fj
+msgid Fijian
+msgstr fidjigiella
+
+#fo
+msgid Faroese
+msgstr fearagiella
+
+#fr
+msgid French
+msgstr fránskkagiella
+
+#fy
+msgid Western Frisian
+msgstr oarjifriisagiella
+
+#ga
+msgid Irish
+msgstr iirragiella
+
+#gu
+msgid Gujarati
+msgstr gujaratagiella
+
+#gv
+msgid Manx
+msgstr manksgiella
+
+#ha
+msgid Hausa
+msgstr haussagiella
+
+#haw
+msgid Hawaiian
+msgstr hawaiigiella
+
+#hi
+msgid Hindi
+msgstr hindigiella
+
+#hr
+msgid Croatian
+msgstr kroátiagiella
+
+#ht
+msgid Haitian Creole
+msgstr haitigiella
+
+#hu
+msgid Hungarian
+msgstr ungárgiella
+
+#hy
+msgid Armenian
+msgstr armeenagiella
+
+#id
+msgid Indonesian
+msgstr indonesiagiella
+
+#is
+msgid Icelandic
+msgstr islánddagiella
+
+#it
+msgid Italian
+msgstr itáliagiella
+
+#ja
+msgid Japanese
+msgstr japánagiella
+
+#jv
+msgid Javanese
+msgstr javagiella
+
+#ka
+msgid Georgian
+msgstr georgiagiella
+
+#kk
+msgid Kazakh
+msgstr kazakgiella
+
+#km
+msgid Khmer
+msgstr kambodiagiella
+
+#ko
+msgid Korean
+msgstr koreagiella
+
+#krl
+msgid Karelian
+msgstr gárjilgiella
+
+#ku
+msgid Kurdish
+msgstr kurdigiella
+
+#kv
+msgid Komi
+msgstr komigiella
+
+#kw
+msgid Cornish
+msgstr kornagiella
+
+#la
+msgid Latin
+msgstr láhtengiella
+
+#lb
+msgid Luxembourgish
+msgstr luxemburggagiella
+
+#lo
+msgid Lao
+msgstr laogiella
+
+#lt
+msgid Lithuanian
+msgstr liettuvagiella
+
+#lv
+msgid Latvian
+msgstr látviagiella
+
+#mdf
+msgid Moksha
+msgstr mokšagiella
+
+#mi
+msgid Maori
+msgstr maorigiella
+
+#mk
+msgid Macedonian
+msgstr makedoniagiella
+
+#mn
+msgid Mongolian
+msgstr mongoliagiella
+
+#mt
+msgid Maltese
+msgstr maltagiella
+
+#my
+msgid Burmese
+msgstr burmagiella
+
+#myv
+msgid Erzya
+msgstr ersagiella
+
+#nb
+msgid Norwegian Bokmål
+msgstr girjedárogiella
+
+#ne
+msgid Nepali
+msgstr nepaligiella
+
+#nl
+msgid Dutch
+msgstr hollánddagiella
+
+#nn
+msgid Norwegian Nynorsk
+msgstr ođđadárogiella
+
+#no
+msgid Norwegian
+msgstr dárogiella
+
+#oc
+msgid Occitan
+msgstr oksitánagiella
+
+#pa
+msgid Punjabi
+msgstr panjabigiella
+
+#pl
+msgid Polish
+msgstr polskkagiella
+
+#pt
+msgid Portuguese
+msgstr portugálagiella
+
+#rm
+msgid Romansh
+msgstr romanšgiella
+
+#ro
+msgid Romanian
+msgstr romániagiella
+
+#ru
+msgid Russian
+msgstr ruoššagiella
+
+#sc
+msgid Sardinian
+msgstr sardigiella
+
+#scn
+msgid Sicilian
+msgstr sisiliagiella
+
+#se
+msgid Northern Sami
+msgstr davvisámegiella
+
+#sel
+msgid Selkup
+msgstr selkupagiella
+
+#sh
+msgid Serbo-Croatian
+msgstr serbokroatiagiella
+
+#sk
+msgid Slovak
+msgstr slovákiagiella
+
+#sl
+msgid Slovenian
+msgstr slovenagiella
+
+#sm
+msgid Samoan
+msgstr samoagiella
+
+#sma
+msgid Southern Sami
+msgstr lullisámegiella
+
+#smj
+msgid Lule Sami
+msgstr julevsámegiella
+
+#smn
+msgid Inari Sami
+msgstr anárašgiella
+
+#sms
+msgid Skolt Sami
+msgstr nuortalašgiella
+
+#sq
+msgid Albanian
+msgstr albánagiella
+
+#sr
+msgid Serbian
+msgstr serbiagiella
+
+#sv
+msgid Swedish
+msgstr ruoŧagiella
+
+#swb
+msgid Comorian
+msgstr shimaorigiella
+
+#th
+msgid Thai
+msgstr ŧaigiella
+
+#tr
+msgid Turkish
+msgstr durkagiella
+
+#ty
+msgid Tahitian
+msgstr tahitigiella
+
+#udm
+msgid Udmurt
+msgstr udmurtagiella
+
+#uk
+msgid Ukrainian
+msgstr ukrainagiella
+
+#und
+msgid Unknown language
+msgstr dovdameahttun giella
+
+#ur
+msgid Urdu
+msgstr urdugiella
+
+#vi
+msgid Vietnamese
+msgstr vietnamgiella
+
+#wa
+msgid Walloon
+msgstr vallonagiella
+
+#yue
+msgid Cantonese
+msgstr kantongiella
+
+#zh
+msgid Chinese
+msgstr kiinnágiella
+
+#zh Hans
+msgid Simplified Chinese
+msgstr álki kiinágiella
+
+#zh Hant
+msgid Traditional Chinese
+msgstr árbevirolaš kiinnágiella
+

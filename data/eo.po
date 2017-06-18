@@ -1,0 +1,704 @@
+#aa
+msgid Afar
+msgstr afara
+
+#ab
+msgid Abkhazian
+msgstr abĥaza
+
+#af
+msgid Afrikaans
+msgstr afrikansa
+
+#ak
+msgid Akan
+msgstr akana
+
+#am
+msgid Amharic
+msgstr amhara
+
+#ar
+msgid Arabic
+msgstr araba
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr moderna norma araba
+
+#arn
+msgid Mapuche
+msgstr mapuĉa
+
+#as
+msgid Assamese
+msgstr asama
+
+#ay
+msgid Aymara
+msgstr ajmara
+
+#az
+msgid Azerbaijani
+msgstr azerbajĝana
+
+#ba
+msgid Bashkir
+msgstr baŝkira
+
+#be
+msgid Belarusian
+msgstr belorusa
+
+#bg
+msgid Bulgarian
+msgstr bulgara
+
+#bi
+msgid Bislama
+msgstr bislamo
+
+#bm
+msgid Bambara
+msgstr bambara
+
+#bn
+msgid Bangla
+msgstr bengala
+
+#bo
+msgid Tibetan
+msgstr tibeta
+
+#br
+msgid Breton
+msgstr bretona
+
+#brx
+msgid Bodo
+msgstr bodoa
+
+#bs
+msgid Bosnian
+msgstr bosnia
+
+#ca
+msgid Catalan
+msgstr kataluna
+
+#chr
+msgid Cherokee
+msgstr ĉeroka
+
+#ckb
+msgid Central Kurdish
+msgstr sorana
+
+#co
+msgid Corsican
+msgstr korsika
+
+#cs
+msgid Czech
+msgstr ĉeĥa
+
+#cy
+msgid Welsh
+msgstr kimra
+
+#da
+msgid Danish
+msgstr dana
+
+#de
+msgid German
+msgstr germana
+
+#de AT
+msgid Austrian German
+msgstr aŭstra germana
+
+#de CH
+msgid Swiss High German
+msgstr svisa germana
+
+#dsb
+msgid Lower Sorbian
+msgstr malsuprasoraba
+
+#dv
+msgid Divehi
+msgstr mahla
+
+#dz
+msgid Dzongkha
+msgstr dzonko
+
+#efi
+msgid Efik
+msgstr ibibioefika
+
+#el
+msgid Greek
+msgstr greka
+
+#en
+msgid English
+msgstr angla
+
+#en AU
+msgid Australian English
+msgstr aŭstralia angla
+
+#en CA
+msgid Canadian English
+msgstr kanada angla
+
+#en GB
+msgid British English
+msgstr brita angla
+
+#en GB-short
+msgid UK English
+msgstr brita angla
+
+#en US
+msgid American English
+msgstr usona angla
+
+#en US-short
+msgid US English
+msgstr usona angla
+
+#eo
+msgid Esperanto
+msgstr esperanto
+
+#es
+msgid Spanish
+msgstr hispana
+
+#es 419
+msgid Latin American Spanish
+msgstr amerika hispana
+
+#es ES
+msgid European Spanish
+msgstr eŭropa hispana
+
+#es MX
+msgid Mexican Spanish
+msgstr meksika hispana
+
+#et
+msgid Estonian
+msgstr estona
+
+#eu
+msgid Basque
+msgstr eŭska
+
+#fa
+msgid Persian
+msgstr persa
+
+#fi
+msgid Finnish
+msgstr finna
+
+#fil
+msgid Filipino
+msgstr filipina
+
+#fj
+msgid Fijian
+msgstr fiĝia
+
+#fo
+msgid Faroese
+msgstr feroa
+
+#fr
+msgid French
+msgstr franca
+
+#fr CA
+msgid Canadian French
+msgstr kanada franca
+
+#fr CH
+msgid Swiss French
+msgstr svisa franca
+
+#fy
+msgid Western Frisian
+msgstr frisa
+
+#ga
+msgid Irish
+msgstr irlanda
+
+#gd
+msgid Scottish Gaelic
+msgstr gaela
+
+#gl
+msgid Galician
+msgstr galega
+
+#gn
+msgid Guarani
+msgstr gvarania
+
+#gu
+msgid Gujarati
+msgstr guĝarata
+
+#ha
+msgid Hausa
+msgstr haŭsa
+
+#haw
+msgid Hawaiian
+msgstr havaja
+
+#he
+msgid Hebrew
+msgstr hebrea
+
+#hi
+msgid Hindi
+msgstr hinda
+
+#hr
+msgid Croatian
+msgstr kroata
+
+#ht
+msgid Haitian Creole
+msgstr haitia kreola
+
+#hu
+msgid Hungarian
+msgstr hungara
+
+#hy
+msgid Armenian
+msgstr armena
+
+#ia
+msgid Interlingua
+msgstr interlingvao
+
+#id
+msgid Indonesian
+msgstr indonezia
+
+#ie
+msgid Interlingue
+msgstr okcidentalo
+
+#ik
+msgid Inupiaq
+msgstr eskima
+
+#is
+msgid Icelandic
+msgstr islanda
+
+#it
+msgid Italian
+msgstr itala
+
+#iu
+msgid Inuktitut
+msgstr inuita
+
+#ja
+msgid Japanese
+msgstr japana
+
+#jv
+msgid Javanese
+msgstr java
+
+#ka
+msgid Georgian
+msgstr kartvela
+
+#kk
+msgid Kazakh
+msgstr kazaĥa
+
+#kl
+msgid Kalaallisut
+msgstr gronlanda
+
+#km
+msgid Khmer
+msgstr kmera
+
+#kn
+msgid Kannada
+msgstr kanara
+
+#ko
+msgid Korean
+msgstr korea
+
+#ks
+msgid Kashmiri
+msgstr kaŝmira
+
+#ku
+msgid Kurdish
+msgstr kurda
+
+#ky
+msgid Kyrgyz
+msgstr kirgiza
+
+#la
+msgid Latin
+msgstr latino
+
+#lb
+msgid Luxembourgish
+msgstr luksemburga
+
+#ln
+msgid Lingala
+msgstr lingala
+
+#lo
+msgid Lao
+msgstr laŭa
+
+#lt
+msgid Lithuanian
+msgstr litova
+
+#lv
+msgid Latvian
+msgstr latva
+
+#mg
+msgid Malagasy
+msgstr malagasa
+
+#mi
+msgid Maori
+msgstr maoria
+
+#mk
+msgid Macedonian
+msgstr makedona
+
+#ml
+msgid Malayalam
+msgstr malajalama
+
+#mn
+msgid Mongolian
+msgstr mongola
+
+#mr
+msgid Marathi
+msgstr marata
+
+#ms
+msgid Malay
+msgstr malaja
+
+#mt
+msgid Maltese
+msgstr malta
+
+#mul
+msgid Multiple languages
+msgstr pluraj lingvoj
+
+#my
+msgid Burmese
+msgstr birma
+
+#na
+msgid Nauru
+msgstr naura
+
+#nb
+msgid Norwegian Bokmål
+msgstr dannorvega
+
+#ne
+msgid Nepali
+msgstr nepala
+
+#nl
+msgid Dutch
+msgstr nederlanda
+
+#nl BE
+msgid Flemish
+msgstr flandra
+
+#nn
+msgid Norwegian Nynorsk
+msgstr novnorvega
+
+#no
+msgid Norwegian
+msgstr norvega
+
+#oc
+msgid Occitan
+msgstr okcitana
+
+#om
+msgid Oromo
+msgstr oroma
+
+#or
+msgid Odia
+msgstr orijo
+
+#pa
+msgid Punjabi
+msgstr panĝaba
+
+#pl
+msgid Polish
+msgstr pola
+
+#ps
+msgid Pashto
+msgstr paŝtoa
+
+#pt
+msgid Portuguese
+msgstr portugala
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr brazilportugala
+
+#pt PT
+msgid European Portuguese
+msgstr eŭropportugala
+
+#qu
+msgid Quechua
+msgstr keĉua
+
+#rm
+msgid Romansh
+msgstr romanĉa
+
+#rn
+msgid Rundi
+msgstr burunda
+
+#ro
+msgid Romanian
+msgstr rumana
+
+#ru
+msgid Russian
+msgstr rusa
+
+#rw
+msgid Kinyarwanda
+msgstr ruanda
+
+#sa
+msgid Sanskrit
+msgstr sanskrito
+
+#sd
+msgid Sindhi
+msgstr sinda
+
+#sg
+msgid Sango
+msgstr sangoa
+
+#sh
+msgid Serbo-Croatian
+msgstr serbo-Kroata
+
+#si
+msgid Sinhala
+msgstr sinhala
+
+#sk
+msgid Slovak
+msgstr slovaka
+
+#sl
+msgid Slovenian
+msgstr slovena
+
+#sm
+msgid Samoan
+msgstr samoa
+
+#sn
+msgid Shona
+msgstr ŝona
+
+#so
+msgid Somali
+msgstr somala
+
+#sq
+msgid Albanian
+msgstr albana
+
+#sr
+msgid Serbian
+msgstr serba
+
+#ss
+msgid Swati
+msgstr svazia
+
+#st
+msgid Southern Sotho
+msgstr sota
+
+#su
+msgid Sundanese
+msgstr sunda
+
+#sv
+msgid Swedish
+msgstr sveda
+
+#sw
+msgid Swahili
+msgstr svahila
+
+#ta
+msgid Tamil
+msgstr tamila
+
+#te
+msgid Telugu
+msgstr telugua
+
+#tg
+msgid Tajik
+msgstr taĝika
+
+#th
+msgid Thai
+msgstr taja
+
+#ti
+msgid Tigrinya
+msgstr tigraja
+
+#tk
+msgid Turkmen
+msgstr turkmena
+
+#tl
+msgid Tagalog
+msgstr tagaloga
+
+#tlh
+msgid Klingon
+msgstr klingona
+
+#tn
+msgid Tswana
+msgstr cvana
+
+#to
+msgid Tongan
+msgstr tongaa
+
+#tr
+msgid Turkish
+msgstr turka
+
+#ts
+msgid Tsonga
+msgstr conga
+
+#tt
+msgid Tatar
+msgstr tatara
+
+#tw
+msgid Twi
+msgstr tw
+
+#ug
+msgid Uyghur
+msgstr ujgura
+
+#uk
+msgid Ukrainian
+msgstr ukraina
+
+#und
+msgid Unknown language
+msgstr nekonata lingvo
+
+#ur
+msgid Urdu
+msgstr urduo
+
+#uz
+msgid Uzbek
+msgstr uzbeka
+
+#vi
+msgid Vietnamese
+msgstr vjetnama
+
+#vo
+msgid Volapük
+msgstr volapuko
+
+#wo
+msgid Wolof
+msgstr volofa
+
+#xh
+msgid Xhosa
+msgstr ksosa
+
+#yi
+msgid Yiddish
+msgstr jida
+
+#yo
+msgid Yoruba
+msgstr joruba
+
+#za
+msgid Zhuang
+msgstr ĝuanga
+
+#zh
+msgid Chinese
+msgstr ĉina
+
+#zh Hans
+msgid Simplified Chinese
+msgstr ĉina simpligita
+
+#zh Hant
+msgid Traditional Chinese
+msgstr ĉina tradicia
+
+#zu
+msgid Zulu
+msgstr zulua
+
+#zxx
+msgid No linguistic content
+msgstr nelingvaĵo
+

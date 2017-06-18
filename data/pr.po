@@ -1,0 +1,156 @@
+#ar
+msgid Arabic
+msgstr arābiskan
+
+#da
+msgid Danish
+msgstr dāniskan
+
+#de
+msgid German
+msgstr miksiskan
+
+#de AT
+msgid Austrian German
+msgstr Āustrarīkis miksiskan
+
+#de CH
+msgid Swiss High German
+msgstr Šwēicis aūktamiksiskan
+
+#el
+msgid Greek
+msgstr grēkiskan
+
+#en
+msgid English
+msgstr ēngliskan
+
+#en AU
+msgid Australian English
+msgstr Austrālijas ēngliskan
+
+#en CA
+msgid Canadian English
+msgstr Kanādas ēngliskan
+
+#en GB
+msgid British English
+msgstr brītiskan ēngliskan
+
+#en GB-short
+msgid UK English
+msgstr brītiskan ēngliskan
+
+#en US
+msgid United States English
+msgstr amērikaniskan ēngliskan
+
+#en US-short
+msgid US English
+msgstr APW ēngliskan
+
+#es
+msgid Spanish
+msgstr špāniskan
+
+#es 419
+msgid Latin American Spanish
+msgstr Lātiniskas Amērikas špāniskan
+
+#es ES
+msgid European Spanish
+msgstr eurōpiskan špāniskan
+
+#es MX
+msgid Mexican Spanish
+msgstr Meksikus špāniskan
+
+#et
+msgid Estonian
+msgstr èstiskan
+
+#fi
+msgid Finnish
+msgstr sōmiskan
+
+#fr
+msgid French
+msgstr prancōziskan
+
+#fr CA
+msgid Canadian French
+msgstr Kanādas prancōziskan
+
+#fr CH
+msgid Swiss French
+msgstr Šwēicis prancōziskan
+
+#it
+msgid Italian
+msgstr wālkiskan
+
+#ja
+msgid Japanese
+msgstr japāniskan
+
+#lt
+msgid Lithuanian
+msgstr laītawiskan
+
+#lv
+msgid Latvian
+msgstr lattawiskan
+
+#nl
+msgid Dutch
+msgstr ullandiskan
+
+#pl
+msgid Polish
+msgstr pōliskan
+
+#prg
+msgid Prussian
+msgstr prūsiskan
+
+#pt
+msgid Portuguese
+msgstr pōrtugaliskan
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Brazīlijas pōrtugaliskan
+
+#pt PT
+msgid European Portuguese
+msgstr eurōpiskan pōrtugaliskan
+
+#ru
+msgid Russian
+msgstr maskōwitiskan
+
+#sv
+msgid Swedish
+msgstr šwēdiskan
+
+#tr
+msgid Turkish
+msgstr turkiskan
+
+#und
+msgid Unknown language
+msgstr niwaistā bilā
+
+#zh
+msgid Chinese
+msgstr kīniskan
+
+#zh Hans
+msgid Simplified Chinese
+msgstr prastintan kīniskan
+
+#zh Hant
+msgid Traditional Chinese
+msgstr tradiciōnalin kīniskan
+

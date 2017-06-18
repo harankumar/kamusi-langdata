@@ -1,0 +1,68 @@
+#bas
+msgid Basaa
+msgstr Shwóŋò pʉa mbasǎ
+
+#bax
+msgid Bamun
+msgstr Shwóŋò pamom
+
+#bbj
+msgid Ghomala
+msgstr Shwóŋò pʉa nzsekàʼa
+
+#bfd
+msgid Bafut
+msgstr Shwóŋò pafud
+
+#bkm
+msgid Kom
+msgstr Shwóŋò pʉ̀a njinikom
+
+#bss
+msgid Akoose
+msgstr Shwóŋò pakɔsi
+
+#bum
+msgid Bulu
+msgstr Shwóŋò mbulu
+
+#byv
+msgid Medumba
+msgstr Shwóŋò ngáŋtÿɔʼ
+
+#de
+msgid German
+msgstr nzǎmɔ̂ɔn
+
+#en
+msgid English
+msgstr ngilísè
+
+#ewo
+msgid Ewondo
+msgstr Shwóŋò pʉa Yɔɔnmendi
+
+#ff
+msgid Fulah
+msgstr Shwóŋò menkesaŋ
+
+#fr
+msgid French
+msgstr felaŋsée
+
+#kkj
+msgid Kako
+msgstr Shwóŋò pʉa shÿó Bɛgtùa
+
+#nnh
+msgid Ngiemboon
+msgstr Shwóŋò ngiembɔɔn
+
+#yav
+msgid Yangben
+msgstr Shwóŋò pʉa shÿó Mbafìa
+
+#ybb
+msgid Yemba
+msgstr Shwóŋò Tsaŋ
+

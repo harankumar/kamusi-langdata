@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr kutitab Aka
+
+#am
+msgid Amharic
+msgstr kutitab Amariek
+
+#ar
+msgid Arabic
+msgstr kutitab Arabuk
+
+#be
+msgid Belarusian
+msgstr kutitab Belarusa
+
+#bg
+msgid Bulgarian
+msgstr kutitab Bulgaria
+
+#bn
+msgid Bangla
+msgstr kutitab Bengali
+
+#cs
+msgid Czech
+msgstr kutitab Chek
+
+#de
+msgid German
+msgstr kutitab Chermani
+
+#el
+msgid Greek
+msgstr kutitab Greece
+
+#en
+msgid English
+msgstr kutitab Uingeresa
+
+#es
+msgid Spanish
+msgstr kutitab Espianik
+
+#fa
+msgid Persian
+msgstr kutitab Persia
+
+#fr
+msgid French
+msgstr kutitab Kifaransa
+
+#ha
+msgid Hausa
+msgstr kutitab Hausa
+
+#hi
+msgid Hindi
+msgstr kutitab Maindiik
+
+#hu
+msgid Hungarian
+msgstr kutitab Hangari
+
+#id
+msgid Indonesian
+msgstr kutitab Indonesia
+
+#ig
+msgid Igbo
+msgstr kutitab Igbo
+
+#it
+msgid Italian
+msgstr kutitab Talianek
+
+#ja
+msgid Japanese
+msgstr kutitap Japan
+
+#jv
+msgid Javanese
+msgstr kutitap Javanese
+
+#kln
+msgid Kalenjin
+msgstr Kalenjin
+
+#km
+msgid Khmer
+msgstr kutitab Kher nebo Kwen
+
+#ko
+msgid Korean
+msgstr kutitab Korea
+
+#ms
+msgid Malay
+msgstr kutitab Malay
+
+#my
+msgid Burmese
+msgstr kutitab Burma
+
+#ne
+msgid Nepali
+msgstr kutitab Nepali
+
+#nl
+msgid Dutch
+msgstr kutitab Boa
+
+#pa
+msgid Punjabi
+msgstr kutitab Punjab
+
+#pl
+msgid Polish
+msgstr kutitap Poland
+
+#pt
+msgid Portuguese
+msgstr kutitab Portugal
+
+#ro
+msgid Romanian
+msgstr kutitab Romaniek
+
+#ru
+msgid Russian
+msgstr kutitab Russia
+
+#rw
+msgid Kinyarwanda
+msgstr kutitab Kinyarwanda
+
+#so
+msgid Somali
+msgstr kutitab Somaliek
+
+#sv
+msgid Swedish
+msgstr kutitab Sweden
+
+#ta
+msgid Tamil
+msgstr kutitab Tamil
+
+#th
+msgid Thai
+msgstr kutitab Thailand
+
+#tr
+msgid Turkish
+msgstr kutitab Turkey
+
+#uk
+msgid Ukrainian
+msgstr kutitab Ukraine
+
+#ur
+msgid Urdu
+msgstr kutitab Urdu
+
+#vi
+msgid Vietnamese
+msgstr kutitab Vietnam
+
+#yo
+msgid Yoruba
+msgstr kutitab Yoruba
+
+#zh
+msgid Chinese
+msgstr kutitab China
+
+#zu
+msgid Zulu
+msgstr kutitab Zulu
+

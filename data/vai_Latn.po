@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Akaŋ
+
+#am
+msgid Amharic
+msgstr Amihári
+
+#ar
+msgid Arabic
+msgstr Lahabu
+
+#be
+msgid Belarusian
+msgstr Bhelarusaŋ
+
+#bg
+msgid Bulgarian
+msgstr Bhɔgerɛŋ
+
+#bn
+msgid Bangla
+msgstr Bhɛŋgáli
+
+#cs
+msgid Czech
+msgstr Chɛ
+
+#de
+msgid German
+msgstr Jamáĩ
+
+#el
+msgid Greek
+msgstr Hɛlɛŋ
+
+#en
+msgid English
+msgstr Poo
+
+#es
+msgid Spanish
+msgstr Panyɛĩ
+
+#fa
+msgid Persian
+msgstr Pɛɛsiyɛŋ
+
+#fr
+msgid French
+msgstr Fɛŋsi
+
+#ha
+msgid Hausa
+msgstr Hawusa
+
+#hi
+msgid Hindi
+msgstr Híiŋdi
+
+#hu
+msgid Hungarian
+msgstr Hɔŋgérɛŋ
+
+#id
+msgid Indonesian
+msgstr Índonisiyɛŋ
+
+#ig
+msgid Igbo
+msgstr Ígbo
+
+#it
+msgid Italian
+msgstr Itáliyɛŋ
+
+#ja
+msgid Japanese
+msgstr Japaníĩ
+
+#jv
+msgid Javanese
+msgstr Javaníĩ
+
+#km
+msgid Khmer
+msgstr Kimɛɛ̃ tɛ
+
+#ko
+msgid Korean
+msgstr Koríyɛŋ
+
+#ms
+msgid Malay
+msgstr Maléee
+
+#my
+msgid Burmese
+msgstr Bhɛmísi
+
+#ne
+msgid Nepali
+msgstr Nipali
+
+#nl
+msgid Dutch
+msgstr Dɔchi
+
+#pa
+msgid Punjabi
+msgstr Puŋjabhi
+
+#pl
+msgid Polish
+msgstr Pɔ́lési
+
+#pt
+msgid Portuguese
+msgstr Potokíi
+
+#ro
+msgid Romanian
+msgstr Romíniyɛŋ
+
+#ru
+msgid Russian
+msgstr Rɔshiyɛŋ
+
+#rw
+msgid Kinyarwanda
+msgstr Rawunda
+
+#so
+msgid Somali
+msgstr Somáli
+
+#sv
+msgid Swedish
+msgstr Súwídɛŋ
+
+#ta
+msgid Tamil
+msgstr Tamíli
+
+#th
+msgid Thai
+msgstr Tái
+
+#tr
+msgid Turkish
+msgstr Tɔ́ki
+
+#uk
+msgid Ukrainian
+msgstr Yukureniyɛŋ
+
+#ur
+msgid Urdu
+msgstr Ɔdu
+
+#vai
+msgid Vai
+msgstr Vai
+
+#vi
+msgid Vietnamese
+msgstr Viyamíĩ
+
+#yo
+msgid Yoruba
+msgstr Yóróbha
+
+#zh
+msgid Chinese
+msgstr Chaniĩ
+
+#zu
+msgid Zulu
+msgstr Zúlu
+

@@ -1,0 +1,8 @@
+#mgo
+msgid Metaʼ
+msgstr metaʼ
+
+#und
+msgid Unknown language
+msgstr ngam tisɔʼ
+

@@ -1,0 +1,4 @@
+#mi
+msgid Maori
+msgstr Māori
+

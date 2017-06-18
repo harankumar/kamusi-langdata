@@ -1,0 +1,104 @@
+#ace
+msgid Achinese
+msgstr acehnés
+
+#arp
+msgid Arapaho
+msgstr arapaho
+
+#bas
+msgid Basaa
+msgstr basa
+
+#bax
+msgid Bamun
+msgstr bamun
+
+#bho
+msgid Bhojpuri
+msgstr bhojpuri
+
+#bua
+msgid Buriat
+msgstr buriat
+
+#dum
+msgid Middle Dutch
+msgstr neerlandés medieval
+
+#enm
+msgid Middle English
+msgstr inglés medieval
+
+#frm
+msgid Middle French
+msgstr francés medieval
+
+#gmh
+msgid Middle High German
+msgstr alemán de la alta edad media
+
+#grc
+msgid Ancient Greek
+msgstr griego antiguo
+
+#hak
+msgid Hakka Chinese
+msgstr hak
+
+#hsb
+msgid Upper Sorbian
+msgstr alto sorbio
+
+#kea
+msgid Kabuverdianu
+msgstr criollo caboverdiano
+
+#lus
+msgid Mizo
+msgstr lushai
+
+#mga
+msgid Middle Irish
+msgstr irlandés medieval
+
+#nan
+msgid Min Nan Chinese
+msgstr nan
+
+#nso
+msgid Northern Sotho
+msgstr sotho septentrional
+
+#pcm
+msgid Nigerian Pidgin
+msgstr pcm
+
+#rn
+msgid Rundi
+msgstr kiroundi
+
+#shu
+msgid Chadian Arabic
+msgstr árabe chadiano
+
+#ss
+msgid Swati
+msgstr siswati
+
+#sw CD
+msgid Congo Swahili
+msgstr swahili del Congo
+
+#tn
+msgid Tswana
+msgstr setchwana
+
+#wo
+msgid Wolof
+msgstr wolof
+
+#wuu
+msgid Wu Chinese
+msgstr wuu
+

@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Akan
+
+#am
+msgid Amharic
+msgstr Amharika
+
+#ar
+msgid Arabic
+msgstr Arabo
+
+#be
+msgid Belarusian
+msgstr Bielorosy
+
+#bg
+msgid Bulgarian
+msgstr Biolgara
+
+#bn
+msgid Bangla
+msgstr Bengali
+
+#cs
+msgid Czech
+msgstr Tseky
+
+#de
+msgid German
+msgstr Alemanina
+
+#el
+msgid Greek
+msgstr Grika
+
+#en
+msgid English
+msgstr Anglisy
+
+#es
+msgid Spanish
+msgstr Espaniola
+
+#fa
+msgid Persian
+msgstr Persa
+
+#fr
+msgid French
+msgstr Frantsay
+
+#ha
+msgid Hausa
+msgstr haoussa
+
+#hi
+msgid Hindi
+msgstr hindi
+
+#hu
+msgid Hungarian
+msgstr hongroà
+
+#id
+msgid Indonesian
+msgstr Indonezianina
+
+#ig
+msgid Igbo
+msgstr igbo
+
+#it
+msgid Italian
+msgstr Italianina
+
+#ja
+msgid Japanese
+msgstr Japoney
+
+#jv
+msgid Javanese
+msgstr Javaney
+
+#km
+msgid Khmer
+msgstr khmer
+
+#ko
+msgid Korean
+msgstr Koreanina
+
+#mg
+msgid Malagasy
+msgstr Malagasy
+
+#ms
+msgid Malay
+msgstr Malay
+
+#my
+msgid Burmese
+msgstr Birmana
+
+#ne
+msgid Nepali
+msgstr Nepale
+
+#nl
+msgid Dutch
+msgstr Holandey
+
+#pa
+msgid Punjabi
+msgstr Penjabi
+
+#pl
+msgid Polish
+msgstr Poloney
+
+#pt
+msgid Portuguese
+msgstr Portiogey
+
+#ro
+msgid Romanian
+msgstr Romanianina
+
+#ru
+msgid Russian
+msgstr Rosianina
+
+#rw
+msgid Kinyarwanda
+msgstr Roande
+
+#so
+msgid Somali
+msgstr Somalianina
+
+#sv
+msgid Swedish
+msgstr Soisa
+
+#ta
+msgid Tamil
+msgstr Tamoila
+
+#th
+msgid Thai
+msgstr Taioaney
+
+#tr
+msgid Turkish
+msgstr Tiorka
+
+#uk
+msgid Ukrainian
+msgstr Okrainianina
+
+#ur
+msgid Urdu
+msgstr Ordò
+
+#vi
+msgid Vietnamese
+msgstr Vietnamianina
+
+#yo
+msgid Yoruba
+msgstr Yôrobà
+
+#zh
+msgid Chinese
+msgstr Sinoa, Mandarin
+
+#zu
+msgid Zulu
+msgstr Zolò
+

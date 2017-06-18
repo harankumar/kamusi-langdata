@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr ꕉꕪꘋ
+
+#am
+msgid Amharic
+msgstr ꕉꕆꕌꔸ
+
+#ar
+msgid Arabic
+msgstr ꕞꕌꖝ
+
+#be
+msgid Belarusian
+msgstr ꔆꕞꖩꔻ
+
+#bg
+msgid Bulgarian
+msgstr ꗂꔠꗸꘋ
+
+#bn
+msgid Bangla
+msgstr ꗩꕭꔷ
+
+#cs
+msgid Czech
+msgstr ꗿꗡ
+
+#de
+msgid German
+msgstr ꕧꕮꔧ
+
+#el
+msgid Greek
+msgstr ꗥꗷꘋ
+
+#en
+msgid English
+msgstr ꕶꕱ
+
+#es
+msgid Spanish
+msgstr ꕐꘊꔧ
+
+#fa
+msgid Persian
+msgstr ꗨꗡꔻꘂꘋ
+
+#fr
+msgid French
+msgstr ꗱꘋꔻ
+
+#ha
+msgid Hausa
+msgstr ꕌꖙꕢ
+
+#hi
+msgid Hindi
+msgstr ꔦꔺ
+
+#hu
+msgid Hungarian
+msgstr ꖽꔟꗸꘋ
+
+#id
+msgid Indonesian
+msgstr ꔤꖆꕇꔻꘂꘋ
+
+#ig
+msgid Igbo
+msgstr ꔤꕼ
+
+#it
+msgid Italian
+msgstr ꔤꕚꔷꘂꘋ
+
+#ja
+msgid Japanese
+msgstr ꕧꕐꕇꔧ
+
+#jv
+msgid Javanese
+msgstr ꕧꕙꕇꔧ
+
+#km
+msgid Khmer
+msgstr ꕃꘈꗢ
+
+#ko
+msgid Korean
+msgstr ꖏꔸꘂꘋ
+
+#ms
+msgid Malay
+msgstr ꕮꔒꔀ
+
+#my
+msgid Burmese
+msgstr ꗩꕆꔻ
+
+#ne
+msgid Nepali
+msgstr ꕇꕐꔷ
+
+#nl
+msgid Dutch
+msgstr ꗍꔿ
+
+#pa
+msgid Punjabi
+msgstr ꖛꕨꔬ
+
+#pl
+msgid Polish
+msgstr ꗁꔒꔻ
+
+#pt
+msgid Portuguese
+msgstr ꕶꕿꕃꔤ
+
+#ro
+msgid Romanian
+msgstr ꖄꕆꕇꘂꘋ
+
+#ru
+msgid Russian
+msgstr ꗐꖺꔻꘂꘋ
+
+#rw
+msgid Kinyarwanda
+msgstr ꕟꖙꕡ
+
+#so
+msgid Somali
+msgstr ꖇꕮꔷ
+
+#sv
+msgid Swedish
+msgstr ꖬꔨꗵꘋ
+
+#ta
+msgid Tamil
+msgstr ꕚꕆꔷ
+
+#th
+msgid Thai
+msgstr ꕚꔤ
+
+#tr
+msgid Turkish
+msgstr ꗋꕃ
+
+#uk
+msgid Ukrainian
+msgstr ꖳꖴꔓꕇꘂꘋ
+
+#ur
+msgid Urdu
+msgstr ꖺꖦ
+
+#vai
+msgid Vai
+msgstr ꕙꔤ
+
+#vi
+msgid Vietnamese
+msgstr ꔲꕩꕯꕆꔧ
+
+#yo
+msgid Yoruba
+msgstr ꖎꖄꕑ
+
+#zh
+msgid Chinese
+msgstr ꕦꕇꔧ
+
+#zu
+msgid Zulu
+msgstr ꖮꖨ
+

@@ -1,0 +1,124 @@
+#ace
+msgid Achinese
+msgstr ačehgiella
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr standárda arábagiella
+
+#be
+msgid Belarusian
+msgstr vilgesruoššagiella
+
+#bn
+msgid Bangla
+msgstr bengalagiella
+
+#de AT
+msgid Austrian German
+msgstr nuortariikkalaš duiskkagiella
+
+#de CH
+msgid Swiss High German
+msgstr šveicalaš duiskkagiella
+
+#en AU
+msgid Australian English
+msgstr austrálialaš eaŋgalsgiella
+
+#en CA
+msgid Canadian English
+msgstr kanádalaš eaŋgalsgiella
+
+#en GB
+msgid British English
+msgstr brihttalaš eaŋgalsgiella
+
+#en GB-short
+msgid UK English
+msgstr brihttalaš eaŋgalsgiella
+
+#en US
+msgid American English
+msgstr amerihkálaš eaŋgalsgiella
+
+#en US-short
+msgid US English
+msgstr amerihkálaš eaŋgalsgiella
+
+#es 419
+msgid Latin American Spanish
+msgstr latiinna-amerihkalaš spánskkagiella
+
+#es ES
+msgid European Spanish
+msgstr espánjalaš spánskkagiella
+
+#es MX
+msgid Mexican Spanish
+msgstr meksikolaš spánskkagiella
+
+#fj
+msgid Fijian
+msgstr fižigiella
+
+#fr CA
+msgid Canadian French
+msgstr kanádalaš fránskkagiella
+
+#fr CH
+msgid Swiss French
+msgstr šveicalaš fránskkagiella
+
+#hy
+msgid Armenian
+msgstr armenagiella
+
+#kk
+msgid Kazakh
+msgstr kazakhgiella
+
+#km
+msgid Khmer
+msgstr kambožagiella
+
+#ne
+msgid Nepali
+msgstr nepalagiella
+
+#nl BE
+msgid Flemish
+msgstr belgialaš hollánddagiella
+
+#pa
+msgid Punjabi
+msgstr panjabagiella
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr brasilialaš portugálagiella
+
+#pt PT
+msgid European Portuguese
+msgstr portugálalaš portugálagiella
+
+#ro MD
+msgid Moldavian
+msgstr moldávialaš romániagiella
+
+#swb
+msgid Comorian
+msgstr komoragiella
+
+#th
+msgid Thai
+msgstr thaigiella
+
+#vi
+msgid Vietnamese
+msgstr vietnamagiella
+
+#zh Hans
+msgid Simplified Chinese
+msgstr álkes kiinnágiella
+

@@ -1,0 +1,32 @@
+#da
+msgid Danish
+msgstr Èdè Ilɛ̀ Denmark
+
+#de
+msgid German
+msgstr Èdè Ilɛ̀ Gemani
+
+#en
+msgid English
+msgstr Èdè Gɛ̀ɛ́sì
+
+#pl
+msgid Polish
+msgstr Èdè Ilɛ̀ Polandi
+
+#pt
+msgid Portuguese
+msgstr Èdè Pɔtugi
+
+#ru
+msgid Russian
+msgstr Èdè ̣Rɔɔsia
+
+#tr
+msgid Turkish
+msgstr Èdè Tɔɔkisi
+
+#zu
+msgid Zulu
+msgstr Èdè Shulu
+

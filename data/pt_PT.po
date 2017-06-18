@@ -1,0 +1,288 @@
+#af
+msgid Afrikaans
+msgstr africanês
+
+#ang
+msgid Old English
+msgstr inglês antigo
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr árabe moderno padrão
+
+#arn
+msgid Mapuche
+msgstr mapuche
+
+#bax
+msgid Bamun
+msgstr bamun
+
+#bbj
+msgid Ghomala
+msgstr ghomala
+
+#bua
+msgid Buriat
+msgstr buriat
+
+#chn
+msgid Chinook Jargon
+msgstr jargão chinook
+
+#ckb
+msgid Central Kurdish
+msgstr sorani curdo
+
+#crs
+msgid Seselwa Creole French
+msgstr francês crioulo seselwa
+
+#cs
+msgid Czech
+msgstr checo
+
+#cv
+msgid Chuvash
+msgstr chuvash
+
+#de AT
+msgid Austrian German
+msgstr alemão austríaco
+
+#de CH
+msgid Swiss High German
+msgstr alto alemão suíço
+
+#ee
+msgid Ewe
+msgstr ewe
+
+#egy
+msgid Ancient Egyptian
+msgstr egípcio clássico
+
+#en AU
+msgid Australian English
+msgstr inglês australiano
+
+#en CA
+msgid Canadian English
+msgstr inglês canadiano
+
+#en GB
+msgid British English
+msgstr inglês britânico
+
+#en GB-short
+msgid UK English
+msgstr inglês (RU)
+
+#en US
+msgid American English
+msgstr inglês americano
+
+#es 419
+msgid Latin American Spanish
+msgstr espanhol latino-americano
+
+#es ES
+msgid European Spanish
+msgstr espanhol europeu
+
+#et
+msgid Estonian
+msgstr estónio
+
+#fr CA
+msgid Canadian French
+msgstr francês canadiano
+
+#fr CH
+msgid Swiss French
+msgstr francês suíço
+
+#fro
+msgid Old French
+msgstr francês antigo
+
+#frs
+msgid Eastern Frisian
+msgstr frísio oriental
+
+#fy
+msgid Western Frisian
+msgstr frísico ocidental
+
+#goh
+msgid Old High German
+msgstr alemão alto antigo
+
+#grc
+msgid Ancient Greek
+msgstr grego clássico
+
+#gsw
+msgid Swiss German
+msgstr alemão suíço
+
+#ha
+msgid Hausa
+msgstr haúça
+
+#hi
+msgid Hindi
+msgstr hindi
+
+#hy
+msgid Armenian
+msgstr arménio
+
+#ig
+msgid Igbo
+msgstr igbo
+
+#kbd
+msgid Kabardian
+msgstr cabardiano
+
+#kea
+msgid Kabuverdianu
+msgstr crioulo cabo-verdiano
+
+#kn
+msgid Kannada
+msgstr canarim
+
+#lez
+msgid Lezghian
+msgstr lezghiano
+
+#lg
+msgid Ganda
+msgstr ganda
+
+#lrc
+msgid Northern Luri
+msgstr luri do norte
+
+#mk
+msgid Macedonian
+msgstr macedónio
+
+#moh
+msgid Mohawk
+msgstr mohawk
+
+#nb
+msgid Norwegian Bokmål
+msgstr norueguês bokmål
+
+#nds
+msgid Low German
+msgstr baixo-alemão
+
+#nds NL
+msgid Low Saxon
+msgstr baixo-saxão
+
+#nn
+msgid Norwegian Nynorsk
+msgstr norueguês nynorsk
+
+#non
+msgid Old Norse
+msgstr nórdico antigo
+
+#oc
+msgid Occitan
+msgstr occitano
+
+#os
+msgid Ossetic
+msgstr ossético
+
+#pag
+msgid Pangasinan
+msgstr língua pangasinesa
+
+#peo
+msgid Old Persian
+msgstr persa antigo
+
+#pl
+msgid Polish
+msgstr polaco
+
+#pon
+msgid Pohnpeian
+msgstr língua pohnpeica
+
+#pro
+msgid Old Provençal
+msgstr provençal antigo
+
+#ps
+msgid Pashto
+msgstr pastó
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr português do Brasil
+
+#pt PT
+msgid European Portuguese
+msgstr português europeu
+
+#raj
+msgid Rajasthani
+msgstr rajastanês
+
+#root
+msgid Root
+msgstr root
+
+#rw
+msgid Kinyarwanda
+msgstr kinyarwanda
+
+#sah
+msgid Sakha
+msgstr sakha
+
+#se
+msgid Northern Sami
+msgstr sami do norte
+
+#sga
+msgid Old Irish
+msgstr irlandês antigo
+
+#shu
+msgid Chadian Arabic
+msgstr árabe do Chade
+
+#smn
+msgid Inari Sami
+msgstr inari sami
+
+#ti
+msgid Tigrinya
+msgstr tigrínia
+
+#tk
+msgid Turkmen
+msgstr turcomano
+
+#to
+msgid Tongan
+msgstr tonga
+
+#xog
+msgid Soga
+msgstr soga
+
+#yo
+msgid Yoruba
+msgstr ioruba
+

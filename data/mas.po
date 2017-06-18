@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr nkʉtʉ́k ɔ́ɔ̄ lAkan
+
+#am
+msgid Amharic
+msgstr nkʉtʉ́k ɔ́ɔ̄ lAmhari
+
+#ar
+msgid Arabic
+msgstr nkʉtʉ́k ɔ́ɔ̄ lmarabu
+
+#be
+msgid Belarusian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lBelarusi
+
+#bg
+msgid Bulgarian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lBulgaria
+
+#bn
+msgid Bangla
+msgstr lnkʉtʉ́k ɔ́ɔ̄ lBengali
+
+#cs
+msgid Czech
+msgstr nkʉtʉ́k ɔ́ɔ̄ lcheki
+
+#de
+msgid German
+msgstr nkʉtʉ́k ɔ́ɔ̄ ljerumani
+
+#el
+msgid Greek
+msgstr nkʉtʉ́k ɔ́ɔ̄ lgiriki
+
+#en
+msgid English
+msgstr nkʉtʉ́k ɔ́ɔ̄ nkɨ́resa
+
+#es
+msgid Spanish
+msgstr nkʉtʉ́k ɔ́ɔ̄ lspania
+
+#fa
+msgid Persian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lpersia
+
+#fr
+msgid French
+msgstr nkʉtʉ́k ɔ́ɔ̄ faransa
+
+#ha
+msgid Hausa
+msgstr nkʉtʉ́k ɔ́ɔ̄ hausa
+
+#hi
+msgid Hindi
+msgstr nkʉtʉ́k ɔ́ɔ̄ lmoindi
+
+#hu
+msgid Hungarian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lhungari
+
+#id
+msgid Indonesian
+msgstr nkʉtʉ́k ɔ́ɔ̄ Indonesia
+
+#ig
+msgid Igbo
+msgstr nkʉtʉ́k ɔ́ɔ̄ Igbo
+
+#it
+msgid Italian
+msgstr nkʉtʉ́k ɔ́ɔ̄ ltalian
+
+#ja
+msgid Japanese
+msgstr nkʉtʉ́k ɔ́ɔ̄ japani
+
+#jv
+msgid Javanese
+msgstr nkʉtʉ́k ɔ́ɔ̄ ljana
+
+#km
+msgid Khmer
+msgstr nkʉtʉ́k ɔ́ɔ̄ lkambodia
+
+#ko
+msgid Korean
+msgstr nkʉtʉ́k ɔ́ɔ̄ lkorea
+
+#mas
+msgid Masai
+msgstr Maa
+
+#ms
+msgid Malay
+msgstr nkʉtʉ́k ɔ́ɔ̄ malay
+
+#my
+msgid Burmese
+msgstr nkʉtʉ́k ɔ́ɔ̄ lBurma
+
+#ne
+msgid Nepali
+msgstr nkʉtʉ́k ɔ́ɔ̄ lnepali
+
+#nl
+msgid Dutch
+msgstr nkʉtʉ́k ɔ́ɔ̄ lduchi
+
+#pa
+msgid Punjabi
+msgstr nkʉtʉ́k ɔ́ɔ̄ lpunjabi
+
+#pl
+msgid Polish
+msgstr nkʉtʉ́k ɔ́ɔ̄ lpoland
+
+#pt
+msgid Portuguese
+msgstr nkʉtʉ́k ɔ́ɔ̄ lportuguese
+
+#ro
+msgid Romanian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lromania
+
+#ru
+msgid Russian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lrusi
+
+#rw
+msgid Kinyarwanda
+msgstr nkʉtʉ́k ɔ́ɔ̄ lruwanda
+
+#so
+msgid Somali
+msgstr nkʉtʉ́k ɔ́ɔ̄ lchumari
+
+#sv
+msgid Swedish
+msgstr nkʉtʉ́k ɔ́ɔ̄ lswidi
+
+#ta
+msgid Tamil
+msgstr nkʉtʉ́k ɔ́ɔ̄ ltamil
+
+#th
+msgid Thai
+msgstr nkʉtʉ́k ɔ́ɔ̄ ltai
+
+#tr
+msgid Turkish
+msgstr nkʉtʉ́k ɔ́ɔ̄ lturuki
+
+#uk
+msgid Ukrainian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lkrania
+
+#ur
+msgid Urdu
+msgstr nkʉtʉ́k ɔ́ɔ̄ lurdu
+
+#vi
+msgid Vietnamese
+msgstr nkʉtʉ́k ɔ́ɔ̄ lvietinamu
+
+#yo
+msgid Yoruba
+msgstr nkʉtʉ́k ɔ́ɔ̄ lyoruba
+
+#zh
+msgid Chinese
+msgstr nkʉtʉ́k ɔ́ɔ̄ lchina
+
+#zu
+msgid Zulu
+msgstr nkʉtʉ́k ɔ́ɔ̄ lzulu
+

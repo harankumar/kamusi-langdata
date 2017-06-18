@@ -1,0 +1,2124 @@
+#aa
+msgid Afar
+msgstr afar
+
+#ab
+msgid Abkhazian
+msgstr abjasio
+
+#ace
+msgid Achinese
+msgstr acehnés
+
+#ach
+msgid Acoli
+msgstr acoli
+
+#ada
+msgid Adangme
+msgstr adangme
+
+#ady
+msgid Adyghe
+msgstr adigué
+
+#ae
+msgid Avestan
+msgstr avéstico
+
+#af
+msgid Afrikaans
+msgstr afrikáans
+
+#afh
+msgid Afrihili
+msgstr afrihili
+
+#agq
+msgid Aghem
+msgstr aghem
+
+#ain
+msgid Ainu
+msgstr ainu
+
+#ak
+msgid Akan
+msgstr akan
+
+#akk
+msgid Akkadian
+msgstr acadio
+
+#ale
+msgid Aleut
+msgstr aleutiano
+
+#alt
+msgid Southern Altai
+msgstr altái meridional
+
+#am
+msgid Amharic
+msgstr amárico
+
+#an
+msgid Aragonese
+msgstr aragonés
+
+#ang
+msgid Old English
+msgstr inglés antiguo
+
+#anp
+msgid Angika
+msgstr angika
+
+#ar
+msgid Arabic
+msgstr árabe
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr árabe estándar moderno
+
+#arc
+msgid Aramaic
+msgstr arameo
+
+#arn
+msgid Mapuche
+msgstr mapuche
+
+#arp
+msgid Arapaho
+msgstr arapaho
+
+#arw
+msgid Arawak
+msgstr arahuaco
+
+#as
+msgid Assamese
+msgstr asamés
+
+#asa
+msgid Asu
+msgstr asu
+
+#ast
+msgid Asturian
+msgstr asturiano
+
+#av
+msgid Avaric
+msgstr avar
+
+#awa
+msgid Awadhi
+msgstr avadhi
+
+#ay
+msgid Aymara
+msgstr aimara
+
+#az
+msgid Azerbaijani
+msgstr azerbaiyano
+
+#az-short
+msgid Azeri
+msgstr azerí
+
+#ba
+msgid Bashkir
+msgstr baskir
+
+#bal
+msgid Baluchi
+msgstr baluchi
+
+#ban
+msgid Balinese
+msgstr balinés
+
+#bas
+msgid Basaa
+msgstr basaa
+
+#bax
+msgid Bamun
+msgstr bamún
+
+#bbj
+msgid Ghomala
+msgstr ghomala
+
+#be
+msgid Belarusian
+msgstr bielorruso
+
+#bej
+msgid Beja
+msgstr beja
+
+#bem
+msgid Bemba
+msgstr bemba
+
+#bez
+msgid Bena
+msgstr bena
+
+#bfd
+msgid Bafut
+msgstr bafut
+
+#bg
+msgid Bulgarian
+msgstr búlgaro
+
+#bgn
+msgid Western Balochi
+msgstr baluchi occidental
+
+#bho
+msgid Bhojpuri
+msgstr bhoyapurí
+
+#bi
+msgid Bislama
+msgstr bislama
+
+#bik
+msgid Bikol
+msgstr bicol
+
+#bin
+msgid Bini
+msgstr bini
+
+#bkm
+msgid Kom
+msgstr kom
+
+#bla
+msgid Siksika
+msgstr siksika
+
+#bm
+msgid Bambara
+msgstr bambara
+
+#bn
+msgid Bangla
+msgstr bengalí
+
+#bo
+msgid Tibetan
+msgstr tibetano
+
+#br
+msgid Breton
+msgstr bretón
+
+#bra
+msgid Braj
+msgstr braj
+
+#brx
+msgid Bodo
+msgstr bodo
+
+#bs
+msgid Bosnian
+msgstr bosnio
+
+#bss
+msgid Akoose
+msgstr akoose
+
+#bua
+msgid Buriat
+msgstr buriato
+
+#bug
+msgid Buginese
+msgstr buginés
+
+#bum
+msgid Bulu
+msgstr bulu
+
+#byn
+msgid Blin
+msgstr blin
+
+#byv
+msgid Medumba
+msgstr medumba
+
+#ca
+msgid Catalan
+msgstr catalán
+
+#cad
+msgid Caddo
+msgstr caddo
+
+#car
+msgid Carib
+msgstr caribe
+
+#cay
+msgid Cayuga
+msgstr cayuga
+
+#cch
+msgid Atsam
+msgstr atsam
+
+#ce
+msgid Chechen
+msgstr checheno
+
+#ceb
+msgid Cebuano
+msgstr cebuano
+
+#cgg
+msgid Chiga
+msgstr chiga
+
+#ch
+msgid Chamorro
+msgstr chamorro
+
+#chb
+msgid Chibcha
+msgstr chibcha
+
+#chg
+msgid Chagatai
+msgstr chagatái
+
+#chk
+msgid Chuukese
+msgstr trukés
+
+#chm
+msgid Mari
+msgstr marí
+
+#chn
+msgid Chinook Jargon
+msgstr jerga chinuk
+
+#cho
+msgid Choctaw
+msgstr choctaw
+
+#chp
+msgid Chipewyan
+msgstr chipewyan
+
+#chr
+msgid Cherokee
+msgstr cheroqui
+
+#chy
+msgid Cheyenne
+msgstr cheyene
+
+#ckb
+msgid Central Kurdish
+msgstr kurdo sorani
+
+#co
+msgid Corsican
+msgstr corso
+
+#cop
+msgid Coptic
+msgstr copto
+
+#cr
+msgid Cree
+msgstr cree
+
+#crh
+msgid Crimean Turkish
+msgstr tártaro de Crimea
+
+#crs
+msgid Seselwa Creole French
+msgstr criollo seychelense
+
+#cs
+msgid Czech
+msgstr checo
+
+#csb
+msgid Kashubian
+msgstr casubio
+
+#cu
+msgid Church Slavic
+msgstr eslavo eclesiástico
+
+#cv
+msgid Chuvash
+msgstr chuvasio
+
+#cy
+msgid Welsh
+msgstr galés
+
+#da
+msgid Danish
+msgstr danés
+
+#dak
+msgid Dakota
+msgstr dakota
+
+#dar
+msgid Dargwa
+msgstr dargva
+
+#dav
+msgid Taita
+msgstr taita
+
+#de
+msgid German
+msgstr alemán
+
+#de AT
+msgid Austrian German
+msgstr alemán austríaco
+
+#de CH
+msgid Swiss High German
+msgstr alto alemán suizo
+
+#del
+msgid Delaware
+msgstr delaware
+
+#den
+msgid Slave
+msgstr slave
+
+#dgr
+msgid Dogrib
+msgstr dogrib
+
+#din
+msgid Dinka
+msgstr dinka
+
+#dje
+msgid Zarma
+msgstr zarma
+
+#doi
+msgid Dogri
+msgstr dogri
+
+#dsb
+msgid Lower Sorbian
+msgstr bajo sorbio
+
+#dua
+msgid Duala
+msgstr duala
+
+#dum
+msgid Middle Dutch
+msgstr neerlandés medio
+
+#dv
+msgid Divehi
+msgstr divehi
+
+#dyo
+msgid Jola-Fonyi
+msgstr jola-fonyi
+
+#dyu
+msgid Dyula
+msgstr diula
+
+#dz
+msgid Dzongkha
+msgstr dzongkha
+
+#dzg
+msgid Dazaga
+msgstr dazaga
+
+#ebu
+msgid Embu
+msgstr embu
+
+#ee
+msgid Ewe
+msgstr ewé
+
+#efi
+msgid Efik
+msgstr efik
+
+#egy
+msgid Ancient Egyptian
+msgstr egipcio antiguo
+
+#eka
+msgid Ekajuk
+msgstr ekajuk
+
+#el
+msgid Greek
+msgstr griego
+
+#elx
+msgid Elamite
+msgstr elamita
+
+#en
+msgid English
+msgstr inglés
+
+#en AU
+msgid Australian English
+msgstr inglés australiano
+
+#en CA
+msgid Canadian English
+msgstr inglés canadiense
+
+#en GB
+msgid British English
+msgstr inglés británico
+
+#en GB-short
+msgid UK English
+msgstr inglés (RU)
+
+#en US
+msgid American English
+msgstr inglés estadounidense
+
+#en US-short
+msgid US English
+msgstr inglés (EE. UU.)
+
+#enm
+msgid Middle English
+msgstr inglés medio
+
+#eo
+msgid Esperanto
+msgstr esperanto
+
+#es
+msgid Spanish
+msgstr español
+
+#es 419
+msgid Latin American Spanish
+msgstr español latinoamericano
+
+#es ES
+msgid European Spanish
+msgstr español de España
+
+#es MX
+msgid Mexican Spanish
+msgstr español de México
+
+#et
+msgid Estonian
+msgstr estonio
+
+#eu
+msgid Basque
+msgstr euskera
+
+#ewo
+msgid Ewondo
+msgstr ewondo
+
+#fa
+msgid Persian
+msgstr persa
+
+#fan
+msgid Fang
+msgstr fang
+
+#fat
+msgid Fanti
+msgstr fanti
+
+#ff
+msgid Fulah
+msgstr fula
+
+#fi
+msgid Finnish
+msgstr finés
+
+#fil
+msgid Filipino
+msgstr filipino
+
+#fj
+msgid Fijian
+msgstr fiyiano
+
+#fo
+msgid Faroese
+msgstr feroés
+
+#fr
+msgid French
+msgstr francés
+
+#fr CA
+msgid Canadian French
+msgstr francés canadiense
+
+#fr CH
+msgid Swiss French
+msgstr francés suizo
+
+#frm
+msgid Middle French
+msgstr francés medio
+
+#fro
+msgid Old French
+msgstr francés antiguo
+
+#frr
+msgid Northern Frisian
+msgstr frisón septentrional
+
+#frs
+msgid Eastern Frisian
+msgstr frisón oriental
+
+#fur
+msgid Friulian
+msgstr friulano
+
+#fy
+msgid Western Frisian
+msgstr frisón occidental
+
+#ga
+msgid Irish
+msgstr irlandés
+
+#gaa
+msgid Ga
+msgstr ga
+
+#gag
+msgid Gagauz
+msgstr gagauzo
+
+#gan
+msgid Gan Chinese
+msgstr chino gan
+
+#gay
+msgid Gayo
+msgstr gayo
+
+#gba
+msgid Gbaya
+msgstr gbaya
+
+#gd
+msgid Scottish Gaelic
+msgstr gaélico escocés
+
+#gez
+msgid Geez
+msgstr geez
+
+#gil
+msgid Gilbertese
+msgstr gilbertés
+
+#gl
+msgid Galician
+msgstr gallego
+
+#gmh
+msgid Middle High German
+msgstr alto alemán medio
+
+#gn
+msgid Guarani
+msgstr guaraní
+
+#goh
+msgid Old High German
+msgstr alto alemán antiguo
+
+#gon
+msgid Gondi
+msgstr gondi
+
+#gor
+msgid Gorontalo
+msgstr gorontalo
+
+#got
+msgid Gothic
+msgstr gótico
+
+#grb
+msgid Grebo
+msgstr grebo
+
+#grc
+msgid Ancient Greek
+msgstr griego antiguo
+
+#gsw
+msgid Swiss German
+msgstr alemán suizo
+
+#gu
+msgid Gujarati
+msgstr guyaratí
+
+#guz
+msgid Gusii
+msgstr gusii
+
+#gv
+msgid Manx
+msgstr manés
+
+#gwi
+msgid Gwichʼin
+msgstr kutchin
+
+#ha
+msgid Hausa
+msgstr hausa
+
+#hai
+msgid Haida
+msgstr haida
+
+#hak
+msgid Hakka Chinese
+msgstr chino hakka
+
+#haw
+msgid Hawaiian
+msgstr hawaiano
+
+#he
+msgid Hebrew
+msgstr hebreo
+
+#hi
+msgid Hindi
+msgstr hindi
+
+#hil
+msgid Hiligaynon
+msgstr hiligaynon
+
+#hit
+msgid Hittite
+msgstr hitita
+
+#hmn
+msgid Hmong
+msgstr hmong
+
+#ho
+msgid Hiri Motu
+msgstr hiri motu
+
+#hr
+msgid Croatian
+msgstr croata
+
+#hsb
+msgid Upper Sorbian
+msgstr alto sorbio
+
+#hsn
+msgid Xiang Chinese
+msgstr chino xiang
+
+#ht
+msgid Haitian Creole
+msgstr criollo haitiano
+
+#hu
+msgid Hungarian
+msgstr húngaro
+
+#hup
+msgid Hupa
+msgstr hupa
+
+#hy
+msgid Armenian
+msgstr armenio
+
+#hz
+msgid Herero
+msgstr herero
+
+#ia
+msgid Interlingua
+msgstr interlingua
+
+#iba
+msgid Iban
+msgstr iban
+
+#ibb
+msgid Ibibio
+msgstr ibibio
+
+#id
+msgid Indonesian
+msgstr indonesio
+
+#ie
+msgid Interlingue
+msgstr interlingue
+
+#ig
+msgid Igbo
+msgstr igbo
+
+#ii
+msgid Sichuan Yi
+msgstr yi de Sichuán
+
+#ik
+msgid Inupiaq
+msgstr inupiaq
+
+#ilo
+msgid Iloko
+msgstr ilocano
+
+#inh
+msgid Ingush
+msgstr ingush
+
+#io
+msgid Ido
+msgstr ido
+
+#is
+msgid Icelandic
+msgstr islandés
+
+#it
+msgid Italian
+msgstr italiano
+
+#iu
+msgid Inuktitut
+msgstr inuktitut
+
+#ja
+msgid Japanese
+msgstr japonés
+
+#jbo
+msgid Lojban
+msgstr lojban
+
+#jgo
+msgid Ngomba
+msgstr ngomba
+
+#jmc
+msgid Machame
+msgstr machame
+
+#jpr
+msgid Judeo-Persian
+msgstr judeo-persa
+
+#jrb
+msgid Judeo-Arabic
+msgstr judeo-árabe
+
+#jv
+msgid Javanese
+msgstr javanés
+
+#ka
+msgid Georgian
+msgstr georgiano
+
+#kaa
+msgid Kara-Kalpak
+msgstr karakalpako
+
+#kab
+msgid Kabyle
+msgstr cabila
+
+#kac
+msgid Kachin
+msgstr kachin
+
+#kaj
+msgid Jju
+msgstr jju
+
+#kam
+msgid Kamba
+msgstr kamba
+
+#kaw
+msgid Kawi
+msgstr kawi
+
+#kbd
+msgid Kabardian
+msgstr kabardiano
+
+#kbl
+msgid Kanembu
+msgstr kanembu
+
+#kcg
+msgid Tyap
+msgstr tyap
+
+#kde
+msgid Makonde
+msgstr makonde
+
+#kea
+msgid Kabuverdianu
+msgstr criollo caboverdiano
+
+#kfo
+msgid Koro
+msgstr koro
+
+#kg
+msgid Kongo
+msgstr kongo
+
+#kha
+msgid Khasi
+msgstr khasi
+
+#kho
+msgid Khotanese
+msgstr kotanés
+
+#khq
+msgid Koyra Chiini
+msgstr koyra chiini
+
+#ki
+msgid Kikuyu
+msgstr kikuyu
+
+#kj
+msgid Kuanyama
+msgstr kuanyama
+
+#kk
+msgid Kazakh
+msgstr kazajo
+
+#kkj
+msgid Kako
+msgstr kako
+
+#kl
+msgid Kalaallisut
+msgstr groenlandés
+
+#kln
+msgid Kalenjin
+msgstr kalenjin
+
+#km
+msgid Khmer
+msgstr jemer
+
+#kmb
+msgid Kimbundu
+msgstr kimbundu
+
+#kn
+msgid Kannada
+msgstr canarés
+
+#ko
+msgid Korean
+msgstr coreano
+
+#koi
+msgid Komi-Permyak
+msgstr komi permio
+
+#kok
+msgid Konkani
+msgstr konkaní
+
+#kos
+msgid Kosraean
+msgstr kosraeano
+
+#kpe
+msgid Kpelle
+msgstr kpelle
+
+#kr
+msgid Kanuri
+msgstr kanuri
+
+#krc
+msgid Karachay-Balkar
+msgstr karachay-balkar
+
+#krl
+msgid Karelian
+msgstr carelio
+
+#kru
+msgid Kurukh
+msgstr kurukh
+
+#ks
+msgid Kashmiri
+msgstr cachemiro
+
+#ksb
+msgid Shambala
+msgstr shambala
+
+#ksf
+msgid Bafia
+msgstr bafia
+
+#ksh
+msgid Colognian
+msgstr kölsch
+
+#ku
+msgid Kurdish
+msgstr kurdo
+
+#kum
+msgid Kumyk
+msgstr kumyk
+
+#kut
+msgid Kutenai
+msgstr kutenai
+
+#kv
+msgid Komi
+msgstr komi
+
+#kw
+msgid Cornish
+msgstr córnico
+
+#ky
+msgid Kyrgyz
+msgstr kirguís
+
+#la
+msgid Latin
+msgstr latín
+
+#lad
+msgid Ladino
+msgstr ladino
+
+#lag
+msgid Langi
+msgstr langi
+
+#lah
+msgid Lahnda
+msgstr lahnda
+
+#lam
+msgid Lamba
+msgstr lamba
+
+#lb
+msgid Luxembourgish
+msgstr luxemburgués
+
+#lez
+msgid Lezghian
+msgstr lezgiano
+
+#lg
+msgid Ganda
+msgstr ganda
+
+#li
+msgid Limburgish
+msgstr limburgués
+
+#lkt
+msgid Lakota
+msgstr lakota
+
+#ln
+msgid Lingala
+msgstr lingala
+
+#lo
+msgid Lao
+msgstr lao
+
+#lol
+msgid Mongo
+msgstr mongo
+
+#loz
+msgid Lozi
+msgstr lozi
+
+#lrc
+msgid Northern Luri
+msgstr lorí septentrional
+
+#lt
+msgid Lithuanian
+msgstr lituano
+
+#lu
+msgid Luba-Katanga
+msgstr luba-katanga
+
+#lua
+msgid Luba-Lulua
+msgstr luba-lulua
+
+#lui
+msgid Luiseno
+msgstr luiseño
+
+#lun
+msgid Lunda
+msgstr lunda
+
+#lus
+msgid Mizo
+msgstr mizo
+
+#luy
+msgid Luyia
+msgstr luyia
+
+#lv
+msgid Latvian
+msgstr letón
+
+#mad
+msgid Madurese
+msgstr madurés
+
+#maf
+msgid Mafa
+msgstr mafa
+
+#mag
+msgid Magahi
+msgstr magahi
+
+#mai
+msgid Maithili
+msgstr maithili
+
+#mak
+msgid Makasar
+msgstr macasar
+
+#man
+msgid Mandingo
+msgstr mandingo
+
+#mas
+msgid Masai
+msgstr masái
+
+#mde
+msgid Maba
+msgstr maba
+
+#mdf
+msgid Moksha
+msgstr moksha
+
+#mdr
+msgid Mandar
+msgstr mandar
+
+#men
+msgid Mende
+msgstr mende
+
+#mer
+msgid Meru
+msgstr meru
+
+#mfe
+msgid Morisyen
+msgstr criollo mauriciano
+
+#mg
+msgid Malagasy
+msgstr malgache
+
+#mga
+msgid Middle Irish
+msgstr irlandés medio
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr makhuwa-meetto
+
+#mgo
+msgid Metaʼ
+msgstr meta’
+
+#mh
+msgid Marshallese
+msgstr marshalés
+
+#mi
+msgid Maori
+msgstr maorí
+
+#mic
+msgid Mi'kmaq
+msgstr micmac
+
+#min
+msgid Minangkabau
+msgstr minangkabau
+
+#mk
+msgid Macedonian
+msgstr macedonio
+
+#ml
+msgid Malayalam
+msgstr malayalam
+
+#mn
+msgid Mongolian
+msgstr mongol
+
+#mnc
+msgid Manchu
+msgstr manchú
+
+#mni
+msgid Manipuri
+msgstr manipuri
+
+#moh
+msgid Mohawk
+msgstr mohawk
+
+#mos
+msgid Mossi
+msgstr mossi
+
+#mr
+msgid Marathi
+msgstr maratí
+
+#ms
+msgid Malay
+msgstr malayo
+
+#mt
+msgid Maltese
+msgstr maltés
+
+#mua
+msgid Mundang
+msgstr mundang
+
+#mul
+msgid Multiple languages
+msgstr varios idiomas
+
+#mus
+msgid Creek
+msgstr creek
+
+#mwl
+msgid Mirandese
+msgstr mirandés
+
+#mwr
+msgid Marwari
+msgstr marwari
+
+#my
+msgid Burmese
+msgstr birmano
+
+#mye
+msgid Myene
+msgstr myene
+
+#myv
+msgid Erzya
+msgstr erzya
+
+#mzn
+msgid Mazanderani
+msgstr mazandaraní
+
+#na
+msgid Nauru
+msgstr nauruano
+
+#nan
+msgid Min Nan Chinese
+msgstr chino min nan
+
+#nap
+msgid Neapolitan
+msgstr napolitano
+
+#naq
+msgid Nama
+msgstr nama
+
+#nb
+msgid Norwegian Bokmål
+msgstr noruego bokmal
+
+#nd
+msgid North Ndebele
+msgstr ndebele septentrional
+
+#nds
+msgid Low German
+msgstr bajo alemán
+
+#nds NL
+msgid Low Saxon
+msgstr bajo sajón
+
+#ne
+msgid Nepali
+msgstr nepalí
+
+#new
+msgid Newari
+msgstr newari
+
+#ng
+msgid Ndonga
+msgstr ndonga
+
+#nia
+msgid Nias
+msgstr nias
+
+#niu
+msgid Niuean
+msgstr niueano
+
+#nl
+msgid Dutch
+msgstr neerlandés
+
+#nl BE
+msgid Flemish
+msgstr flamenco
+
+#nmg
+msgid Kwasio
+msgstr kwasio
+
+#nn
+msgid Norwegian Nynorsk
+msgstr noruego nynorsk
+
+#nnh
+msgid Ngiemboon
+msgstr ngiemboon
+
+#no
+msgid Norwegian
+msgstr noruego
+
+#nog
+msgid Nogai
+msgstr nogai
+
+#non
+msgid Old Norse
+msgstr nórdico antiguo
+
+#nqo
+msgid N’Ko
+msgstr n’ko
+
+#nr
+msgid South Ndebele
+msgstr ndebele meridional
+
+#nso
+msgid Northern Sotho
+msgstr sesotho septentrional
+
+#nus
+msgid Nuer
+msgstr nuer
+
+#nv
+msgid Navajo
+msgstr navajo
+
+#nwc
+msgid Classical Newari
+msgstr newari clásico
+
+#ny
+msgid Nyanja
+msgstr nyanja
+
+#nym
+msgid Nyamwezi
+msgstr nyamwezi
+
+#nyn
+msgid Nyankole
+msgstr nyankole
+
+#nyo
+msgid Nyoro
+msgstr nyoro
+
+#nzi
+msgid Nzima
+msgstr nzima
+
+#oc
+msgid Occitan
+msgstr occitano
+
+#oj
+msgid Ojibwa
+msgstr ojibwa
+
+#om
+msgid Oromo
+msgstr oromo
+
+#or
+msgid Odia
+msgstr oriya
+
+#os
+msgid Ossetic
+msgstr osético
+
+#osa
+msgid Osage
+msgstr osage
+
+#ota
+msgid Ottoman Turkish
+msgstr turco otomano
+
+#pa
+msgid Punjabi
+msgstr panyabí
+
+#pag
+msgid Pangasinan
+msgstr pangasinán
+
+#pal
+msgid Pahlavi
+msgstr pahlavi
+
+#pam
+msgid Pampanga
+msgstr pampanga
+
+#pap
+msgid Papiamento
+msgstr papiamento
+
+#pau
+msgid Palauan
+msgstr palauano
+
+#pcm
+msgid Nigerian Pidgin
+msgstr pidgin de Nigeria
+
+#peo
+msgid Old Persian
+msgstr persa antiguo
+
+#phn
+msgid Phoenician
+msgstr fenicio
+
+#pi
+msgid Pali
+msgstr pali
+
+#pl
+msgid Polish
+msgstr polaco
+
+#pon
+msgid Pohnpeian
+msgstr pohnpeiano
+
+#prg
+msgid Prussian
+msgstr prusiano
+
+#pro
+msgid Old Provençal
+msgstr provenzal antiguo
+
+#ps
+msgid Pashto
+msgstr pastún
+
+#ps-variant
+msgid Pushto
+msgstr pastú
+
+#pt
+msgid Portuguese
+msgstr portugués
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr portugués de Brasil
+
+#pt PT
+msgid European Portuguese
+msgstr portugués de Portugal
+
+#qu
+msgid Quechua
+msgstr quechua
+
+#quc
+msgid Kʼicheʼ
+msgstr quiché
+
+#raj
+msgid Rajasthani
+msgstr rajasthani
+
+#rap
+msgid Rapanui
+msgstr rapanui
+
+#rar
+msgid Rarotongan
+msgstr rarotongano
+
+#rm
+msgid Romansh
+msgstr romanche
+
+#rn
+msgid Rundi
+msgstr kirundi
+
+#ro
+msgid Romanian
+msgstr rumano
+
+#ro MD
+msgid Moldavian
+msgstr moldavo
+
+#rof
+msgid Rombo
+msgstr rombo
+
+#rom
+msgid Romany
+msgstr romaní
+
+#root
+msgid Root
+msgstr raíz
+
+#ru
+msgid Russian
+msgstr ruso
+
+#rup
+msgid Aromanian
+msgstr arrumano
+
+#rw
+msgid Kinyarwanda
+msgstr kinyarwanda
+
+#rwk
+msgid Rwa
+msgstr rwa
+
+#sa
+msgid Sanskrit
+msgstr sánscrito
+
+#sad
+msgid Sandawe
+msgstr sandawe
+
+#sah
+msgid Sakha
+msgstr sakha
+
+#sam
+msgid Samaritan Aramaic
+msgstr arameo samaritano
+
+#saq
+msgid Samburu
+msgstr samburu
+
+#sas
+msgid Sasak
+msgstr sasak
+
+#sat
+msgid Santali
+msgstr santali
+
+#sba
+msgid Ngambay
+msgstr ngambay
+
+#sbp
+msgid Sangu
+msgstr sangu
+
+#sc
+msgid Sardinian
+msgstr sardo
+
+#scn
+msgid Sicilian
+msgstr siciliano
+
+#sco
+msgid Scots
+msgstr escocés
+
+#sd
+msgid Sindhi
+msgstr sindhi
+
+#sdh
+msgid Southern Kurdish
+msgstr kurdo meridional
+
+#se
+msgid Northern Sami
+msgstr sami septentrional
+
+#see
+msgid Seneca
+msgstr seneca
+
+#seh
+msgid Sena
+msgstr sena
+
+#sel
+msgid Selkup
+msgstr selkup
+
+#ses
+msgid Koyraboro Senni
+msgstr koyraboro senni
+
+#sg
+msgid Sango
+msgstr sango
+
+#sga
+msgid Old Irish
+msgstr irlandés antiguo
+
+#sh
+msgid Serbo-Croatian
+msgstr serbocroata
+
+#shi
+msgid Tachelhit
+msgstr tashelhit
+
+#shn
+msgid Shan
+msgstr shan
+
+#shu
+msgid Chadian Arabic
+msgstr árabe chadiano
+
+#si
+msgid Sinhala
+msgstr cingalés
+
+#sid
+msgid Sidamo
+msgstr sidamo
+
+#sk
+msgid Slovak
+msgstr eslovaco
+
+#sl
+msgid Slovenian
+msgstr esloveno
+
+#sm
+msgid Samoan
+msgstr samoano
+
+#sma
+msgid Southern Sami
+msgstr sami meridional
+
+#smj
+msgid Lule Sami
+msgstr sami lule
+
+#smn
+msgid Inari Sami
+msgstr sami inari
+
+#sms
+msgid Skolt Sami
+msgstr sami skolt
+
+#sn
+msgid Shona
+msgstr shona
+
+#snk
+msgid Soninke
+msgstr soninké
+
+#so
+msgid Somali
+msgstr somalí
+
+#sog
+msgid Sogdien
+msgstr sogdiano
+
+#sq
+msgid Albanian
+msgstr albanés
+
+#sr
+msgid Serbian
+msgstr serbio
+
+#srn
+msgid Sranan Tongo
+msgstr sranan tongo
+
+#srr
+msgid Serer
+msgstr serer
+
+#ss
+msgid Swati
+msgstr suazi
+
+#ssy
+msgid Saho
+msgstr saho
+
+#st
+msgid Southern Sotho
+msgstr sesotho meridional
+
+#su
+msgid Sundanese
+msgstr sundanés
+
+#suk
+msgid Sukuma
+msgstr sukuma
+
+#sus
+msgid Susu
+msgstr susu
+
+#sux
+msgid Sumerian
+msgstr sumerio
+
+#sv
+msgid Swedish
+msgstr sueco
+
+#sw
+msgid Swahili
+msgstr suajili
+
+#sw CD
+msgid Congo Swahili
+msgstr suajili del Congo
+
+#swb
+msgid Comorian
+msgstr comorense
+
+#syc
+msgid Classical Syriac
+msgstr siríaco clásico
+
+#syr
+msgid Syriac
+msgstr siriaco
+
+#ta
+msgid Tamil
+msgstr tamil
+
+#te
+msgid Telugu
+msgstr telugu
+
+#tem
+msgid Timne
+msgstr temne
+
+#teo
+msgid Teso
+msgstr teso
+
+#ter
+msgid Tereno
+msgstr tereno
+
+#tet
+msgid Tetum
+msgstr tetún
+
+#tg
+msgid Tajik
+msgstr tayiko
+
+#th
+msgid Thai
+msgstr tailandés
+
+#ti
+msgid Tigrinya
+msgstr tigriña
+
+#tig
+msgid Tigre
+msgstr tigré
+
+#tiv
+msgid Tiv
+msgstr tiv
+
+#tk
+msgid Turkmen
+msgstr turcomano
+
+#tkl
+msgid Tokelau
+msgstr tokelauano
+
+#tl
+msgid Tagalog
+msgstr tagalo
+
+#tlh
+msgid Klingon
+msgstr klingon
+
+#tli
+msgid Tlingit
+msgstr tlingit
+
+#tmh
+msgid Tamashek
+msgstr tamashek
+
+#tn
+msgid Tswana
+msgstr setsuana
+
+#to
+msgid Tongan
+msgstr tongano
+
+#tog
+msgid Nyasa Tonga
+msgstr tonga del Nyasa
+
+#tpi
+msgid Tok Pisin
+msgstr tok pisin
+
+#tr
+msgid Turkish
+msgstr turco
+
+#trv
+msgid Taroko
+msgstr taroko
+
+#ts
+msgid Tsonga
+msgstr tsonga
+
+#tsi
+msgid Tsimshian
+msgstr tsimshiano
+
+#tt
+msgid Tatar
+msgstr tártaro
+
+#tum
+msgid Tumbuka
+msgstr tumbuka
+
+#tvl
+msgid Tuvalu
+msgstr tuvaluano
+
+#tw
+msgid Twi
+msgstr twi
+
+#twq
+msgid Tasawaq
+msgstr tasawaq
+
+#ty
+msgid Tahitian
+msgstr tahitiano
+
+#tyv
+msgid Tuvinian
+msgstr tuviniano
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr tamazight del Atlas Central
+
+#udm
+msgid Udmurt
+msgstr udmurt
+
+#ug
+msgid Uyghur
+msgstr uigur
+
+#ug-variant
+msgid Uighur
+msgstr uygur
+
+#uga
+msgid Ugaritic
+msgstr ugarítico
+
+#uk
+msgid Ukrainian
+msgstr ucraniano
+
+#umb
+msgid Umbundu
+msgstr umbundu
+
+#und
+msgid Unknown language
+msgstr lengua desconocida
+
+#ur
+msgid Urdu
+msgstr urdu
+
+#uz
+msgid Uzbek
+msgstr uzbeko
+
+#ve
+msgid Venda
+msgstr venda
+
+#vi
+msgid Vietnamese
+msgstr vietnamita
+
+#vo
+msgid Volapük
+msgstr volapük
+
+#vot
+msgid Votic
+msgstr vótico
+
+#vun
+msgid Vunjo
+msgstr vunjo
+
+#wa
+msgid Walloon
+msgstr valón
+
+#wae
+msgid Walser
+msgstr walser
+
+#wal
+msgid Wolaytta
+msgstr wolayta
+
+#war
+msgid Waray
+msgstr waray
+
+#was
+msgid Washo
+msgstr washo
+
+#wbp
+msgid Warlpiri
+msgstr warlpiri
+
+#wo
+msgid Wolof
+msgstr wólof
+
+#wuu
+msgid Wu Chinese
+msgstr chino wu
+
+#xal
+msgid Kalmyk
+msgstr kalmyk
+
+#xh
+msgid Xhosa
+msgstr xhosa
+
+#xog
+msgid Soga
+msgstr soga
+
+#yao
+msgid Yao
+msgstr yao
+
+#yap
+msgid Yapese
+msgstr yapés
+
+#yav
+msgid Yangben
+msgstr yangben
+
+#ybb
+msgid Yemba
+msgstr yemba
+
+#yi
+msgid Yiddish
+msgstr yidis
+
+#yo
+msgid Yoruba
+msgstr yoruba
+
+#yue
+msgid Cantonese
+msgstr cantonés
+
+#za
+msgid Zhuang
+msgstr zhuang
+
+#zap
+msgid Zapotec
+msgstr zapoteco
+
+#zbl
+msgid Blissymbols
+msgstr símbolos Bliss
+
+#zen
+msgid Zenaga
+msgstr zenaga
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr tamazight estándar marroquí
+
+#zh
+msgid Chinese
+msgstr chino
+
+#zh Hans
+msgid Simplified Chinese
+msgstr chino simplificado
+
+#zh Hant
+msgid Traditional Chinese
+msgstr chino tradicional
+
+#zu
+msgid Zulu
+msgstr zulú
+
+#zun
+msgid Zuni
+msgstr zuñi
+
+#zxx
+msgid No linguistic content
+msgstr sin contenido lingüístico
+
+#zza
+msgid Zaza
+msgstr zazaki
+

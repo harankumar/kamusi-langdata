@@ -1,0 +1,180 @@
+#ak
+msgid Akan
+msgstr Kĩakani
+
+#am
+msgid Amharic
+msgstr Kĩamarĩki
+
+#ar
+msgid Arabic
+msgstr Kĩarabu
+
+#be
+msgid Belarusian
+msgstr Kĩbelarusi
+
+#bg
+msgid Bulgarian
+msgstr Kĩbulugĩria
+
+#bn
+msgid Bengali
+msgstr Kĩbangira
+
+#cs
+msgid Czech
+msgstr Kĩcheki
+
+#de
+msgid German
+msgstr Kĩnjamanĩ
+
+#el
+msgid Greek
+msgstr Kĩngiriki
+
+#en
+msgid English
+msgstr Kĩngeretha
+
+#es
+msgid Spanish
+msgstr Kĩspĩni
+
+#fa
+msgid Persian
+msgstr Kĩpasia
+
+#fr
+msgid French
+msgstr Kĩfuransi
+
+#ha
+msgid Hausa
+msgstr Kĩhausa
+
+#hi
+msgid Hindi
+msgstr Kĩhĩndi
+
+#hu
+msgid Hungarian
+msgstr Kĩhangarĩ
+
+#id
+msgid Indonesian
+msgstr Kĩindonesia
+
+#ig
+msgid Igbo
+msgstr Kĩigbo
+
+#it
+msgid Italian
+msgstr Kĩitalĩ
+
+#ja
+msgid Japanese
+msgstr Kĩjapani
+
+#jv
+msgid Javanese
+msgstr Kĩjava
+
+#km
+msgid Khmer
+msgstr Kĩkambodia
+
+#ko
+msgid Korean
+msgstr Kĩkorea
+
+#mer
+msgid Meru
+msgstr Kĩmĩrũ
+
+#ms
+msgid Malay
+msgstr Kĩmalesia
+
+#my
+msgid Burmese
+msgstr Kĩburma
+
+#ne
+msgid Nepali
+msgstr Kĩnepali
+
+#nl
+msgid Dutch
+msgstr Kĩholandi
+
+#pa
+msgid Punjabi
+msgstr Kĩpunjabu
+
+#pl
+msgid Polish
+msgstr Kĩpolandi
+
+#pt
+msgid Portuguese
+msgstr Kĩpochogo
+
+#ro
+msgid Romanian
+msgstr Kĩromania
+
+#ru
+msgid Russian
+msgstr Kĩrashia
+
+#rw
+msgid Kinyarwanda
+msgstr Kĩrwanda
+
+#so
+msgid Somali
+msgstr Kĩsomali
+
+#sv
+msgid Swedish
+msgstr Kĩswideni
+
+#ta
+msgid Tamil
+msgstr Kĩtamilu
+
+#th
+msgid Thai
+msgstr Kĩthailandi
+
+#tr
+msgid Turkish
+msgstr Kĩtakĩ
+
+#uk
+msgid Ukrainian
+msgstr Kĩukirĩni
+
+#ur
+msgid Urdu
+msgstr Kĩurdu
+
+#vi
+msgid Vietnamese
+msgstr Kĩvietinamu
+
+#yo
+msgid Yoruba
+msgstr Kĩyoruba
+
+#zh
+msgid Chinese
+msgstr Kĩchina
+
+#zu
+msgid Zulu
+msgstr Kĩzulu
+

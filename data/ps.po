@@ -1,0 +1,432 @@
+#af
+msgid Afrikaans
+msgstr افريکاني
+
+#am
+msgid Amharic
+msgstr امهاري
+
+#ar
+msgid Arabic
+msgstr عربي
+
+#as
+msgid Assamese
+msgstr آسامي
+
+#az
+msgid Azerbaijani
+msgstr أذربائجاني
+
+#bal
+msgid Baluchi
+msgstr بلوڅي
+
+#be
+msgid Belarusian
+msgstr بېلاروسي
+
+#bg
+msgid Bulgarian
+msgstr بلغاري
+
+#bn
+msgid Bangla
+msgstr بنګالي
+
+#br
+msgid Breton
+msgstr برېتون
+
+#bs
+msgid Bosnian
+msgstr بوسني
+
+#ca
+msgid Catalan
+msgstr کټلاني
+
+#cs
+msgid Czech
+msgstr چېک
+
+#cy
+msgid Welsh
+msgstr ويلشي
+
+#da
+msgid Danish
+msgstr ډېنش
+
+#de
+msgid German
+msgstr الماني
+
+#el
+msgid Greek
+msgstr یوناني
+
+#en
+msgid English
+msgstr انګریزي
+
+#eo
+msgid Esperanto
+msgstr اسپرانتو
+
+#es
+msgid Spanish
+msgstr هسپانوي
+
+#et
+msgid Estonian
+msgstr حبشي
+
+#eu
+msgid Basque
+msgstr باسکي
+
+#fa
+msgid Persian
+msgstr فارسي
+
+#fi
+msgid Finnish
+msgstr فینلنډي
+
+#fil
+msgid Filipino
+msgstr تګالوګ
+
+#fo
+msgid Faroese
+msgstr فاروئې
+
+#fr
+msgid French
+msgstr فرانسوي
+
+#fy
+msgid Western Frisian
+msgstr فريزي
+
+#ga
+msgid Irish
+msgstr ائيرلېنډي
+
+#gd
+msgid Scottish Gaelic
+msgstr سکاټلېنډي ګېلک
+
+#gl
+msgid Galician
+msgstr ګلېشيايي
+
+#gn
+msgid Guarani
+msgstr ګوراني
+
+#gu
+msgid Gujarati
+msgstr ګجراتي
+
+#he
+msgid Hebrew
+msgstr عبري
+
+#hi
+msgid Hindi
+msgstr هندي
+
+#hr
+msgid Croatian
+msgstr کروواتي
+
+#hu
+msgid Hungarian
+msgstr هنګري
+
+#hy
+msgid Armenian
+msgstr ارمني
+
+#ia
+msgid Interlingua
+msgstr انټرلنګوا
+
+#id
+msgid Indonesian
+msgstr انډونېشيايي
+
+#ie
+msgid Interlingue
+msgstr آسا نا جبة
+
+#is
+msgid Icelandic
+msgstr أيسلېنډي
+
+#it
+msgid Italian
+msgstr ایټالوي
+
+#ja
+msgid Japanese
+msgstr جاپانی
+
+#jv
+msgid Javanese
+msgstr جاوايې
+
+#ka
+msgid Georgian
+msgstr جورجيائي
+
+#km
+msgid Khmer
+msgstr کمبوډيايې يا د کمبوډيا
+
+#kn
+msgid Kannada
+msgstr کنأډه
+
+#ko
+msgid Korean
+msgstr کوريائي
+
+#ku
+msgid Kurdish
+msgstr کردي
+
+#ky
+msgid Kyrgyz
+msgstr کرګيز
+
+#la
+msgid Latin
+msgstr لاتیني
+
+#lo
+msgid Lao
+msgstr لويتين
+
+#lt
+msgid Lithuanian
+msgstr ليتواني
+
+#lv
+msgid Latvian
+msgstr لېټواني
+
+#mg
+msgid Malagasy
+msgstr ملغاسي
+
+#mk
+msgid Macedonian
+msgstr مقدوني
+
+#ml
+msgid Malayalam
+msgstr مالايالم
+
+#mn
+msgid Mongolian
+msgstr مغولي
+
+#mr
+msgid Marathi
+msgstr مراټهي
+
+#ms
+msgid Malay
+msgstr ملایا
+
+#mt
+msgid Maltese
+msgstr مالټايي
+
+#ne
+msgid Nepali
+msgstr نېپالي
+
+#nl
+msgid Dutch
+msgstr هالېنډي
+
+#nn
+msgid Norwegian Nynorsk
+msgstr ناروېئي (نائنورسک)
+
+#no
+msgid Norwegian
+msgstr ناروېئې
+
+#oc
+msgid Occitan
+msgstr اوکسيټاني
+
+#or
+msgid Odia
+msgstr اوريا
+
+#pa
+msgid Punjabi
+msgstr پنجابي
+
+#pl
+msgid Polish
+msgstr پولنډي
+
+#ps
+msgid Pashto
+msgstr پښتو
+
+#pt
+msgid Portuguese
+msgstr پورتګالي
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr پرتگال (برازيل)
+
+#pt PT
+msgid European Portuguese
+msgstr پرتګالي (پرتګال)
+
+#ro
+msgid Romanian
+msgstr روماني
+
+#ru
+msgid Russian
+msgstr روسي
+
+#sa
+msgid Sanskrit
+msgstr سنسکریټ
+
+#sd
+msgid Sindhi
+msgstr سندهي
+
+#sh
+msgid Serbo-Croatian
+msgstr سرب-کروشيايي
+
+#si
+msgid Sinhala
+msgstr سينهالي
+
+#sk
+msgid Slovak
+msgstr سلوواکي
+
+#sl
+msgid Slovenian
+msgstr سلوواني
+
+#so
+msgid Somali
+msgstr سومالي
+
+#sq
+msgid Albanian
+msgstr الباني
+
+#sr
+msgid Serbian
+msgstr سربيائي
+
+#st
+msgid Southern Sotho
+msgstr سيسوتو
+
+#su
+msgid Sundanese
+msgstr سوډاني
+
+#sv
+msgid Swedish
+msgstr سویډنی
+
+#sw
+msgid Swahili
+msgstr سواهېلي
+
+#ta
+msgid Tamil
+msgstr تامل
+
+#te
+msgid Telugu
+msgstr تېليګو
+
+#tg
+msgid Tajik
+msgstr تاجکي
+
+#th
+msgid Thai
+msgstr تايلېنډي
+
+#ti
+msgid Tigrinya
+msgstr تيګريني
+
+#tk
+msgid Turkmen
+msgstr ترکمني
+
+#tlh
+msgid Klingon
+msgstr کلينګاني
+
+#tr
+msgid Turkish
+msgstr ترکي
+
+#tt
+msgid Tatar
+msgstr تاتار
+
+#tw
+msgid Twi
+msgstr توی
+
+#ug
+msgid Uyghur
+msgstr اويگور
+
+#uk
+msgid Ukrainian
+msgstr اوکرانايي
+
+#ur
+msgid Urdu
+msgstr اردو
+
+#uz
+msgid Uzbek
+msgstr ازبکي
+
+#vi
+msgid Vietnamese
+msgstr وېتنامي
+
+#xh
+msgid Xhosa
+msgstr خوسا
+
+#yi
+msgid Yiddish
+msgstr يديش
+
+#zh
+msgid Chinese
+msgstr چیني
+
+#zu
+msgid Zulu
+msgstr زولو
+

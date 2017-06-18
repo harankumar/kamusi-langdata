@@ -1,0 +1,148 @@
+#ar
+msgid Arabic
+msgstr ʻAlapia
+
+#cy
+msgid Welsh
+msgstr Wale
+
+#da
+msgid Danish
+msgstr Kenemaka
+
+#de
+msgid German
+msgstr Kelemānia
+
+#el
+msgid Greek
+msgstr Helene
+
+#en
+msgid English
+msgstr Pelekānia
+
+#en AU
+msgid Australian English
+msgstr Pelekāne Nū Hōlani
+
+#en CA
+msgid Canadian English
+msgstr Pelekāne Kanakā
+
+#en GB
+msgid British English
+msgstr Pelekānia Pekekāne
+
+#en US
+msgid American English
+msgstr Pelekānia ʻAmelika
+
+#es
+msgid Spanish
+msgstr Paniolo
+
+#fj
+msgid Fijian
+msgstr Pīkī
+
+#fr
+msgid French
+msgstr Palani
+
+#fr CA
+msgid Canadian French
+msgstr Palani Kanakā
+
+#fr CH
+msgid Swiss French
+msgstr Kuikilani
+
+#ga
+msgid Irish
+msgstr ʻAiliki
+
+#gsw
+msgid Swiss German
+msgstr Kuikilani Kelemānia
+
+#haw
+msgid Hawaiian
+msgstr ʻŌlelo Hawaiʻi
+
+#he
+msgid Hebrew
+msgstr Hebera
+
+#it
+msgid Italian
+msgstr ʻĪkālia
+
+#ja
+msgid Japanese
+msgstr Kepanī
+
+#ko
+msgid Korean
+msgstr Kōlea
+
+#la
+msgid Latin
+msgstr Lākina
+
+#mi
+msgid Maori
+msgstr Māori
+
+#nl
+msgid Dutch
+msgstr Hōlani
+
+#pt
+msgid Portuguese
+msgstr Pukikī
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Pukikī Palakila
+
+#ru
+msgid Russian
+msgstr Lūkia
+
+#sm
+msgid Samoan
+msgstr Kāmoa
+
+#sv
+msgid Swedish
+msgstr Kuekene
+
+#to
+msgid Tongan
+msgstr Tonga
+
+#ty
+msgid Tahitian
+msgstr Polapola
+
+#und
+msgid Unknown language
+msgstr ʻIke ʻole ‘ia a kūpono ʻole paha ka ʻōlelo
+
+#vi
+msgid Vietnamese
+msgstr Wiekanama
+
+#zh
+msgid Chinese
+msgstr Pākē
+
+#zh Hans
+msgid Simplified Chinese
+msgstr Pākē Hoʻomaʻalahi ʻia
+
+#zh Hant
+msgid Traditional Chinese
+msgstr Pākē Kuʻuna
+

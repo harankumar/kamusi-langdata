@@ -1,0 +1,8 @@
+#sw CD
+msgid Congo Swahili
+msgstr swahili (R. D. Congo)
+
+#wal
+msgid Wolaytta
+msgstr wolaytta
+
