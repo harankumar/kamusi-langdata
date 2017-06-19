@@ -10,7 +10,7 @@ msgstr vieil anglais
 msgid Mapuche
 msgstr araukan
 
-#az
+#aze
 msgid Azerbaijani
 msgstr azerbaïdjanais
 
@@ -42,7 +42,7 @@ msgstr chinook
 msgid Central Kurdish
 msgstr kurde central
 
-#cr
+#cre
 msgid Cree
 msgstr cri
 
@@ -78,13 +78,17 @@ msgstr dari
 msgid Old High German
 msgstr vieux haut-allemand
 
-#gu
+#guj
 msgid Gujarati
 msgstr gujarati
 
 #ilo
 msgid Iloko
 msgstr ilocano
+
+#kal
+msgid Kalaallisut
+msgstr kalaallisut
 
 #kbd
 msgid Kabardian
@@ -93,10 +97,6 @@ msgstr kabarde
 #ken
 msgid Kenyang
 msgstr kenyang
-
-#kl
-msgid Kalaallisut
-msgstr kalaallisut
 
 #ksh
 msgid Colognian
@@ -142,7 +142,7 @@ msgstr newari classique
 msgid Nyankole
 msgstr nkole
 
-#or
+#ori
 msgid Odia
 msgstr odia
 
@@ -178,6 +178,10 @@ msgstr rarotonga
 msgid Aromanian
 msgstr aroumain
 
+#sag
+msgid Sango
+msgstr sango
+
 #sat
 msgid Santali
 msgstr santali
@@ -186,17 +190,9 @@ msgstr santali
 msgid Southern Kurdish
 msgstr kurde méridional
 
-#se
-msgid Northern Sami
-msgstr same du Nord
-
 #sei
 msgid Seri
 msgstr seri
-
-#sg
-msgid Sango
-msgstr sango
 
 #sga
 msgid Old Irish
@@ -209,6 +205,10 @@ msgstr selayar
 #sma
 msgid Southern Sami
 msgstr same du Sud
+
+#sme
+msgid Northern Sami
+msgstr same du Nord
 
 #smj
 msgid Lule Sami
@@ -242,7 +242,7 @@ msgstr touvain
 msgid Central Atlas Tamazight
 msgstr tamazight
 
-#vo
+#vol
 msgid Volapük
 msgstr volapük
 

@@ -10,7 +10,7 @@ msgstr Kiarabu cha Sasa Kilichosanifishwa
 msgid Algerian Arabic
 msgstr Kiarabu cha Aljeria
 
-#az
+#aze
 msgid Azerbaijani
 msgstr Kiazabajani
 
@@ -66,7 +66,7 @@ msgstr Kikurukh
 msgid Lamba
 msgstr Kilamba
 
-#li
+#lim
 msgid Limburgish
 msgstr Kilimbugish
 
@@ -78,7 +78,7 @@ msgstr Kimoksha
 msgid Mi'kmaq
 msgstr Kimicmac
 
-#mk
+#mkd
 msgid Macedonian
 msgstr Kimasedonia
 
@@ -94,7 +94,7 @@ msgstr Kiingiemboon
 msgid N’Ko
 msgstr Kiin’ko
 
-#or
+#ori
 msgid Odia
 msgstr Kiodia
 
@@ -130,7 +130,7 @@ msgstr Kicomoro
 msgid Syriac
 msgstr Kisyria
 
-#tw
+#twi
 msgid Twi
 msgstr Kitwi
 
@@ -142,13 +142,13 @@ msgstr Lugha ya Central Atlas Tamazight
 msgid Udmurt
 msgstr Kiudumurti
 
-#wa
-msgid Walloon
-msgstr Kiwaloon
-
 #wae
 msgid Walser
 msgstr Kiwalser
+
+#wln
+msgid Walloon
+msgstr Kiwaloon
 
 #zgh
 msgid Standard Moroccan Tamazight

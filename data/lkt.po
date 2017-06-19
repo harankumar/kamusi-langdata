@@ -1,4 +1,4 @@
-#ab
+#abk
 msgid Abkhazian
 msgstr Abkhaz Iyápi
 
@@ -6,11 +6,7 @@ msgstr Abkhaz Iyápi
 msgid Adyghe
 msgstr Adyghe Iyápi
 
-#ae
-msgid Avestan
-msgstr Avestan Iyápi
-
-#af
+#afr
 msgid Afrikaans
 msgstr Afrikaans Iyápi
 
@@ -18,11 +14,11 @@ msgstr Afrikaans Iyápi
 msgid Southern Altai
 msgstr Itóǧata Altai Iyápi
 
-#am
+#amh
 msgid Amharic
 msgstr Amharic Iyápi
 
-#ar
+#ara
 msgid Arabic
 msgstr Arab Iyápi
 
@@ -30,19 +26,23 @@ msgstr Arab Iyápi
 msgid Arapaho
 msgstr Maȟpíya Tȟó Iyápi
 
-#as
+#asm
 msgid Assamese
 msgstr Assamese Iyápi
 
-#av
+#ava
 msgid Avaric
 msgstr Avaric Iyápi
 
-#az
+#ave
+msgid Avestan
+msgstr Avestan Iyápi
+
+#aze
 msgid Azerbaijani
 msgstr Azerbaijani Iyápi
 
-#ba
+#bak
 msgid Bashkir
 msgstr Bashkir Iyápi
 
@@ -54,27 +54,23 @@ msgstr Baluchi Iyápi
 msgid Bamun
 msgstr Bamun Iyápi
 
-#be
-msgid Belarusian
-msgstr Belarus Iyápi
-
 #bej
 msgid Beja
 msgstr Beja Iyápi
 
-#bg
-msgid Bulgarian
-msgstr Bulgar Iyápi
+#bel
+msgid Belarusian
+msgstr Belarus Iyápi
 
-#bn
+#ben
 msgid Bangla
 msgstr Bengali Iyápi
 
-#bo
+#bod
 msgid Tibetan
 msgstr Tibetan Iyápi
 
-#bs
+#bos
 msgid Bosnian
 msgstr Bosnia Iyápi
 
@@ -82,11 +78,19 @@ msgstr Bosnia Iyápi
 msgid Buriat
 msgstr Buriat Iyápi
 
-#ca
+#bul
+msgid Bulgarian
+msgstr Bulgar Iyápi
+
+#cat
 msgid Catalan
 msgstr Catalan Iyápi
 
-#ce
+#ces
+msgid Czech
+msgstr Czech Iyápi
+
+#che
 msgid Chechen
 msgstr Chechen Iyápi
 
@@ -98,6 +102,10 @@ msgstr Mari Iyápi
 msgid Cherokee
 msgstr Cherokee Iyápi
 
+#chv
+msgid Chuvash
+msgstr Chuvash Iyápi
+
 #chy
 msgid Cheyenne
 msgstr Šahíyela Iyápi
@@ -106,7 +114,7 @@ msgstr Šahíyela Iyápi
 msgid Coptic
 msgstr Coptic Iyápi
 
-#cr
+#cre
 msgid Cree
 msgstr Maštíŋča Oyáte Iyápi
 
@@ -114,31 +122,23 @@ msgstr Maštíŋča Oyáte Iyápi
 msgid Crimean Turkish
 msgstr Crimean Turkish Iyápi
 
-#cs
-msgid Czech
-msgstr Czech Iyápi
-
-#cv
-msgid Chuvash
-msgstr Chuvash Iyápi
-
-#cy
+#cym
 msgid Welsh
 msgstr Wales Iyápi
-
-#da
-msgid Danish
-msgstr Dane Iyápi
 
 #dak
 msgid Dakota
 msgstr Dakȟótiyapi
 
+#dan
+msgid Danish
+msgstr Dane Iyápi
+
 #dar
 msgid Dargwa
 msgstr Dargwa Iyápi
 
-#de
+#deu
 msgid German
 msgstr Iyášiča Iyápi
 
@@ -146,13 +146,9 @@ msgstr Iyášiča Iyápi
 msgid Dogri
 msgstr Dogri Iyápi
 
-#el
+#ell
 msgid Greek
 msgstr Greece Iyápi
-
-#en
-msgid English
-msgstr Wašíčuiyapi
 
 #en GB
 msgid British English
@@ -162,13 +158,13 @@ msgstr Šagláša Wašíčuiyapi
 msgid American English
 msgstr Mílahaŋska Wašíčuiyapi
 
-#eo
+#eng
+msgid English
+msgstr Wašíčuiyapi
+
+#epo
 msgid Esperanto
 msgstr Esperanto Iyápi
-
-#es
-msgid Spanish
-msgstr Spayóla Iyápi
 
 #es 419
 msgid Latin American Spanish
@@ -178,59 +174,63 @@ msgstr Wiyóȟpeyata Spayóla Iyápi
 msgid European Spanish
 msgstr Spayólaȟča Iyápi
 
-#et
+#est
 msgid Estonian
 msgstr Estonia Iyápi
 
-#eu
+#eus
 msgid Basque
 msgstr Basque Iyápi
 
-#fa
+#fao
+msgid Faroese
+msgstr Faroese Iyápi
+
+#fas
 msgid Persian
 msgstr Persian Iyápi
 
-#fi
-msgid Finnish
-msgstr Finnish Iyápi
+#fij
+msgid Fijian
+msgstr Fiji Iyápi
 
 #fil
 msgid Filipino
 msgstr Filipino Iyápi
 
-#fj
-msgid Fijian
-msgstr Fiji Iyápi
+#fin
+msgid Finnish
+msgstr Finnish Iyápi
 
-#fo
-msgid Faroese
-msgstr Faroese Iyápi
-
-#fr
+#fra
 msgid French
 msgstr Wašíču Ikčéka Iyápi
-
-#ga
-msgid Irish
-msgstr Irish Iyápi
 
 #gba
 msgid Gbaya
 msgstr Gbaya Iyápi
 
-#gl
+#gle
+msgid Irish
+msgstr Irish Iyápi
+
+#glg
 msgid Galician
 msgstr Galician Iyápi
 
-#gn
+#grn
 msgid Guarani
 msgstr Guarani Iyápi
 
-#gu
+#guj
 msgid Gujarati
 msgstr Gujarati Iyápi
 
-#ha
+#hat
+msgid Haitian Creole
+msgstr Haiti Iyápi
+
+#hau
 msgid Hausa
 msgstr Hausa Iyápi
 
@@ -238,263 +238,259 @@ msgstr Hausa Iyápi
 msgid Hawaiian
 msgstr Hawaiian Iyápi
 
-#he
+#heb
 msgid Hebrew
 msgstr Hebrew Iyápi
 
-#hi
+#hin
 msgid Hindi
 msgstr Hindi Iyápi
 
-#hr
+#hrv
 msgid Croatian
 msgstr Croatian Iyápi
 
-#ht
-msgid Haitian Creole
-msgstr Haiti Iyápi
-
-#hu
+#hun
 msgid Hungarian
 msgstr Hungary Iyápi
 
-#hy
+#hye
 msgid Armenian
 msgstr Armenia Iyápi
 
-#id
-msgid Indonesian
-msgstr Indonesia Iyápi
-
-#ig
+#ibo
 msgid Igbo
 msgstr Igbo Iyápi
+
+#ind
+msgid Indonesian
+msgstr Indonesia Iyápi
 
 #inh
 msgid Ingush
 msgstr Ingush Iyápi
 
-#is
+#isl
 msgid Icelandic
 msgstr Iceland Iyápi
 
-#it
+#ita
 msgid Italian
 msgstr Italia Iyápi
 
-#ja
-msgid Japanese
-msgstr Kisúŋla Iyápi
-
-#jv
+#jav
 msgid Javanese
 msgstr Java Iyápi
 
-#ka
-msgid Georgian
-msgstr Georia Iyápi
+#jpn
+msgid Japanese
+msgstr Kisúŋla Iyápi
 
 #kaa
 msgid Kara-Kalpak
 msgstr Kara-Kalpak Iyápi
 
+#kan
+msgid Kannada
+msgstr Kannada Iyápi
+
+#kas
+msgid Kashmiri
+msgstr Kashmir Iyápi
+
+#kat
+msgid Georgian
+msgstr Georia Iyápi
+
+#kaz
+msgid Kazakh
+msgstr Kazakh Iyápi
+
 #kbd
 msgid Kabardian
 msgstr Kabardian Iyápi
 
-#kk
-msgid Kazakh
-msgstr Kazakh Iyápi
-
-#km
+#khm
 msgid Khmer
 msgstr Khmer Iyápi
 
-#kn
-msgid Kannada
-msgstr Kannada Iyápi
-
-#ko
-msgid Korean
-msgstr Korea Iyápi
-
-#ks
-msgid Kashmiri
-msgstr Kashmir Iyápi
-
-#ku
-msgid Kurdish
-msgstr Kurd Iyápi
-
-#ky
+#kir
 msgid Kyrgyz
 msgstr Kirghiz Iyápi
 
-#la
-msgid Latin
-msgstr Latin Iyápi
+#kor
+msgid Korean
+msgstr Korea Iyápi
+
+#kur
+msgid Kurdish
+msgstr Kurd Iyápi
 
 #lah
 msgid Lahnda
 msgstr Lahnda Iyápi
 
-#lb
-msgid Luxembourgish
-msgstr Luxembourg Iyápi
+#lao
+msgid Lao
+msgstr Lao Iyápi
+
+#lat
+msgid Latin
+msgstr Latin Iyápi
+
+#lav
+msgid Latvian
+msgstr Latvia Iyápi
+
+#lit
+msgid Lithuanian
+msgstr Lithuania Iyápilt
 
 #lkt
 msgid Lakota
 msgstr Lakȟólʼiyapi
 
-#lo
-msgid Lao
-msgstr Lao Iyápi
-
-#lt
-msgid Lithuanian
-msgstr Lithuania Iyápilt
+#ltz
+msgid Luxembourgish
+msgstr Luxembourg Iyápi
 
 #lus
 msgid Mizo
 msgstr Mizo Iyápi
 
-#lv
-msgid Latvian
-msgstr Latvia Iyápi
+#mal
+msgid Malayalam
+msgstr Malayalam Iyápi
 
-#mg
-msgid Malagasy
-msgstr Malagasy Iyápi
+#mar
+msgid Marathi
+msgstr Marathi Iyápi
 
-#mi
-msgid Maori
-msgstr Maori Iyápi
-
-#mk
+#mkd
 msgid Macedonian
 msgstr Macedonia Iyápi
 
-#ml
-msgid Malayalam
-msgstr Malayalam Iyápi
+#mlg
+msgid Malagasy
+msgstr Malagasy Iyápi
+
+#mlt
+msgid Maltese
+msgstr Maltese Iyápi
 
 #mni
 msgid Manipuri
 msgstr Namipuri Iyápi
 
-#mr
-msgid Marathi
-msgstr Marathi Iyápi
+#mri
+msgid Maori
+msgstr Maori Iyápi
 
-#ms
+#msa
 msgid Malay
 msgstr Malay Iyápi
 
-#mt
-msgid Maltese
-msgstr Maltese Iyápi
-
-#my
+#mya
 msgid Burmese
 msgstr Burmese Iyápi
 
-#ne
+#nav
+msgid Navajo
+msgstr Šináglegleǧa Iyápi
+
+#nep
 msgid Nepali
 msgstr Nepal Iyápi
-
-#nl
-msgid Dutch
-msgstr Dutch Iyápi
 
 #nl BE
 msgid Flemish
 msgstr Flemish Iyápi
 
-#nv
-msgid Navajo
-msgstr Šináglegleǧa Iyápi
+#nld
+msgid Dutch
+msgstr Dutch Iyápi
 
-#oj
+#oji
 msgid Ojibwa
 msgstr Ȟaȟátȟuŋwaŋ Iyápi
 
-#or
+#ori
 msgid Odia
 msgstr Oriya Iyápi
 
-#pa
+#pan
 msgid Punjabi
 msgstr Punjabi Iyápi
 
-#pl
+#pol
 msgid Polish
 msgstr Polish Iyápi
 
-#ps
-msgid Pashto
-msgstr Pashto Iyápi
-
-#pt
+#por
 msgid Portuguese
 msgstr Portuguese Iyápi
 
-#qu
+#pus
+msgid Pashto
+msgstr Pashto Iyápi
+
+#que
 msgid Quechua
 msgstr Quechua Iyápi
 
-#rm
+#roh
 msgid Romansh
 msgstr Romansh Iyápi
 
-#ro
+#ron
 msgid Romanian
 msgstr Romanian Iyápi
 
-#ru
+#rus
 msgid Russian
 msgstr Russia Iyápi
 
-#sa
+#san
 msgid Sanskrit
 msgstr Sanskrit Iyápi
 
-#sd
-msgid Sindhi
-msgstr Sindhi Iyápi
-
-#si
+#sin
 msgid Sinhala
 msgstr Sinhala Iyápi
 
-#sk
+#slk
 msgid Slovak
 msgstr Slovak Iyápi
 
-#sl
+#slv
 msgid Slovenian
 msgstr Slovenian Iyápi
 
-#so
+#snd
+msgid Sindhi
+msgstr Sindhi Iyápi
+
+#som
 msgid Somali
 msgstr Somali Iyápi
 
-#sq
+#spa
+msgid Spanish
+msgstr Spayóla Iyápi
+
+#sqi
 msgid Albanian
 msgstr Albanian Iyápi
 
-#sr
+#srp
 msgid Serbian
 msgstr Serbia Iyápi
 
-#su
+#sun
 msgid Sundanese
 msgstr Sundanese Iyápi
 
-#sv
-msgid Swedish
-msgstr Swedish Iyápi
-
-#sw
+#swa
 msgid Swahili
 msgstr Swahili Iyápi
 
@@ -502,47 +498,51 @@ msgstr Swahili Iyápi
 msgid Comorian
 msgstr Comonian Iyápi
 
-#ta
+#swe
+msgid Swedish
+msgstr Swedish Iyápi
+
+#tam
 msgid Tamil
 msgstr Tamil Iyápi
 
-#te
-msgid Telugu
-msgstr Telugu Iyápi
-
-#tg
-msgid Tajik
-msgstr Tajik Iyápi
-
-#th
-msgid Thai
-msgstr Thai Iyápi
-
-#ti
-msgid Tigrinya
-msgstr Tigrinya Iyápi
-
-#tk
-msgid Turkmen
-msgstr Turkmen Iyápi
-
-#to
-msgid Tongan
-msgstr Tongan Iyápi
-
-#tr
-msgid Turkish
-msgstr Turkish Iyápi
-
-#tt
+#tat
 msgid Tatar
 msgstr Tatar Iyápi
 
-#ug
+#tel
+msgid Telugu
+msgstr Telugu Iyápi
+
+#tgk
+msgid Tajik
+msgstr Tajik Iyápi
+
+#tha
+msgid Thai
+msgstr Thai Iyápi
+
+#tir
+msgid Tigrinya
+msgstr Tigrinya Iyápi
+
+#ton
+msgid Tongan
+msgstr Tongan Iyápi
+
+#tuk
+msgid Turkmen
+msgstr Turkmen Iyápi
+
+#tur
+msgid Turkish
+msgstr Turkish Iyápi
+
+#uig
 msgid Uyghur
 msgstr Uyghur Iyápi
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ukrain Iyápi
 
@@ -550,33 +550,29 @@ msgstr Ukrain Iyápi
 msgid Unknown language
 msgstr Tukté iyápi tȟaŋíŋ šni
 
-#ur
+#urd
 msgid Urdu
 msgstr Urdu Iyápi
 
-#uz
+#uzb
 msgid Uzbek
 msgstr Uzbek Iyápi
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vietnamese Iyápi
 
-#wo
+#wol
 msgid Wolof
 msgstr Wolof Iyápi
 
-#xh
+#xho
 msgid Xhosa
 msgstr Xhosa Iyápi
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yoruba Iyápi
-
-#zh
-msgid Chinese
-msgstr Pȟečhókaŋ Háŋska Iyápi
 
 #zh Hans
 msgid Simplified Chinese
@@ -586,7 +582,11 @@ msgstr Pȟečhókaŋ Háŋska Iyápi Ikčéka
 msgid Traditional Chinese
 msgstr Pȟečhókaŋ Háŋska Iyápi Ȟče
 
-#zu
+#zho
+msgid Chinese
+msgstr Pȟečhókaŋ Háŋska Iyápi
+
+#zul
 msgid Zulu
 msgstr Zulu Iyápi
 

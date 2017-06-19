@@ -2,179 +2,179 @@
 msgid Aghem
 msgstr Aghem
 
-#ak
+#aka
 msgid Akan
 msgstr Akan
 
-#am
+#amh
 msgid Amharic
 msgstr Àmalì
 
-#ar
+#ara
 msgid Arabic
 msgstr Àlabì
 
-#be
+#bel
 msgid Belarusian
 msgstr Bɛ̀làlusàn
 
-#bg
-msgid Bulgarian
-msgstr Bùugɨlìa
-
-#bn
+#ben
 msgid Bangla
 msgstr Bɨ̀ŋgalì
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Bùugɨlìa
+
+#ces
 msgid Czech
 msgstr Chɛ̂
 
-#de
+#deu
 msgid German
 msgstr Dzamɛ̀
 
-#el
+#ell
 msgid Greek
 msgstr Gɨ̀lêʔ
 
-#en
+#eng
 msgid English
 msgstr Kɨŋgele
 
-#es
-msgid Spanish
-msgstr Sɨ̀kpanìs
-
-#fa
+#fas
 msgid Persian
 msgstr Kpɛɛshìa
 
-#fr
+#fra
 msgid French
 msgstr Kɨ̀fàlàŋsi
 
-#ha
+#hau
 msgid Hausa
 msgstr Kɨtsɔŋkaŋ
 
-#hi
+#hin
 msgid Hindi
 msgstr Endì
 
-#hu
+#hun
 msgid Hungarian
 msgstr Hɔŋgalìa
 
-#id
-msgid Indonesian
-msgstr Èndònɛshìa
-
-#ig
+#ibo
 msgid Igbo
 msgstr Egbò
 
-#it
+#ind
+msgid Indonesian
+msgstr Èndònɛshìa
+
+#ita
 msgid Italian
 msgstr Ètalìa
 
-#ja
-msgid Japanese
-msgstr Dzàkpànê
-
-#jv
+#jav
 msgid Javanese
 msgstr Dzàbvànê
 
-#km
+#jpn
+msgid Japanese
+msgstr Dzàkpànê
+
+#khm
 msgid Khmer
 msgstr Kɨmɛ̀
 
-#ko
-msgid Korean
-msgstr kùulîa
-
-#ms
-msgid Malay
-msgstr Màlae
-
-#my
-msgid Burmese
-msgstr Bùumɛsɛ̀
-
-#ne
-msgid Nepali
-msgstr Nɛ̀kpalì
-
-#nl
-msgid Dutch
-msgstr Dɔ̂s
-
-#pa
-msgid Punjabi
-msgstr Kpuwndzabì
-
-#pl
-msgid Polish
-msgstr Kpɔlìs
-
-#pt
-msgid Portuguese
-msgstr Kpotùwgîi
-
-#ro
-msgid Romanian
-msgstr Lùmanyìa
-
-#ru
-msgid Russian
-msgstr Lushìa
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Lùwandà
 
-#so
+#kor
+msgid Korean
+msgstr kùulîa
+
+#msa
+msgid Malay
+msgstr Màlae
+
+#mya
+msgid Burmese
+msgstr Bùumɛsɛ̀
+
+#nep
+msgid Nepali
+msgstr Nɛ̀kpalì
+
+#nld
+msgid Dutch
+msgstr Dɔ̂s
+
+#pan
+msgid Punjabi
+msgstr Kpuwndzabì
+
+#pol
+msgid Polish
+msgstr Kpɔlìs
+
+#por
+msgid Portuguese
+msgstr Kpotùwgîi
+
+#ron
+msgid Romanian
+msgstr Lùmanyìa
+
+#rus
+msgid Russian
+msgstr Lushìa
+
+#som
 msgid Somali
 msgstr Sòmalì
 
-#sv
+#spa
+msgid Spanish
+msgstr Sɨ̀kpanìs
+
+#swe
 msgid Swedish
 msgstr Suedìs
 
-#ta
+#tam
 msgid Tamil
 msgstr Tamì
 
-#th
+#tha
 msgid Thai
 msgstr Tàe
 
-#tr
+#tur
 msgid Turkish
 msgstr Tʉʉkìs
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ùkɛlɛnìa
 
-#ur
+#urd
 msgid Urdu
 msgstr Uudùw
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vìyɛtnàmê
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yulùba
 
-#zh
+#zho
 msgid Chinese
 msgstr Chàenê
 
-#zu
+#zul
 msgid Zulu
 msgstr Zulù
 

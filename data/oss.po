@@ -1,0 +1,284 @@
+#abk
+msgid Abkhazian
+msgstr абхазаг
+
+#ady
+msgid Adyghe
+msgstr адыгейаг
+
+#afr
+msgid Afrikaans
+msgstr африкаанс
+
+#ang
+msgid Old English
+msgstr рагон англисаг
+
+#ara
+msgid Arabic
+msgstr араббаг
+
+#ava
+msgid Avaric
+msgstr авайраг
+
+#ave
+msgid Avestan
+msgstr авестӕ
+
+#aze
+msgid Azerbaijani
+msgstr тӕтӕйраг
+
+#bak
+msgid Bashkir
+msgstr башкираг
+
+#bos
+msgid Bosnian
+msgstr босниаг
+
+#bua
+msgid Buriat
+msgstr бурятаг
+
+#bul
+msgid Bulgarian
+msgstr болгайраг
+
+#cat
+msgid Catalan
+msgstr каталайнаг
+
+#ces
+msgid Czech
+msgstr чехаг
+
+#che
+msgid Chechen
+msgstr цӕцӕйнаг
+
+#chv
+msgid Chuvash
+msgstr чувашаг
+
+#cop
+msgid Coptic
+msgstr коптаг
+
+#dan
+msgid Danish
+msgstr даниаг
+
+#de AT
+msgid Austrian German
+msgstr австралиаг немыцаг
+
+#de CH
+msgid Swiss High German
+msgstr швйецариаг немыцаг
+
+#deu
+msgid German
+msgstr немыцаг
+
+#egy
+msgid Ancient Egyptian
+msgstr рагон египтаг
+
+#ell
+msgid Greek
+msgstr бердзейнаг
+
+#en AU
+msgid Australian English
+msgstr австралиаг англисаг
+
+#en CA
+msgid Canadian English
+msgstr канадӕйаг англисаг
+
+#en GB
+msgid British English
+msgstr бритайнаг англисаг
+
+#en US
+msgid American English
+msgstr америкаг англисаг
+
+#eng
+msgid English
+msgstr англисаг
+
+#epo
+msgid Esperanto
+msgstr есперанто
+
+#es 419
+msgid Latin American Spanish
+msgstr латинаг америкаг англисаг
+
+#es ES
+msgid European Spanish
+msgstr европӕйаг англисаг
+
+#es MX
+msgid Mexican Spanish
+msgstr мексикӕйаг испайнаг
+
+#est
+msgid Estonian
+msgstr естойнаг
+
+#eus
+msgid Basque
+msgstr баскаг
+
+#fao
+msgid Faroese
+msgstr фарераг
+
+#fas
+msgid Persian
+msgstr персайнаг
+
+#fij
+msgid Fijian
+msgstr фиджи
+
+#fil
+msgid Filipino
+msgstr филиппинаг
+
+#fin
+msgid Finnish
+msgstr финнаг
+
+#fr CA
+msgid Canadian French
+msgstr канадӕйаг францаг
+
+#fr CH
+msgid Swiss French
+msgstr швейцариаг францаг
+
+#fra
+msgid French
+msgstr францаг
+
+#fro
+msgid Old French
+msgstr рагон францаг
+
+#gle
+msgid Irish
+msgstr ирландиаг
+
+#grc
+msgid Ancient Greek
+msgstr рагон бердзейнаг
+
+#heb
+msgid Hebrew
+msgstr уираг
+
+#hrv
+msgid Croatian
+msgstr хорватаг
+
+#hun
+msgid Hungarian
+msgstr венгериаг
+
+#hye
+msgid Armenian
+msgstr сомихаг
+
+#inh
+msgid Ingush
+msgstr мӕхъӕлон
+
+#ita
+msgid Italian
+msgstr италиаг
+
+#jpn
+msgid Japanese
+msgstr япойнаг
+
+#kat
+msgid Georgian
+msgstr гуырдзиаг
+
+#kbd
+msgid Kabardian
+msgstr кӕсгон
+
+#krc
+msgid Karachay-Balkar
+msgstr бӕлхъӕрон
+
+#kum
+msgid Kumyk
+msgstr хъуымыхъхъаг
+
+#kur
+msgid Kurdish
+msgstr курдаг
+
+#lat
+msgid Latin
+msgstr латинаг
+
+#lez
+msgid Lezghian
+msgstr лекъаг
+
+#mkd
+msgid Macedonian
+msgstr мӕчъидон
+
+#oss
+msgid Ossetic
+msgstr ирон
+
+#por
+msgid Portuguese
+msgstr португалиаг
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr бразилиаг португалиаг
+
+#pt PT
+msgid European Portuguese
+msgstr европӕйаг полтугалиаг
+
+#rom
+msgid Romany
+msgstr цигайнаг
+
+#rus
+msgid Russian
+msgstr уырыссаг
+
+#spa
+msgid Spanish
+msgstr испайнаг
+
+#und
+msgid Unknown language
+msgstr нӕзонгӕ ӕвзаг
+
+#zh Hans
+msgid Simplified Chinese
+msgstr ӕнцонгонд китайаг
+
+#zh Hant
+msgid Traditional Chinese
+msgstr традицион китайаг
+
+#zho
+msgid Chinese
+msgstr китайаг
+

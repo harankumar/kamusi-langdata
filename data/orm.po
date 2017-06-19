@@ -1,0 +1,344 @@
+#afr
+msgid Afrikaans
+msgstr Afrikoota
+
+#amh
+msgid Amharic
+msgstr Afaan Sidaamaa
+
+#ara
+msgid Arabic
+msgstr Arabiffaa
+
+#aze
+msgid Azerbaijani
+msgstr Afaan Azerbaijani
+
+#bel
+msgid Belarusian
+msgstr Afaan Belarusia
+
+#ben
+msgid Bangla
+msgstr Afaan Baangladeshi
+
+#bos
+msgid Bosnian
+msgstr Afaan Bosniyaa
+
+#bul
+msgid Bulgarian
+msgstr Afaan Bulgariya
+
+#cat
+msgid Catalan
+msgstr Afaan Katalaa
+
+#ces
+msgid Czech
+msgstr Afaan Czech
+
+#cym
+msgid Welsh
+msgstr Welishiffaa
+
+#dan
+msgid Danish
+msgstr Afaan Deenmaark
+
+#deu
+msgid German
+msgstr Afaan Jarmanii
+
+#ell
+msgid Greek
+msgstr Afaan Giriiki
+
+#eng
+msgid English
+msgstr Ingliffa
+
+#epo
+msgid Esperanto
+msgstr Afaan Esperantoo
+
+#est
+msgid Estonian
+msgstr Afaan Istooniya
+
+#eus
+msgid Basque
+msgstr Afaan Baskuu
+
+#fao
+msgid Faroese
+msgstr Afaan Faroese
+
+#fas
+msgid Persian
+msgstr Afaan Persia
+
+#fil
+msgid Filipino
+msgstr Afaan Filippinii
+
+#fin
+msgid Finnish
+msgstr Afaan Fiilaandi
+
+#fra
+msgid French
+msgstr Afaan Faransaayii
+
+#fry
+msgid Western Frisian
+msgstr Afaan Firisiyaani
+
+#gla
+msgid Scottish Gaelic
+msgstr Scots Gaelic
+
+#gle
+msgid Irish
+msgstr Afaan Ayirishii
+
+#glg
+msgid Galician
+msgstr Afaan Galishii
+
+#grn
+msgid Guarani
+msgstr Afaan Guarani
+
+#guj
+msgid Gujarati
+msgstr Afaan Gujarati
+
+#heb
+msgid Hebrew
+msgstr Afaan Hebrew
+
+#hin
+msgid Hindi
+msgstr Afaan Hindii
+
+#hrv
+msgid Croatian
+msgstr Afaan Croatian
+
+#hun
+msgid Hungarian
+msgstr Afaan Hangaari
+
+#ina
+msgid Interlingua
+msgstr Interlingua
+
+#ind
+msgid Indonesian
+msgstr Afaan Indoneziya
+
+#isl
+msgid Icelandic
+msgstr Ayiislandiffaa
+
+#ita
+msgid Italian
+msgstr Afaan Xaaliyaani
+
+#jav
+msgid Javanese
+msgstr Afaan Java
+
+#jpn
+msgid Japanese
+msgstr Afaan Japanii
+
+#kan
+msgid Kannada
+msgstr Afaan Kannada
+
+#kat
+msgid Georgian
+msgstr Afaan Georgian
+
+#kor
+msgid Korean
+msgstr Afaan Korea
+
+#lat
+msgid Latin
+msgstr Afaan Laatini
+
+#lav
+msgid Latvian
+msgstr Afaan Lativiyaa
+
+#lit
+msgid Lithuanian
+msgstr Afaan Liituniyaa
+
+#mal
+msgid Malayalam
+msgstr Malayaalamiffaa
+
+#mar
+msgid Marathi
+msgstr Afaan Maratii
+
+#mkd
+msgid Macedonian
+msgstr Afaan Macedooniyaa
+
+#mlt
+msgid Maltese
+msgstr Afaan Maltesii
+
+#msa
+msgid Malay
+msgstr Malaayiffaa
+
+#nep
+msgid Nepali
+msgstr Afaan Nepalii
+
+#nld
+msgid Dutch
+msgstr Afaan Dachii
+
+#nno
+msgid Norwegian Nynorsk
+msgstr Afaan Norwegian
+
+#nor
+msgid Norwegian
+msgstr Afaan Norweyii
+
+#oci
+msgid Occitan
+msgstr Afaan Occit
+
+#orm
+msgid Oromo
+msgstr Oromoo
+
+#pan
+msgid Punjabi
+msgstr Afaan Punjabii
+
+#pol
+msgid Polish
+msgstr Afaan Polandii
+
+#por
+msgid Portuguese
+msgstr Afaan Porchugaal
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Afaan Portugali (Braazil)
+
+#pt PT
+msgid European Portuguese
+msgstr Afaan Protuguese
+
+#ron
+msgid Romanian
+msgstr Afaan Romaniyaa
+
+#rus
+msgid Russian
+msgstr Afaan Rushiyaa
+
+#sin
+msgid Sinhala
+msgstr Afaan Sinhalese
+
+#slk
+msgid Slovak
+msgstr Afaan Slovak
+
+#slv
+msgid Slovenian
+msgstr Afaan Islovaniyaa
+
+#spa
+msgid Spanish
+msgstr Afaan Ispeen
+
+#sqi
+msgid Albanian
+msgstr Afaan Albaniyaa
+
+#srp
+msgid Serbian
+msgstr Afaan Serbiya
+
+#sun
+msgid Sundanese
+msgstr Afaan Sudaanii
+
+#swa
+msgid Swahili
+msgstr Suwahilii
+
+#swe
+msgid Swedish
+msgstr Afaan Suwidiin
+
+#tam
+msgid Tamil
+msgstr Afaan Tamilii
+
+#tel
+msgid Telugu
+msgstr Afaan Telugu
+
+#tha
+msgid Thai
+msgstr Afaan Tayii
+
+#tir
+msgid Tigrinya
+msgstr Afaan Tigiree
+
+#tlh
+msgid Klingon
+msgstr Afaan Kilingon
+
+#tuk
+msgid Turkmen
+msgstr Lammii Turkii
+
+#tur
+msgid Turkish
+msgstr Afaan Turkii
+
+#ukr
+msgid Ukrainian
+msgstr Afaan Ukreenii
+
+#urd
+msgid Urdu
+msgstr Afaan Urdu
+
+#uzb
+msgid Uzbek
+msgstr Afaan Uzbek
+
+#vie
+msgid Vietnamese
+msgstr Afaan Veetinam
+
+#xho
+msgid Xhosa
+msgstr Afaan Xhosa
+
+#zho
+msgid Chinese
+msgstr Chinese
+
+#zul
+msgid Zulu
+msgstr Afaan Zuulu
+

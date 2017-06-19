@@ -1,0 +1,468 @@
+#afr
+msgid Afrikaans
+msgstr Afrikaanays
+
+#aka
+msgid Akan
+msgstr Akan
+
+#amh
+msgid Amharic
+msgstr Axmaari
+
+#ara
+msgid Arabic
+msgstr Carabi
+
+#asm
+msgid Assamese
+msgstr Asaamiis
+
+#aze
+msgid Azerbaijani
+msgstr Azerbaijan
+
+#bel
+msgid Belarusian
+msgstr Beleruusiyaan
+
+#ben
+msgid Bangla
+msgstr Bangaali
+
+#bos
+msgid Bosnian
+msgstr Boosniya
+
+#bre
+msgid Breton
+msgstr Bereton
+
+#bul
+msgid Bulgarian
+msgstr Bulgeeriyaan
+
+#cat
+msgid Catalan
+msgstr Katalaan
+
+#ces
+msgid Czech
+msgstr Jeeg
+
+#cym
+msgid Welsh
+msgstr Welsh
+
+#dan
+msgid Danish
+msgstr Danmarkays
+
+#de CH
+msgid Swiss High German
+msgstr Jarmal (Iswiiserlaand)
+
+#deu
+msgid German
+msgstr Jarmal
+
+#ell
+msgid Greek
+msgstr Giriik
+
+#en GB
+msgid British English
+msgstr Ingiriisi (Boqortooyada Midowday)
+
+#en US
+msgid American English
+msgstr Ingiriisi (Maraykan)
+
+#eng
+msgid English
+msgstr Ingiriisi
+
+#epo
+msgid Esperanto
+msgstr Isberento
+
+#es 419
+msgid Latin American Spanish
+msgstr Isbaanishka Laatiin Ameerika
+
+#es ES
+msgid European Spanish
+msgstr Isbaanish (Isbayn)
+
+#est
+msgid Estonian
+msgstr Istooniyaan
+
+#eus
+msgid Basque
+msgstr Basquu
+
+#fao
+msgid Faroese
+msgstr Farowsi
+
+#fas
+msgid Persian
+msgstr Faarisi
+
+#fil
+msgid Filipino
+msgstr Tagalog
+
+#fin
+msgid Finnish
+msgstr Fiinlaandees
+
+#fr CH
+msgid Swiss French
+msgstr Faransiis (Iswiiserlaand)
+
+#fra
+msgid French
+msgstr Faransiis
+
+#fry
+msgid Western Frisian
+msgstr Firiisiyan Galbeed
+
+#gla
+msgid Scottish Gaelic
+msgstr Iskot Giilik
+
+#gle
+msgid Irish
+msgstr Ayrish
+
+#glg
+msgid Galician
+msgstr Galiisiyaan
+
+#grn
+msgid Guarani
+msgstr Guraani
+
+#guj
+msgid Gujarati
+msgstr Gujaraati
+
+#hau
+msgid Hausa
+msgstr Hawsa
+
+#hbs
+msgid Serbo-Croatian
+msgstr Serbiyaan
+
+#heb
+msgid Hebrew
+msgstr Cibri
+
+#hin
+msgid Hindi
+msgstr Hindi
+
+#hrv
+msgid Croatian
+msgstr Koro’eeshiyaan
+
+#hun
+msgid Hungarian
+msgstr Hangariyaan
+
+#hye
+msgid Armenian
+msgstr Armeeniyaan
+
+#ibo
+msgid Igbo
+msgstr Igbo
+
+#ile
+msgid Interlingue
+msgstr Interlingue
+
+#ina
+msgid Interlingua
+msgstr Interlinguwa
+
+#ind
+msgid Indonesian
+msgstr Indunuusiyaan
+
+#isl
+msgid Icelandic
+msgstr Ayslandays
+
+#ita
+msgid Italian
+msgstr Talyaani
+
+#jav
+msgid Javanese
+msgstr Jafaaniis
+
+#jpn
+msgid Japanese
+msgstr Jabbaaniis
+
+#kan
+msgid Kannada
+msgstr Kannadays
+
+#kat
+msgid Georgian
+msgstr Joorijiyaan
+
+#khm
+msgid Khmer
+msgstr Kamboodhian
+
+#kin
+msgid Kinyarwanda
+msgstr Rwanda
+
+#kir
+msgid Kyrgyz
+msgstr Kirgiis
+
+#kor
+msgid Korean
+msgstr Kuuriyaan
+
+#kur
+msgid Kurdish
+msgstr Kurdishka
+
+#lao
+msgid Lao
+msgstr Laothian
+
+#lat
+msgid Latin
+msgstr Laatiin
+
+#lav
+msgid Latvian
+msgstr Laatfiyaan
+
+#lin
+msgid Lingala
+msgstr Lingala
+
+#lit
+msgid Lithuanian
+msgstr Lituwaanays
+
+#mal
+msgid Malayalam
+msgstr Malayalam
+
+#mar
+msgid Marathi
+msgstr Maarati
+
+#mkd
+msgid Macedonian
+msgstr Masadooniyaan
+
+#mlt
+msgid Maltese
+msgstr Maltiis
+
+#mon
+msgid Mongolian
+msgstr Mangooli
+
+#msa
+msgid Malay
+msgstr Malaay
+
+#mya
+msgid Burmese
+msgstr Burmese
+
+#nep
+msgid Nepali
+msgstr Nebaali
+
+#nld
+msgid Dutch
+msgstr Holandays
+
+#nno
+msgid Norwegian Nynorsk
+msgstr Nowrwejiyan (naynoroski)
+
+#nor
+msgid Norwegian
+msgstr Af Noorwiijiyaan
+
+#oci
+msgid Occitan
+msgstr Okitaan
+
+#ori
+msgid Odia
+msgstr Oriya
+
+#pan
+msgid Punjabi
+msgstr Bunjaabi
+
+#pol
+msgid Polish
+msgstr Boolish
+
+#por
+msgid Portuguese
+msgstr Boortaqiis
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Boortaqiiska Baraasiil
+
+#pt PT
+msgid European Portuguese
+msgstr Boortaqiis (Boortuqaal)
+
+#pus
+msgid Pashto
+msgstr Bashtuu
+
+#ron
+msgid Romanian
+msgstr Romanka
+
+#rus
+msgid Russian
+msgstr Ruush
+
+#san
+msgid Sanskrit
+msgstr Sanskrit
+
+#sin
+msgid Sinhala
+msgstr Sinhaleys
+
+#slk
+msgid Slovak
+msgstr Isloofaak
+
+#slv
+msgid Slovenian
+msgstr Islofeeniyaan
+
+#snd
+msgid Sindhi
+msgstr SINDHI
+
+#som
+msgid Somali
+msgstr Soomaali
+
+#sot
+msgid Southern Sotho
+msgstr Sesooto
+
+#spa
+msgid Spanish
+msgstr Isbaanish
+
+#sqi
+msgid Albanian
+msgstr Albaaniyaan
+
+#srp
+msgid Serbian
+msgstr Seerbiyaan
+
+#swa
+msgid Swahili
+msgstr Sawaaxili
+
+#swe
+msgid Swedish
+msgstr Swiidhis
+
+#tam
+msgid Tamil
+msgstr Tamiil
+
+#tel
+msgid Telugu
+msgstr Teluugu
+
+#tha
+msgid Thai
+msgstr Taaylandays
+
+#tir
+msgid Tigrinya
+msgstr Tigrinya
+
+#tlh
+msgid Klingon
+msgstr Kiligoon
+
+#tuk
+msgid Turkmen
+msgstr Turkumaanish
+
+#tur
+msgid Turkish
+msgstr Turkish
+
+#twi
+msgid Twi
+msgstr Tiwiyan
+
+#uig
+msgid Uyghur
+msgstr UIGHUR
+
+#ukr
+msgid Ukrainian
+msgstr Yukreeniyaan
+
+#und
+msgid Unknown language
+msgstr Af aan la aqoon ama aan sax ahayn
+
+#urd
+msgid Urdu
+msgstr Urduu
+
+#uzb
+msgid Uzbek
+msgstr Usbakis
+
+#vie
+msgid Vietnamese
+msgstr Fiitnaamays
+
+#xho
+msgid Xhosa
+msgstr Hoosta
+
+#yid
+msgid Yiddish
+msgstr Yadhish
+
+#yor
+msgid Yoruba
+msgstr Yoruuba
+
+#zho
+msgid Chinese
+msgstr Jayniis
+
+#zul
+msgid Zulu
+msgstr Zuulu
+

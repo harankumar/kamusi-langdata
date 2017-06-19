@@ -1,12 +1,12 @@
-#fa
+#fas
 msgid Persian
 msgstr دری
 
-#ps
+#pus
 msgid Pashto
 msgstr پشتو
 
-#uz
+#uzb
 msgid Uzbek
 msgstr اوزبیک
 

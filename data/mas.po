@@ -1,92 +1,92 @@
-#ak
+#aka
 msgid Akan
 msgstr nkʉtʉ́k ɔ́ɔ̄ lAkan
 
-#am
+#amh
 msgid Amharic
 msgstr nkʉtʉ́k ɔ́ɔ̄ lAmhari
 
-#ar
+#ara
 msgid Arabic
 msgstr nkʉtʉ́k ɔ́ɔ̄ lmarabu
 
-#be
+#bel
 msgid Belarusian
 msgstr nkʉtʉ́k ɔ́ɔ̄ lBelarusi
 
-#bg
-msgid Bulgarian
-msgstr nkʉtʉ́k ɔ́ɔ̄ lBulgaria
-
-#bn
+#ben
 msgid Bangla
 msgstr lnkʉtʉ́k ɔ́ɔ̄ lBengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr nkʉtʉ́k ɔ́ɔ̄ lBulgaria
+
+#ces
 msgid Czech
 msgstr nkʉtʉ́k ɔ́ɔ̄ lcheki
 
-#de
+#deu
 msgid German
 msgstr nkʉtʉ́k ɔ́ɔ̄ ljerumani
 
-#el
+#ell
 msgid Greek
 msgstr nkʉtʉ́k ɔ́ɔ̄ lgiriki
 
-#en
+#eng
 msgid English
 msgstr nkʉtʉ́k ɔ́ɔ̄ nkɨ́resa
 
-#es
-msgid Spanish
-msgstr nkʉtʉ́k ɔ́ɔ̄ lspania
-
-#fa
+#fas
 msgid Persian
 msgstr nkʉtʉ́k ɔ́ɔ̄ lpersia
 
-#fr
+#fra
 msgid French
 msgstr nkʉtʉ́k ɔ́ɔ̄ faransa
 
-#ha
+#hau
 msgid Hausa
 msgstr nkʉtʉ́k ɔ́ɔ̄ hausa
 
-#hi
+#hin
 msgid Hindi
 msgstr nkʉtʉ́k ɔ́ɔ̄ lmoindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr nkʉtʉ́k ɔ́ɔ̄ lhungari
 
-#id
-msgid Indonesian
-msgstr nkʉtʉ́k ɔ́ɔ̄ Indonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr nkʉtʉ́k ɔ́ɔ̄ Igbo
 
-#it
+#ind
+msgid Indonesian
+msgstr nkʉtʉ́k ɔ́ɔ̄ Indonesia
+
+#ita
 msgid Italian
 msgstr nkʉtʉ́k ɔ́ɔ̄ ltalian
 
-#ja
-msgid Japanese
-msgstr nkʉtʉ́k ɔ́ɔ̄ japani
-
-#jv
+#jav
 msgid Javanese
 msgstr nkʉtʉ́k ɔ́ɔ̄ ljana
 
-#km
+#jpn
+msgid Japanese
+msgstr nkʉtʉ́k ɔ́ɔ̄ japani
+
+#khm
 msgid Khmer
 msgstr nkʉtʉ́k ɔ́ɔ̄ lkambodia
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr nkʉtʉ́k ɔ́ɔ̄ lruwanda
+
+#kor
 msgid Korean
 msgstr nkʉtʉ́k ɔ́ɔ̄ lkorea
 
@@ -94,87 +94,87 @@ msgstr nkʉtʉ́k ɔ́ɔ̄ lkorea
 msgid Masai
 msgstr Maa
 
-#ms
+#msa
 msgid Malay
 msgstr nkʉtʉ́k ɔ́ɔ̄ malay
 
-#my
+#mya
 msgid Burmese
 msgstr nkʉtʉ́k ɔ́ɔ̄ lBurma
 
-#ne
+#nep
 msgid Nepali
 msgstr nkʉtʉ́k ɔ́ɔ̄ lnepali
 
-#nl
+#nld
 msgid Dutch
 msgstr nkʉtʉ́k ɔ́ɔ̄ lduchi
 
-#pa
+#pan
 msgid Punjabi
 msgstr nkʉtʉ́k ɔ́ɔ̄ lpunjabi
 
-#pl
+#pol
 msgid Polish
 msgstr nkʉtʉ́k ɔ́ɔ̄ lpoland
 
-#pt
+#por
 msgid Portuguese
 msgstr nkʉtʉ́k ɔ́ɔ̄ lportuguese
 
-#ro
+#ron
 msgid Romanian
 msgstr nkʉtʉ́k ɔ́ɔ̄ lromania
 
-#ru
+#rus
 msgid Russian
 msgstr nkʉtʉ́k ɔ́ɔ̄ lrusi
 
-#rw
-msgid Kinyarwanda
-msgstr nkʉtʉ́k ɔ́ɔ̄ lruwanda
-
-#so
+#som
 msgid Somali
 msgstr nkʉtʉ́k ɔ́ɔ̄ lchumari
 
-#sv
+#spa
+msgid Spanish
+msgstr nkʉtʉ́k ɔ́ɔ̄ lspania
+
+#swe
 msgid Swedish
 msgstr nkʉtʉ́k ɔ́ɔ̄ lswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr nkʉtʉ́k ɔ́ɔ̄ ltamil
 
-#th
+#tha
 msgid Thai
 msgstr nkʉtʉ́k ɔ́ɔ̄ ltai
 
-#tr
+#tur
 msgid Turkish
 msgstr nkʉtʉ́k ɔ́ɔ̄ lturuki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr nkʉtʉ́k ɔ́ɔ̄ lkrania
 
-#ur
+#urd
 msgid Urdu
 msgstr nkʉtʉ́k ɔ́ɔ̄ lurdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr nkʉtʉ́k ɔ́ɔ̄ lvietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr nkʉtʉ́k ɔ́ɔ̄ lyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr nkʉtʉ́k ɔ́ɔ̄ lchina
 
-#zu
+#zul
 msgid Zulu
 msgstr nkʉtʉ́k ɔ́ɔ̄ lzulu
 

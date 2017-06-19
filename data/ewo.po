@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Ǹkɔ́bɔ akán
 
-#am
+#amh
 msgid Amharic
 msgstr Ǹkɔ́bɔ amária
 
-#ar
+#ara
 msgid Arabic
 msgstr Ǹkɔ́bɔ arábia
 
-#be
+#bel
 msgid Belarusian
 msgstr Ǹkɔ́bɔ belarúsian
 
-#bg
-msgid Bulgarian
-msgstr Ǹkɔ́bɔ buləgárian
-
-#bn
+#ben
 msgid Bangla
 msgstr Ǹkɔ́bɔ bɛngalí
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Ǹkɔ́bɔ buləgárian
+
+#ces
 msgid Czech
 msgstr Ǹkɔ́bɔ tsɛ́g
 
-#de
+#deu
 msgid German
 msgstr Ǹkɔ́bɔ ndzáman
 
-#el
+#ell
 msgid Greek
 msgstr Ǹkɔ́bɔ gəlɛ́g
 
-#en
+#eng
 msgid English
 msgstr Ǹkɔ́bɔ éngəlís
-
-#es
-msgid Spanish
-msgstr ǹkɔ́bɔ kpənyá
 
 #ewo
 msgid Ewondo
 msgstr ewondo
 
-#fa
+#fas
 msgid Persian
 msgstr ǹkɔ́bɔ fɛ́rəsian
 
-#fr
+#fra
 msgid French
 msgstr Ǹkɔ́bɔ fulɛnsí
 
-#ha
+#hau
 msgid Hausa
 msgstr Ǹkɔ́bɔ aúsá
 
-#hi
+#hin
 msgid Hindi
 msgstr Ǹkɔ́bɔ hindí
 
-#hu
+#hun
 msgid Hungarian
 msgstr Ǹkɔ́bɔ ungárían
 
-#id
-msgid Indonesian
-msgstr Ǹkɔ́bɔ ɛndonésian
-
-#ig
+#ibo
 msgid Igbo
 msgstr Ǹkɔ́bɔ ibó
 
-#it
+#ind
+msgid Indonesian
+msgstr Ǹkɔ́bɔ ɛndonésian
+
+#ita
 msgid Italian
 msgstr Ǹkɔ́bɔ etáliɛn
 
-#ja
-msgid Japanese
-msgstr Ǹkɔ́bɔ hapɔ́n
-
-#jv
+#jav
 msgid Javanese
 msgstr Ǹkɔ́bɔ havanís
 
-#km
+#jpn
+msgid Japanese
+msgstr Ǹkɔ́bɔ hapɔ́n
+
+#khm
 msgid Khmer
 msgstr Ǹkɔ́bɔ kəmɛ́r
 
-#ko
-msgid Korean
-msgstr Ǹkɔ́bɔ koréan
-
-#ms
-msgid Malay
-msgstr Ǹkɔ́bɔ malɛ́sian
-
-#my
-msgid Burmese
-msgstr Ǹkɔ́bɔ birəmán
-
-#ne
-msgid Nepali
-msgstr ǹkɔ́bɔ nefálian
-
-#nl
-msgid Dutch
-msgstr Ǹkɔ́bɔ nɛrəlándía
-
-#pa
-msgid Punjabi
-msgstr ǹkɔ́bɔ funəhábia
-
-#pl
-msgid Polish
-msgstr ǹkɔ́bɔ fólis
-
-#pt
-msgid Portuguese
-msgstr ǹkɔ́bɔ fɔtugɛ́s
-
-#ro
-msgid Romanian
-msgstr ńkɔ́bɔ románía
-
-#ru
-msgid Russian
-msgstr ǹkɔ́bɔ rúsian
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr ǹkɔ́bɔ ruwandá
 
-#so
+#kor
+msgid Korean
+msgstr Ǹkɔ́bɔ koréan
+
+#msa
+msgid Malay
+msgstr Ǹkɔ́bɔ malɛ́sian
+
+#mya
+msgid Burmese
+msgstr Ǹkɔ́bɔ birəmán
+
+#nep
+msgid Nepali
+msgstr ǹkɔ́bɔ nefálian
+
+#nld
+msgid Dutch
+msgstr Ǹkɔ́bɔ nɛrəlándía
+
+#pan
+msgid Punjabi
+msgstr ǹkɔ́bɔ funəhábia
+
+#pol
+msgid Polish
+msgstr ǹkɔ́bɔ fólis
+
+#por
+msgid Portuguese
+msgstr ǹkɔ́bɔ fɔtugɛ́s
+
+#ron
+msgid Romanian
+msgstr ńkɔ́bɔ románía
+
+#rus
+msgid Russian
+msgstr ǹkɔ́bɔ rúsian
+
+#som
 msgid Somali
 msgstr ǹkɔ́bɔ somália
 
-#sv
+#spa
+msgid Spanish
+msgstr ǹkɔ́bɔ kpənyá
+
+#swe
 msgid Swedish
 msgstr ǹkɔ́bɔ suwɛ́d
 
-#ta
+#tam
 msgid Tamil
 msgstr ǹkɔ́bɔ tamíl
 
-#th
+#tha
 msgid Thai
 msgstr ǹkɔ́bɔ táilan
 
-#tr
+#tur
 msgid Turkish
 msgstr ǹkɔ́bɔ túrəki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ǹkɔ́bɔ ukelénia
 
-#ur
+#urd
 msgid Urdu
 msgstr ǹkɔ́bɔ urudú
 
-#vi
+#vie
 msgid Vietnamese
 msgstr ǹkɔ́bɔ hiɛdənám
 
-#yo
+#yor
 msgid Yoruba
 msgstr ǹkɔ́bɔ yorúba
 
-#zh
+#zho
 msgid Chinese
 msgstr Ǹkɔ́bɔ tsainís
 
-#zu
+#zul
 msgid Zulu
 msgstr ǹkɔ́bɔ zulú
 

@@ -1,4 +1,4 @@
-#da
+#dan
 msgid Danish
 msgstr الدنماركية
 

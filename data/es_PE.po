@@ -10,7 +10,7 @@ msgstr arapaho
 msgid Bhojpuri
 msgstr bhojpuri
 
-#eu
+#eus
 msgid Basque
 msgstr euskera
 
@@ -18,7 +18,7 @@ msgstr euskera
 msgid Ancient Greek
 msgstr griego antiguo
 
-#lo
+#lao
 msgid Lao
 msgstr lao
 
@@ -26,27 +26,27 @@ msgstr lao
 msgid Northern Sotho
 msgstr sotho septentrional
 
-#pa
+#pan
 msgid Punjabi
 msgstr punyabí
 
-#ss
+#ssw
 msgid Swati
 msgstr siswati
-
-#sw
-msgid Swahili
-msgstr suajili
 
 #sw CD
 msgid Congo Swahili
 msgstr suajili del Congo
 
-#tn
+#swa
+msgid Swahili
+msgstr suajili
+
+#tsn
 msgid Tswana
 msgstr setswana
 
-#wo
+#wol
 msgid Wolof
 msgstr wolof
 

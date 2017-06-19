@@ -1,26 +1,22 @@
-#ar
+#ara
 msgid Arabic
 msgstr ʻAlapia
 
-#cy
+#cym
 msgid Welsh
 msgstr Wale
 
-#da
+#dan
 msgid Danish
 msgstr Kenemaka
 
-#de
+#deu
 msgid German
 msgstr Kelemānia
 
-#el
+#ell
 msgid Greek
 msgstr Helene
-
-#en
-msgid English
-msgstr Pelekānia
 
 #en AU
 msgid Australian English
@@ -38,17 +34,13 @@ msgstr Pelekānia Pekekāne
 msgid American English
 msgstr Pelekānia ʻAmelika
 
-#es
-msgid Spanish
-msgstr Paniolo
+#eng
+msgid English
+msgstr Pelekānia
 
-#fj
+#fij
 msgid Fijian
 msgstr Pīkī
-
-#fr
-msgid French
-msgstr Palani
 
 #fr CA
 msgid Canadian French
@@ -58,7 +50,11 @@ msgstr Palani Kanakā
 msgid Swiss French
 msgstr Kuikilani
 
-#ga
+#fra
+msgid French
+msgstr Palani
+
+#gle
 msgid Irish
 msgstr ʻAiliki
 
@@ -70,35 +66,35 @@ msgstr Kuikilani Kelemānia
 msgid Hawaiian
 msgstr ʻŌlelo Hawaiʻi
 
-#he
+#heb
 msgid Hebrew
 msgstr Hebera
 
-#it
+#ita
 msgid Italian
 msgstr ʻĪkālia
 
-#ja
+#jpn
 msgid Japanese
 msgstr Kepanī
 
-#ko
+#kor
 msgid Korean
 msgstr Kōlea
 
-#la
+#lat
 msgid Latin
 msgstr Lākina
 
-#mi
+#mri
 msgid Maori
 msgstr Māori
 
-#nl
+#nld
 msgid Dutch
 msgstr Hōlani
 
-#pt
+#por
 msgid Portuguese
 msgstr Pukikī
 
@@ -106,37 +102,37 @@ msgstr Pukikī
 msgid Brazilian Portuguese
 msgstr Pukikī Palakila
 
-#ru
+#rus
 msgid Russian
 msgstr Lūkia
 
-#sm
+#smo
 msgid Samoan
 msgstr Kāmoa
 
-#sv
+#spa
+msgid Spanish
+msgstr Paniolo
+
+#swe
 msgid Swedish
 msgstr Kuekene
 
-#to
-msgid Tongan
-msgstr Tonga
-
-#ty
+#tah
 msgid Tahitian
 msgstr Polapola
+
+#ton
+msgid Tongan
+msgstr Tonga
 
 #und
 msgid Unknown language
 msgstr ʻIke ʻole ‘ia a kūpono ʻole paha ka ʻōlelo
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Wiekanama
-
-#zh
-msgid Chinese
-msgstr Pākē
 
 #zh Hans
 msgid Simplified Chinese
@@ -145,4 +141,8 @@ msgstr Pākē Hoʻomaʻalahi ʻia
 #zh Hant
 msgid Traditional Chinese
 msgstr Pākē Kuʻuna
+
+#zho
+msgid Chinese
+msgstr Pākē
 

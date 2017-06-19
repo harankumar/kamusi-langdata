@@ -18,11 +18,11 @@ msgstr griego antiguo
 msgid Northern Sotho
 msgstr sotho septentrional
 
-#ss
+#ssw
 msgid Swati
 msgstr siswati
 
-#wo
+#wol
 msgid Wolof
 msgstr wolof
 

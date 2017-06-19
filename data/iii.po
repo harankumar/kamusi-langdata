@@ -1,0 +1,56 @@
+#deu
+msgid German
+msgstr ꄓꇩꉙ
+
+#eng
+msgid English
+msgstr ꑱꇩꉙ
+
+#fra
+msgid French
+msgstr ꃔꇩꉙ
+
+#iii
+msgid Sichuan Yi
+msgstr ꆈꌠꉙ
+
+#ita
+msgid Italian
+msgstr ꑴꄊꆺꉙ
+
+#jpn
+msgid Japanese
+msgstr ꏝꀪꉙ
+
+#por
+msgid Portuguese
+msgstr ꁍꄨꑸꉙ
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr ꀠꑟꁍꄨꑸꉙ
+
+#rus
+msgid Russian
+msgstr ꊉꇩꉙ
+
+#spa
+msgid Spanish
+msgstr ꑭꀠꑸꉙ
+
+#und
+msgid Unknown language
+msgstr ꅉꀋꌠꅇꂷ
+
+#zh Hans
+msgid Simplified Chinese
+msgstr ꈝꐯꍏꇩꉙ
+
+#zh Hant
+msgid Traditional Chinese
+msgstr ꀎꋏꍏꇩꉙ
+
+#zho
+msgid Chinese
+msgstr ꍏꇩꉙ
+

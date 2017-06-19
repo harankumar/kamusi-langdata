@@ -74,7 +74,7 @@ msgstr sotho septentrional
 msgid Nigerian Pidgin
 msgstr pcm
 
-#rn
+#run
 msgid Rundi
 msgstr kiroundi
 
@@ -82,7 +82,7 @@ msgstr kiroundi
 msgid Chadian Arabic
 msgstr árabe chadiano
 
-#ss
+#ssw
 msgid Swati
 msgstr siswati
 
@@ -90,11 +90,11 @@ msgstr siswati
 msgid Congo Swahili
 msgstr swahili del Congo
 
-#tn
+#tsn
 msgid Tswana
 msgstr setchwana
 
-#wo
+#wol
 msgid Wolof
 msgstr wolof
 

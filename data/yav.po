@@ -1,164 +1,164 @@
-#ak
+#aka
 msgid Akan
 msgstr akánɛ
 
-#am
+#amh
 msgid Amharic
 msgstr amalíke
 
-#ar
+#ara
 msgid Arabic
 msgstr ́pakas
 
-#be
+#bel
 msgid Belarusian
 msgstr pielúse
 
-#bg
-msgid Bulgarian
-msgstr bulgálɛ
-
-#bn
+#ben
 msgid Bangla
 msgstr pengálɛ́ɛ
 
-#cs
+#bul
+msgid Bulgarian
+msgstr bulgálɛ
+
+#ces
 msgid Czech
 msgstr cɛ́kɛ́ɛ
 
-#de
+#deu
 msgid German
 msgstr ŋndiáman
 
-#el
+#ell
 msgid Greek
 msgstr yavánɛ
 
-#en
+#eng
 msgid English
 msgstr íŋgilísé
 
-#es
-msgid Spanish
-msgstr nuɛspanyɔ́lɛ
-
-#fa
+#fas
 msgid Persian
 msgstr nupɛ́lisɛ
 
-#fr
+#fra
 msgid French
 msgstr feleŋsí
 
-#ha
+#hau
 msgid Hausa
 msgstr pakas
 
-#hi
+#hin
 msgid Hindi
 msgstr índí
 
-#hu
+#hun
 msgid Hungarian
 msgstr ɔ́ŋgɛ
 
-#id
-msgid Indonesian
-msgstr índonísiɛ
-
-#ig
+#ibo
 msgid Igbo
 msgstr íbo
 
-#it
+#ind
+msgid Indonesian
+msgstr índonísiɛ
+
+#ita
 msgid Italian
 msgstr itáliɛ
 
-#ja
-msgid Japanese
-msgstr ndiáman
-
-#jv
+#jav
 msgid Javanese
 msgstr yávanɛ
 
-#km
+#jpn
+msgid Japanese
+msgstr ndiáman
+
+#khm
 msgid Khmer
 msgstr kímɛɛ
 
-#ko
-msgid Korean
-msgstr kolíe
-
-#ms
-msgid Malay
-msgstr máliɛ
-
-#my
-msgid Burmese
-msgstr bímanɛ
-
-#ne
-msgid Nepali
-msgstr nunipálɛ
-
-#nl
-msgid Dutch
-msgstr nilándɛ
-
-#pa
-msgid Punjabi
-msgstr nupunsapíɛ́
-
-#pl
-msgid Polish
-msgstr nupolonɛ́ɛ
-
-#pt
-msgid Portuguese
-msgstr nupɔlitukɛ́ɛ
-
-#ro
-msgid Romanian
-msgstr nulumɛ́ŋɛ
-
-#ru
-msgid Russian
-msgstr nulúse
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr nuluándɛ́ɛ
 
-#so
+#kor
+msgid Korean
+msgstr kolíe
+
+#msa
+msgid Malay
+msgstr máliɛ
+
+#mya
+msgid Burmese
+msgstr bímanɛ
+
+#nep
+msgid Nepali
+msgstr nunipálɛ
+
+#nld
+msgid Dutch
+msgstr nilándɛ
+
+#pan
+msgid Punjabi
+msgstr nupunsapíɛ́
+
+#pol
+msgid Polish
+msgstr nupolonɛ́ɛ
+
+#por
+msgid Portuguese
+msgstr nupɔlitukɛ́ɛ
+
+#ron
+msgid Romanian
+msgstr nulumɛ́ŋɛ
+
+#rus
+msgid Russian
+msgstr nulúse
+
+#som
 msgid Somali
 msgstr nusomalíɛ
 
-#sv
+#spa
+msgid Spanish
+msgstr nuɛspanyɔ́lɛ
+
+#swe
 msgid Swedish
 msgstr nusuetua
 
-#ta
+#tam
 msgid Tamil
 msgstr nutámule
 
-#th
+#tha
 msgid Thai
 msgstr nutáyɛ
 
-#tr
+#tur
 msgid Turkish
 msgstr nutúluke
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr nukeleniɛ́ŋɛ
 
-#ur
+#urd
 msgid Urdu
 msgstr nulutú
 
-#vi
+#vie
 msgid Vietnamese
 msgstr nufiɛtnamíɛŋ
 
@@ -166,15 +166,15 @@ msgstr nufiɛtnamíɛŋ
 msgid Yangben
 msgstr nuasue
 
-#yo
+#yor
 msgid Yoruba
 msgstr nuyolúpa
 
-#zh
+#zho
 msgid Chinese
 msgstr sinúɛ
 
-#zu
+#zul
 msgid Zulu
 msgstr nusulú
 

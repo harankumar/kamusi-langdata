@@ -1,0 +1,180 @@
+#aka
+msgid Akan
+msgstr Kiakan
+
+#amh
+msgid Amharic
+msgstr Kiamhari
+
+#ara
+msgid Arabic
+msgstr Kĩarabu
+
+#bel
+msgid Belarusian
+msgstr Kibelarusi
+
+#ben
+msgid Bangla
+msgstr Kibangla
+
+#bul
+msgid Bulgarian
+msgstr Kibulgaria
+
+#ces
+msgid Czech
+msgstr Kichecki
+
+#deu
+msgid German
+msgstr Kĩnjeremani
+
+#ell
+msgid Greek
+msgstr Kigiriki
+
+#eng
+msgid English
+msgstr Gĩthungũ
+
+#fas
+msgid Persian
+msgstr Kiajemi
+
+#fra
+msgid French
+msgstr Kĩbaranja
+
+#hau
+msgid Hausa
+msgstr Kihausa
+
+#hin
+msgid Hindi
+msgstr Kĩhĩndĩ
+
+#hun
+msgid Hungarian
+msgstr Kihungari
+
+#ibo
+msgid Igbo
+msgstr Kiigbo
+
+#ind
+msgid Indonesian
+msgstr Kiindonesia
+
+#ita
+msgid Italian
+msgstr Kĩtaliano
+
+#jav
+msgid Javanese
+msgstr Kijava
+
+#jpn
+msgid Japanese
+msgstr Kĩnjabani
+
+#khm
+msgid Khmer
+msgstr Kikambodia
+
+#kik
+msgid Kikuyu
+msgstr Gikuyu
+
+#kin
+msgid Kinyarwanda
+msgstr Kinyarwanda
+
+#kor
+msgid Korean
+msgstr Kikorea
+
+#msa
+msgid Malay
+msgstr Kimalesia
+
+#mya
+msgid Burmese
+msgstr Kiburma
+
+#nep
+msgid Nepali
+msgstr Kinepali
+
+#nld
+msgid Dutch
+msgstr Kiholanzi
+
+#pan
+msgid Punjabi
+msgstr Kipunjabi
+
+#pol
+msgid Polish
+msgstr Kipolandi
+
+#por
+msgid Portuguese
+msgstr Kireno
+
+#ron
+msgid Romanian
+msgstr Kiromania
+
+#rus
+msgid Russian
+msgstr Kĩracia
+
+#som
+msgid Somali
+msgstr Kĩcumarĩ
+
+#spa
+msgid Spanish
+msgstr Kihispania
+
+#swe
+msgid Swedish
+msgstr Kiswidi
+
+#tam
+msgid Tamil
+msgstr Kitamil
+
+#tha
+msgid Thai
+msgstr Kitailandi
+
+#tur
+msgid Turkish
+msgstr Kituruki
+
+#ukr
+msgid Ukrainian
+msgstr Kiukrania
+
+#urd
+msgid Urdu
+msgstr Kiurdu
+
+#vie
+msgid Vietnamese
+msgstr Kivietinamu
+
+#yor
+msgid Yoruba
+msgstr Kiyoruba
+
+#zho
+msgid Chinese
+msgstr Kĩcaina
+
+#zul
+msgid Zulu
+msgstr Kizulu
+

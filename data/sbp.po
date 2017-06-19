@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Ishiyakani
 
-#am
+#amh
 msgid Amharic
 msgstr Ishiyamuhali
 
-#ar
+#ara
 msgid Arabic
 msgstr Ishiyalabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Ishibelalusi
 
-#bg
-msgid Bulgarian
-msgstr Ishibulugalia
-
-#bn
+#ben
 msgid Bangla
 msgstr Ishibangila
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Ishibulugalia
+
+#ces
 msgid Czech
 msgstr Ishisheki
 
-#de
+#deu
 msgid German
 msgstr Ishijelumani
 
-#el
+#ell
 msgid Greek
 msgstr Ishigiliki
 
-#en
+#eng
 msgid English
 msgstr Ishingelesa
 
-#es
-msgid Spanish
-msgstr Ishihisipaniya
-
-#fa
+#fas
 msgid Persian
 msgstr Ishiajemi
 
-#fr
+#fra
 msgid French
 msgstr Ishifalansa
 
-#ha
+#hau
 msgid Hausa
 msgstr Ishihawusa
 
-#hi
+#hin
 msgid Hindi
 msgstr Ishihindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Ishihungali
 
-#id
-msgid Indonesian
-msgstr Ishihindonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Ishihigibo
 
-#it
+#ind
+msgid Indonesian
+msgstr Ishihindonesia
+
+#ita
 msgid Italian
 msgstr Ishihitaliyano
 
-#ja
-msgid Japanese
-msgstr Ishijapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Ishijava
 
-#km
+#jpn
+msgid Japanese
+msgstr Ishijapani
+
+#khm
 msgid Khmer
 msgstr Ishikambodia
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Ishinyalwanda
+
+#kor
 msgid Korean
 msgstr Ishikoleya
 
-#ms
+#msa
 msgid Malay
 msgstr Ishimalesiya
 
-#my
+#mya
 msgid Burmese
 msgstr Ishibuluma
 
-#ne
+#nep
 msgid Nepali
 msgstr Ishinepali
 
-#nl
+#nld
 msgid Dutch
 msgstr Ishiholansi
 
-#pa
+#pan
 msgid Punjabi
 msgstr Ishipunjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Ishipolandi
 
-#pt
+#por
 msgid Portuguese
 msgstr Ishileno
 
-#ro
+#ron
 msgid Romanian
 msgstr Ishilomaniya
 
-#ru
+#rus
 msgid Russian
 msgstr Ishilusi
-
-#rw
-msgid Kinyarwanda
-msgstr Ishinyalwanda
 
 #sbp
 msgid Sangu
 msgstr Ishisangu
 
-#so
+#som
 msgid Somali
 msgstr Ishisomali
 
-#sv
+#spa
+msgid Spanish
+msgstr Ishihisipaniya
+
+#swe
 msgid Swedish
 msgstr Ishiswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Ishitamili
 
-#th
+#tha
 msgid Thai
 msgstr Ishitayilandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Ishituluki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ishiyukilaniya
 
-#ur
+#urd
 msgid Urdu
 msgstr Ishiwuludi
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Ishivietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Ishiyoluba
 
-#zh
+#zho
 msgid Chinese
 msgstr Ishishina
 
-#zu
+#zul
 msgid Zulu
 msgstr Ishisulu
 

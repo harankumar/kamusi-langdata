@@ -6,11 +6,11 @@ msgstr ačehgiella
 msgid Modern Standard Arabic
 msgstr standárda arábagiella
 
-#be
+#bel
 msgid Belarusian
 msgstr vilgesruoššagiella
 
-#bn
+#ben
 msgid Bangla
 msgstr bengalagiella
 
@@ -58,7 +58,7 @@ msgstr espánjalaš spánskkagiella
 msgid Mexican Spanish
 msgstr meksikolaš spánskkagiella
 
-#fj
+#fij
 msgid Fijian
 msgstr fižigiella
 
@@ -70,19 +70,19 @@ msgstr kanádalaš fránskkagiella
 msgid Swiss French
 msgstr šveicalaš fránskkagiella
 
-#hy
+#hye
 msgid Armenian
 msgstr armenagiella
 
-#kk
+#kaz
 msgid Kazakh
 msgstr kazakhgiella
 
-#km
+#khm
 msgid Khmer
 msgstr kambožagiella
 
-#ne
+#nep
 msgid Nepali
 msgstr nepalagiella
 
@@ -90,7 +90,7 @@ msgstr nepalagiella
 msgid Flemish
 msgstr belgialaš hollánddagiella
 
-#pa
+#pan
 msgid Punjabi
 msgstr panjabagiella
 
@@ -110,11 +110,11 @@ msgstr moldávialaš romániagiella
 msgid Comorian
 msgstr komoragiella
 
-#th
+#tha
 msgid Thai
 msgstr thaigiella
 
-#vi
+#vie
 msgid Vietnamese
 msgstr vietnamagiella
 

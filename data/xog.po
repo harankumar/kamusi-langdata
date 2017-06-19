@@ -1,164 +1,164 @@
-#ak
+#aka
 msgid Akan
 msgstr Oluakaani
 
-#am
+#amh
 msgid Amharic
 msgstr Oluamhariki
 
-#ar
+#ara
 msgid Arabic
 msgstr Oluwarabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Olubelarusi
 
-#bg
-msgid Bulgarian
-msgstr Olubulugariya
-
-#bn
+#ben
 msgid Bangla
 msgstr Olubengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Olubulugariya
+
+#ces
 msgid Czech
 msgstr Oluceeke
 
-#de
+#deu
 msgid German
 msgstr Oludaaki
 
-#el
+#ell
 msgid Greek
 msgstr Oluyonaani
 
-#en
+#eng
 msgid English
 msgstr Olungereza
 
-#es
-msgid Spanish
-msgstr Olusipanya
-
-#fa
+#fas
 msgid Persian
 msgstr Oluperusi
 
-#fr
+#fra
 msgid French
 msgstr Olufalansa
 
-#ha
+#hau
 msgid Hausa
 msgstr Oluhawuza
 
-#hi
+#hin
 msgid Hindi
 msgstr Oluhindu
 
-#hu
+#hun
 msgid Hungarian
 msgstr Oluhangare
 
-#id
-msgid Indonesian
-msgstr Oluyindonezya
-
-#ig
+#ibo
 msgid Igbo
 msgstr Oluyibo
 
-#it
+#ind
+msgid Indonesian
+msgstr Oluyindonezya
+
+#ita
 msgid Italian
 msgstr Oluyitale
 
-#ja
-msgid Japanese
-msgstr Olujapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Olunnajjava
 
-#km
+#jpn
+msgid Japanese
+msgstr Olujapani
+
+#khm
 msgid Khmer
 msgstr Olukme
 
-#ko
-msgid Korean
-msgstr Olukoreya
-
-#ms
-msgid Malay
-msgstr Olumalayi
-
-#my
-msgid Burmese
-msgstr Olubbama
-
-#ne
-msgid Nepali
-msgstr Olunepali
-
-#nl
-msgid Dutch
-msgstr Oluholandi
-
-#pa
-msgid Punjabi
-msgstr Olupunjabi
-
-#pl
-msgid Polish
-msgstr Olupolandi
-
-#pt
-msgid Portuguese
-msgstr Olupotugiizi
-
-#ro
-msgid Romanian
-msgstr Olulomaniya
-
-#ru
-msgid Russian
-msgstr Olulasa
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Olunarwanda
 
-#so
+#kor
+msgid Korean
+msgstr Olukoreya
+
+#msa
+msgid Malay
+msgstr Olumalayi
+
+#mya
+msgid Burmese
+msgstr Olubbama
+
+#nep
+msgid Nepali
+msgstr Olunepali
+
+#nld
+msgid Dutch
+msgstr Oluholandi
+
+#pan
+msgid Punjabi
+msgstr Olupunjabi
+
+#pol
+msgid Polish
+msgstr Olupolandi
+
+#por
+msgid Portuguese
+msgstr Olupotugiizi
+
+#ron
+msgid Romanian
+msgstr Olulomaniya
+
+#rus
+msgid Russian
+msgstr Olulasa
+
+#som
 msgid Somali
 msgstr Olusomaliya
 
-#sv
+#spa
+msgid Spanish
+msgstr Olusipanya
+
+#swe
 msgid Swedish
 msgstr Oluswideni
 
-#ta
+#tam
 msgid Tamil
 msgstr Olutamiiru
 
-#th
+#tha
 msgid Thai
 msgstr Oluttaayi
 
-#tr
+#tur
 msgid Turkish
 msgstr Olutake
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Oluyukurayine
 
-#ur
+#urd
 msgid Urdu
 msgstr Olu-urudu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Oluvyetinaamu
 
@@ -166,15 +166,15 @@ msgstr Oluvyetinaamu
 msgid Soga
 msgstr Olusoga
 
-#yo
+#yor
 msgid Yoruba
 msgstr Oluyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Olucayina
 
-#zu
+#zul
 msgid Zulu
 msgstr Oluzzulu
 

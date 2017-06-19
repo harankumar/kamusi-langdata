@@ -1,8 +1,8 @@
-#en
+#eng
 msgid English
 msgstr yaman
 
-#fr
+#fra
 msgid French
 msgstr numbu buy
 

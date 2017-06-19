@@ -1,0 +1,4 @@
+#glv
+msgid Manx
+msgstr Gaelg
+

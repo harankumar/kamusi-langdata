@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Takanit
 
-#am
+#amh
 msgid Amharic
 msgstr Tamahrict
 
-#ar
+#ara
 msgid Arabic
 msgstr Taɛrabt
 
-#be
+#bel
 msgid Belarusian
 msgstr Tabilarusit
 
-#bg
-msgid Bulgarian
-msgstr Tabulgarit
-
-#bn
+#ben
 msgid Bangla
 msgstr Tabengalit
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Tabulgarit
+
+#ces
 msgid Czech
 msgstr Tačikit
 
-#de
+#deu
 msgid German
 msgstr Talmant
 
-#el
+#ell
 msgid Greek
 msgstr Tagrikit
 
-#en
+#eng
 msgid English
 msgstr Taglizit
 
-#es
-msgid Spanish
-msgstr Taspenyulit
-
-#fa
+#fas
 msgid Persian
 msgstr Tafarisit
 
-#fr
+#fra
 msgid French
 msgstr Tafransist
 
-#ha
+#hau
 msgid Hausa
 msgstr Tahwasit
 
-#hi
+#hin
 msgid Hindi
 msgstr Tahendit
 
-#hu
+#hun
 msgid Hungarian
 msgstr Tahungarit
 
-#id
-msgid Indonesian
-msgstr Tandunisit
-
-#ig
+#ibo
 msgid Igbo
 msgstr Tigbut
 
-#it
+#ind
+msgid Indonesian
+msgstr Tandunisit
+
+#ita
 msgid Italian
 msgstr Taṭalyanit
 
-#ja
-msgid Japanese
-msgstr Tajapunit
-
-#jv
+#jav
 msgid Javanese
 msgstr Tajavanit
+
+#jpn
+msgid Japanese
+msgstr Tajapunit
 
 #kab
 msgid Kabyle
 msgstr Taqbaylit
 
-#km
+#khm
 msgid Khmer
 msgstr Takemrit
 
-#ko
-msgid Korean
-msgstr Takurit
-
-#ms
-msgid Malay
-msgstr Tamalawit
-
-#my
-msgid Burmese
-msgstr Taburmisit
-
-#ne
-msgid Nepali
-msgstr Tanipalit
-
-#nl
-msgid Dutch
-msgstr Tadučit
-
-#pa
-msgid Punjabi
-msgstr Tapunjabit
-
-#pl
-msgid Polish
-msgstr Tapulunit
-
-#pt
-msgid Portuguese
-msgstr Tapurtugalit
-
-#ro
-msgid Romanian
-msgstr Tarumanit
-
-#ru
-msgid Russian
-msgstr Tarusit
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Taruwandit
 
-#so
+#kor
+msgid Korean
+msgstr Takurit
+
+#msa
+msgid Malay
+msgstr Tamalawit
+
+#mya
+msgid Burmese
+msgstr Taburmisit
+
+#nep
+msgid Nepali
+msgstr Tanipalit
+
+#nld
+msgid Dutch
+msgstr Tadučit
+
+#pan
+msgid Punjabi
+msgstr Tapunjabit
+
+#pol
+msgid Polish
+msgstr Tapulunit
+
+#por
+msgid Portuguese
+msgstr Tapurtugalit
+
+#ron
+msgid Romanian
+msgstr Tarumanit
+
+#rus
+msgid Russian
+msgstr Tarusit
+
+#som
 msgid Somali
 msgstr Taṣumalit
 
-#sv
+#spa
+msgid Spanish
+msgstr Taspenyulit
+
+#swe
 msgid Swedish
 msgstr Taswidit
 
-#ta
+#tam
 msgid Tamil
 msgstr Taṭamulit
 
-#th
+#tha
 msgid Thai
 msgstr Taṭaylundit
 
-#tr
+#tur
 msgid Turkish
 msgstr Taṭurkit
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Tukranit
 
-#ur
+#urd
 msgid Urdu
 msgstr Turdut
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Tabyiṭnamit
 
-#yo
+#yor
 msgid Yoruba
 msgstr Tayurubit
 
-#zh
+#zho
 msgid Chinese
 msgstr Tacinwat, Tamundarint
 
-#zu
+#zul
 msgid Zulu
 msgstr Tazulut
 

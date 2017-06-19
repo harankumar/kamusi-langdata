@@ -1,0 +1,600 @@
+#aar
+msgid Afar
+msgstr אַפֿאַר
+
+#afr
+msgid Afrikaans
+msgstr אַפֿריקאַנס
+
+#akk
+msgid Akkadian
+msgstr אַקאַדיש
+
+#amh
+msgid Amharic
+msgstr אַמהאַריש
+
+#ang
+msgid Old English
+msgstr אַלט ענגליש
+
+#ara
+msgid Arabic
+msgstr אַראַביש
+
+#arc
+msgid Aramaic
+msgstr אַראַמיש
+
+#arg
+msgid Aragonese
+msgstr אַראַגאניש
+
+#asm
+msgid Assamese
+msgstr אַסאַמיש
+
+#aze
+msgid Azerbaijani
+msgstr אַזערביידזשאַניש
+
+#ban
+msgid Balinese
+msgstr באַלינעזיש
+
+#bar
+msgid Bavarian
+msgstr בײַעריש
+
+#bel
+msgid Belarusian
+msgstr בעלאַרוסיש
+
+#ben
+msgid Bangla
+msgstr בענגאַליש
+
+#bod
+msgid Tibetan
+msgstr טיבעטיש
+
+#bos
+msgid Bosnian
+msgstr באסניש
+
+#bre
+msgid Breton
+msgstr ברעטאניש
+
+#bul
+msgid Bulgarian
+msgstr בולגאַריש
+
+#cat
+msgid Catalan
+msgstr קאַטאַלאניש
+
+#ceb
+msgid Cebuano
+msgstr סעבואַניש
+
+#ces
+msgid Czech
+msgstr טשעכיש
+
+#chu
+msgid Church Slavic
+msgstr קלויסטער־סלאַוויש
+
+#cor
+msgid Cornish
+msgstr קארניש
+
+#crh
+msgid Crimean Turkish
+msgstr קרים־טערקיש
+
+#csb
+msgid Kashubian
+msgstr קאַשוביש
+
+#cym
+msgid Welsh
+msgstr וועלשיש
+
+#dan
+msgid Danish
+msgstr דעניש
+
+#deu
+msgid German
+msgstr דײַטש
+
+#dsb
+msgid Lower Sorbian
+msgstr אונטער־סארביש
+
+#dyo
+msgid Jola-Fonyi
+msgstr זשאלא־פֿאני
+
+#ell
+msgid Greek
+msgstr גריכיש
+
+#en GB-short
+msgid UK English
+msgstr ענגליש (GB)
+
+#en US-short
+msgid US English
+msgstr ענגליש (US)
+
+#eng
+msgid English
+msgstr ענגליש
+
+#enm
+msgid Middle English
+msgstr מיטל ענגליש
+
+#epo
+msgid Esperanto
+msgstr עספּעראַנטא
+
+#est
+msgid Estonian
+msgstr עסטיש
+
+#eus
+msgid Basque
+msgstr באַסקיש
+
+#fao
+msgid Faroese
+msgstr פֿאַראיש
+
+#fas
+msgid Persian
+msgstr פּערסיש
+
+#fij
+msgid Fijian
+msgstr פֿידזשי
+
+#fil
+msgid Filipino
+msgstr פֿיליפּינא
+
+#fin
+msgid Finnish
+msgstr פֿיניש
+
+#fra
+msgid French
+msgstr פֿראַנצויזיש
+
+#fro
+msgid Old French
+msgstr אַלט־פֿראַנצויזיש
+
+#frr
+msgid Northern Frisian
+msgstr דרום־פֿריזיש
+
+#frs
+msgid Eastern Frisian
+msgstr מזרח־פֿריזיש
+
+#fry
+msgid Western Frisian
+msgstr מערב־פֿריזיש
+
+#gla
+msgid Scottish Gaelic
+msgstr סקאטיש געליש
+
+#gle
+msgid Irish
+msgstr איריש
+
+#glg
+msgid Galician
+msgstr גאַלישיש
+
+#glv
+msgid Manx
+msgstr מאַנקס
+
+#gmh
+msgid Middle High German
+msgstr מיטל הויכדויטש
+
+#goh
+msgid Old High German
+msgstr אַלט־ הויכדויטש
+
+#got
+msgid Gothic
+msgstr גאטיש
+
+#grc
+msgid Ancient Greek
+msgstr אוראַלט־גריכיש
+
+#hau
+msgid Hausa
+msgstr האַוסאַ
+
+#hbs
+msgid Serbo-Croatian
+msgstr סערבא־קראאַטיש
+
+#heb
+msgid Hebrew
+msgstr העברעאיש
+
+#hif
+msgid Fiji Hindi
+msgstr פידזשי הינדי
+
+#hin
+msgid Hindi
+msgstr הינדי
+
+#hrv
+msgid Croatian
+msgstr קראאַטיש
+
+#hsb
+msgid Upper Sorbian
+msgstr אייבער־סארביש
+
+#hun
+msgid Hungarian
+msgstr אונגעריש
+
+#hye
+msgid Armenian
+msgstr אַרמעניש
+
+#ido
+msgid Ido
+msgstr אידא
+
+#ind
+msgid Indonesian
+msgstr אינדאנעזיש
+
+#isl
+msgid Icelandic
+msgstr איסלאַנדיש
+
+#ita
+msgid Italian
+msgstr איטאַליעניש
+
+#jav
+msgid Javanese
+msgstr יאַוואַנעזיש
+
+#jbo
+msgid Lojban
+msgstr לאזשבאָן
+
+#jpn
+msgid Japanese
+msgstr יאַפּאַניש
+
+#jpr
+msgid Judeo-Persian
+msgstr יידיש־פערסיש
+
+#kan
+msgid Kannada
+msgstr קאַנאַדאַ
+
+#kat
+msgid Georgian
+msgstr גרוזיניש
+
+#kaz
+msgid Kazakh
+msgstr קאַזאַכיש
+
+#khm
+msgid Khmer
+msgstr כמער
+
+#kir
+msgid Kyrgyz
+msgstr קירגיזיש
+
+#kor
+msgid Korean
+msgstr קארעאיש
+
+#kur
+msgid Kurdish
+msgstr קורדיש
+
+#lad
+msgid Ladino
+msgstr לאַדינא
+
+#lao
+msgid Lao
+msgstr לאַא
+
+#lat
+msgid Latin
+msgstr לאטייניש
+
+#lav
+msgid Latvian
+msgstr לעטיש
+
+#lit
+msgid Lithuanian
+msgstr ליטוויש
+
+#liv
+msgid Livonian
+msgstr ליוויש
+
+#ltz
+msgid Luxembourgish
+msgstr לוקסעמבורגיש
+
+#lus
+msgid Mizo
+msgstr מיזא
+
+#mal
+msgid Malayalam
+msgstr מאַלאַיאַלאַם
+
+#mkd
+msgid Macedonian
+msgstr מאַקעדאניש
+
+#mlt
+msgid Maltese
+msgstr מאַלטעזיש
+
+#mon
+msgid Mongolian
+msgstr מאנגאליש
+
+#mri
+msgid Maori
+msgstr מאַאריש
+
+#mya
+msgid Burmese
+msgstr בירמאַניש
+
+#nap
+msgid Neapolitan
+msgstr נאַפּאליטַניש
+
+#nds
+msgid Low German
+msgstr נידערדײַטש
+
+#nep
+msgid Nepali
+msgstr נעפּאַליש
+
+#nl BE
+msgid Flemish
+msgstr פֿלעמיש
+
+#nld
+msgid Dutch
+msgstr האלענדיש
+
+#nno
+msgid Norwegian Nynorsk
+msgstr נײַ־נארוועגיש
+
+#nor
+msgid Norwegian
+msgstr נארוועגיש
+
+#oci
+msgid Occitan
+msgstr אקסיטאַניש
+
+#oss
+msgid Ossetic
+msgstr אסעטיש
+
+#peo
+msgid Old Persian
+msgstr אַלט פּערסיש
+
+#pol
+msgid Polish
+msgstr פּויליש
+
+#por
+msgid Portuguese
+msgstr פּארטוגעזיש
+
+#prg
+msgid Prussian
+msgstr פּרייסיש
+
+#pus
+msgid Pashto
+msgstr פּאַשטאָ
+
+#ron
+msgid Romanian
+msgstr רומעניש
+
+#rue
+msgid Rusyn
+msgstr רוסיניש
+
+#rus
+msgid Russian
+msgstr רוסיש
+
+#san
+msgid Sanskrit
+msgstr סאַנסקריט
+
+#scn
+msgid Sicilian
+msgstr סיציליאַניש
+
+#sco
+msgid Scots
+msgstr סקאטס
+
+#sga
+msgid Old Irish
+msgstr אַלט־איריש
+
+#sin
+msgid Sinhala
+msgstr סינהאַליש
+
+#sli
+msgid Lower Silesian
+msgstr אונטער שלעזיש
+
+#slk
+msgid Slovak
+msgstr סלאוואַקיש
+
+#slv
+msgid Slovenian
+msgstr סלאוועניש
+
+#sly
+msgid Selayar
+msgstr sly
+
+#sme
+msgid Northern Sami
+msgstr נארדסאַמיש
+
+#smo
+msgid Samoan
+msgstr סאַמאאַניש
+
+#sna
+msgid Shona
+msgstr שאנאַ
+
+#snd
+msgid Sindhi
+msgstr סינדהי
+
+#som
+msgid Somali
+msgstr סאמאַליש
+
+#spa
+msgid Spanish
+msgstr שפּאַניש
+
+#sqi
+msgid Albanian
+msgstr אַלבאַניש
+
+#srd
+msgid Sardinian
+msgstr סאַרדיש
+
+#srp
+msgid Serbian
+msgstr סערביש
+
+#sux
+msgid Sumerian
+msgstr סומעריש
+
+#sw CD
+msgid Congo Swahili
+msgstr קאנגא־סוואַהיליש
+
+#swa
+msgid Swahili
+msgstr סוואַהיליש
+
+#swb
+msgid Comorian
+msgstr קאמאריש
+
+#swe
+msgid Swedish
+msgstr שוועדיש
+
+#szl
+msgid Silesian
+msgstr שלעזיש
+
+#tam
+msgid Tamil
+msgstr טאַמיל
+
+#tat
+msgid Tatar
+msgstr טאָטעריש
+
+#tgl
+msgid Tagalog
+msgstr טאַגאַלאג
+
+#tig
+msgid Tigre
+msgstr טיגרע
+
+#tuk
+msgid Turkmen
+msgstr טורקמעניש
+
+#ukr
+msgid Ukrainian
+msgstr אוקראַאיניש
+
+#und
+msgid Unknown language
+msgstr אומבאַוואוסטע שפּראַך
+
+#urd
+msgid Urdu
+msgstr אורדו
+
+#uzb
+msgid Uzbek
+msgstr אוזבעקיש
+
+#vie
+msgid Vietnamese
+msgstr וויעטנאַמעזיש
+
+#vls
+msgid West Flemish
+msgstr מערב פֿלעמיש
+
+#vol
+msgid Volapük
+msgstr וואלאַפּוק
+
+#yid
+msgid Yiddish
+msgstr ייִדיש
+
+#zho
+msgid Chinese
+msgstr כינעזיש
+
+#zul
+msgid Zulu
+msgstr זולו
+

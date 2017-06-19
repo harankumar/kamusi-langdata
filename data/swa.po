@@ -1,0 +1,1716 @@
+#aar
+msgid Afar
+msgstr Kiafar
+
+#abk
+msgid Abkhazian
+msgstr Kiabkhazi
+
+#ace
+msgid Achinese
+msgstr Kiacheni
+
+#ach
+msgid Acoli
+msgstr Kiakoli
+
+#ada
+msgid Adangme
+msgstr Kiadangme
+
+#ady
+msgid Adyghe
+msgstr Kiadyghe
+
+#afr
+msgid Afrikaans
+msgstr Kiafrikana
+
+#agq
+msgid Aghem
+msgstr Kiaghem
+
+#ain
+msgid Ainu
+msgstr Kiainu
+
+#aka
+msgid Akan
+msgstr Kiakani
+
+#ale
+msgid Aleut
+msgstr Kialeut
+
+#alt
+msgid Southern Altai
+msgstr Kialtai
+
+#amh
+msgid Amharic
+msgstr Kiamhari
+
+#ang
+msgid Old English
+msgstr Kiingereza cha Kale
+
+#anp
+msgid Angika
+msgstr Kiangika
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr Kiarabu Sanifu cha Kisasa
+
+#ara
+msgid Arabic
+msgstr Kiarabu
+
+#arc
+msgid Aramaic
+msgstr Kiaramu
+
+#arg
+msgid Aragonese
+msgstr Kiaragoni
+
+#arn
+msgid Mapuche
+msgstr Kimapuche
+
+#arp
+msgid Arapaho
+msgstr Kiarapaho
+
+#arq
+msgid Algerian Arabic
+msgstr Kiarabu cha Algeria
+
+#arz
+msgid Egyptian Arabic
+msgstr Kiarabu cha Misri
+
+#asa
+msgid Asu
+msgstr Kiasu
+
+#asm
+msgid Assamese
+msgstr Kiassam
+
+#ast
+msgid Asturian
+msgstr Kiasturia
+
+#ava
+msgid Avaric
+msgstr Kiavari
+
+#awa
+msgid Awadhi
+msgstr Kiawadhi
+
+#aym
+msgid Aymara
+msgstr Kiaymara
+
+#az-short
+msgid Azeri
+msgstr Kiazeri
+
+#aze
+msgid Azerbaijani
+msgstr Kiazerbaijani
+
+#bak
+msgid Bashkir
+msgstr Kibashkir
+
+#bam
+msgid Bambara
+msgstr Kibambara
+
+#ban
+msgid Balinese
+msgstr Kibali
+
+#bas
+msgid Basaa
+msgstr Kibasaa
+
+#bax
+msgid Bamun
+msgstr Kibamun
+
+#bbj
+msgid Ghomala
+msgstr Kighomala
+
+#bej
+msgid Beja
+msgstr Kibeja
+
+#bel
+msgid Belarusian
+msgstr Kibelarusi
+
+#bem
+msgid Bemba
+msgstr Kibemba
+
+#ben
+msgid Bangla
+msgstr Kibengali
+
+#bez
+msgid Bena
+msgstr Kibena
+
+#bfd
+msgid Bafut
+msgstr Kibafut
+
+#bgn
+msgid Western Balochi
+msgstr Kibalochi cha Magharibi
+
+#bho
+msgid Bhojpuri
+msgstr Kibhojpuri
+
+#bin
+msgid Bini
+msgstr Kibini
+
+#bis
+msgid Bislama
+msgstr Kibislama
+
+#bkm
+msgid Kom
+msgstr Kikom
+
+#bla
+msgid Siksika
+msgstr Kisiksika
+
+#bod
+msgid Tibetan
+msgstr Kitibeti
+
+#bos
+msgid Bosnian
+msgstr Kibosnia
+
+#bre
+msgid Breton
+msgstr Kibretoni
+
+#brx
+msgid Bodo
+msgstr Kibodo
+
+#bug
+msgid Buginese
+msgstr Lugha ya Buginese
+
+#bul
+msgid Bulgarian
+msgstr Kibulgaria
+
+#bum
+msgid Bulu
+msgstr Kibulu
+
+#byn
+msgid Blin
+msgstr Kiblin
+
+#byv
+msgid Medumba
+msgstr Kimedumba
+
+#cat
+msgid Catalan
+msgstr Kikatalani
+
+#ceb
+msgid Cebuano
+msgstr Kichebuano
+
+#ces
+msgid Czech
+msgstr Kicheki
+
+#cgg
+msgid Chiga
+msgstr Kichiga
+
+#cha
+msgid Chamorro
+msgstr Kichamorro
+
+#che
+msgid Chechen
+msgstr Kichechenia
+
+#chk
+msgid Chuukese
+msgstr Kichukisi
+
+#chm
+msgid Mari
+msgstr Kimari
+
+#cho
+msgid Choctaw
+msgstr Kichoktao
+
+#chr
+msgid Cherokee
+msgstr Kicherokee
+
+#chu
+msgid Church Slavic
+msgstr Kislovakia cha Church
+
+#chv
+msgid Chuvash
+msgstr Kichuvash
+
+#chy
+msgid Cheyenne
+msgstr Kicheyeni
+
+#ckb
+msgid Central Kurdish
+msgstr Kikurdi cha Sorani
+
+#cop
+msgid Coptic
+msgstr Kikhufti
+
+#cor
+msgid Cornish
+msgstr Kikorni
+
+#cos
+msgid Corsican
+msgstr Kikosikani
+
+#crs
+msgid Seselwa Creole French
+msgstr Krioli ya Shelisheli
+
+#cym
+msgid Welsh
+msgstr Kiwelisi
+
+#dak
+msgid Dakota
+msgstr Kidakota
+
+#dan
+msgid Danish
+msgstr Kidenmaki
+
+#dar
+msgid Dargwa
+msgstr Kidaragwa
+
+#dav
+msgid Taita
+msgstr Kitaita
+
+#deu
+msgid German
+msgstr Kijerumani
+
+#dgr
+msgid Dogrib
+msgstr Kidogrib
+
+#div
+msgid Divehi
+msgstr Kidivehi
+
+#dje
+msgid Zarma
+msgstr Kizarma
+
+#dsb
+msgid Lower Sorbian
+msgstr Kidolnoserbski
+
+#dua
+msgid Duala
+msgstr Kiduala
+
+#dyo
+msgid Jola-Fonyi
+msgstr Kijola-Fonyi
+
+#dyu
+msgid Dyula
+msgstr Kijula
+
+#dzg
+msgid Dazaga
+msgstr Kidazaga
+
+#dzo
+msgid Dzongkha
+msgstr Kizongkha
+
+#ebu
+msgid Embu
+msgstr Kiembu
+
+#efi
+msgid Efik
+msgstr Kiefiki
+
+#egy
+msgid Ancient Egyptian
+msgstr Kimisri
+
+#eka
+msgid Ekajuk
+msgstr Kiekajuk
+
+#ell
+msgid Greek
+msgstr Kigiriki
+
+#en CA
+msgid Canadian English
+msgstr Kiingereza (Canada)
+
+#en US-short
+msgid US English
+msgstr Kiingereza (US)
+
+#eng
+msgid English
+msgstr Kiingereza
+
+#epo
+msgid Esperanto
+msgstr Kiesperanto
+
+#es ES
+msgid European Spanish
+msgstr Kihispania (Uhispania)
+
+#es MX
+msgid Mexican Spanish
+msgstr Kihispania (Mexico)
+
+#est
+msgid Estonian
+msgstr Kiestonia
+
+#eus
+msgid Basque
+msgstr Kibasque
+
+#ewe
+msgid Ewe
+msgstr Kiewe
+
+#ewo
+msgid Ewondo
+msgstr Kiewondo
+
+#fao
+msgid Faroese
+msgstr Kifaroe
+
+#fas
+msgid Persian
+msgstr Kiajemi
+
+#fij
+msgid Fijian
+msgstr Kifiji
+
+#fil
+msgid Filipino
+msgstr Kifilipino
+
+#fin
+msgid Finnish
+msgstr Kifini
+
+#fon
+msgid Fon
+msgstr Kifon
+
+#fr CA
+msgid Canadian French
+msgstr Kifaransa (Canada)
+
+#fra
+msgid French
+msgstr Kifaransa
+
+#fro
+msgid Old French
+msgstr Kifaransa cha Kale
+
+#frr
+msgid Northern Frisian
+msgstr Kifrisia cha Kaskazini
+
+#frs
+msgid Eastern Frisian
+msgstr Kifrisia cha Mashariki
+
+#fry
+msgid Western Frisian
+msgstr Kifrisia cha Magharibi
+
+#ful
+msgid Fulah
+msgstr Kifula
+
+#fur
+msgid Friulian
+msgstr Kifriulian
+
+#gaa
+msgid Ga
+msgstr Kiga
+
+#gag
+msgid Gagauz
+msgstr Kigagauz
+
+#gba
+msgid Gbaya
+msgstr Kigbaya
+
+#gez
+msgid Geez
+msgstr Kige’ez
+
+#gil
+msgid Gilbertese
+msgstr Kikiribati
+
+#gla
+msgid Scottish Gaelic
+msgstr Kigaeli cha Uskoti
+
+#gle
+msgid Irish
+msgstr Kiayalandi
+
+#glg
+msgid Galician
+msgstr Kigalisi
+
+#glv
+msgid Manx
+msgstr Kimanx
+
+#gor
+msgid Gorontalo
+msgstr Kigorontalo
+
+#grc
+msgid Ancient Greek
+msgstr Kiyunani
+
+#grn
+msgid Guarani
+msgstr Kiguarani
+
+#gsw
+msgid Swiss German
+msgstr Kijerumani cha Uswisi
+
+#guj
+msgid Gujarati
+msgstr Kigujarati
+
+#guz
+msgid Gusii
+msgstr Kikisii
+
+#gwi
+msgid Gwichʼin
+msgstr Gwichʼin
+
+#hat
+msgid Haitian Creole
+msgstr Kihaiti
+
+#hau
+msgid Hausa
+msgstr Kihausa
+
+#haw
+msgid Hawaiian
+msgstr Kihawai
+
+#hbs
+msgid Serbo-Croatian
+msgstr Kiserbia-kroeshia
+
+#heb
+msgid Hebrew
+msgstr Kiebrania
+
+#her
+msgid Herero
+msgstr Kiherero
+
+#hil
+msgid Hiligaynon
+msgstr Kihiligaynon
+
+#hin
+msgid Hindi
+msgstr Kihindi
+
+#hit
+msgid Hittite
+msgstr Kihiti
+
+#hmn
+msgid Hmong
+msgstr Kihmong
+
+#hrv
+msgid Croatian
+msgstr Kikroeshia
+
+#hsb
+msgid Upper Sorbian
+msgstr Kisobia cha Ukanda wa Juu
+
+#hun
+msgid Hungarian
+msgstr Kihangari
+
+#hup
+msgid Hupa
+msgstr Hupa
+
+#hye
+msgid Armenian
+msgstr Kiarmenia
+
+#iba
+msgid Iban
+msgstr Kiiban
+
+#ibb
+msgid Ibibio
+msgstr Kiibibio
+
+#ibo
+msgid Igbo
+msgstr Kiigbo
+
+#ido
+msgid Ido
+msgstr Kiido
+
+#iii
+msgid Sichuan Yi
+msgstr Sichuan Yi
+
+#iku
+msgid Inuktitut
+msgstr Kiinuktitut
+
+#ile
+msgid Interlingue
+msgstr lugha ya kisayansi
+
+#ilo
+msgid Iloko
+msgstr Kiilocano
+
+#ina
+msgid Interlingua
+msgstr Kiintalingua
+
+#ind
+msgid Indonesian
+msgstr Kiindonesia
+
+#inh
+msgid Ingush
+msgstr Ingush
+
+#isl
+msgid Icelandic
+msgstr Kiaisilandi
+
+#ita
+msgid Italian
+msgstr Kiitaliano
+
+#jav
+msgid Javanese
+msgstr Kijava
+
+#jbo
+msgid Lojban
+msgstr Lojban
+
+#jgo
+msgid Ngomba
+msgstr Kingomba
+
+#jmc
+msgid Machame
+msgstr Kimachame
+
+#jpn
+msgid Japanese
+msgstr Kijapani
+
+#kab
+msgid Kabyle
+msgstr Kikabylia
+
+#kac
+msgid Kachin
+msgstr Kachin
+
+#kaj
+msgid Jju
+msgstr Kijju
+
+#kal
+msgid Kalaallisut
+msgstr Kikalaallisut
+
+#kam
+msgid Kamba
+msgstr Kikamba
+
+#kan
+msgid Kannada
+msgstr Kikannada
+
+#kas
+msgid Kashmiri
+msgstr Kikashmiri
+
+#kat
+msgid Georgian
+msgstr Kijojia
+
+#kau
+msgid Kanuri
+msgstr Kikanuri
+
+#kaz
+msgid Kazakh
+msgstr Kikazakh
+
+#kbd
+msgid Kabardian
+msgstr Kikabardian
+
+#kbl
+msgid Kanembu
+msgstr Kikanembu
+
+#kcg
+msgid Tyap
+msgstr Kityap
+
+#kde
+msgid Makonde
+msgstr Kimakonde
+
+#kea
+msgid Kabuverdianu
+msgstr Kikabuverdianu
+
+#kfo
+msgid Koro
+msgstr Kikoro
+
+#kha
+msgid Khasi
+msgstr Kikhasi
+
+#khm
+msgid Khmer
+msgstr Kikambodia
+
+#khq
+msgid Koyra Chiini
+msgstr Koyra Chiini
+
+#kik
+msgid Kikuyu
+msgstr Kikikuyu
+
+#kin
+msgid Kinyarwanda
+msgstr Kinyarwanda
+
+#kir
+msgid Kyrgyz
+msgstr Kikyrgyz
+
+#kkj
+msgid Kako
+msgstr Lugha ya Kako
+
+#kln
+msgid Kalenjin
+msgstr Kikalenjin
+
+#kmb
+msgid Kimbundu
+msgstr Kimbundu
+
+#koi
+msgid Komi-Permyak
+msgstr Kikomi-Permyak
+
+#kok
+msgid Konkani
+msgstr Kikonkani
+
+#kom
+msgid Komi
+msgstr Kikomi
+
+#kon
+msgid Kongo
+msgstr Kikongo
+
+#kor
+msgid Korean
+msgstr Kikorea
+
+#kpe
+msgid Kpelle
+msgstr Kikpelle
+
+#krc
+msgid Karachay-Balkar
+msgstr Kikarachay-Balkar
+
+#krl
+msgid Karelian
+msgstr Karjala
+
+#kru
+msgid Kurukh
+msgstr Kurukh
+
+#ksb
+msgid Shambala
+msgstr Kisambaa
+
+#ksf
+msgid Bafia
+msgstr Kibafia
+
+#ksh
+msgid Colognian
+msgstr Kicologne
+
+#kua
+msgid Kuanyama
+msgstr Kikwanyama
+
+#kum
+msgid Kumyk
+msgstr Kumyk
+
+#kur
+msgid Kurdish
+msgstr Kikurdi
+
+#lad
+msgid Ladino
+msgstr Kiladino
+
+#lag
+msgid Langi
+msgstr Kirangi
+
+#lam
+msgid Lamba
+msgstr Lamba
+
+#lao
+msgid Lao
+msgstr Kilaosi
+
+#lat
+msgid Latin
+msgstr Kilatini
+
+#lav
+msgid Latvian
+msgstr Kilatvia
+
+#lez
+msgid Lezghian
+msgstr Kilezighian
+
+#lim
+msgid Limburgish
+msgstr Limburgish
+
+#lin
+msgid Lingala
+msgstr Kilingala
+
+#lit
+msgid Lithuanian
+msgstr Kilithuania
+
+#lkt
+msgid Lakota
+msgstr Kilakota
+
+#lol
+msgid Mongo
+msgstr Kimongo
+
+#loz
+msgid Lozi
+msgstr Kilozi
+
+#lrc
+msgid Northern Luri
+msgstr Kiluri cha Kaskazini
+
+#ltz
+msgid Luxembourgish
+msgstr Kilasembagi
+
+#lua
+msgid Luba-Lulua
+msgstr Kiluba-Lulua
+
+#lub
+msgid Luba-Katanga
+msgstr Kiluba-Katanga
+
+#lug
+msgid Ganda
+msgstr Kiganda
+
+#lun
+msgid Lunda
+msgstr Kilunda
+
+#luo
+msgid Luo
+msgstr Kijaluo
+
+#lus
+msgid Mizo
+msgstr Kimizo
+
+#luy
+msgid Luyia
+msgstr Kiluhya
+
+#mad
+msgid Madurese
+msgstr Kimadura
+
+#maf
+msgid Mafa
+msgstr Kimafa
+
+#mag
+msgid Magahi
+msgstr Kimagahi
+
+#mah
+msgid Marshallese
+msgstr Kimashale
+
+#mai
+msgid Maithili
+msgstr Kimaithili
+
+#mak
+msgid Makasar
+msgstr Kimakasar
+
+#mal
+msgid Malayalam
+msgstr Kimalayalam
+
+#mar
+msgid Marathi
+msgstr Kimarathi
+
+#mas
+msgid Masai
+msgstr Kimaasai
+
+#mde
+msgid Maba
+msgstr Kimaba
+
+#mdf
+msgid Moksha
+msgstr Lugha ya Moksha
+
+#men
+msgid Mende
+msgstr Kimende
+
+#mer
+msgid Meru
+msgstr Kimeru
+
+#mfe
+msgid Morisyen
+msgstr Kimoriseni
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr Kimakhuwa-Meetto
+
+#mgo
+msgid Metaʼ
+msgstr Kimeta
+
+#mic
+msgid Mi'kmaq
+msgstr Mi’kmaq
+
+#min
+msgid Minangkabau
+msgstr Kiminangkabau
+
+#mkd
+msgid Macedonian
+msgstr Kimacedonia
+
+#mlg
+msgid Malagasy
+msgstr Kimalagasi
+
+#mlt
+msgid Maltese
+msgstr Kimalta
+
+#mni
+msgid Manipuri
+msgstr Kimanipuri
+
+#moh
+msgid Mohawk
+msgstr Lugha ya Mohawk
+
+#mon
+msgid Mongolian
+msgstr Kimongolia
+
+#mos
+msgid Mossi
+msgstr Kimoore
+
+#mri
+msgid Maori
+msgstr Kimaori
+
+#msa
+msgid Malay
+msgstr Kimalei
+
+#mua
+msgid Mundang
+msgstr Kimundang
+
+#mul
+msgid Multiple languages
+msgstr Lugha Nyingi
+
+#mus
+msgid Creek
+msgstr Kikriki
+
+#mwl
+msgid Mirandese
+msgstr Kimirandi
+
+#mya
+msgid Burmese
+msgstr Kiburma
+
+#myv
+msgid Erzya
+msgstr Kierzya
+
+#mzn
+msgid Mazanderani
+msgstr Kimazanderani
+
+#nap
+msgid Neapolitan
+msgstr Kinapoli
+
+#naq
+msgid Nama
+msgstr Kinama
+
+#nau
+msgid Nauru
+msgstr Kinauru
+
+#nav
+msgid Navajo
+msgstr Kinavajo
+
+#nbl
+msgid South Ndebele
+msgstr Kindebele
+
+#nde
+msgid North Ndebele
+msgstr Kindebele cha Kaskazini
+
+#ndo
+msgid Ndonga
+msgstr Kindonga
+
+#nds
+msgid Low German
+msgstr Kisaksoni
+
+#nep
+msgid Nepali
+msgstr Kinepali
+
+#new
+msgid Newari
+msgstr Kinewari
+
+#nia
+msgid Nias
+msgstr Kiniasi
+
+#niu
+msgid Niuean
+msgstr Kiniuea
+
+#nl BE
+msgid Flemish
+msgstr Kiflemi
+
+#nld
+msgid Dutch
+msgstr Kiholanzi
+
+#nmg
+msgid Kwasio
+msgstr Kikwasio
+
+#nnh
+msgid Ngiemboon
+msgstr Lugha ya Ngiemboon
+
+#nno
+msgid Norwegian Nynorsk
+msgstr Kinorwe cha Nynorsk
+
+#nob
+msgid Norwegian Bokmål
+msgstr Kinorwe cha Bokmål
+
+#nog
+msgid Nogai
+msgstr Kinogai
+
+#nor
+msgid Norwegian
+msgstr Kinorwe
+
+#nqo
+msgid N’Ko
+msgstr N’Ko
+
+#nso
+msgid Northern Sotho
+msgstr Kisotho cha Kaskazini
+
+#nus
+msgid Nuer
+msgstr Kinuer
+
+#nwc
+msgid Classical Newari
+msgstr Kinewari cha kale
+
+#nya
+msgid Nyanja
+msgstr Kinyanja
+
+#nym
+msgid Nyamwezi
+msgstr Kinyamwezi
+
+#nyn
+msgid Nyankole
+msgstr Kinyankole
+
+#nyo
+msgid Nyoro
+msgstr Kinyoro
+
+#nzi
+msgid Nzima
+msgstr Kinzema
+
+#oci
+msgid Occitan
+msgstr Kiokitani
+
+#ori
+msgid Odia
+msgstr Kioriya
+
+#orm
+msgid Oromo
+msgstr Kioromo
+
+#oss
+msgid Ossetic
+msgstr Kiosetia
+
+#pag
+msgid Pangasinan
+msgstr Kipangasinan
+
+#pam
+msgid Pampanga
+msgstr Kipampanga
+
+#pan
+msgid Punjabi
+msgstr Kipunjabi
+
+#pap
+msgid Papiamento
+msgstr Kipapiamento
+
+#pau
+msgid Palauan
+msgstr Kipalau
+
+#pcm
+msgid Nigerian Pidgin
+msgstr Pijini ya Nigeria
+
+#peo
+msgid Old Persian
+msgstr Kiajemi cha Kale
+
+#pol
+msgid Polish
+msgstr Kipolandi
+
+#por
+msgid Portuguese
+msgstr Kireno
+
+#prg
+msgid Prussian
+msgstr Kiprussia
+
+#ps-variant
+msgid Pushto
+msgstr Kipushto
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Kireno (Brazil)
+
+#pus
+msgid Pashto
+msgstr Kipashto
+
+#quc
+msgid Kʼicheʼ
+msgstr Kʼicheʼ
+
+#que
+msgid Quechua
+msgstr Kiquechua
+
+#rap
+msgid Rapanui
+msgstr Kirapanui
+
+#rar
+msgid Rarotongan
+msgstr Kirarotonga
+
+#rof
+msgid Rombo
+msgstr Kirombo
+
+#roh
+msgid Romansh
+msgstr Kiromanshi
+
+#ron
+msgid Romanian
+msgstr Kiromania
+
+#root
+msgid Root
+msgstr Root
+
+#run
+msgid Rundi
+msgstr Kirundi
+
+#rup
+msgid Aromanian
+msgstr Kiaromania
+
+#rus
+msgid Russian
+msgstr Kirusi
+
+#rwk
+msgid Rwa
+msgstr Kirwa
+
+#sad
+msgid Sandawe
+msgstr Kisandawe
+
+#sag
+msgid Sango
+msgstr Kisango
+
+#sah
+msgid Sakha
+msgstr Kisakha
+
+#sam
+msgid Samaritan Aramaic
+msgstr Kiaramu cha Wasamaria
+
+#san
+msgid Sanskrit
+msgstr Kisanskriti
+
+#saq
+msgid Samburu
+msgstr Kisamburu
+
+#sat
+msgid Santali
+msgstr Kisantali
+
+#sba
+msgid Ngambay
+msgstr Kingambay
+
+#sbp
+msgid Sangu
+msgstr Kisangu
+
+#scn
+msgid Sicilian
+msgstr Kisicilia
+
+#sco
+msgid Scots
+msgstr Kiskoti
+
+#sdh
+msgid Southern Kurdish
+msgstr Kikurdi cha Kusini
+
+#seh
+msgid Sena
+msgstr Kisena
+
+#ses
+msgid Koyraboro Senni
+msgstr Koyraboro Senni
+
+#shi
+msgid Tachelhit
+msgstr Kitachelhit
+
+#shn
+msgid Shan
+msgstr Kishan
+
+#shu
+msgid Chadian Arabic
+msgstr Kiarabu cha Chad
+
+#sin
+msgid Sinhala
+msgstr Kisinhala
+
+#slk
+msgid Slovak
+msgstr Kislovakia
+
+#slv
+msgid Slovenian
+msgstr Kislovenia
+
+#sma
+msgid Southern Sami
+msgstr Kisami cha Kusini
+
+#sme
+msgid Northern Sami
+msgstr Kisami cha Kaskazini
+
+#smj
+msgid Lule Sami
+msgstr Kisami cha Lule
+
+#smn
+msgid Inari Sami
+msgstr Kisami cha Inari
+
+#smo
+msgid Samoan
+msgstr Kisamoa
+
+#sms
+msgid Skolt Sami
+msgstr Kisami cha Skolt
+
+#sna
+msgid Shona
+msgstr Kishona
+
+#snd
+msgid Sindhi
+msgstr Kisindhi
+
+#snk
+msgid Soninke
+msgstr Kisoninke
+
+#som
+msgid Somali
+msgstr Kisomali
+
+#sot
+msgid Southern Sotho
+msgstr Kisotho
+
+#spa
+msgid Spanish
+msgstr Kihispania
+
+#sqi
+msgid Albanian
+msgstr Kialbania
+
+#srd
+msgid Sardinian
+msgstr Kisardinia
+
+#srn
+msgid Sranan Tongo
+msgstr Lugha ya Sranan Tongo
+
+#srp
+msgid Serbian
+msgstr Kiserbia
+
+#ssw
+msgid Swati
+msgstr Kiswati
+
+#ssy
+msgid Saho
+msgstr Kisaho
+
+#suk
+msgid Sukuma
+msgstr Kisukuma
+
+#sun
+msgid Sundanese
+msgstr Kisunda
+
+#sus
+msgid Susu
+msgstr Kisusu
+
+#sw CD
+msgid Congo Swahili
+msgstr Kingwana
+
+#swa
+msgid Swahili
+msgstr Kiswahili
+
+#swb
+msgid Comorian
+msgstr Shikomor
+
+#swe
+msgid Swedish
+msgstr Kiswidi
+
+#syr
+msgid Syriac
+msgstr Lugha ya Syriac
+
+#tah
+msgid Tahitian
+msgstr Kitahiti
+
+#tam
+msgid Tamil
+msgstr Kitamil
+
+#tat
+msgid Tatar
+msgstr Kitatari
+
+#tel
+msgid Telugu
+msgstr Kitelugu
+
+#tem
+msgid Timne
+msgstr Kitemne
+
+#teo
+msgid Teso
+msgstr Kiteso
+
+#tet
+msgid Tetum
+msgstr Kitetum
+
+#tgk
+msgid Tajik
+msgstr Kitajiki
+
+#tha
+msgid Thai
+msgstr Kitailandi
+
+#tig
+msgid Tigre
+msgstr Kitigre
+
+#tir
+msgid Tigrinya
+msgstr Kitigrinya
+
+#tlh
+msgid Klingon
+msgstr Kiklingoni
+
+#ton
+msgid Tongan
+msgstr Kitonga
+
+#tpi
+msgid Tok Pisin
+msgstr Kitokpisin
+
+#trv
+msgid Taroko
+msgstr Kitaroko
+
+#tsn
+msgid Tswana
+msgstr Kitswana
+
+#tso
+msgid Tsonga
+msgstr Kitsonga
+
+#tuk
+msgid Turkmen
+msgstr Kiturukimeni
+
+#tum
+msgid Tumbuka
+msgstr Kitumbuka
+
+#tur
+msgid Turkish
+msgstr Kituruki
+
+#tvl
+msgid Tuvalu
+msgstr Kituvalu
+
+#twi
+msgid Twi
+msgstr Twi
+
+#twq
+msgid Tasawaq
+msgstr Kitasawaq
+
+#tyv
+msgid Tuvinian
+msgstr Kituva
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr Central Atlas Tamazight
+
+#udm
+msgid Udmurt
+msgstr Udmurt
+
+#uig
+msgid Uyghur
+msgstr Kiuyghur
+
+#ukr
+msgid Ukrainian
+msgstr Kiukraine
+
+#umb
+msgid Umbundu
+msgstr Umbundu
+
+#und
+msgid Unknown language
+msgstr Lugha Isiyojulikana
+
+#urd
+msgid Urdu
+msgstr Kiurdu
+
+#uzb
+msgid Uzbek
+msgstr Kiuzbeki
+
+#vai
+msgid Vai
+msgstr Kivai
+
+#ven
+msgid Venda
+msgstr Kivenda
+
+#vie
+msgid Vietnamese
+msgstr Kivietinamu
+
+#vol
+msgid Volapük
+msgstr Kivolapük
+
+#vun
+msgid Vunjo
+msgstr Kivunjo
+
+#wae
+msgid Walser
+msgstr Walser
+
+#wal
+msgid Wolaytta
+msgstr Kiwolaytta
+
+#war
+msgid Waray
+msgstr Kiwaray
+
+#wbp
+msgid Warlpiri
+msgstr Kiwarlpiri
+
+#wln
+msgid Walloon
+msgstr Walloon
+
+#wol
+msgid Wolof
+msgstr Lugha ya Wolof
+
+#xal
+msgid Kalmyk
+msgstr Kikalmyk
+
+#xho
+msgid Xhosa
+msgstr Kixhosa
+
+#xog
+msgid Soga
+msgstr Kisoga
+
+#yao
+msgid Yao
+msgstr Kiyao
+
+#yav
+msgid Yangben
+msgstr Kiyangben
+
+#ybb
+msgid Yemba
+msgstr Kiyemba
+
+#yid
+msgid Yiddish
+msgstr Kiyiddi
+
+#yor
+msgid Yoruba
+msgstr Kiyoruba
+
+#yue
+msgid Cantonese
+msgstr Kikantoni
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr Tamaziti Sanifu ya Kimoroko
+
+#zh Hans
+msgid Simplified Chinese
+msgstr Kichina (Kilichorahisishwa)
+
+#zh Hant
+msgid Traditional Chinese
+msgstr Kichina cha Jadi
+
+#zho
+msgid Chinese
+msgstr Kichina
+
+#zul
+msgid Zulu
+msgstr Kizulu
+
+#zun
+msgid Zuni
+msgstr Kizuni
+
+#zxx
+msgid No linguistic content
+msgstr Hakuna maudhui ya lugha
+
+#zza
+msgid Zaza
+msgstr Kizaza
+

@@ -1,32 +1,32 @@
-#ak
+#aka
 msgid Akan
 msgstr akan
 
-#am
+#amh
 msgid Amharic
 msgstr amharik
 
-#ar
+#ara
 msgid Arabic
 msgstr arab
 
-#be
+#bel
 msgid Belarusian
 msgstr belarus
 
-#bg
-msgid Bulgarian
-msgstr bulgaari
-
-#bn
+#ben
 msgid Bangla
 msgstr bengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr bulgaari
+
+#ces
 msgid Czech
 msgstr sek
 
-#de
+#deu
 msgid German
 msgstr alman
 
@@ -34,147 +34,147 @@ msgstr alman
 msgid Jola-Fonyi
 msgstr joola
 
-#el
+#ell
 msgid Greek
 msgstr greek
 
-#en
+#eng
 msgid English
 msgstr angle
 
-#es
-msgid Spanish
-msgstr español
-
-#fa
+#fas
 msgid Persian
 msgstr persan
 
-#fr
+#fra
 msgid French
 msgstr franse
 
-#ha
+#hau
 msgid Hausa
 msgstr hausa
 
-#hi
+#hin
 msgid Hindi
 msgstr endu
 
-#hu
+#hun
 msgid Hungarian
 msgstr ongrua
 
-#id
-msgid Indonesian
-msgstr indoneesi
-
-#ig
+#ibo
 msgid Igbo
 msgstr igbo
 
-#it
+#ind
+msgid Indonesian
+msgstr indoneesi
+
+#ita
 msgid Italian
 msgstr italien
 
-#ja
-msgid Japanese
-msgstr saponee
-
-#jv
+#jav
 msgid Javanese
 msgstr savanee
 
-#km
+#jpn
+msgid Japanese
+msgstr saponee
+
+#khm
 msgid Khmer
 msgstr kmeer
 
-#ko
-msgid Korean
-msgstr koree
-
-#ms
-msgid Malay
-msgstr maleesi
-
-#my
-msgid Burmese
-msgstr birmani
-
-#ne
-msgid Nepali
-msgstr nepalees
-
-#nl
-msgid Dutch
-msgstr neerlande
-
-#pa
-msgid Punjabi
-msgstr penjabi
-
-#pl
-msgid Polish
-msgstr polonees
-
-#pt
-msgid Portuguese
-msgstr portugees
-
-#ro
-msgid Romanian
-msgstr rumeen
-
-#ru
-msgid Russian
-msgstr rus
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr ruanda
 
-#so
+#kor
+msgid Korean
+msgstr koree
+
+#msa
+msgid Malay
+msgstr maleesi
+
+#mya
+msgid Burmese
+msgstr birmani
+
+#nep
+msgid Nepali
+msgstr nepalees
+
+#nld
+msgid Dutch
+msgstr neerlande
+
+#pan
+msgid Punjabi
+msgstr penjabi
+
+#pol
+msgid Polish
+msgstr polonees
+
+#por
+msgid Portuguese
+msgstr portugees
+
+#ron
+msgid Romanian
+msgstr rumeen
+
+#rus
+msgid Russian
+msgstr rus
+
+#som
 msgid Somali
 msgstr somali
 
-#sv
+#spa
+msgid Spanish
+msgstr español
+
+#swe
 msgid Swedish
 msgstr suedi
 
-#ta
+#tam
 msgid Tamil
 msgstr tamil
 
-#th
+#tha
 msgid Thai
 msgstr tay
 
-#tr
+#tur
 msgid Turkish
 msgstr turki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ukrain
 
-#ur
+#urd
 msgid Urdu
 msgstr urdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr vietnam
 
-#yo
+#yor
 msgid Yoruba
 msgstr yoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr sinua
 
-#zu
+#zul
 msgid Zulu
 msgstr sulu
 

@@ -1,92 +1,92 @@
-#ak
+#aka
 msgid Akan
 msgstr riakan
 
-#am
+#amh
 msgid Amharic
 msgstr riamarik
 
-#ar
+#ara
 msgid Arabic
 msgstr riarab
 
-#be
+#bel
 msgid Belarusian
 msgstr ribɛlɔrís
 
-#bg
-msgid Bulgarian
-msgstr ribulgarí
-
-#bn
+#ben
 msgid Bangla
 msgstr ribɛngáli
 
-#cs
+#bul
+msgid Bulgarian
+msgstr ribulgarí
+
+#ces
 msgid Czech
 msgstr ricɛ́k
 
-#de
+#deu
 msgid German
 msgstr ridjɛrman
 
-#el
+#ell
 msgid Greek
 msgstr rigrɛ́k
 
-#en
+#eng
 msgid English
 msgstr riingɛrís
 
-#es
-msgid Spanish
-msgstr rikpanyá
-
-#fa
+#fas
 msgid Persian
 msgstr ripɛrsán
 
-#fr
+#fra
 msgid French
 msgstr ripɛrɛsǝ́
 
-#ha
+#hau
 msgid Hausa
 msgstr rikaksa
 
-#hi
+#hin
 msgid Hindi
 msgstr riíndí
 
-#hu
+#hun
 msgid Hungarian
 msgstr riɔngrɔá
 
-#id
-msgid Indonesian
-msgstr riindonɛsí
-
-#ig
+#ibo
 msgid Igbo
 msgstr riigbo
 
-#it
+#ind
+msgid Indonesian
+msgstr riindonɛsí
+
+#ita
 msgid Italian
 msgstr riitalyɛ́n
 
-#ja
-msgid Japanese
-msgstr rijapɔ́ŋ
-
-#jv
+#jav
 msgid Javanese
 msgstr rijawanɛ́
 
-#km
+#jpn
+msgid Japanese
+msgstr rijapɔ́ŋ
+
+#khm
 msgid Khmer
 msgstr rikmɛr
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr rirwanda
+
+#kor
 msgid Korean
 msgstr rikɔrɛɛ́
 
@@ -94,87 +94,87 @@ msgstr rikɔrɛɛ́
 msgid Bafia
 msgstr rikpa
 
-#ms
+#msa
 msgid Malay
 msgstr rimalaí
 
-#my
+#mya
 msgid Burmese
 msgstr ribirmán
 
-#ne
+#nep
 msgid Nepali
 msgstr rinepalɛ́
 
-#nl
+#nld
 msgid Dutch
 msgstr riɔlándɛ́
 
-#pa
+#pan
 msgid Punjabi
 msgstr ripɛnjabí
 
-#pl
+#pol
 msgid Polish
 msgstr ripɔlɔ́n
 
-#pt
+#por
 msgid Portuguese
 msgstr ripɔrtugɛ́
 
-#ro
+#ron
 msgid Romanian
 msgstr rirɔmán
 
-#ru
+#rus
 msgid Russian
 msgstr rirís
 
-#rw
-msgid Kinyarwanda
-msgstr rirwanda
-
-#so
+#som
 msgid Somali
 msgstr risomalí
 
-#sv
+#spa
+msgid Spanish
+msgstr rikpanyá
+
+#swe
 msgid Swedish
 msgstr riswɛ́dǝ
 
-#ta
+#tam
 msgid Tamil
 msgstr ritamúl
 
-#th
+#tha
 msgid Thai
 msgstr ritaí
 
-#tr
+#tur
 msgid Turkish
 msgstr riturk
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr riukrɛ́n
 
-#ur
+#urd
 msgid Urdu
 msgstr riurdú
 
-#vi
+#vie
 msgid Vietnamese
 msgstr riwyɛtnám
 
-#yo
+#yor
 msgid Yoruba
 msgstr riyúuba
 
-#zh
+#zho
 msgid Chinese
 msgstr ricinɔá
 
-#zu
+#zul
 msgid Zulu
 msgstr rizúlu
 

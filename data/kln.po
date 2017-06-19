@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr kutitab Aka
 
-#am
+#amh
 msgid Amharic
 msgstr kutitab Amariek
 
-#ar
+#ara
 msgid Arabic
 msgstr kutitab Arabuk
 
-#be
+#bel
 msgid Belarusian
 msgstr kutitab Belarusa
 
-#bg
-msgid Bulgarian
-msgstr kutitab Bulgaria
-
-#bn
+#ben
 msgid Bangla
 msgstr kutitab Bengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr kutitab Bulgaria
+
+#ces
 msgid Czech
 msgstr kutitab Chek
 
-#de
+#deu
 msgid German
 msgstr kutitab Chermani
 
-#el
+#ell
 msgid Greek
 msgstr kutitab Greece
 
-#en
+#eng
 msgid English
 msgstr kutitab Uingeresa
 
-#es
-msgid Spanish
-msgstr kutitab Espianik
-
-#fa
+#fas
 msgid Persian
 msgstr kutitab Persia
 
-#fr
+#fra
 msgid French
 msgstr kutitab Kifaransa
 
-#ha
+#hau
 msgid Hausa
 msgstr kutitab Hausa
 
-#hi
+#hin
 msgid Hindi
 msgstr kutitab Maindiik
 
-#hu
+#hun
 msgid Hungarian
 msgstr kutitab Hangari
 
-#id
-msgid Indonesian
-msgstr kutitab Indonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr kutitab Igbo
 
-#it
+#ind
+msgid Indonesian
+msgstr kutitab Indonesia
+
+#ita
 msgid Italian
 msgstr kutitab Talianek
 
-#ja
+#jav
+msgid Javanese
+msgstr kutitap Javanese
+
+#jpn
 msgid Japanese
 msgstr kutitap Japan
 
-#jv
-msgid Javanese
-msgstr kutitap Javanese
+#khm
+msgid Khmer
+msgstr kutitab Kher nebo Kwen
+
+#kin
+msgid Kinyarwanda
+msgstr kutitab Kinyarwanda
 
 #kln
 msgid Kalenjin
 msgstr Kalenjin
 
-#km
-msgid Khmer
-msgstr kutitab Kher nebo Kwen
-
-#ko
+#kor
 msgid Korean
 msgstr kutitab Korea
 
-#ms
+#msa
 msgid Malay
 msgstr kutitab Malay
 
-#my
+#mya
 msgid Burmese
 msgstr kutitab Burma
 
-#ne
+#nep
 msgid Nepali
 msgstr kutitab Nepali
 
-#nl
+#nld
 msgid Dutch
 msgstr kutitab Boa
 
-#pa
+#pan
 msgid Punjabi
 msgstr kutitab Punjab
 
-#pl
+#pol
 msgid Polish
 msgstr kutitap Poland
 
-#pt
+#por
 msgid Portuguese
 msgstr kutitab Portugal
 
-#ro
+#ron
 msgid Romanian
 msgstr kutitab Romaniek
 
-#ru
+#rus
 msgid Russian
 msgstr kutitab Russia
 
-#rw
-msgid Kinyarwanda
-msgstr kutitab Kinyarwanda
-
-#so
+#som
 msgid Somali
 msgstr kutitab Somaliek
 
-#sv
+#spa
+msgid Spanish
+msgstr kutitab Espianik
+
+#swe
 msgid Swedish
 msgstr kutitab Sweden
 
-#ta
+#tam
 msgid Tamil
 msgstr kutitab Tamil
 
-#th
+#tha
 msgid Thai
 msgstr kutitab Thailand
 
-#tr
+#tur
 msgid Turkish
 msgstr kutitab Turkey
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr kutitab Ukraine
 
-#ur
+#urd
 msgid Urdu
 msgstr kutitab Urdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr kutitab Vietnam
 
-#yo
+#yor
 msgid Yoruba
 msgstr kutitab Yoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr kutitab China
 
-#zu
+#zul
 msgid Zulu
 msgstr kutitab Zulu
 

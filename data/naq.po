@@ -1,100 +1,100 @@
-#ak
+#aka
 msgid Akan
 msgstr Akangowab
 
-#am
+#amh
 msgid Amharic
 msgstr Amharicgowab
 
-#ar
+#ara
 msgid Arabic
 msgstr Arabiǁî gowab
 
-#be
+#bel
 msgid Belarusian
 msgstr Belarusanǁî gowab
 
-#bg
-msgid Bulgarian
-msgstr Bulgariaǁî gowab
-
-#bn
+#ben
 msgid Bangla
 msgstr Bengaliǁî gowab
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Bulgariaǁî gowab
+
+#ces
 msgid Czech
 msgstr Czechǁî gowab
 
-#de
+#deu
 msgid German
 msgstr Duits
 
-#el
+#ell
 msgid Greek
 msgstr Xriks
 
-#en
+#eng
 msgid English
 msgstr Engels
 
-#es
-msgid Spanish
-msgstr Spaans
-
-#fa
+#fas
 msgid Persian
 msgstr Persiaǁî gowab
 
-#fr
+#fra
 msgid French
 msgstr Frans
 
-#ha
+#hau
 msgid Hausa
 msgstr Hausagowab
 
-#hi
+#hin
 msgid Hindi
 msgstr Hindigowab
 
-#hu
+#hun
 msgid Hungarian
 msgstr Hungariaǁî gowab
 
-#id
-msgid Indonesian
-msgstr Indonesiaǁî gowab
-
-#ig
+#ibo
 msgid Igbo
 msgstr Igbogowab
 
-#it
+#ind
+msgid Indonesian
+msgstr Indonesiaǁî gowab
+
+#ita
 msgid Italian
 msgstr Italians
 
-#ja
-msgid Japanese
-msgstr Japanees
-
-#jv
+#jav
 msgid Javanese
 msgstr Javanese
 
-#km
+#jpn
+msgid Japanese
+msgstr Japanees
+
+#khm
 msgid Khmer
 msgstr Khmerǁî gowab, Central
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Rwandaǁî gowab
+
+#kor
 msgid Korean
 msgstr Koreaǁî gowab
 
-#ms
+#msa
 msgid Malay
 msgstr Malayǁî gowab
 
-#my
+#mya
 msgid Burmese
 msgstr Burmesǁî gowab
 
@@ -102,79 +102,79 @@ msgstr Burmesǁî gowab
 msgid Nama
 msgstr Khoekhoegowab
 
-#ne
+#nep
 msgid Nepali
 msgstr Nepalǁî gowab
 
-#nl
+#nld
 msgid Dutch
 msgstr Hollands
 
-#pa
+#pan
 msgid Punjabi
 msgstr Punjabigowab
 
-#pl
+#pol
 msgid Polish
 msgstr Poleǁî gowab
 
-#pt
+#por
 msgid Portuguese
 msgstr Portugees
 
-#ro
+#ron
 msgid Romanian
 msgstr Romaniaǁî gowab
 
-#ru
+#rus
 msgid Russian
 msgstr Russiaǁî gowab
 
-#rw
-msgid Kinyarwanda
-msgstr Rwandaǁî gowab
-
-#so
+#som
 msgid Somali
 msgstr Somaliǁî gowab
 
-#sv
+#spa
+msgid Spanish
+msgstr Spaans
+
+#swe
 msgid Swedish
 msgstr Swedeǁî gowab
 
-#ta
+#tam
 msgid Tamil
 msgstr Tamilǁî gowab
 
-#th
+#tha
 msgid Thai
 msgstr Thaiǁî gowab
 
-#tr
+#tur
 msgid Turkish
 msgstr Turkeǁî gowab
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ukrainiaǁî gowab
 
-#ur
+#urd
 msgid Urdu
 msgstr Urduǁî gowab
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vietnamǁî gowab
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yorubab
 
-#zh
+#zho
 msgid Chinese
 msgstr Chineesǁî gowab, Mandarinni
 
-#zu
+#zul
 msgid Zulu
 msgstr Zulub
 

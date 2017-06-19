@@ -1,108 +1,108 @@
-#ak
+#aka
 msgid Akan
 msgstr Kiɛl akan
 
-#am
+#amh
 msgid Amharic
 msgstr Kiɛl amaria
 
-#ar
+#ara
 msgid Arabic
 msgstr Kiɛl b’árabe
 
-#be
+#bel
 msgid Belarusian
 msgstr Kiɛl belarussie
 
-#bg
-msgid Bulgarian
-msgstr Kiɛl bulgaria
-
-#bn
+#ben
 msgid Bangla
 msgstr Kiɛl bengalia
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Kiɛl bulgaria
+
+#ces
 msgid Czech
 msgstr Kiɛl bó tchɛk
 
-#de
+#deu
 msgid German
 msgstr Jáman
 
-#el
+#ell
 msgid Greek
 msgstr Kiɛl bó grɛk
 
-#en
+#eng
 msgid English
 msgstr Ngɛ̄lɛ̄n
 
-#es
-msgid Spanish
-msgstr Paŋá
-
-#fa
+#fas
 msgid Persian
 msgstr Kiɛl pɛrsia
 
-#fr
+#fra
 msgid French
 msgstr Fala
 
-#ha
+#hau
 msgid Hausa
 msgstr Kiɛl máwúsá
 
-#hi
+#hin
 msgid Hindi
 msgstr Kiɛl b’indien
 
-#hu
+#hun
 msgid Hungarian
 msgstr Kiɛl b’ɔ́ngrois
 
-#id
-msgid Indonesian
-msgstr Kiɛl indonesie
-
-#ig
+#ibo
 msgid Igbo
 msgstr Kiɛl ikbo
 
-#it
+#ind
+msgid Indonesian
+msgstr Kiɛl indonesie
+
+#ita
 msgid Italian
 msgstr Kiɛl italia
 
-#ja
-msgid Japanese
-msgstr Kiɛl bó japonɛ̌
-
-#jv
+#jav
 msgid Javanese
 msgstr Kiɛl bó javanɛ̌
 
-#km
+#jpn
+msgid Japanese
+msgstr Kiɛl bó japonɛ̌
+
+#khm
 msgid Khmer
 msgstr Kiɛl bó mɛr
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Kiɛl rwandā
+
+#kor
 msgid Korean
 msgstr Kiɛl koré
 
-#ms
+#msa
 msgid Malay
 msgstr Kiɛl Malɛ̌siā
 
-#my
+#mya
 msgid Burmese
 msgstr Kiɛl birmania
 
-#ne
+#nep
 msgid Nepali
 msgstr Kiɛl nepal
 
-#nl
+#nld
 msgid Dutch
 msgstr Kiɛl bóllandais
 
@@ -110,71 +110,71 @@ msgstr Kiɛl bóllandais
 msgid Kwasio
 msgstr Kwasio
 
-#pa
+#pan
 msgid Punjabi
 msgstr Kiɛl pɛndjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Kiɛl pɔlɔŋe
 
-#pt
+#por
 msgid Portuguese
 msgstr Kiɛl bó pɔ̄rtugɛ̂
 
-#ro
+#ron
 msgid Romanian
 msgstr Kiɛl bó rumɛ̂n
 
-#ru
+#rus
 msgid Russian
 msgstr Kiɛl russia
 
-#rw
-msgid Kinyarwanda
-msgstr Kiɛl rwandā
-
-#so
+#som
 msgid Somali
 msgstr Kiɛl somaliā
 
-#sv
+#spa
+msgid Spanish
+msgstr Paŋá
+
+#swe
 msgid Swedish
 msgstr Kiɛl bó suedois
 
-#ta
+#tam
 msgid Tamil
 msgstr Kiɛl tamul
 
-#th
+#tha
 msgid Thai
 msgstr Kiɛl thaï
 
-#tr
+#tur
 msgid Turkish
 msgstr Kiɛl bó turk
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Kiɛl b’ukrɛ̄nien
 
-#ur
+#urd
 msgid Urdu
 msgstr Kiɛl úrdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Kiɛl viɛtnam
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yorúbâ
 
-#zh
+#zho
 msgid Chinese
 msgstr Kiɛl bó chinois
 
-#zu
+#zul
 msgid Zulu
 msgstr Zulu
 

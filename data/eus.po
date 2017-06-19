@@ -1,0 +1,1612 @@
+#aar
+msgid Afar
+msgstr afarera
+
+#abk
+msgid Abkhazian
+msgstr abkhazera
+
+#ace
+msgid Achinese
+msgstr acehnera
+
+#ach
+msgid Acoli
+msgstr acholiera
+
+#ada
+msgid Adangme
+msgstr adangmera
+
+#ady
+msgid Adyghe
+msgstr adyghera
+
+#afr
+msgid Afrikaans
+msgstr afrikaansa
+
+#agq
+msgid Aghem
+msgstr aghemera
+
+#ain
+msgid Ainu
+msgstr ainuera
+
+#aka
+msgid Akan
+msgstr akanera
+
+#ale
+msgid Aleut
+msgstr aleutera
+
+#alt
+msgid Southern Altai
+msgstr hegoaldeko altaiera
+
+#amh
+msgid Amharic
+msgstr amharera
+
+#anp
+msgid Angika
+msgstr angikera
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr arabiera moderno estandarra
+
+#ara
+msgid Arabic
+msgstr arabiera
+
+#arg
+msgid Aragonese
+msgstr aragoiera
+
+#arn
+msgid Mapuche
+msgstr maputxea
+
+#arp
+msgid Arapaho
+msgstr arapahoa
+
+#asa
+msgid Asu
+msgstr asua
+
+#asm
+msgid Assamese
+msgstr assamera
+
+#ast
+msgid Asturian
+msgstr asturiera
+
+#ava
+msgid Avaric
+msgstr avarera
+
+#awa
+msgid Awadhi
+msgstr awadhiera
+
+#aym
+msgid Aymara
+msgstr aimara
+
+#az-short
+msgid Azeri
+msgstr azeriera
+
+#aze
+msgid Azerbaijani
+msgstr azerbaijanera
+
+#bak
+msgid Bashkir
+msgstr bashkirrera
+
+#bam
+msgid Bambara
+msgstr bambarera
+
+#ban
+msgid Balinese
+msgstr baliera
+
+#bas
+msgid Basaa
+msgstr basaa
+
+#bel
+msgid Belarusian
+msgstr bielorrusiera
+
+#bem
+msgid Bemba
+msgstr bembera
+
+#ben
+msgid Bangla
+msgstr bengalera
+
+#bez
+msgid Bena
+msgstr benera
+
+#bho
+msgid Bhojpuri
+msgstr bhojpurera
+
+#bin
+msgid Bini
+msgstr edoera
+
+#bis
+msgid Bislama
+msgstr bislama
+
+#bla
+msgid Siksika
+msgstr siksikera
+
+#bod
+msgid Tibetan
+msgstr tibetera
+
+#bos
+msgid Bosnian
+msgstr bosniera
+
+#bre
+msgid Breton
+msgstr bretoiera
+
+#brx
+msgid Bodo
+msgstr bodoera
+
+#bug
+msgid Buginese
+msgstr buginera
+
+#bul
+msgid Bulgarian
+msgstr bulgariera
+
+#byn
+msgid Blin
+msgstr bilena
+
+#cat
+msgid Catalan
+msgstr katalana
+
+#ceb
+msgid Cebuano
+msgstr cebuera
+
+#ces
+msgid Czech
+msgstr txekiera
+
+#cgg
+msgid Chiga
+msgstr chigera
+
+#cha
+msgid Chamorro
+msgstr chamorrera
+
+#che
+msgid Chechen
+msgstr txetxeniera
+
+#chk
+msgid Chuukese
+msgstr chuukera
+
+#chm
+msgid Mari
+msgstr mariera
+
+#cho
+msgid Choctaw
+msgstr choctaw
+
+#chr
+msgid Cherokee
+msgstr txerokiera
+
+#chu
+msgid Church Slavic
+msgstr Elizako eslaviera
+
+#chv
+msgid Chuvash
+msgstr chuvashera
+
+#chy
+msgid Cheyenne
+msgstr cheyennera
+
+#ckb
+msgid Central Kurdish
+msgstr sorania
+
+#cor
+msgid Cornish
+msgstr kornubiera
+
+#cos
+msgid Corsican
+msgstr korsikera
+
+#crs
+msgid Seselwa Creole French
+msgstr seselwa frantses-kreolera
+
+#cym
+msgid Welsh
+msgstr galesera
+
+#dak
+msgid Dakota
+msgstr dakotera
+
+#dan
+msgid Danish
+msgstr daniera
+
+#dar
+msgid Dargwa
+msgstr dargvera
+
+#dav
+msgid Taita
+msgstr taitera
+
+#de AT
+msgid Austrian German
+msgstr Austriako alemana
+
+#de CH
+msgid Swiss High German
+msgstr aleman garaia (Suitza)
+
+#deu
+msgid German
+msgstr alemana
+
+#dgr
+msgid Dogrib
+msgstr dogribera
+
+#div
+msgid Divehi
+msgstr divehiera
+
+#dje
+msgid Zarma
+msgstr zarmera
+
+#dsb
+msgid Lower Sorbian
+msgstr behe-sorabiera
+
+#dua
+msgid Duala
+msgstr dualera
+
+#dyo
+msgid Jola-Fonyi
+msgstr fonyi jolera
+
+#dzg
+msgid Dazaga
+msgstr dazaga
+
+#dzo
+msgid Dzongkha
+msgstr dzongkha
+
+#ebu
+msgid Embu
+msgstr embua
+
+#efi
+msgid Efik
+msgstr efikera
+
+#eka
+msgid Ekajuk
+msgstr akajuka
+
+#ell
+msgid Greek
+msgstr greziera
+
+#en AU
+msgid Australian English
+msgstr Australiako ingelesa
+
+#en CA
+msgid Canadian English
+msgstr Kanadako ingelesa
+
+#en GB
+msgid British English
+msgstr Britainia Handiko ingelesa
+
+#en GB-short
+msgid UK English
+msgstr Erresuma Batuko ingelesa
+
+#en US
+msgid American English
+msgstr AEBko ingelesa
+
+#en US-short
+msgid US English
+msgstr AEBko ingelesa
+
+#eng
+msgid English
+msgstr ingelesa
+
+#epo
+msgid Esperanto
+msgstr esperantoa
+
+#es 419
+msgid Latin American Spanish
+msgstr Latinoamerikako espainiera
+
+#es ES
+msgid European Spanish
+msgstr espainiera (Europa)
+
+#es MX
+msgid Mexican Spanish
+msgstr Mexikoko espainiera
+
+#est
+msgid Estonian
+msgstr estoniera
+
+#eus
+msgid Basque
+msgstr euskara
+
+#ewe
+msgid Ewe
+msgstr eweera
+
+#ewo
+msgid Ewondo
+msgstr ewondera
+
+#fao
+msgid Faroese
+msgstr faroera
+
+#fas
+msgid Persian
+msgstr persiera
+
+#fij
+msgid Fijian
+msgstr fijiera
+
+#fil
+msgid Filipino
+msgstr tagaloga
+
+#fin
+msgid Finnish
+msgstr finlandiera
+
+#fon
+msgid Fon
+msgstr fona
+
+#fr CA
+msgid Canadian French
+msgstr Kanadako frantsesa
+
+#fr CH
+msgid Swiss French
+msgstr Suitzako frantsesa
+
+#fra
+msgid French
+msgstr frantsesa
+
+#fry
+msgid Western Frisian
+msgstr frisiera
+
+#ful
+msgid Fulah
+msgstr fula
+
+#fur
+msgid Friulian
+msgstr friuliera
+
+#gaa
+msgid Ga
+msgstr ga
+
+#gag
+msgid Gagauz
+msgstr gagauzera
+
+#gez
+msgid Geez
+msgstr ge’ez
+
+#gil
+msgid Gilbertese
+msgstr gilbertera
+
+#gla
+msgid Scottish Gaelic
+msgstr eskoziako gaelikoa
+
+#gle
+msgid Irish
+msgstr gaelikoa
+
+#glg
+msgid Galician
+msgstr galiziera
+
+#glv
+msgid Manx
+msgstr manxera
+
+#gor
+msgid Gorontalo
+msgstr gorontaloa
+
+#grn
+msgid Guarani
+msgstr guaraniera
+
+#gsw
+msgid Swiss German
+msgstr alemana (Suitza)
+
+#guj
+msgid Gujarati
+msgstr gujaratera
+
+#guz
+msgid Gusii
+msgstr gusiiera
+
+#gwi
+msgid Gwichʼin
+msgstr gwichʼin
+
+#hat
+msgid Haitian Creole
+msgstr Haitiko kreolera
+
+#hau
+msgid Hausa
+msgstr hausa
+
+#haw
+msgid Hawaiian
+msgstr hawaiiera
+
+#hbs
+msgid Serbo-Croatian
+msgstr serbokroaziera
+
+#heb
+msgid Hebrew
+msgstr hebreera
+
+#her
+msgid Herero
+msgstr herera
+
+#hil
+msgid Hiligaynon
+msgstr hiligainona
+
+#hin
+msgid Hindi
+msgstr hindia
+
+#hmn
+msgid Hmong
+msgstr hmong
+
+#hrv
+msgid Croatian
+msgstr kroaziera
+
+#hsb
+msgid Upper Sorbian
+msgstr goi-sorabiera
+
+#hun
+msgid Hungarian
+msgstr hungariera
+
+#hup
+msgid Hupa
+msgstr hupera
+
+#hye
+msgid Armenian
+msgstr armeniera
+
+#iba
+msgid Iban
+msgstr ibanera
+
+#ibb
+msgid Ibibio
+msgstr ibibioera
+
+#ibo
+msgid Igbo
+msgstr igboera
+
+#ido
+msgid Ido
+msgstr ido
+
+#iii
+msgid Sichuan Yi
+msgstr sichuan yia
+
+#iku
+msgid Inuktitut
+msgstr inuitera
+
+#ile
+msgid Interlingue
+msgstr interlingue
+
+#ilo
+msgid Iloko
+msgstr ilokanera
+
+#ina
+msgid Interlingua
+msgstr interlingua
+
+#ind
+msgid Indonesian
+msgstr indonesiera
+
+#inh
+msgid Ingush
+msgstr ingushera
+
+#isl
+msgid Icelandic
+msgstr islandiera
+
+#ita
+msgid Italian
+msgstr italiera
+
+#jav
+msgid Javanese
+msgstr javera
+
+#jbo
+msgid Lojban
+msgstr lojbanera
+
+#jgo
+msgid Ngomba
+msgstr ngomba
+
+#jmc
+msgid Machame
+msgstr machamera
+
+#jpn
+msgid Japanese
+msgstr japoniera
+
+#kab
+msgid Kabyle
+msgstr kabilera
+
+#kac
+msgid Kachin
+msgstr jingpoera
+
+#kaj
+msgid Jju
+msgstr kaiji
+
+#kal
+msgid Kalaallisut
+msgstr kalaallisutera
+
+#kam
+msgid Kamba
+msgstr kambera
+
+#kan
+msgid Kannada
+msgstr kannadera
+
+#kas
+msgid Kashmiri
+msgstr kashmirera
+
+#kat
+msgid Georgian
+msgstr georgiera
+
+#kau
+msgid Kanuri
+msgstr kanuriera
+
+#kaz
+msgid Kazakh
+msgstr kazakhera
+
+#kbd
+msgid Kabardian
+msgstr kabardiera
+
+#kcg
+msgid Tyap
+msgstr kataba
+
+#kde
+msgid Makonde
+msgstr makondera
+
+#kea
+msgid Kabuverdianu
+msgstr Cabo Verdeko kreola
+
+#kfo
+msgid Koro
+msgstr koroa
+
+#kha
+msgid Khasi
+msgstr kashia
+
+#khm
+msgid Khmer
+msgstr khemerera
+
+#khq
+msgid Koyra Chiini
+msgstr koyra chiiniera
+
+#kik
+msgid Kikuyu
+msgstr kikuyuera
+
+#kin
+msgid Kinyarwanda
+msgstr kinyaruanda
+
+#kir
+msgid Kyrgyz
+msgstr kirgizera
+
+#kkj
+msgid Kako
+msgstr kakoa
+
+#kln
+msgid Kalenjin
+msgstr kalenjinera
+
+#kmb
+msgid Kimbundu
+msgstr kimbundua
+
+#koi
+msgid Komi-Permyak
+msgstr komi-permyakera
+
+#kok
+msgid Konkani
+msgstr konkaniera
+
+#kom
+msgid Komi
+msgstr komiera
+
+#kon
+msgid Kongo
+msgstr kikongoa
+
+#kor
+msgid Korean
+msgstr koreera
+
+#kpe
+msgid Kpelle
+msgstr kpellea
+
+#krc
+msgid Karachay-Balkar
+msgstr karachayera-balkarera
+
+#krl
+msgid Karelian
+msgstr kareliera
+
+#kru
+msgid Kurukh
+msgstr kurukhera
+
+#ksb
+msgid Shambala
+msgstr shambalera
+
+#ksf
+msgid Bafia
+msgstr bafiera
+
+#ksh
+msgid Colognian
+msgstr koloniera
+
+#kua
+msgid Kuanyama
+msgstr kuanyama
+
+#kum
+msgid Kumyk
+msgstr kumykera
+
+#kur
+msgid Kurdish
+msgstr kurduera
+
+#lad
+msgid Ladino
+msgstr ladinera
+
+#lag
+msgid Langi
+msgstr langiera
+
+#lao
+msgid Lao
+msgstr laosera
+
+#lat
+msgid Latin
+msgstr latina
+
+#lav
+msgid Latvian
+msgstr letoniera
+
+#lez
+msgid Lezghian
+msgstr lezgiera
+
+#lim
+msgid Limburgish
+msgstr limburgera
+
+#lin
+msgid Lingala
+msgstr lingala
+
+#lit
+msgid Lithuanian
+msgstr lituaniera
+
+#lkt
+msgid Lakota
+msgstr lakotera
+
+#loz
+msgid Lozi
+msgstr loziera
+
+#lrc
+msgid Northern Luri
+msgstr iparraldeko lurera
+
+#ltz
+msgid Luxembourgish
+msgstr luxenburgera
+
+#lua
+msgid Luba-Lulua
+msgstr txilubera
+
+#lub
+msgid Luba-Katanga
+msgstr luba-katangera
+
+#lug
+msgid Ganda
+msgstr gandera
+
+#lun
+msgid Lunda
+msgstr lundera
+
+#luo
+msgid Luo
+msgstr luoera
+
+#lus
+msgid Mizo
+msgstr mizoa
+
+#luy
+msgid Luyia
+msgstr luhyera
+
+#mad
+msgid Madurese
+msgstr madurera
+
+#mag
+msgid Magahi
+msgstr magahiera
+
+#mah
+msgid Marshallese
+msgstr marshallera
+
+#mai
+msgid Maithili
+msgstr maithilera
+
+#mak
+msgid Makasar
+msgstr makasarera
+
+#mal
+msgid Malayalam
+msgstr malayalamera
+
+#mar
+msgid Marathi
+msgstr marathera
+
+#mas
+msgid Masai
+msgstr masaiera
+
+#mdf
+msgid Moksha
+msgstr mokxera
+
+#men
+msgid Mende
+msgstr mendeera
+
+#mer
+msgid Meru
+msgstr meruera
+
+#mfe
+msgid Morisyen
+msgstr Mauritaniako kreolera
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr makhuwa-meettoera
+
+#mgo
+msgid Metaʼ
+msgstr metera
+
+#mic
+msgid Mi'kmaq
+msgstr mikmakera
+
+#min
+msgid Minangkabau
+msgstr minangkabauera
+
+#mkd
+msgid Macedonian
+msgstr mazedoniera
+
+#mlg
+msgid Malagasy
+msgstr malagasyera
+
+#mlt
+msgid Maltese
+msgstr maltera
+
+#mni
+msgid Manipuri
+msgstr manipurera
+
+#moh
+msgid Mohawk
+msgstr mohawkera
+
+#mon
+msgid Mongolian
+msgstr mongoliera
+
+#mos
+msgid Mossi
+msgstr moreera
+
+#mri
+msgid Maori
+msgstr maoriera
+
+#msa
+msgid Malay
+msgstr malaysiera
+
+#mua
+msgid Mundang
+msgstr mudangera
+
+#mul
+msgid Multiple languages
+msgstr hizkuntza anitzak
+
+#mus
+msgid Creek
+msgstr creera
+
+#mwl
+msgid Mirandese
+msgstr mirandera
+
+#mya
+msgid Burmese
+msgstr burmatarra
+
+#myv
+msgid Erzya
+msgstr erziera
+
+#mzn
+msgid Mazanderani
+msgstr mazandarandera
+
+#nap
+msgid Neapolitan
+msgstr napoliera
+
+#naq
+msgid Nama
+msgstr namera
+
+#nau
+msgid Nauru
+msgstr nauruera
+
+#nav
+msgid Navajo
+msgstr navahoera
+
+#nbl
+msgid South Ndebele
+msgstr hegoaldeko ndebelera
+
+#nde
+msgid North Ndebele
+msgstr iparraldeko ndebeleera
+
+#ndo
+msgid Ndonga
+msgstr ndongera
+
+#nds NL
+msgid Low Saxon
+msgstr behe-saxoiera
+
+#nep
+msgid Nepali
+msgstr nepalera
+
+#new
+msgid Newari
+msgstr newarera
+
+#nia
+msgid Nias
+msgstr niasa
+
+#niu
+msgid Niuean
+msgstr niuera
+
+#nl BE
+msgid Flemish
+msgstr flandriera
+
+#nld
+msgid Dutch
+msgstr nederlandera
+
+#nmg
+msgid Kwasio
+msgstr kwasiera
+
+#nnh
+msgid Ngiemboon
+msgstr ngiemboonera
+
+#nno
+msgid Norwegian Nynorsk
+msgstr nynorsk norvegiera
+
+#nob
+msgid Norwegian Bokmål
+msgstr bokmala (Norvegia)
+
+#nog
+msgid Nogai
+msgstr nogaiera
+
+#nor
+msgid Norwegian
+msgstr norvegiera
+
+#nqo
+msgid N’Ko
+msgstr n’koera
+
+#nso
+msgid Northern Sotho
+msgstr pediera
+
+#nus
+msgid Nuer
+msgstr nuerera
+
+#nya
+msgid Nyanja
+msgstr nyanja
+
+#nyn
+msgid Nyankole
+msgstr ankolera
+
+#oci
+msgid Occitan
+msgstr okzitaniera
+
+#ori
+msgid Odia
+msgstr oriya
+
+#orm
+msgid Oromo
+msgstr oromoera
+
+#oss
+msgid Ossetic
+msgstr osetiera
+
+#pag
+msgid Pangasinan
+msgstr pangasinanera
+
+#pam
+msgid Pampanga
+msgstr pampangera
+
+#pan
+msgid Punjabi
+msgstr punjabera
+
+#pap
+msgid Papiamento
+msgstr papiamentoa
+
+#pau
+msgid Palauan
+msgstr palauera
+
+#pcm
+msgid Nigerian Pidgin
+msgstr Nigeriako pidgina
+
+#pol
+msgid Polish
+msgstr poloniera
+
+#por
+msgid Portuguese
+msgstr portugesa
+
+#prg
+msgid Prussian
+msgstr prusiera
+
+#ps-variant
+msgid Pushto
+msgstr pashtoera
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Brasilgo portugesa
+
+#pt PT
+msgid European Portuguese
+msgstr portugesa (Europa)
+
+#pus
+msgid Pashto
+msgstr paxtuera
+
+#quc
+msgid Kʼicheʼ
+msgstr k’iche’ra
+
+#que
+msgid Quechua
+msgstr quechuera
+
+#rap
+msgid Rapanui
+msgstr rapa nui
+
+#rar
+msgid Rarotongan
+msgstr rarotongera
+
+#ro MD
+msgid Moldavian
+msgstr moldaviera
+
+#rof
+msgid Rombo
+msgstr romboera
+
+#roh
+msgid Romansh
+msgstr erromantxera
+
+#ron
+msgid Romanian
+msgstr errumaniera
+
+#root
+msgid Root
+msgstr erroa
+
+#run
+msgid Rundi
+msgstr rundiera
+
+#rup
+msgid Aromanian
+msgstr aromania
+
+#rus
+msgid Russian
+msgstr errusiera
+
+#rwk
+msgid Rwa
+msgstr rwaera
+
+#sad
+msgid Sandawe
+msgstr sandawea
+
+#sag
+msgid Sango
+msgstr sangoera
+
+#sah
+msgid Sakha
+msgstr sakhera
+
+#san
+msgid Sanskrit
+msgstr sanskritoa
+
+#saq
+msgid Samburu
+msgstr samburuera
+
+#sat
+msgid Santali
+msgstr santalera
+
+#sba
+msgid Ngambay
+msgstr ngambayera
+
+#sbp
+msgid Sangu
+msgstr sanguera
+
+#scn
+msgid Sicilian
+msgstr siziliera
+
+#sco
+msgid Scots
+msgstr eskoziera
+
+#seh
+msgid Sena
+msgstr senera
+
+#ses
+msgid Koyraboro Senni
+msgstr koyraboro sennia
+
+#shi
+msgid Tachelhit
+msgstr tachelhita
+
+#shn
+msgid Shan
+msgstr shanera
+
+#sin
+msgid Sinhala
+msgstr sinhala
+
+#slk
+msgid Slovak
+msgstr eslovakiera
+
+#slv
+msgid Slovenian
+msgstr esloveniera
+
+#sma
+msgid Southern Sami
+msgstr hegoaldeko samiera
+
+#sme
+msgid Northern Sami
+msgstr iparraldeko samiera
+
+#smj
+msgid Lule Sami
+msgstr lule samiera
+
+#smn
+msgid Inari Sami
+msgstr inari-samiera
+
+#smo
+msgid Samoan
+msgstr samoera
+
+#sms
+msgid Skolt Sami
+msgstr skolt samiera
+
+#sna
+msgid Shona
+msgstr shonera
+
+#snd
+msgid Sindhi
+msgstr sindhia
+
+#snk
+msgid Soninke
+msgstr soninkera
+
+#som
+msgid Somali
+msgstr somaliera
+
+#sot
+msgid Southern Sotho
+msgstr hegoaldeko sothoera
+
+#spa
+msgid Spanish
+msgstr espainiera
+
+#sqi
+msgid Albanian
+msgstr albaniera
+
+#srd
+msgid Sardinian
+msgstr sardiniera
+
+#srn
+msgid Sranan Tongo
+msgstr srananera
+
+#srp
+msgid Serbian
+msgstr serbiera
+
+#ssw
+msgid Swati
+msgstr swatiera
+
+#ssy
+msgid Saho
+msgstr sahoa
+
+#suk
+msgid Sukuma
+msgstr sukumera
+
+#sun
+msgid Sundanese
+msgstr sundanera
+
+#sw CD
+msgid Congo Swahili
+msgstr Kongoko swahilia
+
+#swa
+msgid Swahili
+msgstr swahili
+
+#swb
+msgid Comorian
+msgstr komoreera
+
+#swe
+msgid Swedish
+msgstr suediera
+
+#syr
+msgid Syriac
+msgstr asiriera
+
+#tah
+msgid Tahitian
+msgstr tahitiera
+
+#tam
+msgid Tamil
+msgstr tamilera
+
+#tat
+msgid Tatar
+msgstr tatarera
+
+#tel
+msgid Telugu
+msgstr teluguera
+
+#tem
+msgid Timne
+msgstr temnea
+
+#teo
+msgid Teso
+msgstr tesoera
+
+#tet
+msgid Tetum
+msgstr tetuma
+
+#tgk
+msgid Tajik
+msgstr tajikistanera
+
+#tgl
+msgid Tagalog
+msgstr tagalog
+
+#tha
+msgid Thai
+msgstr thailandiera
+
+#tig
+msgid Tigre
+msgstr tigrea
+
+#tir
+msgid Tigrinya
+msgstr tigriñera
+
+#tlh
+msgid Klingon
+msgstr klingonera
+
+#ton
+msgid Tongan
+msgstr tongera
+
+#tpi
+msgid Tok Pisin
+msgstr tok pisina
+
+#trv
+msgid Taroko
+msgstr tarokoa
+
+#tsn
+msgid Tswana
+msgstr tswanera
+
+#tso
+msgid Tsonga
+msgstr tsongera
+
+#tuk
+msgid Turkmen
+msgstr turkmeniera
+
+#tum
+msgid Tumbuka
+msgstr tumbukera
+
+#tur
+msgid Turkish
+msgstr turkiera
+
+#tvl
+msgid Tuvalu
+msgstr tuvaluera
+
+#twi
+msgid Twi
+msgstr twia
+
+#twq
+msgid Tasawaq
+msgstr tasawaqa
+
+#tyv
+msgid Tuvinian
+msgstr tuvera
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr Maroko erdialdeko tamazighta
+
+#udm
+msgid Udmurt
+msgstr udmurtera
+
+#uig
+msgid Uyghur
+msgstr uigurrera
+
+#ukr
+msgid Ukrainian
+msgstr ukrainera
+
+#umb
+msgid Umbundu
+msgstr umbunduera
+
+#und
+msgid Unknown language
+msgstr hizkuntza ezezaguna
+
+#urd
+msgid Urdu
+msgstr urdua
+
+#uzb
+msgid Uzbek
+msgstr uzbekera
+
+#vai
+msgid Vai
+msgstr vaiera
+
+#ven
+msgid Venda
+msgstr vendera
+
+#vie
+msgid Vietnamese
+msgstr vietnamera
+
+#vol
+msgid Volapük
+msgstr volapüka
+
+#vun
+msgid Vunjo
+msgstr vunjoa
+
+#wae
+msgid Walser
+msgstr walserera
+
+#wal
+msgid Wolaytta
+msgstr welayta
+
+#war
+msgid Waray
+msgstr samerera
+
+#wln
+msgid Walloon
+msgstr valoniera
+
+#wol
+msgid Wolof
+msgstr wolofera
+
+#xal
+msgid Kalmyk
+msgstr kalmykera
+
+#xho
+msgid Xhosa
+msgstr xhosera
+
+#xog
+msgid Soga
+msgstr sogera
+
+#yav
+msgid Yangben
+msgstr jangbenera
+
+#ybb
+msgid Yemba
+msgstr yemba
+
+#yid
+msgid Yiddish
+msgstr yiddisha
+
+#yor
+msgid Yoruba
+msgstr yorubera
+
+#yue
+msgid Cantonese
+msgstr kantonera
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr tamazight estandarra
+
+#zh Hans
+msgid Simplified Chinese
+msgstr txinera soildua
+
+#zh Hant
+msgid Traditional Chinese
+msgstr txinera tradizionala
+
+#zho
+msgid Chinese
+msgstr txinera
+
+#zul
+msgid Zulu
+msgstr zuluera
+
+#zun
+msgid Zuni
+msgstr zuñia
+
+#zxx
+msgid No linguistic content
+msgstr ez dago eduki linguistikorik
+
+#zza
+msgid Zaza
+msgstr zazakia
+

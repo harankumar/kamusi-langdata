@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Akan senni
 
-#am
+#amh
 msgid Amharic
 msgstr Amhaarik senni
 
-#ar
+#ara
 msgid Arabic
 msgstr Laaraw senni
 
-#be
+#bel
 msgid Belarusian
 msgstr Belaruus senni
 
-#bg
-msgid Bulgarian
-msgstr Bulagaari senni
-
-#bn
+#ben
 msgid Bangla
 msgstr Bengali senni
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Bulagaari senni
+
+#ces
 msgid Czech
 msgstr Cek senni
 
-#de
+#deu
 msgid German
 msgstr Almaŋ senni
 
-#el
+#ell
 msgid Greek
 msgstr Grek senni
 
-#en
+#eng
 msgid English
 msgstr Inglisi senni
 
-#es
-msgid Spanish
-msgstr Espaaɲe senni
-
-#fa
+#fas
 msgid Persian
 msgstr Farsi senni
 
-#fr
+#fra
 msgid French
 msgstr Fransee senni
 
-#ha
+#hau
 msgid Hausa
 msgstr Hawsance senni
 
-#hi
+#hin
 msgid Hindi
 msgstr Induu senni
 
-#hu
+#hun
 msgid Hungarian
 msgstr Hungaari senni
 
-#id
-msgid Indonesian
-msgstr Indoneesi senni
-
-#ig
+#ibo
 msgid Igbo
 msgstr Iboo senni
 
-#it
+#ind
+msgid Indonesian
+msgstr Indoneesi senni
+
+#ita
 msgid Italian
 msgstr Itaali senni
 
-#ja
+#jav
+msgid Javanese
+msgstr Javanee senni
+
+#jpn
 msgid Japanese
 msgstr Japonee senni
 
-#jv
-msgid Javanese
-msgstr Javanee senni
+#khm
+msgid Khmer
+msgstr Kmeer senni, Game here
 
 #khq
 msgid Koyra Chiini
 msgstr Koyra ciini
 
-#km
-msgid Khmer
-msgstr Kmeer senni, Game here
-
-#ko
-msgid Korean
-msgstr Koree senni
-
-#ms
-msgid Malay
-msgstr Maleezi senni
-
-#my
-msgid Burmese
-msgstr Burme senni
-
-#ne
-msgid Nepali
-msgstr Neepal senni
-
-#nl
-msgid Dutch
-msgstr Holandee senni
-
-#pa
-msgid Punjabi
-msgstr Punjaabi sennii
-
-#pl
-msgid Polish
-msgstr Polonee senni
-
-#pt
-msgid Portuguese
-msgstr Portugee senni
-
-#ro
-msgid Romanian
-msgstr Rumaani senni
-
-#ru
-msgid Russian
-msgstr Ruusi senni
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Rwanda senni
 
-#so
+#kor
+msgid Korean
+msgstr Koree senni
+
+#msa
+msgid Malay
+msgstr Maleezi senni
+
+#mya
+msgid Burmese
+msgstr Burme senni
+
+#nep
+msgid Nepali
+msgstr Neepal senni
+
+#nld
+msgid Dutch
+msgstr Holandee senni
+
+#pan
+msgid Punjabi
+msgstr Punjaabi sennii
+
+#pol
+msgid Polish
+msgstr Polonee senni
+
+#por
+msgid Portuguese
+msgstr Portugee senni
+
+#ron
+msgid Romanian
+msgstr Rumaani senni
+
+#rus
+msgid Russian
+msgstr Ruusi senni
+
+#som
 msgid Somali
 msgstr Somaali senni
 
-#sv
+#spa
+msgid Spanish
+msgstr Espaaɲe senni
+
+#swe
 msgid Swedish
 msgstr Suweede senni
 
-#ta
+#tam
 msgid Tamil
 msgstr Tamil senni
 
-#th
+#tha
 msgid Thai
 msgstr Taailandu senni
 
-#tr
+#tur
 msgid Turkish
 msgstr Turku senni
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ukreen senni
 
-#ur
+#urd
 msgid Urdu
 msgstr Urdu senni
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vietnaam senni
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yorbance senni
 
-#zh
+#zho
 msgid Chinese
 msgstr Sinuwa senni, Mandareŋ
 
-#zu
+#zul
 msgid Zulu
 msgstr Julu senni
 

@@ -1,0 +1,1560 @@
+#aar
+msgid Afar
+msgstr афар тілі
+
+#abk
+msgid Abkhazian
+msgstr абхаз тілі
+
+#ace
+msgid Achinese
+msgstr ачех тілі
+
+#ada
+msgid Adangme
+msgstr адангме тілі
+
+#ady
+msgid Adyghe
+msgstr адыгей тілі
+
+#afr
+msgid Afrikaans
+msgstr африкаанс тілі
+
+#agq
+msgid Aghem
+msgstr агхем тілі
+
+#ain
+msgid Ainu
+msgstr айну тілі
+
+#aka
+msgid Akan
+msgstr акан тілі
+
+#ale
+msgid Aleut
+msgstr алеут тілі
+
+#alt
+msgid Southern Altai
+msgstr оңтүстік алтай тілі
+
+#amh
+msgid Amharic
+msgstr амхар тілі
+
+#anp
+msgid Angika
+msgstr ангика тілі
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr қазіргі стандартты араб тілі
+
+#ara
+msgid Arabic
+msgstr араб тілі
+
+#arg
+msgid Aragonese
+msgstr арагон тілі
+
+#arn
+msgid Mapuche
+msgstr мапуче тілі
+
+#arp
+msgid Arapaho
+msgstr арапахо тілі
+
+#asa
+msgid Asu
+msgstr асу тілі
+
+#asm
+msgid Assamese
+msgstr ассам тілі
+
+#ast
+msgid Asturian
+msgstr астурия тілі
+
+#ava
+msgid Avaric
+msgstr авар тілі
+
+#awa
+msgid Awadhi
+msgstr авадхи тілі
+
+#aym
+msgid Aymara
+msgstr аймара тілі
+
+#az-short
+msgid Azeri
+msgstr әзери тілі
+
+#aze
+msgid Azerbaijani
+msgstr әзірбайжан тілі
+
+#bak
+msgid Bashkir
+msgstr башқұрт тілі
+
+#bam
+msgid Bambara
+msgstr бамбара тілі
+
+#ban
+msgid Balinese
+msgstr бали тілі
+
+#bas
+msgid Basaa
+msgstr баса тілі
+
+#bel
+msgid Belarusian
+msgstr беларусь тілі
+
+#bem
+msgid Bemba
+msgstr бемба тілі
+
+#ben
+msgid Bangla
+msgstr бенгал тілі
+
+#bez
+msgid Bena
+msgstr бена тілі
+
+#bgn
+msgid Western Balochi
+msgstr батыс балучи тілі
+
+#bho
+msgid Bhojpuri
+msgstr бходжпури тілі
+
+#bin
+msgid Bini
+msgstr бини тілі
+
+#bis
+msgid Bislama
+msgstr бислама тілі
+
+#bla
+msgid Siksika
+msgstr сиксика тілі
+
+#bod
+msgid Tibetan
+msgstr тибет тілі
+
+#bos
+msgid Bosnian
+msgstr босния тілі
+
+#bre
+msgid Breton
+msgstr бретон тілі
+
+#brx
+msgid Bodo
+msgstr бодо тілі
+
+#bug
+msgid Buginese
+msgstr бугис тілі
+
+#bul
+msgid Bulgarian
+msgstr болгар тілі
+
+#byn
+msgid Blin
+msgstr блин тілі
+
+#cat
+msgid Catalan
+msgstr каталан тілі
+
+#ceb
+msgid Cebuano
+msgstr себуано тілі
+
+#ces
+msgid Czech
+msgstr чех тілі
+
+#cgg
+msgid Chiga
+msgstr кига тілі
+
+#cha
+msgid Chamorro
+msgstr чаморро тілі
+
+#che
+msgid Chechen
+msgstr шешен тілі
+
+#chk
+msgid Chuukese
+msgstr чуук тілі
+
+#chm
+msgid Mari
+msgstr мари тілі
+
+#cho
+msgid Choctaw
+msgstr чокто тілі
+
+#chr
+msgid Cherokee
+msgstr чероки тілі
+
+#chu
+msgid Church Slavic
+msgstr шіркеулік славян тілі
+
+#chv
+msgid Chuvash
+msgstr чуваш тілі
+
+#chy
+msgid Cheyenne
+msgstr шайен тілі
+
+#ckb
+msgid Central Kurdish
+msgstr сорани тілі
+
+#cor
+msgid Cornish
+msgstr корн тілі
+
+#cos
+msgid Corsican
+msgstr корсика тілі
+
+#crs
+msgid Seselwa Creole French
+msgstr сейшельдік креол тілі
+
+#cym
+msgid Welsh
+msgstr валлий тілі
+
+#dak
+msgid Dakota
+msgstr дакота тілі
+
+#dan
+msgid Danish
+msgstr дат тілі
+
+#dar
+msgid Dargwa
+msgstr даргин тілі
+
+#dav
+msgid Taita
+msgstr таита тілі
+
+#deu
+msgid German
+msgstr неміс тілі
+
+#dgr
+msgid Dogrib
+msgstr догриб тілі
+
+#div
+msgid Divehi
+msgstr дивехи тілі
+
+#dje
+msgid Zarma
+msgstr зарма тілі
+
+#dsb
+msgid Lower Sorbian
+msgstr төменгі лужица тілі
+
+#dua
+msgid Duala
+msgstr дуала тілі
+
+#dyo
+msgid Jola-Fonyi
+msgstr диола тілі
+
+#dzg
+msgid Dazaga
+msgstr дазага тілі
+
+#dzo
+msgid Dzongkha
+msgstr дзонг-кэ тілі
+
+#ebu
+msgid Embu
+msgstr эмбу тілі
+
+#efi
+msgid Efik
+msgstr эфик тілі
+
+#eka
+msgid Ekajuk
+msgstr экаджук тілі
+
+#ell
+msgid Greek
+msgstr грек тілі
+
+#en US
+msgid American English
+msgstr ағылшын тілі (АҚШ)
+
+#en US-short
+msgid US English
+msgstr ағылшын тілі (АҚШ)
+
+#eng
+msgid English
+msgstr ағылшын тілі
+
+#epo
+msgid Esperanto
+msgstr эсперанто тілі
+
+#est
+msgid Estonian
+msgstr эстон тілі
+
+#eus
+msgid Basque
+msgstr баск тілі
+
+#ewe
+msgid Ewe
+msgstr эве тілі
+
+#ewo
+msgid Ewondo
+msgstr эвондо тілі
+
+#fao
+msgid Faroese
+msgstr фарер тілі
+
+#fas
+msgid Persian
+msgstr парсы тілі
+
+#fij
+msgid Fijian
+msgstr фиджи тілі
+
+#fil
+msgid Filipino
+msgstr филиппин тілі
+
+#fin
+msgid Finnish
+msgstr фин тілі
+
+#fon
+msgid Fon
+msgstr фон тілі
+
+#fra
+msgid French
+msgstr француз тілі
+
+#fry
+msgid Western Frisian
+msgstr батыс фриз тілі
+
+#ful
+msgid Fulah
+msgstr фула тілі
+
+#fur
+msgid Friulian
+msgstr фриуль тілі
+
+#gaa
+msgid Ga
+msgstr га тілі
+
+#gag
+msgid Gagauz
+msgstr гагауз тілі
+
+#gez
+msgid Geez
+msgstr геэз тілі
+
+#gil
+msgid Gilbertese
+msgstr гильберт тілі
+
+#gla
+msgid Scottish Gaelic
+msgstr гэль тілі
+
+#gle
+msgid Irish
+msgstr ирланд тілі
+
+#glg
+msgid Galician
+msgstr галисия тілі
+
+#glv
+msgid Manx
+msgstr мэн тілі
+
+#gor
+msgid Gorontalo
+msgstr горонтало тілі
+
+#grn
+msgid Guarani
+msgstr гуарани тілі
+
+#gsw
+msgid Swiss German
+msgstr швейцариялық неміс тілі
+
+#guj
+msgid Gujarati
+msgstr гуджарати тілі
+
+#guz
+msgid Gusii
+msgstr гусии тілі
+
+#gwi
+msgid Gwichʼin
+msgstr гвичин тілі
+
+#hat
+msgid Haitian Creole
+msgstr гаити тілі
+
+#hau
+msgid Hausa
+msgstr хауса тілі
+
+#haw
+msgid Hawaiian
+msgstr гавайи тілі
+
+#hbs
+msgid Serbo-Croatian
+msgstr серб-хорват тілі
+
+#heb
+msgid Hebrew
+msgstr иврит тілі
+
+#her
+msgid Herero
+msgstr гереро тілі
+
+#hil
+msgid Hiligaynon
+msgstr хилигайнон тілі
+
+#hin
+msgid Hindi
+msgstr хинди тілі
+
+#hmn
+msgid Hmong
+msgstr хмонг тілі
+
+#hrv
+msgid Croatian
+msgstr хорват тілі
+
+#hsb
+msgid Upper Sorbian
+msgstr жоғарғы лужица тілі
+
+#hun
+msgid Hungarian
+msgstr венгр тілі
+
+#hup
+msgid Hupa
+msgstr хупа тілі
+
+#hye
+msgid Armenian
+msgstr армян тілі
+
+#iba
+msgid Iban
+msgstr ибан тілі
+
+#ibb
+msgid Ibibio
+msgstr ибибио тілі
+
+#ibo
+msgid Igbo
+msgstr игбо тілі
+
+#ido
+msgid Ido
+msgstr идо тілі
+
+#iii
+msgid Sichuan Yi
+msgstr сычуан и тілі
+
+#iku
+msgid Inuktitut
+msgstr инуктитут тілі
+
+#ile
+msgid Interlingue
+msgstr интерлингве тілі
+
+#ilo
+msgid Iloko
+msgstr илоко тілі
+
+#ina
+msgid Interlingua
+msgstr интерлингва тілі
+
+#ind
+msgid Indonesian
+msgstr индонезия тілі
+
+#inh
+msgid Ingush
+msgstr ингуш тілі
+
+#isl
+msgid Icelandic
+msgstr исланд тілі
+
+#ita
+msgid Italian
+msgstr итальян тілі
+
+#jav
+msgid Javanese
+msgstr ява тілі
+
+#jbo
+msgid Lojban
+msgstr ложбан тілі
+
+#jgo
+msgid Ngomba
+msgstr нгомба тілі
+
+#jmc
+msgid Machame
+msgstr мачаме тілі
+
+#jpn
+msgid Japanese
+msgstr жапон тілі
+
+#kab
+msgid Kabyle
+msgstr кабил тілі
+
+#kac
+msgid Kachin
+msgstr качин тілі
+
+#kaj
+msgid Jju
+msgstr джу тілі
+
+#kal
+msgid Kalaallisut
+msgstr калаалисут тілі
+
+#kam
+msgid Kamba
+msgstr камба тілі
+
+#kan
+msgid Kannada
+msgstr каннада тілі
+
+#kas
+msgid Kashmiri
+msgstr кашмир тілі
+
+#kat
+msgid Georgian
+msgstr грузин тілі
+
+#kau
+msgid Kanuri
+msgstr канури тілі
+
+#kaz
+msgid Kazakh
+msgstr қазақ тілі
+
+#kbd
+msgid Kabardian
+msgstr кабардин тілі
+
+#kcg
+msgid Tyap
+msgstr тьяп тілі
+
+#kde
+msgid Makonde
+msgstr маконде тілі
+
+#kea
+msgid Kabuverdianu
+msgstr кабувердьяну тілі
+
+#kfo
+msgid Koro
+msgstr коро тілі
+
+#kha
+msgid Khasi
+msgstr кхаси тілі
+
+#khm
+msgid Khmer
+msgstr кхмер тілі
+
+#khq
+msgid Koyra Chiini
+msgstr койра чини тілі
+
+#kik
+msgid Kikuyu
+msgstr кикуйю тілі
+
+#kin
+msgid Kinyarwanda
+msgstr киньяруанда тілі
+
+#kir
+msgid Kyrgyz
+msgstr қырғыз тілі
+
+#kkj
+msgid Kako
+msgstr како тілі
+
+#kln
+msgid Kalenjin
+msgstr каленжин тілі
+
+#kmb
+msgid Kimbundu
+msgstr кимбунду тілі
+
+#koi
+msgid Komi-Permyak
+msgstr коми-пермяк тілі
+
+#kok
+msgid Konkani
+msgstr конкани тілі
+
+#kom
+msgid Komi
+msgstr коми тілі
+
+#kor
+msgid Korean
+msgstr корей тілі
+
+#kpe
+msgid Kpelle
+msgstr кпелле тілі
+
+#krc
+msgid Karachay-Balkar
+msgstr қарашай-балқар тілі
+
+#krl
+msgid Karelian
+msgstr карель тілі
+
+#kru
+msgid Kurukh
+msgstr курух тілі
+
+#ksb
+msgid Shambala
+msgstr шамбала тілі
+
+#ksf
+msgid Bafia
+msgstr бафиа тілі
+
+#ksh
+msgid Colognian
+msgstr кёльн тілі
+
+#kua
+msgid Kuanyama
+msgstr кваньяма тілі
+
+#kum
+msgid Kumyk
+msgstr құмық тілі
+
+#kur
+msgid Kurdish
+msgstr күрд тілі
+
+#lad
+msgid Ladino
+msgstr ладино тілі
+
+#lag
+msgid Langi
+msgstr ланги тілі
+
+#lao
+msgid Lao
+msgstr лаос тілі
+
+#lat
+msgid Latin
+msgstr латын тілі
+
+#lav
+msgid Latvian
+msgstr латыш тілі
+
+#lez
+msgid Lezghian
+msgstr лезгин тілі
+
+#lim
+msgid Limburgish
+msgstr лимбург тілі
+
+#lin
+msgid Lingala
+msgstr лингала тілі
+
+#lit
+msgid Lithuanian
+msgstr литва тілі
+
+#lkt
+msgid Lakota
+msgstr лакота тілі
+
+#loz
+msgid Lozi
+msgstr лози тілі
+
+#lrc
+msgid Northern Luri
+msgstr солтүстік люри тілі
+
+#ltz
+msgid Luxembourgish
+msgstr люксембург тілі
+
+#lua
+msgid Luba-Lulua
+msgstr луба-лулуа тілі
+
+#lub
+msgid Luba-Katanga
+msgstr луба-катанга тілі
+
+#lug
+msgid Ganda
+msgstr ганда тілі
+
+#lun
+msgid Lunda
+msgstr лунда тілі
+
+#luo
+msgid Luo
+msgstr луо тілі
+
+#lus
+msgid Mizo
+msgstr мизо тілі
+
+#luy
+msgid Luyia
+msgstr лухиа тілі
+
+#mad
+msgid Madurese
+msgstr мадур тілі
+
+#mag
+msgid Magahi
+msgstr магахи тілі
+
+#mah
+msgid Marshallese
+msgstr маршалл тілі
+
+#mai
+msgid Maithili
+msgstr майтхили тілі
+
+#mak
+msgid Makasar
+msgstr макасар тілі
+
+#mal
+msgid Malayalam
+msgstr малаялам тілі
+
+#mar
+msgid Marathi
+msgstr маратхи тілі
+
+#mas
+msgid Masai
+msgstr масай тілі
+
+#mdf
+msgid Moksha
+msgstr мокша тілі
+
+#men
+msgid Mende
+msgstr менде тілі
+
+#mer
+msgid Meru
+msgstr меру тілі
+
+#mfe
+msgid Morisyen
+msgstr морисиен тілі
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr макуа-меетто тілі
+
+#mgo
+msgid Metaʼ
+msgstr мета тілі
+
+#mic
+msgid Mi'kmaq
+msgstr микмак тілі
+
+#min
+msgid Minangkabau
+msgstr минангкабау тілі
+
+#mkd
+msgid Macedonian
+msgstr македон тілі
+
+#mlg
+msgid Malagasy
+msgstr малагаси тілі
+
+#mlt
+msgid Maltese
+msgstr мальта тілі
+
+#mni
+msgid Manipuri
+msgstr манипури тілі
+
+#moh
+msgid Mohawk
+msgstr могавк тілі
+
+#mon
+msgid Mongolian
+msgstr моңғол тілі
+
+#mos
+msgid Mossi
+msgstr мосси тілі
+
+#mri
+msgid Maori
+msgstr маори тілі
+
+#msa
+msgid Malay
+msgstr малай тілі
+
+#mua
+msgid Mundang
+msgstr мунданг тілі
+
+#mul
+msgid Multiple languages
+msgstr бірнеше тіл
+
+#mus
+msgid Creek
+msgstr крик тілі
+
+#mwl
+msgid Mirandese
+msgstr миранд тілі
+
+#mya
+msgid Burmese
+msgstr бирма тілі
+
+#myv
+msgid Erzya
+msgstr эрзян тілі
+
+#mzn
+msgid Mazanderani
+msgstr мазандеран тілі
+
+#nap
+msgid Neapolitan
+msgstr неаполитан тілі
+
+#naq
+msgid Nama
+msgstr нама тілі
+
+#nau
+msgid Nauru
+msgstr науру тілі
+
+#nav
+msgid Navajo
+msgstr навахо тілі
+
+#nbl
+msgid South Ndebele
+msgstr оңтүстік ндебеле тілі
+
+#nde
+msgid North Ndebele
+msgstr солтүстік ндебеле тілі
+
+#ndo
+msgid Ndonga
+msgstr ндонга тілі
+
+#nds
+msgid Low German
+msgstr төменгі неміс тілі
+
+#nds NL
+msgid Low Saxon
+msgstr төменгі саксон тілі
+
+#nep
+msgid Nepali
+msgstr непал тілі
+
+#new
+msgid Newari
+msgstr невар тілі
+
+#nia
+msgid Nias
+msgstr ниас тілі
+
+#niu
+msgid Niuean
+msgstr ниуэ тілі
+
+#nl BE
+msgid Flemish
+msgstr фламанд тілі
+
+#nld
+msgid Dutch
+msgstr нидерланд тілі
+
+#nmg
+msgid Kwasio
+msgstr квасио тілі
+
+#nnh
+msgid Ngiemboon
+msgstr нгиембун тілі
+
+#nno
+msgid Norwegian Nynorsk
+msgstr норвегиялық нюнорск тілі
+
+#nob
+msgid Norwegian Bokmål
+msgstr норвегиялық букмол тілі
+
+#nog
+msgid Nogai
+msgstr ноғай тілі
+
+#nor
+msgid Norwegian
+msgstr норвег тілі
+
+#nqo
+msgid N’Ko
+msgstr нко тілі
+
+#nso
+msgid Northern Sotho
+msgstr солтүстік сото тілі
+
+#nus
+msgid Nuer
+msgstr нуэр тілі
+
+#nya
+msgid Nyanja
+msgstr ньянджа тілі
+
+#nyn
+msgid Nyankole
+msgstr нианколе тілі
+
+#oci
+msgid Occitan
+msgstr окситан тілі
+
+#ori
+msgid Odia
+msgstr ория тілі
+
+#orm
+msgid Oromo
+msgstr оромо тілі
+
+#oss
+msgid Ossetic
+msgstr осетин тілі
+
+#pag
+msgid Pangasinan
+msgstr пангасинан тілі
+
+#pam
+msgid Pampanga
+msgstr пампанга тілі
+
+#pan
+msgid Punjabi
+msgstr пенджаб тілі
+
+#pap
+msgid Papiamento
+msgstr папьяменто тілі
+
+#pau
+msgid Palauan
+msgstr палау тілі
+
+#pcm
+msgid Nigerian Pidgin
+msgstr нигериялық пиджин тілі
+
+#pol
+msgid Polish
+msgstr поляк тілі
+
+#por
+msgid Portuguese
+msgstr португал тілі
+
+#prg
+msgid Prussian
+msgstr пруссия тілі
+
+#pus
+msgid Pashto
+msgstr пушту тілі
+
+#quc
+msgid Kʼicheʼ
+msgstr киче тілі
+
+#que
+msgid Quechua
+msgstr кечуа тілі
+
+#rap
+msgid Rapanui
+msgstr рапануй тілі
+
+#rar
+msgid Rarotongan
+msgstr раротонган тілі
+
+#ro MD
+msgid Moldavian
+msgstr молдован тілі
+
+#rof
+msgid Rombo
+msgstr ромбо тілі
+
+#roh
+msgid Romansh
+msgstr романш тілі
+
+#ron
+msgid Romanian
+msgstr румын тілі
+
+#root
+msgid Root
+msgstr ата тіл
+
+#run
+msgid Rundi
+msgstr рунди тілі
+
+#rup
+msgid Aromanian
+msgstr арумын тілі
+
+#rus
+msgid Russian
+msgstr орыс тілі
+
+#rwk
+msgid Rwa
+msgstr руа тілі
+
+#sad
+msgid Sandawe
+msgstr сандаве тілі
+
+#sag
+msgid Sango
+msgstr санго тілі
+
+#sah
+msgid Sakha
+msgstr якут тілі
+
+#san
+msgid Sanskrit
+msgstr санскрит тілі
+
+#saq
+msgid Samburu
+msgstr самбуру тілі
+
+#sat
+msgid Santali
+msgstr сантали тілі
+
+#sba
+msgid Ngambay
+msgstr нгамбай тілі
+
+#sbp
+msgid Sangu
+msgstr сангу тілі
+
+#scn
+msgid Sicilian
+msgstr сицилия тілі
+
+#sco
+msgid Scots
+msgstr шотланд тілі
+
+#sdh
+msgid Southern Kurdish
+msgstr оңтүстік күрд тілі
+
+#seh
+msgid Sena
+msgstr сена тілі
+
+#ses
+msgid Koyraboro Senni
+msgstr койраборо сенни тілі
+
+#shi
+msgid Tachelhit
+msgstr ташелхит тілі
+
+#shn
+msgid Shan
+msgstr шан тілі
+
+#sin
+msgid Sinhala
+msgstr сингал тілі
+
+#slk
+msgid Slovak
+msgstr словак тілі
+
+#slv
+msgid Slovenian
+msgstr словен тілі
+
+#sma
+msgid Southern Sami
+msgstr оңтүстік саам тілі
+
+#sme
+msgid Northern Sami
+msgstr солтүстік саам тілі
+
+#smj
+msgid Lule Sami
+msgstr луле саам тілі
+
+#smn
+msgid Inari Sami
+msgstr инари саам тілі
+
+#smo
+msgid Samoan
+msgstr самоа тілі
+
+#sms
+msgid Skolt Sami
+msgstr колтта саам тілі
+
+#sna
+msgid Shona
+msgstr шона тілі
+
+#snd
+msgid Sindhi
+msgstr синдхи тілі
+
+#snk
+msgid Soninke
+msgstr сонинке тілі
+
+#som
+msgid Somali
+msgstr сомали тілі
+
+#sot
+msgid Southern Sotho
+msgstr сесото тілі
+
+#spa
+msgid Spanish
+msgstr испан тілі
+
+#sqi
+msgid Albanian
+msgstr албан тілі
+
+#srd
+msgid Sardinian
+msgstr сардин тілі
+
+#srn
+msgid Sranan Tongo
+msgstr сранан тонго тілі
+
+#srp
+msgid Serbian
+msgstr серб тілі
+
+#ssw
+msgid Swati
+msgstr свати тілі
+
+#ssy
+msgid Saho
+msgstr сахо тілі
+
+#suk
+msgid Sukuma
+msgstr сукума тілі
+
+#sun
+msgid Sundanese
+msgstr сундан тілі
+
+#sw CD
+msgid Congo Swahili
+msgstr конго суахили тілі
+
+#swa
+msgid Swahili
+msgstr суахили тілі
+
+#swb
+msgid Comorian
+msgstr комор тілі
+
+#swe
+msgid Swedish
+msgstr швед тілі
+
+#syr
+msgid Syriac
+msgstr сирия тілі
+
+#tah
+msgid Tahitian
+msgstr таити тілі
+
+#tam
+msgid Tamil
+msgstr тамил тілі
+
+#tat
+msgid Tatar
+msgstr татар тілі
+
+#tel
+msgid Telugu
+msgstr телугу тілі
+
+#tem
+msgid Timne
+msgstr темне тілі
+
+#teo
+msgid Teso
+msgstr тесо тілі
+
+#tet
+msgid Tetum
+msgstr тетум тілі
+
+#tgk
+msgid Tajik
+msgstr тәжік тілі
+
+#tha
+msgid Thai
+msgstr тай тілі
+
+#tig
+msgid Tigre
+msgstr тигре тілі
+
+#tir
+msgid Tigrinya
+msgstr тигринья тілі
+
+#tlh
+msgid Klingon
+msgstr клингон тілі
+
+#ton
+msgid Tongan
+msgstr тонган тілі
+
+#tpi
+msgid Tok Pisin
+msgstr ток-писин тілі
+
+#trv
+msgid Taroko
+msgstr тароко тілі
+
+#tsn
+msgid Tswana
+msgstr тсвана тілі
+
+#tso
+msgid Tsonga
+msgstr тсонга тілі
+
+#tuk
+msgid Turkmen
+msgstr түрікмен тілі
+
+#tum
+msgid Tumbuka
+msgstr тумбука тілі
+
+#tur
+msgid Turkish
+msgstr түрік тілі
+
+#tvl
+msgid Tuvalu
+msgstr тувалу тілі
+
+#twi
+msgid Twi
+msgstr тви тілі
+
+#twq
+msgid Tasawaq
+msgstr тасавак тілі
+
+#tyv
+msgid Tuvinian
+msgstr тувин тілі
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr орталық атлас тамазигхт тілі
+
+#udm
+msgid Udmurt
+msgstr удмурт тілі
+
+#uig
+msgid Uyghur
+msgstr ұйғыр тілі
+
+#ukr
+msgid Ukrainian
+msgstr украин тілі
+
+#umb
+msgid Umbundu
+msgstr умбунду тілі
+
+#und
+msgid Unknown language
+msgstr белгісіз тіл
+
+#urd
+msgid Urdu
+msgstr урду тілі
+
+#uzb
+msgid Uzbek
+msgstr өзбек тілі
+
+#vai
+msgid Vai
+msgstr вай тілі
+
+#ven
+msgid Venda
+msgstr венда тілі
+
+#vie
+msgid Vietnamese
+msgstr вьетнам тілі
+
+#vol
+msgid Volapük
+msgstr волапюк тілі
+
+#vun
+msgid Vunjo
+msgstr вунджо тілі
+
+#wae
+msgid Walser
+msgstr вальзер тілі
+
+#wal
+msgid Wolaytta
+msgstr волайта тілі
+
+#war
+msgid Waray
+msgstr варай тілі
+
+#wbp
+msgid Warlpiri
+msgstr вальбири тілі
+
+#wln
+msgid Walloon
+msgstr валлон тілі
+
+#wol
+msgid Wolof
+msgstr волоф тілі
+
+#xal
+msgid Kalmyk
+msgstr қалмақ тілі
+
+#xho
+msgid Xhosa
+msgstr кхоса тілі
+
+#xog
+msgid Soga
+msgstr сога тілі
+
+#yav
+msgid Yangben
+msgstr янгбен тілі
+
+#ybb
+msgid Yemba
+msgstr йемба тілі
+
+#yid
+msgid Yiddish
+msgstr идиш тілі
+
+#yor
+msgid Yoruba
+msgstr йоруба тілі
+
+#yue
+msgid Cantonese
+msgstr кантон тілі
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr марокколық стандартты тамазигхт тілі
+
+#zh Hans
+msgid Simplified Chinese
+msgstr жеңілдетілген қытай тілі
+
+#zh Hant
+msgid Traditional Chinese
+msgstr дәстүрлі қытай тілі
+
+#zho
+msgid Chinese
+msgstr қытай тілі
+
+#zul
+msgid Zulu
+msgstr зулу тілі
+
+#zun
+msgid Zuni
+msgstr зуни тілі
+
+#zxx
+msgid No linguistic content
+msgstr тілдік мазмұны жоқ
+
+#zza
+msgid Zaza
+msgstr заза тілі
+

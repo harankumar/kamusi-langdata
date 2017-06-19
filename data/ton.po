@@ -1,0 +1,2468 @@
+#aar
+msgid Afar
+msgstr lea fakaʻafāla
+
+#abk
+msgid Abkhazian
+msgstr lea fakaʻapakasia
+
+#ace
+msgid Achinese
+msgstr lea fakaʻatisē
+
+#ach
+msgid Acoli
+msgstr lea fakaʻakoli
+
+#ada
+msgid Adangme
+msgstr lea fakaʻatangimē
+
+#ady
+msgid Adyghe
+msgstr lea fakaʻatikē
+
+#aeb
+msgid Tunisian Arabic
+msgstr lea fakaʻalepea-tunīsia
+
+#afh
+msgid Afrihili
+msgstr lea fakaʻafilihili
+
+#afr
+msgid Afrikaans
+msgstr lea fakaʻafilikana
+
+#agq
+msgid Aghem
+msgstr lea fakaʻakihemi
+
+#ain
+msgid Ainu
+msgstr lea fakaʻainu
+
+#aka
+msgid Akan
+msgstr lea fakaʻakani
+
+#akk
+msgid Akkadian
+msgstr lea fakaʻakatia
+
+#akz
+msgid Alabama
+msgstr lea fakaʻalapama
+
+#ale
+msgid Aleut
+msgstr lea fakaʻaleuti
+
+#aln
+msgid Gheg Albanian
+msgstr lea fakaʻalapēnia-keki
+
+#alt
+msgid Southern Altai
+msgstr lea fakaʻalitai-tonga
+
+#amh
+msgid Amharic
+msgstr lea fakaʻameliki
+
+#ang
+msgid Old English
+msgstr lea fakapālangi-motuʻa
+
+#anp
+msgid Angika
+msgstr lea fakaʻangika
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr lea fakaʻalepea (māmani)
+
+#ara
+msgid Arabic
+msgstr lea fakaʻalepea
+
+#arc
+msgid Aramaic
+msgstr lea fakaʻalāmiti
+
+#arg
+msgid Aragonese
+msgstr lea fakaʻalakoni
+
+#arn
+msgid Mapuche
+msgstr lea fakamapuse
+
+#aro
+msgid Araona
+msgstr lea fakaʻalaona
+
+#arp
+msgid Arapaho
+msgstr lea fakaʻalapaho
+
+#arq
+msgid Algerian Arabic
+msgstr lea fakaʻalepea-ʻaisilia
+
+#arw
+msgid Arawak
+msgstr lea fakaʻalauaki
+
+#ary
+msgid Moroccan Arabic
+msgstr lea fakaʻalepea-moloko
+
+#arz
+msgid Egyptian Arabic
+msgstr lea fakaʻalepea-ʻisipite
+
+#asa
+msgid Asu
+msgstr lea fakaʻasu
+
+#ase
+msgid American Sign Language
+msgstr lea fakaʻilonga-ʻamelika
+
+#asm
+msgid Assamese
+msgstr lea fakaʻasamia
+
+#ast
+msgid Asturian
+msgstr lea fakaʻasitūlia
+
+#ava
+msgid Avaric
+msgstr lea fakaʻavaliki
+
+#ave
+msgid Avestan
+msgstr lea fakaʻavesitani
+
+#avk
+msgid Kotava
+msgstr lea fakakotava
+
+#awa
+msgid Awadhi
+msgstr lea fakaʻauati
+
+#aym
+msgid Aymara
+msgstr lea fakaʻaimala
+
+#az-short
+msgid Azeri
+msgstr lea fakaʻasapaisani
+
+#aze
+msgid Azerbaijani
+msgstr lea fakaʻasapaisani
+
+#bak
+msgid Bashkir
+msgstr lea fakapasikili
+
+#bal
+msgid Baluchi
+msgstr lea fakapalusi
+
+#bam
+msgid Bambara
+msgstr lea fakapamipala
+
+#ban
+msgid Balinese
+msgstr lea fakapali
+
+#bar
+msgid Bavarian
+msgstr lea fakapavālia
+
+#bas
+msgid Basaa
+msgstr lea fakapasaʻa
+
+#bax
+msgid Bamun
+msgstr lea fakapamuni
+
+#bbc
+msgid Batak Toba
+msgstr lea fakatōpe-pēteki
+
+#bbj
+msgid Ghomala
+msgstr lea fakakomala
+
+#bej
+msgid Beja
+msgstr lea fakapesa
+
+#bel
+msgid Belarusian
+msgstr lea fakapelalusi
+
+#bem
+msgid Bemba
+msgstr lea fakapēmipa
+
+#ben
+msgid Bangla
+msgstr lea fakapengikali
+
+#bew
+msgid Betawi
+msgstr lea fakapetavi
+
+#bez
+msgid Bena
+msgstr lea fakapena
+
+#bfd
+msgid Bafut
+msgstr lea fakapafuti
+
+#bfq
+msgid Badaga
+msgstr lea fakapataka
+
+#bgn
+msgid Western Balochi
+msgstr lea fakapalusi-hihifo
+
+#bho
+msgid Bhojpuri
+msgstr lea fakaposipuli
+
+#bik
+msgid Bikol
+msgstr lea fakapikoli
+
+#bin
+msgid Bini
+msgstr lea fakapini
+
+#bis
+msgid Bislama
+msgstr lea fakapisilama
+
+#bjn
+msgid Banjar
+msgstr lea fakapanisali
+
+#bkm
+msgid Kom
+msgstr lea fakakome
+
+#bla
+msgid Siksika
+msgstr lea fakasikesikā
+
+#bod
+msgid Tibetan
+msgstr lea fakatipeti
+
+#bos
+msgid Bosnian
+msgstr lea fakaposinia
+
+#bpy
+msgid Bishnupriya
+msgstr lea fakapisinupilia
+
+#bqi
+msgid Bakhtiari
+msgstr lea fakapakitiāli
+
+#bra
+msgid Braj
+msgstr lea fakapalai
+
+#bre
+msgid Breton
+msgstr lea fakapeletoni
+
+#brh
+msgid Brahui
+msgstr lea fakapalahui
+
+#brx
+msgid Bodo
+msgstr lea fakapōto
+
+#bss
+msgid Akoose
+msgstr lea fakaʻakōse
+
+#bua
+msgid Buriat
+msgstr lea fakapuliati
+
+#bug
+msgid Buginese
+msgstr lea fakapukisi
+
+#bul
+msgid Bulgarian
+msgstr lea fakapulukalia
+
+#bum
+msgid Bulu
+msgstr lea fakapulu
+
+#byn
+msgid Blin
+msgstr lea fakapilini
+
+#byv
+msgid Medumba
+msgstr lea fakametūmipa
+
+#cad
+msgid Caddo
+msgstr lea fakakato
+
+#car
+msgid Carib
+msgstr lea fakakalipa
+
+#cat
+msgid Catalan
+msgstr lea fakakatalani
+
+#cay
+msgid Cayuga
+msgstr lea fakakaiuka
+
+#cch
+msgid Atsam
+msgstr lea fakaʻatisami
+
+#ceb
+msgid Cebuano
+msgstr lea fakasepuano
+
+#ces
+msgid Czech
+msgstr lea fakaseki
+
+#cgg
+msgid Chiga
+msgstr lea fakakika
+
+#cha
+msgid Chamorro
+msgstr lea fakakamolo
+
+#chb
+msgid Chibcha
+msgstr lea fakasīpisa
+
+#che
+msgid Chechen
+msgstr lea fakasese
+
+#chg
+msgid Chagatai
+msgstr lea fakasakatāi
+
+#chk
+msgid Chuukese
+msgstr lea fakatūke
+
+#chm
+msgid Mari
+msgstr lea fakamalī
+
+#chn
+msgid Chinook Jargon
+msgstr lea fakasinuki-takote
+
+#cho
+msgid Choctaw
+msgstr lea fakasokitau
+
+#chp
+msgid Chipewyan
+msgstr lea fakasipeuiani
+
+#chr
+msgid Cherokee
+msgstr lea fakaselokī
+
+#chu
+msgid Church Slavic
+msgstr lea fakasilavia-fakasiasi
+
+#chv
+msgid Chuvash
+msgstr lea fakasuvasa
+
+#chy
+msgid Cheyenne
+msgstr lea fakaseiene
+
+#ckb
+msgid Central Kurdish
+msgstr lea fakakūtisi-loloto
+
+#cop
+msgid Coptic
+msgstr lea fakakopitika
+
+#cor
+msgid Cornish
+msgstr lea fakakoniuali
+
+#cos
+msgid Corsican
+msgstr lea fakakōsika
+
+#cps
+msgid Capiznon
+msgstr lea fakakapiseno
+
+#cre
+msgid Cree
+msgstr lea fakakelī
+
+#crh
+msgid Crimean Turkish
+msgstr lea fakatoake-kilimea
+
+#crs
+msgid Seselwa Creole French
+msgstr lea fakaseselua-falanisē
+
+#csb
+msgid Kashubian
+msgstr lea fakakasiupia
+
+#cym
+msgid Welsh
+msgstr lea fakauēlesi
+
+#dak
+msgid Dakota
+msgstr lea fakatakota
+
+#dan
+msgid Danish
+msgstr lea fakatenimaʻake
+
+#dar
+msgid Dargwa
+msgstr lea fakatalakuā
+
+#dav
+msgid Taita
+msgstr lea fakataita
+
+#de AT
+msgid Austrian German
+msgstr lea fakasiamane-ʻaositulia
+
+#de CH
+msgid Swiss High German
+msgstr lea fakasiamane-hake-suisilani
+
+#del
+msgid Delaware
+msgstr lea fakatelauale
+
+#den
+msgid Slave
+msgstr lea fakasilave
+
+#deu
+msgid German
+msgstr lea fakasiamane
+
+#dgr
+msgid Dogrib
+msgstr lea fakatōkelipi
+
+#din
+msgid Dinka
+msgstr lea fakatingikā
+
+#div
+msgid Divehi
+msgstr lea fakativehi
+
+#dje
+msgid Zarma
+msgstr lea fakatisāma
+
+#doi
+msgid Dogri
+msgstr lea fakatokili
+
+#dsb
+msgid Lower Sorbian
+msgstr lea fakasōpia-hifo
+
+#dtp
+msgid Central Dusun
+msgstr lea fakatusuni-loloto
+
+#dua
+msgid Duala
+msgstr lea fakatuala
+
+#dum
+msgid Middle Dutch
+msgstr lea fakahōlani-lotoloto
+
+#dyo
+msgid Jola-Fonyi
+msgstr lea fakaiola-fonī
+
+#dyu
+msgid Dyula
+msgstr lea fakatiula
+
+#dzg
+msgid Dazaga
+msgstr lea fakatasaka
+
+#dzo
+msgid Dzongkha
+msgstr lea fakatisōngika
+
+#ebu
+msgid Embu
+msgstr lea fakaʻemipū
+
+#efi
+msgid Efik
+msgstr lea fakaʻefiki
+
+#egl
+msgid Emilian
+msgstr lea fakaʻemilia
+
+#egy
+msgid Ancient Egyptian
+msgstr lea fakaʻisipitemuʻa
+
+#eka
+msgid Ekajuk
+msgstr lea fakaʻekaiuki
+
+#ell
+msgid Greek
+msgstr lea fakakalisi
+
+#elx
+msgid Elamite
+msgstr lea fakaʻelamite
+
+#en AU
+msgid Australian English
+msgstr lea fakapālangi-ʻaositelēlia
+
+#en CA
+msgid Canadian English
+msgstr lea fakapālangi-kānata
+
+#en GB
+msgid British English
+msgstr lea fakapilitānia
+
+#en GB-short
+msgid UK English
+msgstr lea fakapilitānia
+
+#en US
+msgid American English
+msgstr lea fakapālangi-ʻamelika
+
+#en US-short
+msgid US English
+msgstr lea fakapālangi-ʻAmelika
+
+#eng
+msgid English
+msgstr lea fakapālangi
+
+#enm
+msgid Middle English
+msgstr lea fakapālangi-lotoloto
+
+#epo
+msgid Esperanto
+msgstr lea fakaʻesipulanito
+
+#es 419
+msgid Latin American Spanish
+msgstr lea fakasipēnisi lātini-ʻamelika
+
+#es ES
+msgid European Spanish
+msgstr lea fakasipēnisi-‘iulope
+
+#es MX
+msgid Mexican Spanish
+msgstr lea fakasipēnisi-mekisikou
+
+#est
+msgid Estonian
+msgstr lea fakaʻesitōnia
+
+#esu
+msgid Central Yupik
+msgstr lea fakaiūpiki-loloto
+
+#eus
+msgid Basque
+msgstr lea fakapāsiki
+
+#ewe
+msgid Ewe
+msgstr lea fakaʻeue
+
+#ewo
+msgid Ewondo
+msgstr lea fakaʻeuōnito
+
+#ext
+msgid Extremaduran
+msgstr lea fakaʻekisitematula
+
+#fan
+msgid Fang
+msgstr lea fakafangi
+
+#fao
+msgid Faroese
+msgstr lea fakafaloe
+
+#fas
+msgid Persian
+msgstr lea fakapēsia
+
+#fat
+msgid Fanti
+msgstr lea fakafanitē
+
+#fij
+msgid Fijian
+msgstr lea fakafisi
+
+#fil
+msgid Filipino
+msgstr lea fakafilipaini
+
+#fin
+msgid Finnish
+msgstr lea fakafinilani
+
+#fit
+msgid Tornedalen Finnish
+msgstr lea fakafinilani-tōnetale
+
+#fon
+msgid Fon
+msgstr lea fakafōngi
+
+#fr CA
+msgid Canadian French
+msgstr lea fakafalanisē-kānata
+
+#fr CH
+msgid Swiss French
+msgstr lea fakafalanisē-suisilani
+
+#fra
+msgid French
+msgstr lea fakafalanisē
+
+#frc
+msgid Cajun French
+msgstr lea fakafalanisē-kasuni
+
+#frm
+msgid Middle French
+msgstr lea fakafalanisē-lotoloto
+
+#fro
+msgid Old French
+msgstr lea fakafalanisē-motuʻa
+
+#frp
+msgid Arpitan
+msgstr lea fakaʻāpitano
+
+#frr
+msgid Northern Frisian
+msgstr lea fakafilisia-tokelau
+
+#frs
+msgid Eastern Frisian
+msgstr lea fakafilisia-hahake
+
+#fry
+msgid Western Frisian
+msgstr lea fakafilisia-hihifo
+
+#ful
+msgid Fulah
+msgstr lea fakafulā
+
+#fur
+msgid Friulian
+msgstr lea fakafulilāni
+
+#gaa
+msgid Ga
+msgstr lea fakakā
+
+#gag
+msgid Gagauz
+msgstr lea fakakakausi
+
+#gan
+msgid Gan Chinese
+msgstr lea fakasiaina-kani
+
+#gay
+msgid Gayo
+msgstr lea fakakaio
+
+#gba
+msgid Gbaya
+msgstr lea fakakapaia
+
+#gbz
+msgid Zoroastrian Dari
+msgstr lea fakateli-soloasitelia
+
+#gez
+msgid Geez
+msgstr lea fakasiʻisi
+
+#gil
+msgid Gilbertese
+msgstr lea fakakilipasi
+
+#gla
+msgid Scottish Gaelic
+msgstr lea fakakaeliki
+
+#gle
+msgid Irish
+msgstr lea fakaʻaelani
+
+#glg
+msgid Galician
+msgstr lea fakakalisia
+
+#glk
+msgid Gilaki
+msgstr lea fakakilaki
+
+#glv
+msgid Manx
+msgstr lea fakamangikī
+
+#gmh
+msgid Middle High German
+msgstr lea fakasiamane-hake-lotoloto
+
+#goh
+msgid Old High German
+msgstr lea fakasiamane-hake-motuʻa
+
+#gom
+msgid Goan Konkani
+msgstr lea fakakonikanī-koani
+
+#gon
+msgid Gondi
+msgstr lea fakakonitī
+
+#gor
+msgid Gorontalo
+msgstr lea fakakolonitalo
+
+#got
+msgid Gothic
+msgstr lea fakakotika
+
+#grb
+msgid Grebo
+msgstr lea fakakēpo
+
+#grc
+msgid Ancient Greek
+msgstr lea fakakalisimuʻa
+
+#grn
+msgid Guarani
+msgstr lea fakakualani
+
+#gsw
+msgid Swiss German
+msgstr lea fakasiamane-suisilani
+
+#guc
+msgid Wayuu
+msgstr lea fakaʻuaiū
+
+#guj
+msgid Gujarati
+msgstr lea fakakutalati
+
+#gur
+msgid Frafra
+msgstr lea fakafalefale
+
+#guz
+msgid Gusii
+msgstr lea fakakusī
+
+#gwi
+msgid Gwichʼin
+msgstr lea fakaʻuīsini
+
+#hai
+msgid Haida
+msgstr lea fakahaita
+
+#hak
+msgid Hakka Chinese
+msgstr lea fakasiaina-haka
+
+#hat
+msgid Haitian Creole
+msgstr lea fakahaiti
+
+#hau
+msgid Hausa
+msgstr lea fakahausa
+
+#haw
+msgid Hawaiian
+msgstr lea fakahauaiʻi
+
+#hbs
+msgid Serbo-Croatian
+msgstr lea fakakuloisia-sēpia
+
+#heb
+msgid Hebrew
+msgstr lea fakahepelū
+
+#her
+msgid Herero
+msgstr lea fakahelelo
+
+#hif
+msgid Fiji Hindi
+msgstr lea fakahinitī-fisi
+
+#hil
+msgid Hiligaynon
+msgstr lea fakahilikainoni
+
+#hin
+msgid Hindi
+msgstr lea fakahinitī
+
+#hit
+msgid Hittite
+msgstr lea fakahitite
+
+#hmn
+msgid Hmong
+msgstr lea fakamōngi
+
+#hmo
+msgid Hiri Motu
+msgstr lea fakahili-motu
+
+#hrv
+msgid Croatian
+msgstr lea fakakuloisia
+
+#hsb
+msgid Upper Sorbian
+msgstr lea fakasōpia-hake
+
+#hsn
+msgid Xiang Chinese
+msgstr lea fakasiaina-siangi
+
+#hun
+msgid Hungarian
+msgstr lea fakahungakalia
+
+#hup
+msgid Hupa
+msgstr lea fakahupa
+
+#hye
+msgid Armenian
+msgstr lea fakaʻāmenia
+
+#iba
+msgid Iban
+msgstr lea fakaʻipani
+
+#ibb
+msgid Ibibio
+msgstr lea fakaʻipipio
+
+#ibo
+msgid Igbo
+msgstr lea fakaʻikipō
+
+#ido
+msgid Ido
+msgstr lea fakaʻito
+
+#iii
+msgid Sichuan Yi
+msgstr lea fakasisiuani-ī
+
+#iku
+msgid Inuktitut
+msgstr lea fakaʻinuketituti
+
+#ile
+msgid Interlingue
+msgstr lea fakavahaʻalingikē
+
+#ilo
+msgid Iloko
+msgstr lea fakaʻiloko
+
+#ina
+msgid Interlingua
+msgstr lea fakavahaʻalea
+
+#ind
+msgid Indonesian
+msgstr lea fakaʻinitōnesia
+
+#inh
+msgid Ingush
+msgstr lea fakaʻingusi
+
+#ipk
+msgid Inupiaq
+msgstr lea fakaʻinupiaki
+
+#isl
+msgid Icelandic
+msgstr lea fakaʻaisilani
+
+#ita
+msgid Italian
+msgstr lea fakaʻītali
+
+#izh
+msgid Ingrian
+msgstr lea fakaʻingiliani
+
+#jam
+msgid Jamaican Creole English
+msgstr lea fakapālangi-samaika
+
+#jav
+msgid Javanese
+msgstr lea fakasava
+
+#jbo
+msgid Lojban
+msgstr lea fakalosipani
+
+#jgo
+msgid Ngomba
+msgstr lea fakanikōmipa
+
+#jmc
+msgid Machame
+msgstr lea fakamasame
+
+#jpn
+msgid Japanese
+msgstr lea fakasiapani
+
+#jpr
+msgid Judeo-Persian
+msgstr lea fakaʻiuteo-pēsia
+
+#jrb
+msgid Judeo-Arabic
+msgstr lea fakaʻiuteo-ʻalepea
+
+#jut
+msgid Jutish
+msgstr lea fakaʻiutilani
+
+#kaa
+msgid Kara-Kalpak
+msgstr lea fakakala-kalipaki
+
+#kab
+msgid Kabyle
+msgstr lea fakakapile
+
+#kac
+msgid Kachin
+msgstr lea fakakasini
+
+#kaj
+msgid Jju
+msgstr lea fakasisū
+
+#kal
+msgid Kalaallisut
+msgstr lea fakakalaʻalisuti
+
+#kam
+msgid Kamba
+msgstr lea fakakamipa
+
+#kan
+msgid Kannada
+msgstr lea fakakanata
+
+#kas
+msgid Kashmiri
+msgstr lea fakakāsimila
+
+#kat
+msgid Georgian
+msgstr lea fakaseōsia
+
+#kau
+msgid Kanuri
+msgstr lea fakakanuli
+
+#kaw
+msgid Kawi
+msgstr lea fakakavi
+
+#kaz
+msgid Kazakh
+msgstr lea fakakasaki
+
+#kbd
+msgid Kabardian
+msgstr lea fakakapālitia
+
+#kbl
+msgid Kanembu
+msgstr lea fakakanēmipu
+
+#kcg
+msgid Tyap
+msgstr lea fakatiapi
+
+#kde
+msgid Makonde
+msgstr lea fakamakōnite
+
+#kea
+msgid Kabuverdianu
+msgstr lea fakakapuvelitianu
+
+#ken
+msgid Kenyang
+msgstr lea fakakeniangi
+
+#kfo
+msgid Koro
+msgstr lea fakakolo
+
+#kgp
+msgid Kaingang
+msgstr lea fakakaingangi
+
+#kha
+msgid Khasi
+msgstr lea fakakāsi
+
+#khm
+msgid Khmer
+msgstr lea fakakamipōtia
+
+#kho
+msgid Khotanese
+msgstr lea fakakōtani
+
+#khq
+msgid Koyra Chiini
+msgstr lea fakakoila-sīni
+
+#khw
+msgid Khowar
+msgstr lea fakakouali
+
+#kik
+msgid Kikuyu
+msgstr lea fakakikuiu
+
+#kin
+msgid Kinyarwanda
+msgstr lea fakakiniāuanita
+
+#kir
+msgid Kyrgyz
+msgstr lea fakakīsisi
+
+#kiu
+msgid Kirmanjki
+msgstr lea fakakilimanisikī
+
+#kkj
+msgid Kako
+msgstr lea fakakako
+
+#kln
+msgid Kalenjin
+msgstr lea fakakalenisini
+
+#kmb
+msgid Kimbundu
+msgstr lea fakakimipūnitu
+
+#koi
+msgid Komi-Permyak
+msgstr lea fakakomi-pelemiaki
+
+#kok
+msgid Konkani
+msgstr lea fakakonikanī
+
+#kom
+msgid Komi
+msgstr lea fakakomi
+
+#kon
+msgid Kongo
+msgstr lea fakakongikō
+
+#kor
+msgid Korean
+msgstr lea fakakōlea
+
+#kos
+msgid Kosraean
+msgstr lea fakakosilae
+
+#kpe
+msgid Kpelle
+msgstr lea fakakepele
+
+#krc
+msgid Karachay-Balkar
+msgstr lea fakakalate-palakili
+
+#kri
+msgid Krio
+msgstr lea fakakilio
+
+#krj
+msgid Kinaray-a
+msgstr lea fakakinaraiā
+
+#krl
+msgid Karelian
+msgstr lea fakakalelia
+
+#kru
+msgid Kurukh
+msgstr lea fakakuluki
+
+#ksb
+msgid Shambala
+msgstr lea fakasiamipala
+
+#ksf
+msgid Bafia
+msgstr lea fakapafia
+
+#ksh
+msgid Colognian
+msgstr lea fakakolongia
+
+#kua
+msgid Kuanyama
+msgstr lea fakakuaniama
+
+#kum
+msgid Kumyk
+msgstr lea fakakumiki
+
+#kur
+msgid Kurdish
+msgstr lea fakakulitī
+
+#kut
+msgid Kutenai
+msgstr lea fakakutenai
+
+#lad
+msgid Ladino
+msgstr lea fakalatino
+
+#lag
+msgid Langi
+msgstr lea fakalangi
+
+#lah
+msgid Lahnda
+msgstr lea fakalānita
+
+#lam
+msgid Lamba
+msgstr lea fakalamipā
+
+#lao
+msgid Lao
+msgstr lea fakalau
+
+#lat
+msgid Latin
+msgstr lea fakalatina
+
+#lav
+msgid Latvian
+msgstr lea fakalativia
+
+#lez
+msgid Lezghian
+msgstr lea fakalesikia
+
+#lfn
+msgid Lingua Franca Nova
+msgstr lea fakakavakava-foʻou
+
+#lij
+msgid Ligurian
+msgstr lea fakalikulia
+
+#lim
+msgid Limburgish
+msgstr lea fakalimipūliki
+
+#lin
+msgid Lingala
+msgstr lea lingikala
+
+#lit
+msgid Lithuanian
+msgstr lea fakalituania
+
+#liv
+msgid Livonian
+msgstr lea fakalivonia
+
+#lkt
+msgid Lakota
+msgstr lea fakalakota
+
+#lmo
+msgid Lombard
+msgstr lea fakalomipāti
+
+#lol
+msgid Mongo
+msgstr lea fakamongikō
+
+#loz
+msgid Lozi
+msgstr lea fakalosi
+
+#lrc
+msgid Northern Luri
+msgstr lea fakaluli-tokelau
+
+#ltg
+msgid Latgalian
+msgstr lea fakalatakale
+
+#ltz
+msgid Luxembourgish
+msgstr lea fakalakisimipeki
+
+#lua
+msgid Luba-Lulua
+msgstr lea fakalupa-lulua
+
+#lub
+msgid Luba-Katanga
+msgstr lea fakalupa-katanga
+
+#lug
+msgid Ganda
+msgstr lea fakakanita
+
+#lui
+msgid Luiseno
+msgstr lea fakaluiseno
+
+#lun
+msgid Lunda
+msgstr lea fakalunitā
+
+#luo
+msgid Luo
+msgstr lea fakaluo
+
+#lus
+msgid Mizo
+msgstr lea fakamiso
+
+#luy
+msgid Luyia
+msgstr lea fakaluīa
+
+#lzh
+msgid Literary Chinese
+msgstr lea fakasiaina-faʻutohi
+
+#lzz
+msgid Laz
+msgstr lea fakalasu
+
+#mad
+msgid Madurese
+msgstr lea fakamatula
+
+#maf
+msgid Mafa
+msgstr lea fakamafa
+
+#mag
+msgid Magahi
+msgstr lea fakamakahi
+
+#mah
+msgid Marshallese
+msgstr lea fakamāsolo
+
+#mai
+msgid Maithili
+msgstr lea fakamaitili
+
+#mak
+msgid Makasar
+msgstr lea fakamakasali
+
+#mal
+msgid Malayalam
+msgstr lea fakaʻinitia-malāialami
+
+#man
+msgid Mandingo
+msgstr lea fakamanitīngiko
+
+#mar
+msgid Marathi
+msgstr lea fakamalati
+
+#mas
+msgid Masai
+msgstr lea fakamasai
+
+#mde
+msgid Maba
+msgstr lea fakamapa
+
+#mdf
+msgid Moksha
+msgstr lea fakamokisiā
+
+#mdr
+msgid Mandar
+msgstr lea fakamanetali
+
+#men
+msgid Mende
+msgstr lea fakamenetī
+
+#mer
+msgid Meru
+msgstr lea fakamelu
+
+#mfe
+msgid Morisyen
+msgstr lea fakamolisieni
+
+#mga
+msgid Middle Irish
+msgstr lea fakaʻaelani-lotoloto
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr lea fakamakūa-meʻeto
+
+#mgo
+msgid Metaʼ
+msgstr lea fakametā
+
+#mic
+msgid Mi'kmaq
+msgstr lea fakamikemaki
+
+#min
+msgid Minangkabau
+msgstr lea fakaminangikapau
+
+#mkd
+msgid Macedonian
+msgstr lea fakamasitōnia
+
+#mlg
+msgid Malagasy
+msgstr lea fakamalakasi
+
+#mlt
+msgid Maltese
+msgstr lea fakamalita
+
+#mnc
+msgid Manchu
+msgstr lea fakamanisū
+
+#mni
+msgid Manipuri
+msgstr lea fakamanipuli
+
+#moh
+msgid Mohawk
+msgstr lea fakamohauki
+
+#mon
+msgid Mongolian
+msgstr lea fakamongokōlia
+
+#mos
+msgid Mossi
+msgstr lea fakamosi
+
+#mri
+msgid Maori
+msgstr lea fakamauli
+
+#mrj
+msgid Western Mari
+msgstr lea fakamali-hihifo
+
+#msa
+msgid Malay
+msgstr lea fakamalei
+
+#mua
+msgid Mundang
+msgstr lea fakamunitangi
+
+#mul
+msgid Multiple languages
+msgstr lea tuifio
+
+#mus
+msgid Creek
+msgstr lea fakakileki
+
+#mwl
+msgid Mirandese
+msgstr lea fakamilanitēsi
+
+#mwr
+msgid Marwari
+msgstr lea fakamaliwali
+
+#mwv
+msgid Mentawai
+msgstr lea fakamenitauai
+
+#mya
+msgid Burmese
+msgstr lea fakapema
+
+#mye
+msgid Myene
+msgstr lea fakamiene
+
+#myv
+msgid Erzya
+msgstr lea fakaʻelisia
+
+#mzn
+msgid Mazanderani
+msgstr lea fakamasanitelani
+
+#nan
+msgid Min Nan Chinese
+msgstr lea fakasiaina-mininani
+
+#nap
+msgid Neapolitan
+msgstr lea fakanapoletano
+
+#naq
+msgid Nama
+msgstr lea fakanama
+
+#nau
+msgid Nauru
+msgstr lea fakanaulu
+
+#nav
+msgid Navajo
+msgstr lea fakanavaho
+
+#nbl
+msgid South Ndebele
+msgstr lea fakanetepele-tonga
+
+#nde
+msgid North Ndebele
+msgstr lea fakanetepele-tokelau
+
+#ndo
+msgid Ndonga
+msgstr lea fakanetongikā
+
+#nds
+msgid Low German
+msgstr lea fakasiamane-hifo
+
+#nds NL
+msgid Low Saxon
+msgstr lea fakasakisoni-hifo
+
+#nep
+msgid Nepali
+msgstr lea fakanepali
+
+#new
+msgid Newari
+msgstr lea fakaneuali
+
+#nia
+msgid Nias
+msgstr lea fakaniasi
+
+#niu
+msgid Niuean
+msgstr lea fakaniuē
+
+#njo
+msgid Ao Naga
+msgstr lea fakaʻaonasa
+
+#nl BE
+msgid Flemish
+msgstr lea fakahōlani-pelesiume
+
+#nld
+msgid Dutch
+msgstr lea fakahōlani
+
+#nmg
+msgid Kwasio
+msgstr lea fakakuasio
+
+#nnh
+msgid Ngiemboon
+msgstr lea fakangiemipōni
+
+#nno
+msgid Norwegian Nynorsk
+msgstr lea fakanoauē-ninosiki
+
+#nob
+msgid Norwegian Bokmål
+msgstr lea fakanouaē-pokimali
+
+#nog
+msgid Nogai
+msgstr lea fakanokai
+
+#non
+msgid Old Norse
+msgstr lea fakanoauē-motuʻa
+
+#nor
+msgid Norwegian
+msgstr lea fakanouaē
+
+#nov
+msgid Novial
+msgstr lea fakanoviale
+
+#nqo
+msgid N’Ko
+msgstr lea fakanikō
+
+#nso
+msgid Northern Sotho
+msgstr lea fakasoto-tokelau
+
+#nus
+msgid Nuer
+msgstr lea fakanueli
+
+#nwc
+msgid Classical Newari
+msgstr lea fakaneuali-motuʻa
+
+#nya
+msgid Nyanja
+msgstr lea fakanianisa
+
+#nym
+msgid Nyamwezi
+msgstr lea fakaniamiuesi
+
+#nyn
+msgid Nyankole
+msgstr lea fakanianikole
+
+#nyo
+msgid Nyoro
+msgstr lea fakaniolo
+
+#nzi
+msgid Nzima
+msgstr lea fakanesima
+
+#oci
+msgid Occitan
+msgstr lea fakaʻokitane
+
+#oji
+msgid Ojibwa
+msgstr lea fakaʻosipiuā
+
+#ori
+msgid Odia
+msgstr lea faka-ʻotia
+
+#orm
+msgid Oromo
+msgstr lea fakaʻolomo
+
+#osa
+msgid Osage
+msgstr lea fakaʻosēse
+
+#oss
+msgid Ossetic
+msgstr lea fakaʻosetiki
+
+#ota
+msgid Ottoman Turkish
+msgstr lea fakatoake-ʻotomani
+
+#pag
+msgid Pangasinan
+msgstr lea fakapangasinani
+
+#pal
+msgid Pahlavi
+msgstr lea fakapālavi
+
+#pam
+msgid Pampanga
+msgstr lea fakapamipanga
+
+#pan
+msgid Punjabi
+msgstr lea fakapūnusapi
+
+#pap
+msgid Papiamento
+msgstr lea fakapapiamēnito
+
+#pau
+msgid Palauan
+msgstr lea fakapalau
+
+#pcd
+msgid Picard
+msgstr lea fakapikāti
+
+#pcm
+msgid Nigerian Pidgin
+msgstr lea fakanaisilia
+
+#pdc
+msgid Pennsylvania German
+msgstr lea fakasiamane-penisilivania
+
+#pdt
+msgid Plautdietsch
+msgstr lea fakasiamane-lafalafa
+
+#peo
+msgid Old Persian
+msgstr lea fakapēsia-motuʻa
+
+#pfl
+msgid Palatine German
+msgstr lea fakasiamane-palatine
+
+#phn
+msgid Phoenician
+msgstr lea fakafoinikia
+
+#pli
+msgid Pali
+msgstr lea fakapāli
+
+#pms
+msgid Piedmontese
+msgstr lea fakapiemonite
+
+#pnt
+msgid Pontic
+msgstr lea fakaponitiki
+
+#pol
+msgid Polish
+msgstr lea fakapolani
+
+#pon
+msgid Pohnpeian
+msgstr lea fakaponapē
+
+#por
+msgid Portuguese
+msgstr lea fakapotukali
+
+#prg
+msgid Prussian
+msgstr lea fakapulūsia
+
+#pro
+msgid Old Provençal
+msgstr lea fakapolovenisi-motuʻa
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr lea fakapotukali-palāsili
+
+#pt PT
+msgid European Portuguese
+msgstr lea fakapotukali-ʻiulope
+
+#pus
+msgid Pashto
+msgstr lea fakapasitō
+
+#quc
+msgid Kʼicheʼ
+msgstr lea fakakīsē
+
+#que
+msgid Quechua
+msgstr lea fakakuetisa
+
+#qug
+msgid Chimborazo Highland Quichua
+msgstr lea fakakuitisa-simipolaso
+
+#raj
+msgid Rajasthani
+msgstr lea fakalasasitani
+
+#rap
+msgid Rapanui
+msgstr lea fakalapanui
+
+#rar
+msgid Rarotongan
+msgstr lea fakalalotonga
+
+#rgn
+msgid Romagnol
+msgstr lea fakalomaniolo
+
+#rif
+msgid Riffian
+msgstr lea fakalifi
+
+#ro MD
+msgid Moldavian
+msgstr lea fakamolitāvia
+
+#rof
+msgid Rombo
+msgstr lea fakalomipō
+
+#roh
+msgid Romansh
+msgstr lea fakalaito-lomēnia
+
+#rom
+msgid Romany
+msgstr lea fakalomani
+
+#ron
+msgid Romanian
+msgstr lea fakalōmenia
+
+#root
+msgid Root
+msgstr lea fakaʻilonga-tefito
+
+#rtm
+msgid Rotuman
+msgstr lea fakalotuma
+
+#rue
+msgid Rusyn
+msgstr lea fakalusini
+
+#rug
+msgid Roviana
+msgstr lea fakaloviana
+
+#run
+msgid Rundi
+msgstr lea fakaluaniti
+
+#rup
+msgid Aromanian
+msgstr lea fakaʻalomania
+
+#rus
+msgid Russian
+msgstr lea fakalūsia
+
+#rwk
+msgid Rwa
+msgstr lea fakaluā
+
+#sad
+msgid Sandawe
+msgstr lea fakasanitaue
+
+#sag
+msgid Sango
+msgstr lea fakasangikō
+
+#sah
+msgid Sakha
+msgstr lea fakasaka
+
+#sam
+msgid Samaritan Aramaic
+msgstr lea fakasamalitani-ʻalāmiti
+
+#san
+msgid Sanskrit
+msgstr lea fakasanisukuliti
+
+#saq
+msgid Samburu
+msgstr lea fakasamipulu
+
+#sas
+msgid Sasak
+msgstr lea fakasasaki
+
+#sat
+msgid Santali
+msgstr lea fakasanitali
+
+#saz
+msgid Saurashtra
+msgstr lea fakasaulasitilā
+
+#sba
+msgid Ngambay
+msgstr lea fakangāmipai
+
+#sbp
+msgid Sangu
+msgstr lea fakasangu
+
+#scn
+msgid Sicilian
+msgstr lea fakasisīlia
+
+#sco
+msgid Scots
+msgstr lea fakasikotilani
+
+#sdc
+msgid Sassarese Sardinian
+msgstr lea fakasaletīnia-sasalesu
+
+#sdh
+msgid Southern Kurdish
+msgstr lea faka-tonga ‘o Ketesi
+
+#see
+msgid Seneca
+msgstr lea fakaseneka
+
+#seh
+msgid Sena
+msgstr lea fakasena
+
+#sei
+msgid Seri
+msgstr lea fakaseli
+
+#sel
+msgid Selkup
+msgstr lea fakaselikupi
+
+#ses
+msgid Koyraboro Senni
+msgstr lea fakakoilapolo-seni
+
+#sga
+msgid Old Irish
+msgstr lea fakaʻaelani-motuʻa
+
+#sgs
+msgid Samogitian
+msgstr lea fakasamositia
+
+#shi
+msgid Tachelhit
+msgstr lea fakataselihiti
+
+#shn
+msgid Shan
+msgstr lea fakasiani
+
+#shu
+msgid Chadian Arabic
+msgstr lea fakaʻalepea-sāti
+
+#sid
+msgid Sidamo
+msgstr lea fakasitamo
+
+#sin
+msgid Sinhala
+msgstr lea fakasingihala
+
+#sli
+msgid Lower Silesian
+msgstr lea fakasilesia-hifo
+
+#slk
+msgid Slovak
+msgstr lea fakasolāvaki
+
+#slv
+msgid Slovenian
+msgstr lea fakasolovenia
+
+#sly
+msgid Selayar
+msgstr lea fakaselaiā
+
+#sma
+msgid Southern Sami
+msgstr lea fakasami-tonga
+
+#sme
+msgid Northern Sami
+msgstr lea fakasami-tokelau
+
+#smj
+msgid Lule Sami
+msgstr lea fakasami-lule
+
+#smn
+msgid Inari Sami
+msgstr lea fakasami-ʻinali
+
+#smo
+msgid Samoan
+msgstr lea fakahaʻamoa
+
+#sms
+msgid Skolt Sami
+msgstr lea fakasami-sikolita
+
+#sna
+msgid Shona
+msgstr lea fakasiona
+
+#snd
+msgid Sindhi
+msgstr lea fakasīniti
+
+#snk
+msgid Soninke
+msgstr lea fakasoninekē
+
+#sog
+msgid Sogdien
+msgstr lea fakasokitiana
+
+#som
+msgid Somali
+msgstr lea fakasomali
+
+#sot
+msgid Southern Sotho
+msgstr lea fakasoto-tonga
+
+#spa
+msgid Spanish
+msgstr lea fakasipēnisi
+
+#sqi
+msgid Albanian
+msgstr lea fakaʻalapēnia
+
+#srd
+msgid Sardinian
+msgstr lea fakasaletīnia
+
+#srn
+msgid Sranan Tongo
+msgstr lea fakasulanane-tongikō
+
+#srp
+msgid Serbian
+msgstr lea fakasēpia
+
+#srr
+msgid Serer
+msgstr lea fakasēlēle
+
+#ssw
+msgid Swati
+msgstr lea fakasuati
+
+#ssy
+msgid Saho
+msgstr lea fakasaho
+
+#stq
+msgid Saterland Frisian
+msgstr lea fakafilisia-satēlani
+
+#suk
+msgid Sukuma
+msgstr lea fakasukuma
+
+#sun
+msgid Sundanese
+msgstr lea fakasunitā
+
+#sus
+msgid Susu
+msgstr lea fakasusū
+
+#sux
+msgid Sumerian
+msgstr lea fakasumelia
+
+#sw CD
+msgid Congo Swahili
+msgstr lea fakasuahili-kongikō
+
+#swa
+msgid Swahili
+msgstr lea fakasuahili
+
+#swb
+msgid Comorian
+msgstr lea fakakomolo
+
+#swe
+msgid Swedish
+msgstr lea fakasuēteni
+
+#syc
+msgid Classical Syriac
+msgstr lea fakasuliāiā-muʻa
+
+#syr
+msgid Syriac
+msgstr lea fakasuliāiā
+
+#szl
+msgid Silesian
+msgstr lea fakasilesia
+
+#tah
+msgid Tahitian
+msgstr lea fakatahiti
+
+#tam
+msgid Tamil
+msgstr lea fakatamili
+
+#tat
+msgid Tatar
+msgstr lea fakatatale
+
+#tcy
+msgid Tulu
+msgstr lea fakatulu
+
+#tel
+msgid Telugu
+msgstr lea fakaʻinitia-teluku
+
+#tem
+msgid Timne
+msgstr lea fakatimenē
+
+#teo
+msgid Teso
+msgstr lea fakateso
+
+#ter
+msgid Tereno
+msgstr lea fakateleno
+
+#tet
+msgid Tetum
+msgstr lea fakatetumu
+
+#tgk
+msgid Tajik
+msgstr lea fakatāsiki
+
+#tgl
+msgid Tagalog
+msgstr lea fakatakāloka
+
+#tha
+msgid Thai
+msgstr lea fakatailani
+
+#tig
+msgid Tigre
+msgstr lea fakatikilē
+
+#tir
+msgid Tigrinya
+msgstr lea fakatikilinia
+
+#tiv
+msgid Tiv
+msgstr lea fakativi
+
+#tkl
+msgid Tokelau
+msgstr lea fakatokelau
+
+#tkr
+msgid Tsakhur
+msgstr lea fakasākuli
+
+#tlh
+msgid Klingon
+msgstr lea fakakilingoni
+
+#tli
+msgid Tlingit
+msgstr lea fakatilingikīte
+
+#tly
+msgid Talysh
+msgstr lea fakatalisi
+
+#tmh
+msgid Tamashek
+msgstr lea fakatamasieki
+
+#tog
+msgid Nyasa Tonga
+msgstr lea fakaniasa-tonga
+
+#ton
+msgid Tongan
+msgstr lea fakatonga
+
+#tpi
+msgid Tok Pisin
+msgstr lea fakatoki-pisini
+
+#tru
+msgid Turoyo
+msgstr lea fakatuloio
+
+#trv
+msgid Taroko
+msgstr lea fakataloko
+
+#tsd
+msgid Tsakonian
+msgstr lea fakasakōnia
+
+#tsi
+msgid Tsimshian
+msgstr lea fakatisīmisiani
+
+#tsn
+msgid Tswana
+msgstr lea fakatisuana
+
+#tso
+msgid Tsonga
+msgstr lea fakatisonga
+
+#ttt
+msgid Muslim Tat
+msgstr lea fakatati-moselemi
+
+#tuk
+msgid Turkmen
+msgstr lea fakatēkimeni
+
+#tum
+msgid Tumbuka
+msgstr lea fakatumepuka
+
+#tur
+msgid Turkish
+msgstr lea fakatoake
+
+#tvl
+msgid Tuvalu
+msgstr lea fakatūvalu
+
+#twi
+msgid Twi
+msgstr lea fakatusuī
+
+#twq
+msgid Tasawaq
+msgstr lea fakatasauaki
+
+#tyv
+msgid Tuvinian
+msgstr lea fakatuvīnia
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr lea fakatamasaiti-ʻatilasi-loloto
+
+#udm
+msgid Udmurt
+msgstr lea fakaʻutimuliti
+
+#uga
+msgid Ugaritic
+msgstr lea fakaʻūkaliti
+
+#uig
+msgid Uyghur
+msgstr lea fakaʻuikūli
+
+#ukr
+msgid Ukrainian
+msgstr lea fakaʻūkalaʻine
+
+#umb
+msgid Umbundu
+msgstr lea fakaʻumipūnitu
+
+#und
+msgid Unknown language
+msgstr lea taʻeʻiloa
+
+#urd
+msgid Urdu
+msgstr lea fakaʻūtū
+
+#uzb
+msgid Uzbek
+msgstr lea fakaʻusipeki
+
+#vai
+msgid Vai
+msgstr lea fakavai
+
+#vec
+msgid Venetian
+msgstr lea fakavenēsia
+
+#ven
+msgid Venda
+msgstr lea fakavenitā
+
+#vep
+msgid Veps
+msgstr lea fakavepisi
+
+#vie
+msgid Vietnamese
+msgstr lea fakavietinami
+
+#vls
+msgid West Flemish
+msgstr lea fakavelamingi-hihifo
+
+#vmf
+msgid Main-Franconian
+msgstr lea fakafalanikoni-loloto
+
+#vol
+msgid Volapük
+msgstr lea fakavolapiki
+
+#vot
+msgid Votic
+msgstr lea fakavotiki
+
+#vro
+msgid Võro
+msgstr lea fakavōlo
+
+#vun
+msgid Vunjo
+msgstr lea fakavūniso
+
+#wae
+msgid Walser
+msgstr lea fakaʻualiseli
+
+#wal
+msgid Wolaytta
+msgstr lea fakaʻuolaita
+
+#war
+msgid Waray
+msgstr lea fakaʻualai
+
+#was
+msgid Washo
+msgstr lea fakaʻuasiō
+
+#wbp
+msgid Warlpiri
+msgstr lea fakaʻuālipili
+
+#wln
+msgid Walloon
+msgstr lea fakaʻualonia
+
+#wol
+msgid Wolof
+msgstr lea fakaʻuolofo
+
+#wuu
+msgid Wu Chinese
+msgstr lea fakasiaina-uū
+
+#xal
+msgid Kalmyk
+msgstr lea fakakalimiki
+
+#xho
+msgid Xhosa
+msgstr lea fakatōsa
+
+#xmf
+msgid Mingrelian
+msgstr lea fakamingilelia
+
+#xog
+msgid Soga
+msgstr lea fakasoka
+
+#yao
+msgid Yao
+msgstr lea fakaʻiao
+
+#yap
+msgid Yapese
+msgstr lea fakaʻiapi
+
+#yav
+msgid Yangben
+msgstr lea fakaʻiangipeni
+
+#ybb
+msgid Yemba
+msgstr lea fakaʻiēmipa
+
+#yid
+msgid Yiddish
+msgstr lea fakaītisi
+
+#yor
+msgid Yoruba
+msgstr lea fakaʻiōlupa
+
+#yrl
+msgid Nheengatu
+msgstr lea fakaneʻēngatū
+
+#yue
+msgid Cantonese
+msgstr lea fakakuangitongi
+
+#zap
+msgid Zapotec
+msgstr lea fakasapoteki
+
+#zbl
+msgid Blissymbols
+msgstr lea fakaʻilonga-pilisi
+
+#zea
+msgid Zeelandic
+msgstr lea fakasēlani
+
+#zen
+msgid Zenaga
+msgstr lea fakasenaka
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr lea fakatamasaiti-moloko
+
+#zh Hans
+msgid Simplified Chinese
+msgstr lea fakasiaina-fakafaingofua
+
+#zh Hant
+msgid Traditional Chinese
+msgstr lea fakasiaina-tukufakaholo
+
+#zha
+msgid Zhuang
+msgstr lea fakasuangi
+
+#zho
+msgid Chinese
+msgstr lea fakasiaina
+
+#zul
+msgid Zulu
+msgstr lea fakasulu
+
+#zun
+msgid Zuni
+msgstr lea fakasuni
+
+#zxx
+msgid No linguistic content
+msgstr ʻikai ha lea
+
+#zza
+msgid Zaza
+msgstr lea fakasāsā
+

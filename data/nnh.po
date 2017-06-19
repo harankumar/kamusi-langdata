@@ -30,11 +30,11 @@ msgstr Shwóŋò mbulu
 msgid Medumba
 msgstr Shwóŋò ngáŋtÿɔʼ
 
-#de
+#deu
 msgid German
 msgstr nzǎmɔ̂ɔn
 
-#en
+#eng
 msgid English
 msgstr ngilísè
 
@@ -42,13 +42,13 @@ msgstr ngilísè
 msgid Ewondo
 msgstr Shwóŋò pʉa Yɔɔnmendi
 
-#ff
-msgid Fulah
-msgstr Shwóŋò menkesaŋ
-
-#fr
+#fra
 msgid French
 msgstr felaŋsée
+
+#ful
+msgid Fulah
+msgstr Shwóŋò menkesaŋ
 
 #kkj
 msgid Kako

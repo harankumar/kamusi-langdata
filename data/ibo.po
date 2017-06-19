@@ -1,0 +1,176 @@
+#aka
+msgid Akan
+msgstr Akan
+
+#amh
+msgid Amharic
+msgstr Amariikị
+
+#ara
+msgid Arabic
+msgstr Arabiikị
+
+#bel
+msgid Belarusian
+msgstr Belaruusu
+
+#ben
+msgid Bangla
+msgstr Bengali
+
+#bul
+msgid Bulgarian
+msgstr Bọlụgarịa
+
+#ces
+msgid Czech
+msgstr Cheekị
+
+#deu
+msgid German
+msgstr Jamaan
+
+#ell
+msgid Greek
+msgstr Giriikị
+
+#eng
+msgid English
+msgstr Oyibo
+
+#fas
+msgid Persian
+msgstr Peshan
+
+#fra
+msgid French
+msgstr Fụrench
+
+#hau
+msgid Hausa
+msgstr Awụsa
+
+#hin
+msgid Hindi
+msgstr Hindi
+
+#hun
+msgid Hungarian
+msgstr Magịya
+
+#ibo
+msgid Igbo
+msgstr Igbo
+
+#ind
+msgid Indonesian
+msgstr Indonisia
+
+#ita
+msgid Italian
+msgstr Italo
+
+#jav
+msgid Javanese
+msgstr Java
+
+#jpn
+msgid Japanese
+msgstr Japanese
+
+#khm
+msgid Khmer
+msgstr Keme, Etiti
+
+#kin
+msgid Kinyarwanda
+msgstr Rụwanda
+
+#kor
+msgid Korean
+msgstr Koria
+
+#msa
+msgid Malay
+msgstr Maleyi
+
+#mya
+msgid Burmese
+msgstr Mịanma
+
+#nep
+msgid Nepali
+msgstr Nepali
+
+#nld
+msgid Dutch
+msgstr Dọọch
+
+#pan
+msgid Punjabi
+msgstr Punjabi
+
+#pol
+msgid Polish
+msgstr Poliishi
+
+#por
+msgid Portuguese
+msgstr Potoki
+
+#ron
+msgid Romanian
+msgstr Rumenia
+
+#rus
+msgid Russian
+msgstr Rọshan
+
+#som
+msgid Somali
+msgstr Somali
+
+#spa
+msgid Spanish
+msgstr Panya
+
+#swe
+msgid Swedish
+msgstr Sụwidiishi
+
+#tam
+msgid Tamil
+msgstr Tamụlụ
+
+#tha
+msgid Thai
+msgstr Taị
+
+#tur
+msgid Turkish
+msgstr Tọkiishi
+
+#ukr
+msgid Ukrainian
+msgstr Ukureenị
+
+#urd
+msgid Urdu
+msgstr Urudu
+
+#vie
+msgid Vietnamese
+msgstr Viyetịnaamụ
+
+#yor
+msgid Yoruba
+msgstr Yoruba
+
+#zho
+msgid Chinese
+msgstr Mandarịịnị
+
+#zul
+msgid Zulu
+msgstr Zulu
+

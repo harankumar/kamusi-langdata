@@ -1,0 +1,44 @@
+#deu
+msgid German
+msgstr Deutänapük
+
+#eng
+msgid English
+msgstr Linglänapük
+
+#epo
+msgid Esperanto
+msgstr Sperantapük
+
+#fra
+msgid French
+msgstr Fransänapük
+
+#ita
+msgid Italian
+msgstr Litaliyänapük
+
+#jpn
+msgid Japanese
+msgstr Yapänapük
+
+#por
+msgid Portuguese
+msgstr Portugänapük
+
+#rus
+msgid Russian
+msgstr Rusänapük
+
+#spa
+msgid Spanish
+msgstr Spanyänapük
+
+#vol
+msgid Volapük
+msgstr Volapük
+
+#zho
+msgid Chinese
+msgstr Tsyinänapük
+

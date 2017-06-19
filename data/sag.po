@@ -1,0 +1,180 @@
+#aka
+msgid Akan
+msgstr Akâan
+
+#amh
+msgid Amharic
+msgstr Amarîki
+
+#ara
+msgid Arabic
+msgstr Arâbo
+
+#bel
+msgid Belarusian
+msgstr Bielörûsi
+
+#ben
+msgid Bangla
+msgstr Bengäli
+
+#bul
+msgid Bulgarian
+msgstr Bulugäri
+
+#ces
+msgid Czech
+msgstr Tyêki
+
+#deu
+msgid German
+msgstr Zâmani
+
+#ell
+msgid Greek
+msgstr Gerêki
+
+#eng
+msgid English
+msgstr Anglëe
+
+#fas
+msgid Persian
+msgstr Farsî
+
+#fra
+msgid French
+msgstr Farânzi
+
+#hau
+msgid Hausa
+msgstr Haüsä
+
+#hin
+msgid Hindi
+msgstr Hîndi
+
+#hun
+msgid Hungarian
+msgstr Hongruäa
+
+#ibo
+msgid Igbo
+msgstr Ïgbö
+
+#ind
+msgid Indonesian
+msgstr Enndonezïi
+
+#ita
+msgid Italian
+msgstr Ênnde
+
+#jav
+msgid Javanese
+msgstr Zavanëe
+
+#jpn
+msgid Japanese
+msgstr Zaponëe
+
+#khm
+msgid Khmer
+msgstr Kmêre
+
+#kin
+msgid Kinyarwanda
+msgstr Ruandäa
+
+#kor
+msgid Korean
+msgstr Koreyëen
+
+#msa
+msgid Malay
+msgstr Malëe
+
+#mya
+msgid Burmese
+msgstr Miamära, Birimäni
+
+#nep
+msgid Nepali
+msgstr Nepalëe
+
+#nld
+msgid Dutch
+msgstr Holandëe
+
+#pan
+msgid Punjabi
+msgstr Penzäbï
+
+#pol
+msgid Polish
+msgstr Polonëe
+
+#por
+msgid Portuguese
+msgstr Portugëe, Pûra
+
+#ron
+msgid Romanian
+msgstr Rumëen
+
+#rus
+msgid Russian
+msgstr Rûsi
+
+#sag
+msgid Sango
+msgstr Sängö
+
+#som
+msgid Somali
+msgstr Somalïi
+
+#spa
+msgid Spanish
+msgstr Espanyöl
+
+#swe
+msgid Swedish
+msgstr Sueduäa
+
+#tam
+msgid Tamil
+msgstr Tämûli
+
+#tha
+msgid Thai
+msgstr Thâi
+
+#tur
+msgid Turkish
+msgstr Tûrûku
+
+#ukr
+msgid Ukrainian
+msgstr Ukrêni
+
+#urd
+msgid Urdu
+msgstr Ûrdu
+
+#vie
+msgid Vietnamese
+msgstr Vietnäm
+
+#yor
+msgid Yoruba
+msgstr Yoruba
+
+#zho
+msgid Chinese
+msgstr Shinuäa
+
+#zul
+msgid Zulu
+msgstr Zûlu
+

@@ -1,4 +1,4 @@
-#af
+#afr
 msgid Afrikaans
 msgstr افریقی
 
@@ -18,27 +18,27 @@ msgstr سورانی کردی
 msgid Zarma
 msgstr زرمہ
 
-#hr
+#hrv
 msgid Croatian
 msgstr کروشین
 
-#jv
+#jav
 msgid Javanese
 msgstr جاوانیز
 
-#ka
-msgid Georgian
-msgstr جارجيائى
-
-#kl
+#kal
 msgid Kalaallisut
 msgstr کلالیسٹ
 
-#kn
+#kan
 msgid Kannada
 msgstr کنڑ
 
-#ku
+#kat
+msgid Georgian
+msgstr جارجيائى
+
+#kur
 msgid Kurdish
 msgstr کرد
 

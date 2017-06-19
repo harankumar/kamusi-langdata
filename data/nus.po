@@ -1,108 +1,108 @@
-#ak
+#aka
 msgid Akan
 msgstr Thok aka̱ni
 
-#am
+#amh
 msgid Amharic
 msgstr Thok bunyni
 
-#ar
+#ara
 msgid Arabic
 msgstr Thok Jalabni
 
-#be
+#bel
 msgid Belarusian
 msgstr Thok bälärutha
 
-#bg
-msgid Bulgarian
-msgstr Thok bälga̱a̱riani
-
-#bn
+#ben
 msgid Bangla
 msgstr Thok bängali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Thok bälga̱a̱riani
+
+#ces
 msgid Czech
 msgstr Thok cik
 
-#de
+#deu
 msgid German
 msgstr Thok jarmani
 
-#el
+#ell
 msgid Greek
 msgstr Thok girikni
 
-#en
+#eng
 msgid English
 msgstr Thok liŋli̱thni
 
-#es
-msgid Spanish
-msgstr Thok i̱thpaaniani
-
-#fa
+#fas
 msgid Persian
 msgstr Thok perthiani
 
-#fr
+#fra
 msgid French
 msgstr Thok pɔrɔthani
 
-#ha
+#hau
 msgid Hausa
 msgstr Thok ɣowthani
 
-#hi
+#hin
 msgid Hindi
 msgstr Thok ɣändini
 
-#hu
+#hun
 msgid Hungarian
 msgstr Thok ɣänga̱a̱riɛni
 
-#id
-msgid Indonesian
-msgstr Thok indunithiani
-
-#ig
+#ibo
 msgid Igbo
 msgstr Thok i̱gboni
 
-#it
+#ind
+msgid Indonesian
+msgstr Thok indunithiani
+
+#ita
 msgid Italian
 msgstr Thok i̱taliani
 
-#ja
-msgid Japanese
-msgstr Thok japanni
-
-#jv
+#jav
 msgid Javanese
 msgstr Thok jabanithni
 
-#km
+#jpn
+msgid Japanese
+msgstr Thok japanni
+
+#khm
 msgid Khmer
 msgstr Thok kameeri
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Thok ruaandani
+
+#kor
 msgid Korean
 msgstr Thok kuriani
 
-#ms
+#msa
 msgid Malay
 msgstr Thok mayɛyni
 
-#my
+#mya
 msgid Burmese
 msgstr Thok bormi̱thni
 
-#ne
+#nep
 msgid Nepali
 msgstr Thok napalni
 
-#nl
+#nld
 msgid Dutch
 msgstr Thok da̱c
 
@@ -110,71 +110,71 @@ msgstr Thok da̱c
 msgid Nuer
 msgstr Thok Nath
 
-#pa
+#pan
 msgid Punjabi
 msgstr Thok puɔnjabani
 
-#pl
+#pol
 msgid Polish
 msgstr Thok pölicni
 
-#pt
+#por
 msgid Portuguese
 msgstr Thok puɔtigali
 
-#ro
+#ron
 msgid Romanian
 msgstr Thok ji̱ röm
 
-#ru
+#rus
 msgid Russian
 msgstr Thok ra̱ciaani
 
-#rw
-msgid Kinyarwanda
-msgstr Thok ruaandani
-
-#so
+#som
 msgid Somali
 msgstr Thok thomaaliani
 
-#sv
+#spa
+msgid Spanish
+msgstr Thok i̱thpaaniani
+
+#swe
 msgid Swedish
 msgstr Thok i̱thwidicni
 
-#ta
+#tam
 msgid Tamil
 msgstr Thok tamilni
 
-#th
+#tha
 msgid Thai
 msgstr Thok tayni
 
-#tr
+#tur
 msgid Turkish
 msgstr Thok turkicni
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Thok ukeraanini
 
-#ur
+#urd
 msgid Urdu
 msgstr Thok udoni
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Thok betnaamni
 
-#yo
+#yor
 msgid Yoruba
 msgstr Thok yurubani
 
-#zh
+#zho
 msgid Chinese
 msgstr Thok cayna
 
-#zu
+#zul
 msgid Zulu
 msgstr Thok dhuluni
 

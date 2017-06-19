@@ -1,12 +1,12 @@
-#bm
+#bam
 msgid Bambara
 msgstr бамананкан
 
-#bn
+#ben
 msgid Bangla
 msgstr бангла
 
-#ff
+#ful
 msgid Fulah
 msgstr фулах
 
@@ -14,11 +14,11 @@ msgstr фулах
 msgid Swiss German
 msgstr швајцарски немачки
 
-#ht
+#hat
 msgid Haitian Creole
 msgstr хаићански креолски
 
-#lo
+#lao
 msgid Lao
 msgstr лаошки
 
@@ -34,7 +34,7 @@ msgstr н’ко
 msgid Tachelhit
 msgstr јужни шилха
 
-#si
+#sin
 msgid Sinhala
 msgstr синхалски
 
@@ -42,7 +42,7 @@ msgstr синхалски
 msgid Central Atlas Tamazight
 msgstr централноатласки тамашек
 
-#xh
+#xho
 msgid Xhosa
 msgstr исикоса
 
@@ -50,7 +50,7 @@ msgstr исикоса
 msgid Standard Moroccan Tamazight
 msgstr стандардни марокански тамашек
 
-#zu
+#zul
 msgid Zulu
 msgstr исизулу
 

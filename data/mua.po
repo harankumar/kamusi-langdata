@@ -1,96 +1,96 @@
-#ak
+#aka
 msgid Akan
 msgstr akaŋ
 
-#am
+#amh
 msgid Amharic
 msgstr amharik
 
-#ar
+#ara
 msgid Arabic
 msgstr arabiya
 
-#be
+#bel
 msgid Belarusian
 msgstr belarussiya
 
-#bg
-msgid Bulgarian
-msgstr bulgaria
-
-#bn
+#ben
 msgid Bangla
 msgstr bengalia
 
-#cs
+#bul
+msgid Bulgarian
+msgstr bulgaria
+
+#ces
 msgid Czech
 msgstr syekya
 
-#de
+#deu
 msgid German
 msgstr germaŋ
 
-#el
+#ell
 msgid Greek
 msgstr grek
 
-#en
+#eng
 msgid English
 msgstr zah Anglofoŋ
 
-#es
-msgid Spanish
-msgstr Espaniya
-
-#fa
+#fas
 msgid Persian
 msgstr Persia
 
-#fr
+#fra
 msgid French
 msgstr zah sǝr Franssǝ
 
-#ha
+#hau
 msgid Hausa
 msgstr haussa
 
-#hi
+#hin
 msgid Hindi
 msgstr hindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr hungariya
 
-#id
-msgid Indonesian
-msgstr indonesiya
-
-#ig
+#ibo
 msgid Igbo
 msgstr igbo
 
-#it
+#ind
+msgid Indonesian
+msgstr indonesiya
+
+#ita
 msgid Italian
 msgstr italiya
 
-#ja
-msgid Japanese
-msgstr zah sǝr Japoŋ
-
-#jv
+#jav
 msgid Javanese
 msgstr javaniya
 
-#km
+#jpn
+msgid Japanese
+msgstr zah sǝr Japoŋ
+
+#khm
 msgid Khmer
 msgstr kmer
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Zah sǝr Rwanda
+
+#kor
 msgid Korean
 msgstr korea
 
-#ms
+#msa
 msgid Malay
 msgstr malasiya
 
@@ -98,79 +98,79 @@ msgstr malasiya
 msgid Mundang
 msgstr MUNDAŊ
 
-#my
+#mya
 msgid Burmese
 msgstr birmania
 
-#ne
+#nep
 msgid Nepali
 msgstr Nepaliya
 
-#nl
+#nld
 msgid Dutch
 msgstr zah sǝr ma kasǝŋ
 
-#pa
+#pan
 msgid Punjabi
 msgstr Pǝnjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Poloniya
 
-#pt
+#por
 msgid Portuguese
 msgstr Zah sǝr Portugal
 
-#ro
+#ron
 msgid Romanian
 msgstr Romaniya
 
-#ru
+#rus
 msgid Russian
 msgstr Russiya
 
-#rw
-msgid Kinyarwanda
-msgstr Zah sǝr Rwanda
-
-#so
+#som
 msgid Somali
 msgstr Somaliya
 
-#sv
+#spa
+msgid Spanish
+msgstr Espaniya
+
+#swe
 msgid Swedish
 msgstr Swedia
 
-#ta
+#tam
 msgid Tamil
 msgstr Tamul
 
-#tr
+#tur
 msgid Turkish
 msgstr Turk
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ukrainia
 
-#ur
+#urd
 msgid Urdu
 msgstr Urdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vietnamiya
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr zah Syiŋ
 
-#zu
+#zul
 msgid Zulu
 msgstr Zulu
 

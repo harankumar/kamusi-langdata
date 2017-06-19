@@ -1,0 +1,80 @@
+#ara
+msgid Arabic
+msgstr Arabek
+
+#cor
+msgid Cornish
+msgstr kernewek
+
+#cym
+msgid Welsh
+msgstr Kembrek
+
+#dan
+msgid Danish
+msgstr Danek
+
+#deu
+msgid German
+msgstr Almaynek
+
+#eng
+msgid English
+msgstr Sowsnek
+
+#eus
+msgid Basque
+msgstr Baskek
+
+#fra
+msgid French
+msgstr Frenkek
+
+#gle
+msgid Irish
+msgstr Wordhonek
+
+#ita
+msgid Italian
+msgstr Italek
+
+#jpn
+msgid Japanese
+msgstr Japanek
+
+#nld
+msgid Dutch
+msgstr Iseldiryek
+
+#por
+msgid Portuguese
+msgstr Portyngalek
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Portyngalek Brasil
+
+#rus
+msgid Russian
+msgstr Russek
+
+#spa
+msgid Spanish
+msgstr Spaynek
+
+#yue
+msgid Cantonese
+msgstr Kantonek
+
+#zh Hans
+msgid Simplified Chinese
+msgstr Chinek sempel
+
+#zh Hant
+msgid Traditional Chinese
+msgstr Chînek Tradycyonal
+
+#zho
+msgid Chinese
+msgstr Chinek
+

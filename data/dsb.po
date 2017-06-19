@@ -1,12 +1,12 @@
-#aa
+#aar
 msgid Afar
 msgstr afaršćina
 
-#ab
+#abk
 msgid Abkhazian
 msgstr abchazšćina
 
-#af
+#afr
 msgid Afrikaans
 msgstr afrikans
 
@@ -14,63 +14,67 @@ msgstr afrikans
 msgid Aghem
 msgstr aghem
 
-#ak
+#aka
 msgid Akan
 msgstr akanšćina
 
-#am
+#amh
 msgid Amharic
 msgstr amharšćina
-
-#an
-msgid Aragonese
-msgstr aragonšćina
 
 #ang
 msgid Old English
 msgstr anglosaksojšćina
 
-#ar
-msgid Arabic
-msgstr arabšćina
-
 #ar 001
 msgid Modern Standard Arabic
 msgstr moderna wusokoarabšćina
+
+#ara
+msgid Arabic
+msgstr arabšćina
+
+#arg
+msgid Aragonese
+msgstr aragonšćina
 
 #arn
 msgid Mapuche
 msgstr arawkašćina
 
-#as
-msgid Assamese
-msgstr asamšćina
-
 #asa
 msgid Asu
 msgstr pare
+
+#asm
+msgid Assamese
+msgstr asamšćina
 
 #ast
 msgid Asturian
 msgstr asturšćina
 
-#av
+#ava
 msgid Avaric
 msgstr awaršćina
 
-#ay
+#aym
 msgid Aymara
 msgstr aymaršćina
 
-#az
+#aze
 msgid Azerbaijani
 msgstr azerbajdžanšćina
 
-#ba
+#bak
 msgid Bashkir
 msgstr baškiršćina
 
-#be
+#bam
+msgid Bambara
+msgstr bambara
+
+#bel
 msgid Belarusian
 msgstr běłorušćina
 
@@ -78,31 +82,27 @@ msgstr běłorušćina
 msgid Bemba
 msgstr bemba
 
+#ben
+msgid Bangla
+msgstr bengalšćina
+
 #bez
 msgid Bena
 msgstr bena
 
-#bg
-msgid Bulgarian
-msgstr bulgaršćina
-
-#bi
+#bis
 msgid Bislama
 msgstr bislamšćina
 
-#bm
-msgid Bambara
-msgstr bambara
-
-#bn
-msgid Bangla
-msgstr bengalšćina
-
-#bo
+#bod
 msgid Tibetan
 msgstr tibetšćina
 
-#br
+#bos
+msgid Bosnian
+msgstr bosnišćina
+
+#bre
 msgid Breton
 msgstr bretonšćina
 
@@ -110,23 +110,27 @@ msgstr bretonšćina
 msgid Bodo
 msgstr bodo
 
-#bs
-msgid Bosnian
-msgstr bosnišćina
-
 #bug
 msgid Buginese
 msgstr bugišćina
 
-#ca
+#bul
+msgid Bulgarian
+msgstr bulgaršćina
+
+#cat
 msgid Catalan
 msgstr katanlanšćina
+
+#ces
+msgid Czech
+msgstr češćina
 
 #cgg
 msgid Chiga
 msgstr chiga
 
-#ch
+#cha
 msgid Chamorro
 msgstr čamoršćina
 
@@ -142,33 +146,29 @@ msgstr cherokee
 msgid Central Kurdish
 msgstr sorani
 
-#co
+#cor
+msgid Cornish
+msgstr kornišćina
+
+#cos
 msgid Corsican
 msgstr korsišćina
 
-#cr
+#cre
 msgid Cree
 msgstr kri
 
-#cs
-msgid Czech
-msgstr češćina
-
-#cy
+#cym
 msgid Welsh
 msgstr walizišćina
 
-#da
+#dan
 msgid Danish
 msgstr danšćina
 
 #dav
 msgid Taita
 msgstr taita
-
-#de
-msgid German
-msgstr nimšćina
 
 #de AT
 msgid Austrian German
@@ -177,6 +177,14 @@ msgstr awstriska nimšćina
 #de CH
 msgid Swiss High German
 msgstr šwicarska wusokonimšćina
+
+#deu
+msgid German
+msgstr nimšćina
+
+#div
+msgid Divehi
+msgstr divehi
 
 #dje
 msgid Zarma
@@ -190,15 +198,11 @@ msgstr dolnoserbšćina
 msgid Duala
 msgstr duala
 
-#dv
-msgid Divehi
-msgstr divehi
-
 #dyo
 msgid Jola-Fonyi
 msgstr jola-fonyi
 
-#dz
+#dzo
 msgid Dzongkha
 msgstr dzongkha
 
@@ -206,17 +210,9 @@ msgstr dzongkha
 msgid Embu
 msgstr embu
 
-#ee
-msgid Ewe
-msgstr ewe
-
-#el
+#ell
 msgid Greek
 msgstr grichišćina
-
-#en
-msgid English
-msgstr engelšćina
 
 #en AU
 msgid Australian English
@@ -242,13 +238,13 @@ msgstr ameriska engelšćina
 msgid US English
 msgstr US-engelšćina
 
-#eo
+#eng
+msgid English
+msgstr engelšćina
+
+#epo
 msgid Esperanto
 msgstr esperanto
-
-#es
-msgid Spanish
-msgstr špańšćina
 
 #es 419
 msgid Latin American Spanish
@@ -262,37 +258,37 @@ msgstr europejska špańšćina
 msgid Mexican Spanish
 msgstr mexikańska špańšćina
 
-#et
+#est
 msgid Estonian
 msgstr estišćina
 
-#eu
+#eus
 msgid Basque
 msgstr baskišćina
 
-#fa
+#ewe
+msgid Ewe
+msgstr ewe
+
+#fao
+msgid Faroese
+msgstr ferejšćina
+
+#fas
 msgid Persian
 msgstr persišćina
 
-#fi
-msgid Finnish
-msgstr finšćina
+#fij
+msgid Fijian
+msgstr fidžišćina
 
 #fil
 msgid Filipino
 msgstr filipinšćina
 
-#fj
-msgid Fijian
-msgstr fidžišćina
-
-#fo
-msgid Faroese
-msgstr ferejšćina
-
-#fr
-msgid French
-msgstr francojšćina
+#fin
+msgid Finnish
+msgstr finšćina
 
 #fr CA
 msgid Canadian French
@@ -302,39 +298,47 @@ msgstr kanadiska francojšćina
 msgid Swiss French
 msgstr šwicarska francojšćina
 
-#fy
+#fra
+msgid French
+msgstr francojšćina
+
+#fry
 msgid Western Frisian
 msgstr frizišćina
-
-#ga
-msgid Irish
-msgstr iršćina
 
 #gag
 msgid Gagauz
 msgstr gagauzšćina
 
-#gd
+#gla
 msgid Scottish Gaelic
 msgstr šotišćina
 
-#gl
+#gle
+msgid Irish
+msgstr iršćina
+
+#glg
 msgid Galician
 msgstr galicišćina
 
-#gn
-msgid Guarani
-msgstr guarani
+#glv
+msgid Manx
+msgstr manšćina
 
 #got
 msgid Gothic
 msgstr gotišćina
 
+#grn
+msgid Guarani
+msgstr guarani
+
 #gsw
 msgid Swiss German
 msgstr šwicarska nimšćina
 
-#gu
+#guj
 msgid Gujarati
 msgstr gudžaratšćina
 
@@ -342,11 +346,11 @@ msgstr gudžaratšćina
 msgid Gusii
 msgstr gusii
 
-#gv
-msgid Manx
-msgstr manšćina
+#hat
+msgid Haitian Creole
+msgstr haitišćina
 
-#ha
+#hau
 msgid Hausa
 msgstr hausa
 
@@ -354,15 +358,19 @@ msgstr hausa
 msgid Hawaiian
 msgstr hawaiišćina
 
-#he
+#hbs
+msgid Serbo-Croatian
+msgstr serbochorwatšćina
+
+#heb
 msgid Hebrew
 msgstr hebrejšćina
 
-#hi
+#hin
 msgid Hindi
 msgstr hindišćina
 
-#hr
+#hrv
 msgid Croatian
 msgstr chorwatšćina
 
@@ -370,57 +378,53 @@ msgstr chorwatšćina
 msgid Upper Sorbian
 msgstr górnoserbšćina
 
-#ht
-msgid Haitian Creole
-msgstr haitišćina
-
-#hu
+#hun
 msgid Hungarian
 msgstr hungoršćina
 
-#hy
+#hye
 msgid Armenian
 msgstr armeńšćina
 
-#ia
-msgid Interlingua
-msgstr interlingua
-
-#id
-msgid Indonesian
-msgstr indonešćina
-
-#ig
+#ibo
 msgid Igbo
 msgstr igbo
 
-#ii
-msgid Sichuan Yi
-msgstr sichuan yi
-
-#ik
-msgid Inupiaq
-msgstr inupiak
-
-#io
+#ido
 msgid Ido
 msgstr ido
 
-#is
-msgid Icelandic
-msgstr islandšćina
+#iii
+msgid Sichuan Yi
+msgstr sichuan yi
 
-#it
-msgid Italian
-msgstr italšćina
-
-#iu
+#iku
 msgid Inuktitut
 msgstr inuitšćina
 
-#ja
-msgid Japanese
-msgstr japańšćina
+#ina
+msgid Interlingua
+msgstr interlingua
+
+#ind
+msgid Indonesian
+msgstr indonešćina
+
+#ipk
+msgid Inupiaq
+msgstr inupiak
+
+#isl
+msgid Icelandic
+msgstr islandšćina
+
+#ita
+msgid Italian
+msgstr italšćina
+
+#jav
+msgid Javanese
+msgstr javašćina
 
 #jgo
 msgid Ngomba
@@ -430,21 +434,37 @@ msgstr ngomba
 msgid Machame
 msgstr machame
 
-#jv
-msgid Javanese
-msgstr javašćina
-
-#ka
-msgid Georgian
-msgstr georgišćina
+#jpn
+msgid Japanese
+msgstr japańšćina
 
 #kab
 msgid Kabyle
 msgstr kabylšćina
 
+#kal
+msgid Kalaallisut
+msgstr grönlandšćina
+
 #kam
 msgid Kamba
 msgstr kamba
+
+#kan
+msgid Kannada
+msgstr kannadšćina
+
+#kas
+msgid Kashmiri
+msgstr kašmiršćina
+
+#kat
+msgid Georgian
+msgstr georgišćina
+
+#kaz
+msgid Kazakh
+msgstr kazachšćina
 
 #kde
 msgid Makonde
@@ -454,37 +474,29 @@ msgstr makonde
 msgid Kabuverdianu
 msgstr kapverdšćina
 
+#khm
+msgid Khmer
+msgstr kambodžanšćina
+
 #khq
 msgid Koyra Chiini
 msgstr koyra chiini
 
-#ki
+#kik
 msgid Kikuyu
 msgstr kikuyu
 
-#kk
-msgid Kazakh
-msgstr kazachšćina
+#kin
+msgid Kinyarwanda
+msgstr kinjarwanda
 
-#kl
-msgid Kalaallisut
-msgstr grönlandšćina
+#kir
+msgid Kyrgyz
+msgstr kirgišćina
 
 #kln
 msgid Kalenjin
 msgstr kalenjin
-
-#km
-msgid Khmer
-msgstr kambodžanšćina
-
-#kn
-msgid Kannada
-msgstr kannadšćina
-
-#ko
-msgid Korean
-msgstr korejańšćina
 
 #koi
 msgid Komi-Permyak
@@ -494,13 +506,13 @@ msgstr komi-permyak
 msgid Konkani
 msgstr konkani
 
+#kor
+msgid Korean
+msgstr korejańšćina
+
 #kri
 msgid Krio
 msgstr krio
-
-#ks
-msgid Kashmiri
-msgstr kašmiršćina
 
 #ksb
 msgid Shambala
@@ -510,65 +522,65 @@ msgstr šambala
 msgid Bafia
 msgstr bafia
 
-#ku
+#kur
 msgid Kurdish
 msgstr kurdišćina
-
-#kw
-msgid Cornish
-msgstr kornišćina
-
-#ky
-msgid Kyrgyz
-msgstr kirgišćina
-
-#la
-msgid Latin
-msgstr łatyńšćina
 
 #lag
 msgid Langi
 msgstr langi
 
-#lb
-msgid Luxembourgish
-msgstr luxemburgšćina
+#lao
+msgid Lao
+msgstr laošćina
 
-#lg
-msgid Ganda
-msgstr gandšćina
+#lat
+msgid Latin
+msgstr łatyńšćina
 
-#li
+#lav
+msgid Latvian
+msgstr letišćina
+
+#lim
 msgid Limburgish
 msgstr limburšćina
+
+#lin
+msgid Lingala
+msgstr lingala
+
+#lit
+msgid Lithuanian
+msgstr litawšćina
 
 #lkt
 msgid Lakota
 msgstr lakotšćina
 
-#ln
-msgid Lingala
-msgstr lingala
+#ltz
+msgid Luxembourgish
+msgstr luxemburgšćina
 
-#lo
-msgid Lao
-msgstr laošćina
-
-#lt
-msgid Lithuanian
-msgstr litawšćina
-
-#lu
+#lub
 msgid Luba-Katanga
 msgstr luba-katanga
+
+#lug
+msgid Ganda
+msgstr gandšćina
 
 #luy
 msgid Luyia
 msgstr luhya
 
-#lv
-msgid Latvian
-msgstr letišćina
+#mal
+msgid Malayalam
+msgstr malajamšćina
+
+#mar
+msgid Marathi
+msgstr maratišćina
 
 #mas
 msgid Masai
@@ -582,10 +594,6 @@ msgstr meru
 msgid Morisyen
 msgstr mauriciska kreolšćina
 
-#mg
-msgid Malagasy
-msgstr malgašćina
-
 #mgh
 msgid Makhuwa-Meetto
 msgstr makhuwa-meetto
@@ -594,37 +602,33 @@ msgstr makhuwa-meetto
 msgid Metaʼ
 msgstr meta’
 
-#mi
-msgid Maori
-msgstr maorišćina
-
-#mk
+#mkd
 msgid Macedonian
 msgstr makedońšćina
 
-#ml
-msgid Malayalam
-msgstr malajamšćina
+#mlg
+msgid Malagasy
+msgstr malgašćina
 
-#mn
-msgid Mongolian
-msgstr mongolšćina
+#mlt
+msgid Maltese
+msgstr maltašćina
 
 #moh
 msgid Mohawk
 msgstr mohawkšćina
 
-#mr
-msgid Marathi
-msgstr maratišćina
+#mon
+msgid Mongolian
+msgstr mongolšćina
 
-#ms
+#mri
+msgid Maori
+msgstr maorišćina
+
+#msa
 msgid Malay
 msgstr malajšćina
-
-#mt
-msgid Maltese
-msgstr maltašćina
 
 #mua
 msgid Mundang
@@ -634,23 +638,23 @@ msgstr mundang
 msgid Creek
 msgstr krik
 
-#my
+#mya
 msgid Burmese
 msgstr burmašćina
-
-#na
-msgid Nauru
-msgstr naurušćina
 
 #naq
 msgid Nama
 msgstr nama
 
-#nb
-msgid Norwegian Bokmål
-msgstr norwegske bokmål
+#nau
+msgid Nauru
+msgstr naurušćina
 
-#nd
+#nav
+msgid Navajo
+msgstr navaho
+
+#nde
 msgid North Ndebele
 msgstr pódpołnocne ndebele
 
@@ -658,27 +662,31 @@ msgstr pódpołnocne ndebele
 msgid Low German
 msgstr dolnonimšćina
 
-#ne
+#nep
 msgid Nepali
 msgstr nepalšćina
-
-#nl
-msgid Dutch
-msgstr nižozemšćina
 
 #nl BE
 msgid Flemish
 msgstr flamšćina
 
+#nld
+msgid Dutch
+msgstr nižozemšćina
+
 #nmg
 msgid Kwasio
 msgstr kwasio
 
-#nn
+#nno
 msgid Norwegian Nynorsk
 msgstr norwegske nynorsk
 
-#no
+#nob
+msgid Norwegian Bokmål
+msgstr norwegske bokmål
+
+#nor
 msgid Norwegian
 msgstr norwegšćina
 
@@ -690,45 +698,37 @@ msgstr n’ko
 msgid Nuer
 msgstr nuer
 
-#nv
-msgid Navajo
-msgstr navaho
-
 #nyn
 msgid Nyankole
 msgstr nyankole
 
-#oc
+#oci
 msgid Occitan
 msgstr okcitanšćina
 
-#om
-msgid Oromo
-msgstr oromo
-
-#or
+#ori
 msgid Odia
 msgstr orojišćina
 
-#pa
+#orm
+msgid Oromo
+msgstr oromo
+
+#pan
 msgid Punjabi
 msgstr pandžabšćina
 
-#pl
+#pol
 msgid Polish
 msgstr pólšćina
+
+#por
+msgid Portuguese
+msgstr portugalšćina
 
 #prg
 msgid Prussian
 msgstr prusčina
-
-#ps
-msgid Pashto
-msgstr paštunšćina
-
-#pt
-msgid Portuguese
-msgstr portugalšćina
 
 #pt BR
 msgid Brazilian Portuguese
@@ -738,25 +738,17 @@ msgstr brazilska portugalšćina
 msgid European Portuguese
 msgstr europejska portugalšćina
 
-#qu
-msgid Quechua
-msgstr kečua
+#pus
+msgid Pashto
+msgstr paštunšćina
 
 #quc
 msgid Kʼicheʼ
 msgstr kʼicheʼ
 
-#rm
-msgid Romansh
-msgstr retoromańšćina
-
-#rn
-msgid Rundi
-msgstr kirundišćina
-
-#ro
-msgid Romanian
-msgstr rumunšćina
+#que
+msgid Quechua
+msgstr kečua
 
 #ro MD
 msgid Moldavian
@@ -766,19 +758,31 @@ msgstr moldawišćina
 msgid Rombo
 msgstr rombo
 
-#ru
+#roh
+msgid Romansh
+msgstr retoromańšćina
+
+#ron
+msgid Romanian
+msgstr rumunšćina
+
+#run
+msgid Rundi
+msgstr kirundišćina
+
+#rus
 msgid Russian
 msgstr rušćina
-
-#rw
-msgid Kinyarwanda
-msgstr kinjarwanda
 
 #rwk
 msgid Rwa
 msgstr rwa
 
-#sa
+#sag
+msgid Sango
+msgstr sango
+
+#san
 msgid Sanskrit
 msgstr sanskrit
 
@@ -790,21 +794,9 @@ msgstr samburu
 msgid Sangu
 msgstr sangu
 
-#sc
-msgid Sardinian
-msgstr sardinšćina
-
 #scn
 msgid Sicilian
 msgstr sicilianišćina
-
-#sd
-msgid Sindhi
-msgstr sindšćina
-
-#se
-msgid Northern Sami
-msgstr lapšćina
 
 #seh
 msgid Sena
@@ -814,37 +806,29 @@ msgstr sena
 msgid Koyraboro Senni
 msgstr koyra senni
 
-#sg
-msgid Sango
-msgstr sango
-
-#sh
-msgid Serbo-Croatian
-msgstr serbochorwatšćina
-
 #shi
 msgid Tachelhit
 msgstr tašelhit
 
-#si
+#sin
 msgid Sinhala
 msgstr singalšćina
 
-#sk
+#slk
 msgid Slovak
 msgstr słowakšćina
 
-#sl
+#slv
 msgid Slovenian
 msgstr słowjeńšćina
-
-#sm
-msgid Samoan
-msgstr samošćina
 
 #sma
 msgid Southern Sami
 msgstr pódpołdnjowa samišćina
+
+#sme
+msgid Northern Sami
+msgstr lapšćina
 
 #smj
 msgid Lule Sami
@@ -854,59 +838,83 @@ msgstr lule-samišćina
 msgid Inari Sami
 msgstr inari-samišćina
 
+#smo
+msgid Samoan
+msgstr samošćina
+
 #sms
 msgid Skolt Sami
 msgstr skolt-samišćina
 
-#sn
+#sna
 msgid Shona
 msgstr šonšćina
 
-#so
+#snd
+msgid Sindhi
+msgstr sindšćina
+
+#som
 msgid Somali
 msgstr somališćina
 
-#sq
+#sot
+msgid Southern Sotho
+msgstr pódpołdnjowa sotšćina (Sesotho)
+
+#spa
+msgid Spanish
+msgstr špańšćina
+
+#sqi
 msgid Albanian
 msgstr albanšćina
 
-#sr
+#srd
+msgid Sardinian
+msgstr sardinšćina
+
+#srp
 msgid Serbian
 msgstr serbišćina
 
-#ss
+#ssw
 msgid Swati
 msgstr siswati
-
-#st
-msgid Southern Sotho
-msgstr pódpołdnjowa sotšćina (Sesotho)
 
 #stq
 msgid Saterland Frisian
 msgstr saterfrizišćina
 
-#su
+#sun
 msgid Sundanese
 msgstr sundanšćina
-
-#sv
-msgid Swedish
-msgstr šwedšćina
-
-#sw
-msgid Swahili
-msgstr swahilišćina
 
 #sw CD
 msgid Congo Swahili
 msgstr kongojska swahilišćina
 
-#ta
+#swa
+msgid Swahili
+msgstr swahilišćina
+
+#swe
+msgid Swedish
+msgstr šwedšćina
+
+#tah
+msgid Tahitian
+msgstr tahitišćina
+
+#tam
 msgid Tamil
 msgstr tamilšćina
 
-#te
+#tat
+msgid Tatar
+msgstr tataršćina
+
+#tel
 msgid Telugu
 msgstr telugšćina
 
@@ -914,47 +922,43 @@ msgstr telugšćina
 msgid Teso
 msgstr teso
 
-#tg
+#tgk
 msgid Tajik
 msgstr tadžikišćina
 
-#th
-msgid Thai
-msgstr thailandšćina
-
-#ti
-msgid Tigrinya
-msgstr tigrinja
-
-#tk
-msgid Turkmen
-msgstr turkmeńšćina
-
-#tl
+#tgl
 msgid Tagalog
 msgstr tagalog
 
-#tn
-msgid Tswana
-msgstr tswana
+#tha
+msgid Thai
+msgstr thailandšćina
 
-#to
+#tir
+msgid Tigrinya
+msgstr tigrinja
+
+#ton
 msgid Tongan
 msgstr tonganšćina
 
-#tr
-msgid Turkish
-msgstr turkojšćina
+#tsn
+msgid Tswana
+msgstr tswana
 
-#ts
+#tso
 msgid Tsonga
 msgstr tsonga
 
-#tt
-msgid Tatar
-msgstr tataršćina
+#tuk
+msgid Turkmen
+msgstr turkmeńšćina
 
-#tw
+#tur
+msgid Turkish
+msgstr turkojšćina
+
+#twi
 msgid Twi
 msgstr twi
 
@@ -962,19 +966,15 @@ msgstr twi
 msgid Tasawaq
 msgstr tasawaq
 
-#ty
-msgid Tahitian
-msgstr tahitišćina
-
 #tzm
 msgid Central Atlas Tamazight
 msgstr centralnoatlaski tamazight
 
-#ug
+#uig
 msgid Uyghur
 msgstr ujguršćina
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ukrainšćina
 
@@ -982,19 +982,19 @@ msgstr ukrainšćina
 msgid Unknown language
 msgstr njeznata rěc
 
-#ur
+#urd
 msgid Urdu
 msgstr urdušćina
 
-#uz
+#uzb
 msgid Uzbek
 msgstr usbekšćina
 
-#vi
+#vie
 msgid Vietnamese
 msgstr vietnamšćina
 
-#vo
+#vol
 msgid Volapük
 msgstr volapük
 
@@ -1002,15 +1002,15 @@ msgstr volapük
 msgid Vunjo
 msgstr vunjo
 
-#wa
+#wln
 msgid Walloon
 msgstr walonšćina
 
-#wo
+#wol
 msgid Wolof
 msgstr wolof
 
-#xh
+#xho
 msgid Xhosa
 msgstr xhosa
 
@@ -1018,25 +1018,17 @@ msgstr xhosa
 msgid Soga
 msgstr soga
 
-#yi
+#yid
 msgid Yiddish
 msgstr jidišćina
 
-#yo
+#yor
 msgid Yoruba
 msgstr jorubšćina
-
-#za
-msgid Zhuang
-msgstr zhuang
 
 #zgh
 msgid Standard Moroccan Tamazight
 msgstr standardny marokkański tamazight
-
-#zh
-msgid Chinese
-msgstr chinšćina
 
 #zh Hans
 msgid Simplified Chinese
@@ -1046,7 +1038,15 @@ msgstr chinšćina (zjadnorjona)
 msgid Traditional Chinese
 msgstr chinšćina (tradicionalna)
 
-#zu
+#zha
+msgid Zhuang
+msgstr zhuang
+
+#zho
+msgid Chinese
+msgstr chinšćina
+
+#zul
 msgid Zulu
 msgstr zulu
 

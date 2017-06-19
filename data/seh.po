@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr akan
 
-#am
+#amh
 msgid Amharic
 msgstr amárico
 
-#ar
+#ara
 msgid Arabic
 msgstr árabe
 
-#be
+#bel
 msgid Belarusian
 msgstr bielo-russo
 
-#bg
-msgid Bulgarian
-msgstr búlgaro
-
-#bn
+#ben
 msgid Bangla
 msgstr bengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr búlgaro
+
+#ces
 msgid Czech
 msgstr tcheco
 
-#de
+#deu
 msgid German
 msgstr alemão
 
-#el
+#ell
 msgid Greek
 msgstr grego
 
-#en
+#eng
 msgid English
 msgstr inglês
 
-#es
-msgid Spanish
-msgstr espanhol
-
-#fa
+#fas
 msgid Persian
 msgstr persa
 
-#fr
+#fra
 msgid French
 msgstr francês
 
-#ha
+#hau
 msgid Hausa
 msgstr hausa
 
-#hi
+#hin
 msgid Hindi
 msgstr hindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr húngaro
 
-#id
-msgid Indonesian
-msgstr indonésio
-
-#ig
+#ibo
 msgid Igbo
 msgstr ibo
 
-#it
+#ind
+msgid Indonesian
+msgstr indonésio
+
+#ita
 msgid Italian
 msgstr italiano
 
-#ja
-msgid Japanese
-msgstr japonês
-
-#jv
+#jav
 msgid Javanese
 msgstr javanês
 
-#km
+#jpn
+msgid Japanese
+msgstr japonês
+
+#khm
 msgid Khmer
 msgstr cmer
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr kinyarwanda
+
+#kor
 msgid Korean
 msgstr coreano
 
-#ms
+#msa
 msgid Malay
 msgstr malaio
 
-#my
+#mya
 msgid Burmese
 msgstr birmanês
 
-#ne
+#nep
 msgid Nepali
 msgstr nepalês
 
-#nl
+#nld
 msgid Dutch
 msgstr holandês
 
-#pa
+#pan
 msgid Punjabi
 msgstr panjabi
 
-#pl
+#pol
 msgid Polish
 msgstr polonês
 
-#pt
+#por
 msgid Portuguese
 msgstr português
 
-#ro
+#ron
 msgid Romanian
 msgstr romeno
 
-#ru
+#rus
 msgid Russian
 msgstr russo
-
-#rw
-msgid Kinyarwanda
-msgstr kinyarwanda
 
 #seh
 msgid Sena
 msgstr sena
 
-#so
+#som
 msgid Somali
 msgstr somali
 
-#sv
+#spa
+msgid Spanish
+msgstr espanhol
+
+#swe
 msgid Swedish
 msgstr sueco
 
-#ta
+#tam
 msgid Tamil
 msgstr tâmil
 
-#th
+#tha
 msgid Thai
 msgstr tailandês
 
-#tr
+#tur
 msgid Turkish
 msgstr turco
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ucraniano
 
-#ur
+#urd
 msgid Urdu
 msgstr urdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr vietnamita
 
-#yo
+#yor
 msgid Yoruba
 msgstr iorubá
 
-#zh
+#zho
 msgid Chinese
 msgstr chinês
 
-#zu
+#zul
 msgid Zulu
 msgstr zulu
 

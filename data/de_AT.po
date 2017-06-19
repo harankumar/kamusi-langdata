@@ -18,13 +18,17 @@ msgstr Delawarisch
 msgid Friulian
 msgstr Friulanisch
 
-#ha
+#hau
 msgid Hausa
 msgstr Hausa
 
 #haw
 msgid Hawaiian
 msgstr Hawaiianisch
+
+#hbs
+msgid Serbo-Croatian
+msgstr Serbokroatisch
 
 #hmn
 msgid Hmong
@@ -41,10 +45,6 @@ msgstr Niueanisch
 #pag
 msgid Pangasinan
 msgstr Pangasinensisch
-
-#sh
-msgid Serbo-Croatian
-msgstr Serbokroatisch
 
 #szl
 msgid Silesian

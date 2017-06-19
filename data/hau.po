@@ -1,0 +1,440 @@
+#afr
+msgid Afrikaans
+msgstr Afirkanci
+
+#aka
+msgid Akan
+msgstr Akan
+
+#amh
+msgid Amharic
+msgstr Amharik
+
+#ara
+msgid Arabic
+msgstr Larabci
+
+#asm
+msgid Assamese
+msgstr Asamisanci
+
+#aze
+msgid Azerbaijani
+msgstr Azerbaijanci
+
+#bel
+msgid Belarusian
+msgstr Belarusanci
+
+#ben
+msgid Bangla
+msgstr Bengali
+
+#bos
+msgid Bosnian
+msgstr Bosniyanci
+
+#bre
+msgid Breton
+msgstr Buretananci
+
+#bul
+msgid Bulgarian
+msgstr Bulgaranci
+
+#cat
+msgid Catalan
+msgstr Kataloniyanci
+
+#ces
+msgid Czech
+msgstr Harshen Cak
+
+#cym
+msgid Welsh
+msgstr Kabilar Welsh
+
+#dan
+msgid Danish
+msgstr Danish
+
+#deu
+msgid German
+msgstr Jamusanci
+
+#ell
+msgid Greek
+msgstr Girkanci
+
+#eng
+msgid English
+msgstr Turanci
+
+#epo
+msgid Esperanto
+msgstr Dʼan/ʼYar Kabilar Andalus
+
+#est
+msgid Estonian
+msgstr Istoniyanci
+
+#eus
+msgid Basque
+msgstr Dan/ʼYar Kabilar Bas
+
+#fao
+msgid Faroese
+msgstr Faroese
+
+#fas
+msgid Persian
+msgstr Parisanci
+
+#fil
+msgid Filipino
+msgstr Dan Filifin
+
+#fin
+msgid Finnish
+msgstr Yaren mutanen Finland
+
+#fra
+msgid French
+msgstr Faransanci
+
+#fry
+msgid Western Frisian
+msgstr Kʼabilan Firsi
+
+#gla
+msgid Scottish Gaelic
+msgstr Kʼabilan Scots Gaelic
+
+#gle
+msgid Irish
+msgstr Dan Ailan
+
+#glg
+msgid Galician
+msgstr Bagalike
+
+#grn
+msgid Guarani
+msgstr Guwaraniyanci
+
+#guj
+msgid Gujarati
+msgstr Gujarati
+
+#hau
+msgid Hausa
+msgstr Hausa
+
+#hbs
+msgid Serbo-Croatian
+msgstr Kuroweshiyancin-Sabiya
+
+#heb
+msgid Hebrew
+msgstr Yahudanci
+
+#hin
+msgid Hindi
+msgstr Harshen Hindi
+
+#hrv
+msgid Croatian
+msgstr Kuroshiyan
+
+#hun
+msgid Hungarian
+msgstr Harshen Hungari
+
+#hye
+msgid Armenian
+msgstr Armeniyanci
+
+#ibo
+msgid Igbo
+msgstr Inyamuranci
+
+#ile
+msgid Interlingue
+msgstr Intagulanci
+
+#ina
+msgid Interlingua
+msgstr Yare Tsakanin Kasashe
+
+#ind
+msgid Indonesian
+msgstr Harshen Indunusiya
+
+#isl
+msgid Icelandic
+msgstr Yaren mutanen Iceland
+
+#ita
+msgid Italian
+msgstr Italiyanci
+
+#jav
+msgid Javanese
+msgstr Jabananci
+
+#jpn
+msgid Japanese
+msgstr Japananci
+
+#kan
+msgid Kannada
+msgstr Dan/ʼYar Kabilar Kannada
+
+#kat
+msgid Georgian
+msgstr Jojiyanci
+
+#khm
+msgid Khmer
+msgstr Harshen Kimar
+
+#kin
+msgid Kinyarwanda
+msgstr Kiniyaruwanda
+
+#kir
+msgid Kyrgyz
+msgstr Kirgizanci
+
+#kor
+msgid Korean
+msgstr Harshen Koreya
+
+#kur
+msgid Kurdish
+msgstr Kurdanci
+
+#lao
+msgid Lao
+msgstr Laothian
+
+#lat
+msgid Latin
+msgstr Dan Kabilar Latin
+
+#lav
+msgid Latvian
+msgstr Latbiyanci
+
+#lin
+msgid Lingala
+msgstr Lingala
+
+#lit
+msgid Lithuanian
+msgstr Lituweniyanci
+
+#mal
+msgid Malayalam
+msgstr Kabilar Maleyalam
+
+#mar
+msgid Marathi
+msgstr Kʼabilan Marathi
+
+#mkd
+msgid Macedonian
+msgstr Dan Masedoniya
+
+#mlt
+msgid Maltese
+msgstr Harshen Maltis
+
+#mon
+msgid Mongolian
+msgstr Mongolian
+
+#msa
+msgid Malay
+msgstr Harshen Malai
+
+#mya
+msgid Burmese
+msgstr Burmanci
+
+#nep
+msgid Nepali
+msgstr Nepali
+
+#nld
+msgid Dutch
+msgstr Holanci
+
+#nno
+msgid Norwegian Nynorsk
+msgstr Yaren Kasar Norway
+
+#nor
+msgid Norwegian
+msgstr Yaren mutanen Norway
+
+#oci
+msgid Occitan
+msgstr Ositanci
+
+#ori
+msgid Odia
+msgstr Oriyanci
+
+#pan
+msgid Punjabi
+msgstr Punjabi
+
+#pol
+msgid Polish
+msgstr Harshen Polan
+
+#por
+msgid Portuguese
+msgstr Harshen Portugal
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Fotigis (Burazil)
+
+#pt PT
+msgid European Portuguese
+msgstr Yaren Kasar Portugal
+
+#pus
+msgid Pashto
+msgstr Pashtanci
+
+#ron
+msgid Romanian
+msgstr Romaniyanci
+
+#rus
+msgid Russian
+msgstr Rashanci
+
+#san
+msgid Sanskrit
+msgstr sanskrit
+
+#sin
+msgid Sinhala
+msgstr Sinhalanci
+
+#slk
+msgid Slovak
+msgstr Basulake
+
+#slv
+msgid Slovenian
+msgstr Basulabe
+
+#snd
+msgid Sindhi
+msgstr Sindiyanci
+
+#som
+msgid Somali
+msgstr Somali
+
+#sot
+msgid Southern Sotho
+msgstr Sesotanci
+
+#spa
+msgid Spanish
+msgstr Ispaniyanci
+
+#sqi
+msgid Albanian
+msgstr Dʼan/ʼYar Kabilar Albaniya
+
+#srp
+msgid Serbian
+msgstr Sabiyan
+
+#sun
+msgid Sundanese
+msgstr Sundanese
+
+#swa
+msgid Swahili
+msgstr Harshen Suwahili
+
+#swe
+msgid Swedish
+msgstr Harshen Suwedan
+
+#tam
+msgid Tamil
+msgstr Tamil
+
+#tel
+msgid Telugu
+msgstr Dʼan/ʼYar Kabilar Telug
+
+#tha
+msgid Thai
+msgstr Thai
+
+#tir
+msgid Tigrinya
+msgstr Tigriyanci
+
+#tlh
+msgid Klingon
+msgstr Klingon
+
+#tuk
+msgid Turkmen
+msgstr Tukmenistanci
+
+#tur
+msgid Turkish
+msgstr Harshen Turkiyya
+
+#twi
+msgid Twi
+msgstr Tiwiniyanci
+
+#uig
+msgid Uyghur
+msgstr Ugiranci
+
+#ukr
+msgid Ukrainian
+msgstr Harshen Yukuren
+
+#urd
+msgid Urdu
+msgstr Harshen Urdu
+
+#uzb
+msgid Uzbek
+msgstr Uzbek
+
+#vie
+msgid Vietnamese
+msgstr Harshen Biyetinam
+
+#xho
+msgid Xhosa
+msgstr Bazosa
+
+#yor
+msgid Yoruba
+msgstr Yarbanci
+
+#zho
+msgid Chinese
+msgstr Harshen Sin
+
+#zul
+msgid Zulu
+msgstr Harshen Zulu
+

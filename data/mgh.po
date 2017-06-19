@@ -1,88 +1,88 @@
-#ak
+#aka
 msgid Akan
 msgstr Ikan
 
-#am
+#amh
 msgid Amharic
 msgstr Imhari
 
-#ar
+#ara
 msgid Arabic
 msgstr Iarabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Ibelausi
 
-#bg
-msgid Bulgarian
-msgstr Ibulgaria
-
-#bn
+#ben
 msgid Bangla
 msgstr Ibangla
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Ibulgaria
+
+#ces
 msgid Czech
 msgstr Icheki
 
-#de
+#deu
 msgid German
 msgstr Ijerimani
 
-#el
+#ell
 msgid Greek
 msgstr Igiriki
 
-#en
+#eng
 msgid English
 msgstr Ingilishi
 
-#es
-msgid Spanish
-msgstr Ihispaniola
-
-#fa
+#fas
 msgid Persian
 msgstr Iajemi
 
-#fr
+#fra
 msgid French
 msgstr Ifaransa
 
-#ha
+#hau
 msgid Hausa
 msgstr Ihausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Ihindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Ihungari
 
-#ig
+#ibo
 msgid Igbo
 msgstr Igbo
 
-#it
+#ita
 msgid Italian
 msgstr Italiano
 
-#ja
-msgid Japanese
-msgstr Ijapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Ijava
 
-#km
+#jpn
+msgid Japanese
+msgstr Ijapani
+
+#khm
 msgid Khmer
 msgstr Ikambodia
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Inyaranda
+
+#kor
 msgid Korean
 msgstr Ikorea
 
@@ -90,87 +90,87 @@ msgstr Ikorea
 msgid Makhuwa-Meetto
 msgstr Makua
 
-#ms
+#msa
 msgid Malay
 msgstr Imalesia
 
-#my
+#mya
 msgid Burmese
 msgstr Iburma
 
-#ne
+#nep
 msgid Nepali
 msgstr Inepali
 
-#nl
+#nld
 msgid Dutch
 msgstr Iholanzi
 
-#pa
+#pan
 msgid Punjabi
 msgstr Ipunjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Ipolandi
 
-#pt
+#por
 msgid Portuguese
 msgstr Nreno
 
-#ro
+#ron
 msgid Romanian
 msgstr Iromania
 
-#ru
+#rus
 msgid Russian
 msgstr Irisi
 
-#rw
-msgid Kinyarwanda
-msgstr Inyaranda
-
-#so
+#som
 msgid Somali
 msgstr Isomali
 
-#sv
+#spa
+msgid Spanish
+msgstr Ihispaniola
+
+#swe
 msgid Swedish
 msgstr Iswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Itamil
 
-#th
+#tha
 msgid Thai
 msgstr Itailandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Ituruki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Iukran
 
-#ur
+#urd
 msgid Urdu
 msgstr Ihurdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Ivyetinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Iyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Ichina
 
-#zu
+#zul
 msgid Zulu
 msgstr Izulu
 

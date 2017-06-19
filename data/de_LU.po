@@ -1,4 +1,4 @@
-#be
+#bel
 msgid Belarusian
 msgstr Belarussisch
 

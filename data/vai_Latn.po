@@ -1,160 +1,160 @@
-#ak
+#aka
 msgid Akan
 msgstr Akaŋ
 
-#am
+#amh
 msgid Amharic
 msgstr Amihári
 
-#ar
+#ara
 msgid Arabic
 msgstr Lahabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Bhelarusaŋ
 
-#bg
-msgid Bulgarian
-msgstr Bhɔgerɛŋ
-
-#bn
+#ben
 msgid Bangla
 msgstr Bhɛŋgáli
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Bhɔgerɛŋ
+
+#ces
 msgid Czech
 msgstr Chɛ
 
-#de
+#deu
 msgid German
 msgstr Jamáĩ
 
-#el
+#ell
 msgid Greek
 msgstr Hɛlɛŋ
 
-#en
+#eng
 msgid English
 msgstr Poo
 
-#es
-msgid Spanish
-msgstr Panyɛĩ
-
-#fa
+#fas
 msgid Persian
 msgstr Pɛɛsiyɛŋ
 
-#fr
+#fra
 msgid French
 msgstr Fɛŋsi
 
-#ha
+#hau
 msgid Hausa
 msgstr Hawusa
 
-#hi
+#hin
 msgid Hindi
 msgstr Híiŋdi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Hɔŋgérɛŋ
 
-#id
-msgid Indonesian
-msgstr Índonisiyɛŋ
-
-#ig
+#ibo
 msgid Igbo
 msgstr Ígbo
 
-#it
+#ind
+msgid Indonesian
+msgstr Índonisiyɛŋ
+
+#ita
 msgid Italian
 msgstr Itáliyɛŋ
 
-#ja
-msgid Japanese
-msgstr Japaníĩ
-
-#jv
+#jav
 msgid Javanese
 msgstr Javaníĩ
 
-#km
+#jpn
+msgid Japanese
+msgstr Japaníĩ
+
+#khm
 msgid Khmer
 msgstr Kimɛɛ̃ tɛ
 
-#ko
-msgid Korean
-msgstr Koríyɛŋ
-
-#ms
-msgid Malay
-msgstr Maléee
-
-#my
-msgid Burmese
-msgstr Bhɛmísi
-
-#ne
-msgid Nepali
-msgstr Nipali
-
-#nl
-msgid Dutch
-msgstr Dɔchi
-
-#pa
-msgid Punjabi
-msgstr Puŋjabhi
-
-#pl
-msgid Polish
-msgstr Pɔ́lési
-
-#pt
-msgid Portuguese
-msgstr Potokíi
-
-#ro
-msgid Romanian
-msgstr Romíniyɛŋ
-
-#ru
-msgid Russian
-msgstr Rɔshiyɛŋ
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Rawunda
 
-#so
+#kor
+msgid Korean
+msgstr Koríyɛŋ
+
+#msa
+msgid Malay
+msgstr Maléee
+
+#mya
+msgid Burmese
+msgstr Bhɛmísi
+
+#nep
+msgid Nepali
+msgstr Nipali
+
+#nld
+msgid Dutch
+msgstr Dɔchi
+
+#pan
+msgid Punjabi
+msgstr Puŋjabhi
+
+#pol
+msgid Polish
+msgstr Pɔ́lési
+
+#por
+msgid Portuguese
+msgstr Potokíi
+
+#ron
+msgid Romanian
+msgstr Romíniyɛŋ
+
+#rus
+msgid Russian
+msgstr Rɔshiyɛŋ
+
+#som
 msgid Somali
 msgstr Somáli
 
-#sv
+#spa
+msgid Spanish
+msgstr Panyɛĩ
+
+#swe
 msgid Swedish
 msgstr Súwídɛŋ
 
-#ta
+#tam
 msgid Tamil
 msgstr Tamíli
 
-#th
+#tha
 msgid Thai
 msgstr Tái
 
-#tr
+#tur
 msgid Turkish
 msgstr Tɔ́ki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Yukureniyɛŋ
 
-#ur
+#urd
 msgid Urdu
 msgstr Ɔdu
 
@@ -162,19 +162,19 @@ msgstr Ɔdu
 msgid Vai
 msgstr Vai
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Viyamíĩ
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yóróbha
 
-#zh
+#zho
 msgid Chinese
 msgstr Chaniĩ
 
-#zu
+#zul
 msgid Zulu
 msgstr Zúlu
 

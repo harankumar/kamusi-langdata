@@ -1,0 +1,180 @@
+#aka
+msgid Akan
+msgstr Akaan
+
+#amh
+msgid Amharic
+msgstr Amarik
+
+#ara
+msgid Arabic
+msgstr Aarabeere
+
+#bel
+msgid Belarusian
+msgstr Belaruuse
+
+#ben
+msgid Bangla
+msgstr Bengali
+
+#bul
+msgid Bulgarian
+msgstr Bulgariire
+
+#ces
+msgid Czech
+msgstr Cekkere
+
+#deu
+msgid German
+msgstr Docceere
+
+#ell
+msgid Greek
+msgstr Gerke
+
+#eng
+msgid English
+msgstr Engeleere
+
+#fas
+msgid Persian
+msgstr Perseere
+
+#fra
+msgid French
+msgstr Farayseere
+
+#ful
+msgid Fulah
+msgstr Pulaar
+
+#hau
+msgid Hausa
+msgstr Hawsaŋkoore
+
+#hin
+msgid Hindi
+msgstr Hinndi
+
+#hun
+msgid Hungarian
+msgstr Hongariire
+
+#ibo
+msgid Igbo
+msgstr Igiboore
+
+#ind
+msgid Indonesian
+msgstr Endonesiire
+
+#ita
+msgid Italian
+msgstr Italiyeere
+
+#jav
+msgid Javanese
+msgstr Sawaneere
+
+#jpn
+msgid Japanese
+msgstr Saponeere
+
+#khm
+msgid Khmer
+msgstr Kemeere
+
+#kin
+msgid Kinyarwanda
+msgstr Ruwaanndeere
+
+#kor
+msgid Korean
+msgstr Koreere
+
+#msa
+msgid Malay
+msgstr Malayeere
+
+#mya
+msgid Burmese
+msgstr Burmeese
+
+#nep
+msgid Nepali
+msgstr Nepaaleere
+
+#nld
+msgid Dutch
+msgstr Dacceere
+
+#pan
+msgid Punjabi
+msgstr Punjabeere
+
+#pol
+msgid Polish
+msgstr Poloneere
+
+#por
+msgid Portuguese
+msgstr Purtugeere
+
+#ron
+msgid Romanian
+msgstr Romaneere
+
+#rus
+msgid Russian
+msgstr Riis
+
+#som
+msgid Somali
+msgstr Somalii
+
+#spa
+msgid Spanish
+msgstr Español
+
+#swe
+msgid Swedish
+msgstr Sweedeere
+
+#tam
+msgid Tamil
+msgstr Tamil
+
+#tha
+msgid Thai
+msgstr Taay
+
+#tur
+msgid Turkish
+msgstr Turkeere
+
+#ukr
+msgid Ukrainian
+msgstr Ukereneere
+
+#urd
+msgid Urdu
+msgstr Urdu
+
+#vie
+msgid Vietnamese
+msgstr Wiyetnameere
+
+#yor
+msgid Yoruba
+msgstr Yorrubaa
+
+#zho
+msgid Chinese
+msgstr Sinuwaare
+
+#zul
+msgid Zulu
+msgstr Suluŋkoore
+

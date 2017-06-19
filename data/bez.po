@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Hiakan
 
-#am
+#amh
 msgid Amharic
 msgstr Hiamhari
 
-#ar
+#ara
 msgid Arabic
 msgstr Hiharabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Hibelarusi
+
+#ben
+msgid Bangla
+msgstr Hibangla
 
 #bez
 msgid Bena
 msgstr Hibena
 
-#bg
+#bul
 msgid Bulgarian
 msgstr Hibulgaria
 
-#bn
-msgid Bangla
-msgstr Hibangla
-
-#cs
+#ces
 msgid Czech
 msgstr Hicheki
 
-#de
+#deu
 msgid German
 msgstr Hijerumani
 
-#el
+#ell
 msgid Greek
 msgstr Higiriki
 
-#en
+#eng
 msgid English
 msgstr Hiingereza
 
-#es
-msgid Spanish
-msgstr Hihispania
-
-#fa
+#fas
 msgid Persian
 msgstr Hiajemi
 
-#fr
+#fra
 msgid French
 msgstr Hifaransa
 
-#ha
+#hau
 msgid Hausa
 msgstr Hihausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Hihindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Hihungari
 
-#id
-msgid Indonesian
-msgstr Hiindonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Hiibo
 
-#it
+#ind
+msgid Indonesian
+msgstr Hiindonesia
+
+#ita
 msgid Italian
 msgstr Hiitaliano
 
-#ja
-msgid Japanese
-msgstr Hijapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Hijava
 
-#km
+#jpn
+msgid Japanese
+msgstr Hijapani
+
+#khm
 msgid Khmer
 msgstr Hikambodia
 
-#ko
-msgid Korean
-msgstr Hikorea
-
-#ms
-msgid Malay
-msgstr Himalesia
-
-#my
-msgid Burmese
-msgstr Hiburma
-
-#ne
-msgid Nepali
-msgstr Hinepali
-
-#nl
-msgid Dutch
-msgstr Hiholanzi
-
-#pa
-msgid Punjabi
-msgstr Hipunjabi
-
-#pl
-msgid Polish
-msgstr Hipolandi
-
-#pt
-msgid Portuguese
-msgstr Hileno
-
-#ro
-msgid Romanian
-msgstr Hilomania
-
-#ru
-msgid Russian
-msgstr Hilusi
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Hinyarwanda
 
-#so
+#kor
+msgid Korean
+msgstr Hikorea
+
+#msa
+msgid Malay
+msgstr Himalesia
+
+#mya
+msgid Burmese
+msgstr Hiburma
+
+#nep
+msgid Nepali
+msgstr Hinepali
+
+#nld
+msgid Dutch
+msgstr Hiholanzi
+
+#pan
+msgid Punjabi
+msgstr Hipunjabi
+
+#pol
+msgid Polish
+msgstr Hipolandi
+
+#por
+msgid Portuguese
+msgstr Hileno
+
+#ron
+msgid Romanian
+msgstr Hilomania
+
+#rus
+msgid Russian
+msgstr Hilusi
+
+#som
 msgid Somali
 msgstr Hisomali
 
-#sv
+#spa
+msgid Spanish
+msgstr Hihispania
+
+#swe
 msgid Swedish
 msgstr Hiswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Hitamil
 
-#th
+#tha
 msgid Thai
 msgstr Hitailand
 
-#tr
+#tur
 msgid Turkish
 msgstr Hituluki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Hiukrania
 
-#ur
+#urd
 msgid Urdu
 msgstr Hiurdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Hivietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Hiyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Hichina
 
-#zu
+#zul
 msgid Zulu
 msgstr Hizulu
 

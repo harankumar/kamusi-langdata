@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr ⵜⴰⴽⴰⵏⵜ
 
-#am
+#amh
 msgid Amharic
 msgstr ⵜⴰⵎⵀⴰⵔⵉⵜ
 
-#ar
+#ara
 msgid Arabic
 msgstr ⵜⴰⵄⵔⴰⴱⵜ
 
-#be
+#bel
 msgid Belarusian
 msgstr ⵜⴰⴱⵉⵍⴰⵔⵓⵙⵜ
 
-#bg
-msgid Bulgarian
-msgstr ⵜⴰⴱⵍⵖⴰⵔⵉⵜ
-
-#bn
+#ben
 msgid Bangla
 msgstr ⵜⴰⴱⵏⵖⴰⵍⵉⵜ
 
-#cs
+#bul
+msgid Bulgarian
+msgstr ⵜⴰⴱⵍⵖⴰⵔⵉⵜ
+
+#ces
 msgid Czech
 msgstr ⵜⴰⵜⵛⵉⴽⵉⵜ
 
-#de
+#deu
 msgid German
 msgstr ⵜⴰⵍⵉⵎⴰⵏⵜ
 
-#el
+#ell
 msgid Greek
 msgstr ⵜⴰⴳⵔⵉⴳⵉⵜ
 
-#en
+#eng
 msgid English
 msgstr ⵜⴰⵏⴳⵍⵉⵣⵜ
 
-#es
-msgid Spanish
-msgstr ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ
-
-#fa
+#fas
 msgid Persian
 msgstr ⵜⴰⴼⵓⵔⵙⵉⵜ
 
-#fr
+#fra
 msgid French
 msgstr ⵜⴰⴼⵔⴰⵏⵙⵉⵙⵜ
 
-#ha
+#hau
 msgid Hausa
 msgstr ⵜⴰⵀⴰⵡⵙⴰⵜ
 
-#hi
+#hin
 msgid Hindi
 msgstr ⵜⴰⵀⵉⵏⴷⵉⵜ
 
-#hu
+#hun
 msgid Hungarian
 msgstr ⵜⴰⵀⵏⵖⴰⵔⵉⵜ
 
-#id
-msgid Indonesian
-msgstr ⵜⴰⵏⴷⵓⵏⵉⵙⵉⵜ
-
-#ig
+#ibo
 msgid Igbo
 msgstr ⵜⵉⴳⴱⵓⵜ
 
-#it
+#ind
+msgid Indonesian
+msgstr ⵜⴰⵏⴷⵓⵏⵉⵙⵉⵜ
+
+#ita
 msgid Italian
 msgstr ⵜⴰⵟⴰⵍⵢⴰⵏⵜ
 
-#ja
-msgid Japanese
-msgstr ⵜⴰⵊⴰⴱⴱⵓⵏⵉⵜ
-
-#jv
+#jav
 msgid Javanese
 msgstr ⵜⴰⵊⴰⴼⴰⵏⵉⵜ
 
-#km
+#jpn
+msgid Japanese
+msgstr ⵜⴰⵊⴰⴱⴱⵓⵏⵉⵜ
+
+#khm
 msgid Khmer
 msgstr ⵜⴰⵅⵎⵉⵔⵜ
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr ⵜⴰⵔⵓⵡⴰⵏⴷⵉⵜ
+
+#kor
 msgid Korean
 msgstr ⵜⴰⴽⵓⵔⵉⵜ
 
-#ms
+#msa
 msgid Malay
 msgstr ⵜⴰⵎⴰⵍⴰⵡⵉⵜ
 
-#my
+#mya
 msgid Burmese
 msgstr ⵜⴰⴱⵉⵔⵎⴰⵏⵉⵜ
 
-#ne
+#nep
 msgid Nepali
 msgstr ⵜⴰⵏⵉⴱⴰⵍⵉⵜ
 
-#nl
+#nld
 msgid Dutch
 msgstr ⵜⴰⵀⵓⵍⴰⵏⴷⵉⵜ
 
-#pa
+#pan
 msgid Punjabi
 msgstr ⵜⴰⴱⵏⵊⴰⴱⵉⵜ
 
-#pl
+#pol
 msgid Polish
 msgstr ⵜⴰⴱⵓⵍⵓⵏⵉⵜ
 
-#pt
+#por
 msgid Portuguese
 msgstr ⵜⴰⴱⵕⵟⵇⵉⵣⵜ
 
-#ro
+#ron
 msgid Romanian
 msgstr ⵜⴰⵔⵓⵎⴰⵏⵉⵜ
 
-#ru
+#rus
 msgid Russian
 msgstr ⵜⴰⵔⵓⵙⵉⵜ
-
-#rw
-msgid Kinyarwanda
-msgstr ⵜⴰⵔⵓⵡⴰⵏⴷⵉⵜ
 
 #shi
 msgid Tachelhit
 msgstr ⵜⴰⵛⵍⵃⵉⵜ
 
-#so
+#som
 msgid Somali
 msgstr ⵜⴰⵙⵓⵎⴰⵍⵉⵜ
 
-#sv
+#spa
+msgid Spanish
+msgstr ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ
+
+#swe
 msgid Swedish
 msgstr ⵜⴰⵙⵡⵉⴷⵉⵜ
 
-#ta
+#tam
 msgid Tamil
 msgstr ⵜⴰⵜⴰⵎⵉⵍⵜ
 
-#th
+#tha
 msgid Thai
 msgstr ⵜⴰⵜⴰⵢⵍⴰⵏⴷⵉⵜ
 
-#tr
+#tur
 msgid Turkish
 msgstr ⵜⴰⵜⵓⵔⴽⵉⵜ
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ⵜⵓⴽⵔⴰⵏⵉⵜ
 
-#ur
+#urd
 msgid Urdu
 msgstr ⵜⵓⵔⴷⵓⵜ
 
-#vi
+#vie
 msgid Vietnamese
 msgstr ⵜⴰⴼⵉⵜⵏⴰⵎⵉⵜ
 
-#yo
+#yor
 msgid Yoruba
 msgstr ⵜⴰⵢⵔⵓⴱⴰⵜ
 
-#zh
+#zho
 msgid Chinese
 msgstr ⵜⴰⵛⵉⵏⵡⵉⵜ
 
-#zu
+#zul
 msgid Zulu
 msgstr ⵜⴰⵣⵓⵍⵓⵜ
 

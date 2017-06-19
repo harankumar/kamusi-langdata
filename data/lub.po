@@ -1,0 +1,172 @@
+#aka
+msgid Akan
+msgstr Liakan
+
+#amh
+msgid Amharic
+msgstr Liamhariki
+
+#ara
+msgid Arabic
+msgstr Arabi
+
+#bel
+msgid Belarusian
+msgstr Belarusi
+
+#ben
+msgid Bangla
+msgstr Bengali
+
+#bul
+msgid Bulgarian
+msgstr Bulegari
+
+#ces
+msgid Czech
+msgstr Tsheki
+
+#deu
+msgid German
+msgstr Lizelumani
+
+#ell
+msgid Greek
+msgstr Giliki
+
+#eng
+msgid English
+msgstr Lingelesa
+
+#fas
+msgid Persian
+msgstr Mpepajemi
+
+#fra
+msgid French
+msgstr Mfwàlànsa
+
+#hau
+msgid Hausa
+msgstr Hausa
+
+#hin
+msgid Hindi
+msgstr Hindi
+
+#hun
+msgid Hungarian
+msgstr Hongili
+
+#ibo
+msgid Igbo
+msgstr Igbo
+
+#ind
+msgid Indonesian
+msgstr Lindonezia
+
+#ita
+msgid Italian
+msgstr Litali
+
+#jav
+msgid Javanese
+msgstr Java
+
+#jpn
+msgid Japanese
+msgstr Liyapani
+
+#kin
+msgid Kinyarwanda
+msgstr kinyarwanda
+
+#kor
+msgid Korean
+msgstr Likoreya
+
+#lub
+msgid Luba-Katanga
+msgstr Tshiluba
+
+#msa
+msgid Malay
+msgstr Limalezia
+
+#nep
+msgid Nepali
+msgstr nepali
+
+#nld
+msgid Dutch
+msgstr olandi
+
+#pan
+msgid Punjabi
+msgstr Lipunjabi
+
+#pol
+msgid Polish
+msgstr Mpoloni
+
+#por
+msgid Portuguese
+msgstr Mputulugɛsi
+
+#ron
+msgid Romanian
+msgstr Liromani
+
+#rus
+msgid Russian
+msgstr Lirisi
+
+#som
+msgid Somali
+msgstr Lisomali
+
+#spa
+msgid Spanish
+msgstr Lihispania
+
+#swe
+msgid Swedish
+msgstr Lisuwidi
+
+#tam
+msgid Tamil
+msgstr Mtamuili
+
+#tha
+msgid Thai
+msgstr Ntailandi
+
+#tur
+msgid Turkish
+msgstr Ntuluki
+
+#ukr
+msgid Ukrainian
+msgstr Nkrani
+
+#urd
+msgid Urdu
+msgstr Urdu
+
+#vie
+msgid Vietnamese
+msgstr Liviyetinamu
+
+#yor
+msgid Yoruba
+msgstr Nyoruba
+
+#zho
+msgid Chinese
+msgstr shinɛ
+
+#zul
+msgid Zulu
+msgstr Nzulu
+

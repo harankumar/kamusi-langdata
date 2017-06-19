@@ -1,14 +1,10 @@
-#ar
+#ara
 msgid Arabic
 msgstr arābiskan
 
-#da
+#dan
 msgid Danish
 msgstr dāniskan
-
-#de
-msgid German
-msgstr miksiskan
 
 #de AT
 msgid Austrian German
@@ -18,13 +14,13 @@ msgstr Āustrarīkis miksiskan
 msgid Swiss High German
 msgstr Šwēicis aūktamiksiskan
 
-#el
+#deu
+msgid German
+msgstr miksiskan
+
+#ell
 msgid Greek
 msgstr grēkiskan
-
-#en
-msgid English
-msgstr ēngliskan
 
 #en AU
 msgid Australian English
@@ -50,9 +46,9 @@ msgstr amērikaniskan ēngliskan
 msgid US English
 msgstr APW ēngliskan
 
-#es
-msgid Spanish
-msgstr špāniskan
+#eng
+msgid English
+msgstr ēngliskan
 
 #es 419
 msgid Latin American Spanish
@@ -66,17 +62,13 @@ msgstr eurōpiskan špāniskan
 msgid Mexican Spanish
 msgstr Meksikus špāniskan
 
-#et
+#est
 msgid Estonian
 msgstr èstiskan
 
-#fi
+#fin
 msgid Finnish
 msgstr sōmiskan
-
-#fr
-msgid French
-msgstr prancōziskan
 
 #fr CA
 msgid Canadian French
@@ -86,37 +78,41 @@ msgstr Kanādas prancōziskan
 msgid Swiss French
 msgstr Šwēicis prancōziskan
 
-#it
+#fra
+msgid French
+msgstr prancōziskan
+
+#ita
 msgid Italian
 msgstr wālkiskan
 
-#ja
+#jpn
 msgid Japanese
 msgstr japāniskan
 
-#lt
-msgid Lithuanian
-msgstr laītawiskan
-
-#lv
+#lav
 msgid Latvian
 msgstr lattawiskan
 
-#nl
+#lit
+msgid Lithuanian
+msgstr laītawiskan
+
+#nld
 msgid Dutch
 msgstr ullandiskan
 
-#pl
+#pol
 msgid Polish
 msgstr pōliskan
+
+#por
+msgid Portuguese
+msgstr pōrtugaliskan
 
 #prg
 msgid Prussian
 msgstr prūsiskan
-
-#pt
-msgid Portuguese
-msgstr pōrtugaliskan
 
 #pt BR
 msgid Brazilian Portuguese
@@ -126,25 +122,25 @@ msgstr Brazīlijas pōrtugaliskan
 msgid European Portuguese
 msgstr eurōpiskan pōrtugaliskan
 
-#ru
+#rus
 msgid Russian
 msgstr maskōwitiskan
 
-#sv
+#spa
+msgid Spanish
+msgstr špāniskan
+
+#swe
 msgid Swedish
 msgstr šwēdiskan
 
-#tr
+#tur
 msgid Turkish
 msgstr turkiskan
 
 #und
 msgid Unknown language
 msgstr niwaistā bilā
-
-#zh
-msgid Chinese
-msgstr kīniskan
 
 #zh Hans
 msgid Simplified Chinese
@@ -153,4 +149,8 @@ msgstr prastintan kīniskan
 #zh Hant
 msgid Traditional Chinese
 msgstr tradiciōnalin kīniskan
+
+#zho
+msgid Chinese
+msgstr kīniskan
 

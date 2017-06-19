@@ -1,0 +1,2112 @@
+#aar
+msgid Afar
+msgstr 阿法尔文
+
+#abk
+msgid Abkhazian
+msgstr 阿布哈西亚语
+
+#ace
+msgid Achinese
+msgstr 亚齐文
+
+#ach
+msgid Acoli
+msgstr 阿乔利文
+
+#ada
+msgid Adangme
+msgstr 阿当梅文
+
+#ady
+msgid Adyghe
+msgstr 阿迪格文
+
+#afh
+msgid Afrihili
+msgstr 阿弗里希利文
+
+#afr
+msgid Afrikaans
+msgstr 南非荷兰语
+
+#agq
+msgid Aghem
+msgstr 亚罕文
+
+#ain
+msgid Ainu
+msgstr 阿伊努文
+
+#aka
+msgid Akan
+msgstr 阿肯文
+
+#akk
+msgid Akkadian
+msgstr 阿卡德文
+
+#ale
+msgid Aleut
+msgstr 阿留申文
+
+#alt
+msgid Southern Altai
+msgstr 南阿尔泰文
+
+#amh
+msgid Amharic
+msgstr 阿姆哈拉文
+
+#ang
+msgid Old English
+msgstr 古英文
+
+#anp
+msgid Angika
+msgstr 昂加文
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr 现代标准阿拉伯语
+
+#ara
+msgid Arabic
+msgstr 阿拉伯语
+
+#arc
+msgid Aramaic
+msgstr 阿拉米文
+
+#arg
+msgid Aragonese
+msgstr 阿拉贡文
+
+#arn
+msgid Mapuche
+msgstr 马普切文
+
+#arp
+msgid Arapaho
+msgstr 阿拉帕霍文
+
+#arw
+msgid Arawak
+msgstr 阿拉瓦克文
+
+#asa
+msgid Asu
+msgstr 阿苏文
+
+#asm
+msgid Assamese
+msgstr 阿萨姆文
+
+#ast
+msgid Asturian
+msgstr 阿斯图里亚斯文
+
+#ava
+msgid Avaric
+msgstr 阿瓦尔文
+
+#ave
+msgid Avestan
+msgstr 阿维斯塔文
+
+#awa
+msgid Awadhi
+msgstr 阿瓦乔文
+
+#aym
+msgid Aymara
+msgstr 艾马拉文
+
+#az Arab
+msgid undefined
+msgstr 南阿塞拜疆文
+
+#az-short
+msgid Azeri
+msgstr 阿塞拜疆语
+
+#aze
+msgid Azerbaijani
+msgstr 阿塞拜疆语
+
+#bak
+msgid Bashkir
+msgstr 巴什基尔文
+
+#bal
+msgid Baluchi
+msgstr 俾路支文
+
+#bam
+msgid Bambara
+msgstr 班巴拉文
+
+#ban
+msgid Balinese
+msgstr 巴里文
+
+#bas
+msgid Basaa
+msgstr 巴萨文
+
+#bax
+msgid Bamun
+msgstr 巴姆穆文
+
+#bbj
+msgid Ghomala
+msgstr 戈马拉文
+
+#bej
+msgid Beja
+msgstr 贝沙文
+
+#bel
+msgid Belarusian
+msgstr 白俄罗斯语
+
+#bem
+msgid Bemba
+msgstr 别姆巴文
+
+#ben
+msgid Bangla
+msgstr 孟加拉语
+
+#bez
+msgid Bena
+msgstr 贝纳文
+
+#bfd
+msgid Bafut
+msgstr 巴非特文
+
+#bgn
+msgid Western Balochi
+msgstr 西俾路支文
+
+#bho
+msgid Bhojpuri
+msgstr 博杰普尔文
+
+#bik
+msgid Bikol
+msgstr 比科尔文
+
+#bin
+msgid Bini
+msgstr 比尼文
+
+#bis
+msgid Bislama
+msgstr 比斯拉马文
+
+#bkm
+msgid Kom
+msgstr 科姆文
+
+#bla
+msgid Siksika
+msgstr 西克西卡文
+
+#bod
+msgid Tibetan
+msgstr 藏语
+
+#bos
+msgid Bosnian
+msgstr 波斯尼亚语
+
+#bra
+msgid Braj
+msgstr 布拉杰文
+
+#bre
+msgid Breton
+msgstr 布列塔尼文
+
+#brx
+msgid Bodo
+msgstr 博多文
+
+#bss
+msgid Akoose
+msgstr 阿库色文
+
+#bua
+msgid Buriat
+msgstr 布里亚特文
+
+#bug
+msgid Buginese
+msgstr 布吉文
+
+#bul
+msgid Bulgarian
+msgstr 保加利亚语
+
+#bum
+msgid Bulu
+msgstr 布鲁文
+
+#byn
+msgid Blin
+msgstr 布林文
+
+#byv
+msgid Medumba
+msgstr 梅敦巴文
+
+#cad
+msgid Caddo
+msgstr 卡多文
+
+#car
+msgid Carib
+msgstr 加勒比语
+
+#cat
+msgid Catalan
+msgstr 加泰罗尼亚语
+
+#cay
+msgid Cayuga
+msgstr 卡尤加文
+
+#cch
+msgid Atsam
+msgstr 阿灿文
+
+#ceb
+msgid Cebuano
+msgstr 宿务文
+
+#ces
+msgid Czech
+msgstr 捷克语
+
+#cgg
+msgid Chiga
+msgstr 奇加文
+
+#cha
+msgid Chamorro
+msgstr 查莫罗文
+
+#chb
+msgid Chibcha
+msgstr 奇布查文
+
+#che
+msgid Chechen
+msgstr 车臣文
+
+#chg
+msgid Chagatai
+msgstr 查加台文
+
+#chk
+msgid Chuukese
+msgstr 丘克文
+
+#chm
+msgid Mari
+msgstr 马里文
+
+#chn
+msgid Chinook Jargon
+msgstr 奇努克混合文
+
+#cho
+msgid Choctaw
+msgstr 乔克托文
+
+#chp
+msgid Chipewyan
+msgstr 奇佩维安文
+
+#chr
+msgid Cherokee
+msgstr 彻罗基文
+
+#chu
+msgid Church Slavic
+msgstr 教会斯拉夫文
+
+#chv
+msgid Chuvash
+msgstr 楚瓦什文
+
+#chy
+msgid Cheyenne
+msgstr 夏延文
+
+#ckb
+msgid Central Kurdish
+msgstr 中库尔德文
+
+#cop
+msgid Coptic
+msgstr 科普特文
+
+#cor
+msgid Cornish
+msgstr 凯尔特文
+
+#cos
+msgid Corsican
+msgstr 科西嘉文
+
+#cre
+msgid Cree
+msgstr 克里族文
+
+#crh
+msgid Crimean Turkish
+msgstr 克里米亚土耳其文
+
+#crs
+msgid Seselwa Creole French
+msgstr 塞舌尔克里奥尔文
+
+#csb
+msgid Kashubian
+msgstr 卡舒比文
+
+#cym
+msgid Welsh
+msgstr 威尔士语
+
+#dak
+msgid Dakota
+msgstr 达科他文
+
+#dan
+msgid Danish
+msgstr 丹麦语
+
+#dar
+msgid Dargwa
+msgstr 达尔格瓦文
+
+#dav
+msgid Taita
+msgstr 台塔文
+
+#de AT
+msgid Austrian German
+msgstr 奥地利德文
+
+#de CH
+msgid Swiss High German
+msgstr 瑞士高地德文
+
+#del
+msgid Delaware
+msgstr 特拉华文
+
+#den
+msgid Slave
+msgstr 史拉维文
+
+#deu
+msgid German
+msgstr 德文
+
+#dgr
+msgid Dogrib
+msgstr 多格里布文
+
+#din
+msgid Dinka
+msgstr 丁卡文
+
+#div
+msgid Divehi
+msgstr 迪维希文
+
+#dje
+msgid Zarma
+msgstr 哲尔马文
+
+#doi
+msgid Dogri
+msgstr 多格拉文
+
+#dsb
+msgid Lower Sorbian
+msgstr 下索布文
+
+#dua
+msgid Duala
+msgstr 都阿拉文
+
+#dum
+msgid Middle Dutch
+msgstr 中古荷兰文
+
+#dyo
+msgid Jola-Fonyi
+msgstr 朱拉文
+
+#dyu
+msgid Dyula
+msgstr 迪尤拉文
+
+#dzg
+msgid Dazaga
+msgstr 达扎葛文
+
+#dzo
+msgid Dzongkha
+msgstr 宗卡文
+
+#ebu
+msgid Embu
+msgstr 恩布文
+
+#efi
+msgid Efik
+msgstr 埃菲克文
+
+#egy
+msgid Ancient Egyptian
+msgstr 古埃及语
+
+#eka
+msgid Ekajuk
+msgstr 艾卡朱克文
+
+#ell
+msgid Greek
+msgstr 希腊语
+
+#elx
+msgid Elamite
+msgstr 埃兰文
+
+#en GB-short
+msgid UK English
+msgstr 英式英文
+
+#en US-short
+msgid US English
+msgstr 美式英文
+
+#eng
+msgid English
+msgstr 英语
+
+#enm
+msgid Middle English
+msgstr 中古英文
+
+#epo
+msgid Esperanto
+msgstr 世界语
+
+#es 419
+msgid Latin American Spanish
+msgstr 拉丁美洲西班牙文
+
+#es ES
+msgid European Spanish
+msgstr 欧洲西班牙文
+
+#es MX
+msgid Mexican Spanish
+msgstr 墨西哥西班牙文
+
+#est
+msgid Estonian
+msgstr 爱沙尼亚语
+
+#eus
+msgid Basque
+msgstr 巴斯克文
+
+#ewe
+msgid Ewe
+msgstr 埃维文
+
+#ewo
+msgid Ewondo
+msgstr 旺杜文
+
+#fan
+msgid Fang
+msgstr 芳格文
+
+#fao
+msgid Faroese
+msgstr 法罗文
+
+#fas
+msgid Persian
+msgstr 波斯文
+
+#fat
+msgid Fanti
+msgstr 芳蒂文
+
+#fij
+msgid Fijian
+msgstr 斐济文
+
+#fil
+msgid Filipino
+msgstr 菲律宾语
+
+#fin
+msgid Finnish
+msgstr 芬兰语
+
+#fon
+msgid Fon
+msgstr 丰文
+
+#fra
+msgid French
+msgstr 法语
+
+#frm
+msgid Middle French
+msgstr 中古法文
+
+#fro
+msgid Old French
+msgstr 古法文
+
+#frr
+msgid Northern Frisian
+msgstr 北弗里西亚文
+
+#frs
+msgid Eastern Frisian
+msgstr 东弗里西亚文
+
+#fry
+msgid Western Frisian
+msgstr 西弗里西亚文
+
+#ful
+msgid Fulah
+msgstr 富拉文
+
+#fur
+msgid Friulian
+msgstr 弗留利文
+
+#gaa
+msgid Ga
+msgstr 加族文
+
+#gag
+msgid Gagauz
+msgstr 加告兹文
+
+#gan
+msgid Gan Chinese
+msgstr 赣语
+
+#gay
+msgid Gayo
+msgstr 迦约文
+
+#gba
+msgid Gbaya
+msgstr 格巴亚文
+
+#gez
+msgid Geez
+msgstr 吉兹文
+
+#gil
+msgid Gilbertese
+msgstr 吉尔伯特斯文
+
+#gla
+msgid Scottish Gaelic
+msgstr 苏格兰盖尔文
+
+#gle
+msgid Irish
+msgstr 爱尔兰语
+
+#glg
+msgid Galician
+msgstr 加利西亚语
+
+#glv
+msgid Manx
+msgstr 马恩岛文
+
+#gmh
+msgid Middle High German
+msgstr 中古高地德文
+
+#goh
+msgid Old High German
+msgstr 古高地德文
+
+#gon
+msgid Gondi
+msgstr 冈德文
+
+#gor
+msgid Gorontalo
+msgstr 哥伦打洛文
+
+#got
+msgid Gothic
+msgstr 哥特文
+
+#grb
+msgid Grebo
+msgstr 格列博文
+
+#grc
+msgid Ancient Greek
+msgstr 古希腊语
+
+#grn
+msgid Guarani
+msgstr 瓜拉尼文
+
+#gsw
+msgid Swiss German
+msgstr 德语（瑞士）
+
+#guj
+msgid Gujarati
+msgstr 古吉拉特语
+
+#guz
+msgid Gusii
+msgstr 古西文
+
+#gwi
+msgid Gwichʼin
+msgstr 吉维克琴文
+
+#hai
+msgid Haida
+msgstr 海达文
+
+#hak
+msgid Hakka Chinese
+msgstr 客家语
+
+#hat
+msgid Haitian Creole
+msgstr 海地克里奥尔文
+
+#hau
+msgid Hausa
+msgstr 豪萨文
+
+#haw
+msgid Hawaiian
+msgstr 夏威夷文
+
+#hbs
+msgid Serbo-Croatian
+msgstr 塞尔维亚-克罗地亚文
+
+#heb
+msgid Hebrew
+msgstr 希伯来语
+
+#her
+msgid Herero
+msgstr 赫雷罗文
+
+#hil
+msgid Hiligaynon
+msgstr 希利盖农文
+
+#hin
+msgid Hindi
+msgstr 印地语
+
+#hit
+msgid Hittite
+msgstr 赫梯文
+
+#hmn
+msgid Hmong
+msgstr 苗族文
+
+#hmo
+msgid Hiri Motu
+msgstr 希里莫图文
+
+#hrv
+msgid Croatian
+msgstr 克罗地亚语
+
+#hsb
+msgid Upper Sorbian
+msgstr 上索布文
+
+#hsn
+msgid Xiang Chinese
+msgstr 湘语
+
+#hun
+msgid Hungarian
+msgstr 匈牙利语
+
+#hup
+msgid Hupa
+msgstr 胡帕文
+
+#hye
+msgid Armenian
+msgstr 亚美尼亚语
+
+#iba
+msgid Iban
+msgstr 伊班文
+
+#ibb
+msgid Ibibio
+msgstr 伊比比奥文
+
+#ibo
+msgid Igbo
+msgstr 伊布文
+
+#ido
+msgid Ido
+msgstr 伊多文
+
+#iii
+msgid Sichuan Yi
+msgstr 四川彝文
+
+#iku
+msgid Inuktitut
+msgstr 因纽特语
+
+#ile
+msgid Interlingue
+msgstr 国际文字（E）
+
+#ilo
+msgid Iloko
+msgstr 伊洛干诺文
+
+#ina
+msgid Interlingua
+msgstr 国际语
+
+#ind
+msgid Indonesian
+msgstr 印度尼西亚语
+
+#inh
+msgid Ingush
+msgstr 印古什文
+
+#ipk
+msgid Inupiaq
+msgstr 伊努皮克文
+
+#isl
+msgid Icelandic
+msgstr 冰岛语
+
+#ita
+msgid Italian
+msgstr 意大利语
+
+#jav
+msgid Javanese
+msgstr 爪哇语
+
+#jbo
+msgid Lojban
+msgstr 逻辑文
+
+#jgo
+msgid Ngomba
+msgstr 恩艮巴
+
+#jmc
+msgid Machame
+msgstr 马切姆文
+
+#jpn
+msgid Japanese
+msgstr 日语
+
+#jpr
+msgid Judeo-Persian
+msgstr 犹太波斯语
+
+#jrb
+msgid Judeo-Arabic
+msgstr 犹太阿拉伯语
+
+#kaa
+msgid Kara-Kalpak
+msgstr 卡拉卡尔帕克文
+
+#kab
+msgid Kabyle
+msgstr 卡比尔文
+
+#kac
+msgid Kachin
+msgstr 克钦文
+
+#kaj
+msgid Jju
+msgstr 卡捷文
+
+#kal
+msgid Kalaallisut
+msgstr 格陵兰文
+
+#kam
+msgid Kamba
+msgstr 卡姆巴文
+
+#kan
+msgid Kannada
+msgstr 卡纳达文
+
+#kas
+msgid Kashmiri
+msgstr 克什米尔文
+
+#kat
+msgid Georgian
+msgstr 格鲁吉亚语
+
+#kau
+msgid Kanuri
+msgstr 卡努里文
+
+#kaw
+msgid Kawi
+msgstr 卡威文
+
+#kaz
+msgid Kazakh
+msgstr 哈萨克语
+
+#kbd
+msgid Kabardian
+msgstr 卡巴尔德文
+
+#kbl
+msgid Kanembu
+msgstr 加涅姆布文
+
+#kcg
+msgid Tyap
+msgstr 卡塔布文
+
+#kde
+msgid Makonde
+msgstr 马孔德文
+
+#kea
+msgid Kabuverdianu
+msgstr 卡布佛得鲁文
+
+#kfo
+msgid Koro
+msgstr 科罗文
+
+#kha
+msgid Khasi
+msgstr 卡西文
+
+#khm
+msgid Khmer
+msgstr 高棉文
+
+#kho
+msgid Khotanese
+msgstr 和田文
+
+#khq
+msgid Koyra Chiini
+msgstr 西桑海文
+
+#kik
+msgid Kikuyu
+msgstr 吉库尤文
+
+#kin
+msgid Kinyarwanda
+msgstr 卢旺达语
+
+#kir
+msgid Kyrgyz
+msgstr 吉尔吉斯文
+
+#kkj
+msgid Kako
+msgstr 卡库文
+
+#kln
+msgid Kalenjin
+msgstr 卡伦金文
+
+#kmb
+msgid Kimbundu
+msgstr 金邦杜文
+
+#koi
+msgid Komi-Permyak
+msgstr 科米-彼尔米亚克文
+
+#kok
+msgid Konkani
+msgstr 刚卡尼文
+
+#kom
+msgid Komi
+msgstr 科米文
+
+#kon
+msgid Kongo
+msgstr 刚果语
+
+#kor
+msgid Korean
+msgstr 韩文
+
+#kos
+msgid Kosraean
+msgstr 科斯拉伊文
+
+#kpe
+msgid Kpelle
+msgstr 克佩列文
+
+#krc
+msgid Karachay-Balkar
+msgstr 卡拉恰伊巴尔卡尔文
+
+#krl
+msgid Karelian
+msgstr 卡累利阿文
+
+#kru
+msgid Kurukh
+msgstr 库鲁克文
+
+#ksb
+msgid Shambala
+msgstr 香巴拉文
+
+#ksf
+msgid Bafia
+msgstr 巴菲亚文
+
+#ksh
+msgid Colognian
+msgstr 科隆文
+
+#kua
+msgid Kuanyama
+msgstr 宽亚玛文
+
+#kum
+msgid Kumyk
+msgstr 库米克文
+
+#kur
+msgid Kurdish
+msgstr 库尔德文
+
+#kut
+msgid Kutenai
+msgstr 库特奈文
+
+#lad
+msgid Ladino
+msgstr 拉地诺文
+
+#lag
+msgid Langi
+msgstr 朗吉文
+
+#lah
+msgid Lahnda
+msgstr 印度-雅利安文
+
+#lam
+msgid Lamba
+msgstr 兰巴文
+
+#lao
+msgid Lao
+msgstr 老挝语
+
+#lat
+msgid Latin
+msgstr 拉丁语
+
+#lav
+msgid Latvian
+msgstr 拉脱维亚语
+
+#lez
+msgid Lezghian
+msgstr 列兹金文
+
+#lim
+msgid Limburgish
+msgstr 林堡文
+
+#lin
+msgid Lingala
+msgstr 林加拉文
+
+#lit
+msgid Lithuanian
+msgstr 立陶宛语
+
+#lkt
+msgid Lakota
+msgstr 拉科塔文
+
+#lol
+msgid Mongo
+msgstr 蒙戈文
+
+#loz
+msgid Lozi
+msgstr 洛齐文
+
+#lrc
+msgid Northern Luri
+msgstr 北卢尔文
+
+#ltz
+msgid Luxembourgish
+msgstr 卢森堡语
+
+#lua
+msgid Luba-Lulua
+msgstr 卢巴-卢拉文
+
+#lub
+msgid Luba-Katanga
+msgstr 鲁巴加丹加文
+
+#lug
+msgid Ganda
+msgstr 卢干达文
+
+#lui
+msgid Luiseno
+msgstr 卢伊塞诺文
+
+#lun
+msgid Lunda
+msgstr 隆达文
+
+#luo
+msgid Luo
+msgstr 卢奥文
+
+#lus
+msgid Mizo
+msgstr 米佐文
+
+#luy
+msgid Luyia
+msgstr 卢雅文
+
+#mad
+msgid Madurese
+msgstr 马都拉文
+
+#maf
+msgid Mafa
+msgstr 马法文
+
+#mag
+msgid Magahi
+msgstr 马加伊文
+
+#mah
+msgid Marshallese
+msgstr 马绍尔文
+
+#mai
+msgid Maithili
+msgstr 迈蒂利文
+
+#mak
+msgid Makasar
+msgstr 望加锡文
+
+#mal
+msgid Malayalam
+msgstr 马拉雅拉姆语
+
+#man
+msgid Mandingo
+msgstr 曼丁哥文
+
+#mar
+msgid Marathi
+msgstr 马拉地文
+
+#mas
+msgid Masai
+msgstr 萨伊文
+
+#mde
+msgid Maba
+msgstr 马坝文
+
+#mdf
+msgid Moksha
+msgstr 莫克沙文
+
+#mdr
+msgid Mandar
+msgstr 曼达尔文
+
+#men
+msgid Mende
+msgstr 门德文
+
+#mer
+msgid Meru
+msgstr 梅鲁文
+
+#mfe
+msgid Morisyen
+msgstr 毛里求斯克里奥尔文
+
+#mga
+msgid Middle Irish
+msgstr 中古爱尔兰文
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr 马库阿文
+
+#mgo
+msgid Metaʼ
+msgstr 梅塔文
+
+#mic
+msgid Mi'kmaq
+msgstr 密克马克文
+
+#min
+msgid Minangkabau
+msgstr 米南卡保文
+
+#mkd
+msgid Macedonian
+msgstr 马其顿文
+
+#mlg
+msgid Malagasy
+msgstr 马尔加什文
+
+#mlt
+msgid Maltese
+msgstr 马耳他文
+
+#mnc
+msgid Manchu
+msgstr 满文
+
+#mni
+msgid Manipuri
+msgstr 曼尼普尔文
+
+#moh
+msgid Mohawk
+msgstr 摩霍克文
+
+#mon
+msgid Mongolian
+msgstr 蒙古文
+
+#mos
+msgid Mossi
+msgstr 莫西文
+
+#mri
+msgid Maori
+msgstr 毛利文
+
+#msa
+msgid Malay
+msgstr 马来语
+
+#mua
+msgid Mundang
+msgstr 蒙当文
+
+#mul
+msgid Multiple languages
+msgstr 多种语系
+
+#mus
+msgid Creek
+msgstr 克里克文
+
+#mwl
+msgid Mirandese
+msgstr 米兰德斯文
+
+#mwr
+msgid Marwari
+msgstr 马尔瓦里文
+
+#mya
+msgid Burmese
+msgstr 缅甸语
+
+#mye
+msgid Myene
+msgstr 姆耶内文
+
+#myv
+msgid Erzya
+msgstr 厄尔兹亚文
+
+#mzn
+msgid Mazanderani
+msgstr 马赞德兰文
+
+#nan
+msgid Min Nan Chinese
+msgstr 闽南语
+
+#nap
+msgid Neapolitan
+msgstr 那不勒斯文
+
+#naq
+msgid Nama
+msgstr 纳马文
+
+#nau
+msgid Nauru
+msgstr 瑙鲁文
+
+#nav
+msgid Navajo
+msgstr 纳瓦霍文
+
+#nbl
+msgid South Ndebele
+msgstr 南恩德贝勒文
+
+#nde
+msgid North Ndebele
+msgstr 北恩德贝勒文
+
+#ndo
+msgid Ndonga
+msgstr 恩东加文
+
+#nds
+msgid Low German
+msgstr 低地德文
+
+#nds NL
+msgid Low Saxon
+msgstr 低萨克森文
+
+#nep
+msgid Nepali
+msgstr 尼泊尔语
+
+#new
+msgid Newari
+msgstr 内瓦里文
+
+#nia
+msgid Nias
+msgstr 尼亚斯文
+
+#niu
+msgid Niuean
+msgstr 纽埃文
+
+#nl BE
+msgid Flemish
+msgstr 佛兰德文
+
+#nld
+msgid Dutch
+msgstr 荷兰语
+
+#nmg
+msgid Kwasio
+msgstr 夸西奥文
+
+#nnh
+msgid Ngiemboon
+msgstr 恩甘澎文
+
+#nno
+msgid Norwegian Nynorsk
+msgstr 挪威尼诺斯克文
+
+#nob
+msgid Norwegian Bokmål
+msgstr 挪威博克马尔语
+
+#nog
+msgid Nogai
+msgstr 诺盖文
+
+#non
+msgid Old Norse
+msgstr 古诺尔斯文
+
+#nor
+msgid Norwegian
+msgstr 挪威语
+
+#nqo
+msgid N’Ko
+msgstr 西非书面文字
+
+#nso
+msgid Northern Sotho
+msgstr 北索托文
+
+#nus
+msgid Nuer
+msgstr 努埃尔文
+
+#nwc
+msgid Classical Newari
+msgstr 古典尼瓦尔文
+
+#nya
+msgid Nyanja
+msgstr 尼昂加文
+
+#nym
+msgid Nyamwezi
+msgstr 尼扬韦齐文
+
+#nyn
+msgid Nyankole
+msgstr 尼昂科勒文
+
+#nyo
+msgid Nyoro
+msgstr 尼奥罗文
+
+#nzi
+msgid Nzima
+msgstr 恩济马文
+
+#oci
+msgid Occitan
+msgstr 奥克西唐文
+
+#oji
+msgid Ojibwa
+msgstr 奥吉布瓦文
+
+#ori
+msgid Odia
+msgstr 奥里亚文
+
+#orm
+msgid Oromo
+msgstr 奥洛莫文
+
+#osa
+msgid Osage
+msgstr 奥塞治文
+
+#oss
+msgid Ossetic
+msgstr 奥塞梯文
+
+#ota
+msgid Ottoman Turkish
+msgstr 奥斯曼土耳其文
+
+#pag
+msgid Pangasinan
+msgstr 邦阿西南文
+
+#pal
+msgid Pahlavi
+msgstr 巴拉维文
+
+#pam
+msgid Pampanga
+msgstr 邦板牙文
+
+#pan
+msgid Punjabi
+msgstr 旁遮普文
+
+#pap
+msgid Papiamento
+msgstr 帕皮阿门托文
+
+#pau
+msgid Palauan
+msgstr 帕劳文
+
+#pcm
+msgid Nigerian Pidgin
+msgstr 尼日利亚皮钦文
+
+#peo
+msgid Old Persian
+msgstr 古波斯文
+
+#phn
+msgid Phoenician
+msgstr 腓尼基文
+
+#pli
+msgid Pali
+msgstr 巴利文
+
+#pol
+msgid Polish
+msgstr 波兰文
+
+#pon
+msgid Pohnpeian
+msgstr 波纳佩文
+
+#por
+msgid Portuguese
+msgstr 葡萄牙文
+
+#prg
+msgid Prussian
+msgstr 普鲁士文
+
+#pro
+msgid Old Provençal
+msgstr 古普罗文斯文
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr 巴西葡萄牙文
+
+#pt PT
+msgid European Portuguese
+msgstr 欧洲葡萄牙文
+
+#pus
+msgid Pashto
+msgstr 普什图文
+
+#quc
+msgid Kʼicheʼ
+msgstr 基切文
+
+#que
+msgid Quechua
+msgstr 盖丘亚文
+
+#raj
+msgid Rajasthani
+msgstr 拉贾斯坦文
+
+#rap
+msgid Rapanui
+msgstr 拉帕努伊文
+
+#rar
+msgid Rarotongan
+msgstr 拉罗汤加文
+
+#ro MD
+msgid Moldavian
+msgstr 摩尔多瓦文
+
+#rof
+msgid Rombo
+msgstr 兰博文
+
+#roh
+msgid Romansh
+msgstr 罗曼什文
+
+#rom
+msgid Romany
+msgstr 吉普赛文
+
+#ron
+msgid Romanian
+msgstr 罗马尼亚文
+
+#root
+msgid Root
+msgstr 根语言
+
+#run
+msgid Rundi
+msgstr 隆迪文
+
+#rup
+msgid Aromanian
+msgstr 阿罗蒙文
+
+#rus
+msgid Russian
+msgstr 俄文
+
+#rwk
+msgid Rwa
+msgstr 罗瓦文
+
+#sad
+msgid Sandawe
+msgstr 桑达韦文
+
+#sag
+msgid Sango
+msgstr 桑戈文
+
+#sah
+msgid Sakha
+msgstr 萨哈文
+
+#sam
+msgid Samaritan Aramaic
+msgstr 萨马利亚阿拉姆文
+
+#san
+msgid Sanskrit
+msgstr 梵文
+
+#saq
+msgid Samburu
+msgstr 桑布鲁文
+
+#sas
+msgid Sasak
+msgstr 萨萨克文
+
+#sat
+msgid Santali
+msgstr 桑塔利文
+
+#sba
+msgid Ngambay
+msgstr 甘拜文
+
+#sbp
+msgid Sangu
+msgstr 桑古文
+
+#scn
+msgid Sicilian
+msgstr 西西里文
+
+#sco
+msgid Scots
+msgstr 苏格兰文
+
+#sdh
+msgid Southern Kurdish
+msgstr 南库尔德文
+
+#see
+msgid Seneca
+msgstr 塞内卡文
+
+#seh
+msgid Sena
+msgstr 塞纳文
+
+#sel
+msgid Selkup
+msgstr 塞尔库普文
+
+#ses
+msgid Koyraboro Senni
+msgstr 东桑海文
+
+#sga
+msgid Old Irish
+msgstr 古爱尔兰文
+
+#shi
+msgid Tachelhit
+msgstr 希尔哈文
+
+#shn
+msgid Shan
+msgstr 掸文
+
+#shu
+msgid Chadian Arabic
+msgstr 乍得阿拉伯文
+
+#sid
+msgid Sidamo
+msgstr 悉达摩文
+
+#sin
+msgid Sinhala
+msgstr 僧伽罗文
+
+#slk
+msgid Slovak
+msgstr 斯洛伐克文
+
+#slv
+msgid Slovenian
+msgstr 斯洛文尼亚文
+
+#sma
+msgid Southern Sami
+msgstr 南萨米文
+
+#sme
+msgid Northern Sami
+msgstr 北萨米文
+
+#smj
+msgid Lule Sami
+msgstr 律勒萨米文
+
+#smn
+msgid Inari Sami
+msgstr 伊纳里萨米文
+
+#smo
+msgid Samoan
+msgstr 萨摩亚文
+
+#sms
+msgid Skolt Sami
+msgstr 斯科特萨米文
+
+#sna
+msgid Shona
+msgstr 绍纳文
+
+#snd
+msgid Sindhi
+msgstr 信德文
+
+#snk
+msgid Soninke
+msgstr 索宁克文
+
+#sog
+msgid Sogdien
+msgstr 粟特文
+
+#som
+msgid Somali
+msgstr 索马里文
+
+#sot
+msgid Southern Sotho
+msgstr 南索托文
+
+#spa
+msgid Spanish
+msgstr 西班牙文
+
+#sqi
+msgid Albanian
+msgstr 阿尔巴尼亚文
+
+#srd
+msgid Sardinian
+msgstr 萨丁文
+
+#srn
+msgid Sranan Tongo
+msgstr 苏里南汤加文
+
+#srp
+msgid Serbian
+msgstr 塞尔维亚文
+
+#srr
+msgid Serer
+msgstr 塞雷尔文
+
+#ssw
+msgid Swati
+msgstr 斯瓦蒂文
+
+#ssy
+msgid Saho
+msgstr 萨霍文
+
+#suk
+msgid Sukuma
+msgstr 苏库马文
+
+#sun
+msgid Sundanese
+msgstr 巽他文
+
+#sus
+msgid Susu
+msgstr 苏苏文
+
+#sux
+msgid Sumerian
+msgstr 苏美尔文
+
+#sw CD
+msgid Congo Swahili
+msgstr 刚果斯瓦希里文
+
+#swa
+msgid Swahili
+msgstr 斯瓦希里文
+
+#swb
+msgid Comorian
+msgstr 科摩罗文
+
+#swe
+msgid Swedish
+msgstr 瑞典语
+
+#syc
+msgid Classical Syriac
+msgstr 古典叙利亚文
+
+#syr
+msgid Syriac
+msgstr 古叙利亚文
+
+#tah
+msgid Tahitian
+msgstr 塔西提文
+
+#tam
+msgid Tamil
+msgstr 泰米尔语
+
+#tat
+msgid Tatar
+msgstr 鞑靼文
+
+#tel
+msgid Telugu
+msgstr 泰卢固语
+
+#tem
+msgid Timne
+msgstr 泰姆奈文
+
+#teo
+msgid Teso
+msgstr 特索文
+
+#ter
+msgid Tereno
+msgstr 特伦诺文
+
+#tet
+msgid Tetum
+msgstr 德顿文
+
+#tgk
+msgid Tajik
+msgstr 塔吉克语
+
+#tgl
+msgid Tagalog
+msgstr 他加禄文
+
+#tha
+msgid Thai
+msgstr 泰语
+
+#tig
+msgid Tigre
+msgstr 提格雷文
+
+#tir
+msgid Tigrinya
+msgstr 提格利尼亚文
+
+#tiv
+msgid Tiv
+msgstr 蒂夫文
+
+#tkl
+msgid Tokelau
+msgstr 托克劳文
+
+#tlh
+msgid Klingon
+msgstr 克林贡文
+
+#tli
+msgid Tlingit
+msgstr 特林吉特文
+
+#tmh
+msgid Tamashek
+msgstr 塔马奇克文
+
+#tog
+msgid Nyasa Tonga
+msgstr 尼亚萨汤加文
+
+#ton
+msgid Tongan
+msgstr 汤加文
+
+#tpi
+msgid Tok Pisin
+msgstr 托克皮辛文
+
+#trv
+msgid Taroko
+msgstr 太鲁阁文
+
+#tsi
+msgid Tsimshian
+msgstr 钦西安文
+
+#tsn
+msgid Tswana
+msgstr 茨瓦纳文
+
+#tso
+msgid Tsonga
+msgstr 聪加文
+
+#tuk
+msgid Turkmen
+msgstr 土库曼文
+
+#tum
+msgid Tumbuka
+msgstr 通布卡文
+
+#tur
+msgid Turkish
+msgstr 土耳其文
+
+#tvl
+msgid Tuvalu
+msgstr 图瓦卢文
+
+#twi
+msgid Twi
+msgstr 契维文
+
+#twq
+msgid Tasawaq
+msgstr 北桑海文
+
+#tyv
+msgid Tuvinian
+msgstr 图瓦文
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr 塔马齐格特文
+
+#udm
+msgid Udmurt
+msgstr 乌德穆尔特文
+
+#uga
+msgid Ugaritic
+msgstr 乌加里特文
+
+#uig
+msgid Uyghur
+msgstr 维吾尔语
+
+#ukr
+msgid Ukrainian
+msgstr 乌克兰语
+
+#umb
+msgid Umbundu
+msgstr 翁本杜文
+
+#und
+msgid Unknown language
+msgstr 未知语言
+
+#urd
+msgid Urdu
+msgstr 乌尔都语
+
+#uzb
+msgid Uzbek
+msgstr 乌兹别克语
+
+#vai
+msgid Vai
+msgstr 瓦伊文
+
+#ven
+msgid Venda
+msgstr 文达文
+
+#vep
+msgid Veps
+msgstr 维普森文
+
+#vie
+msgid Vietnamese
+msgstr 越南语
+
+#vol
+msgid Volapük
+msgstr 沃拉普克文
+
+#vot
+msgid Votic
+msgstr 沃提克文
+
+#vun
+msgid Vunjo
+msgstr 温旧文
+
+#wae
+msgid Walser
+msgstr 瓦尔瑟文
+
+#wal
+msgid Wolaytta
+msgstr 瓦拉莫文
+
+#war
+msgid Waray
+msgstr 瓦瑞文
+
+#was
+msgid Washo
+msgstr 瓦绍文
+
+#wbp
+msgid Warlpiri
+msgstr 瓦尔皮瑞文
+
+#wln
+msgid Walloon
+msgstr 瓦隆文
+
+#wol
+msgid Wolof
+msgstr 沃洛夫文
+
+#wuu
+msgid Wu Chinese
+msgstr 吴语
+
+#xal
+msgid Kalmyk
+msgstr 卡尔梅克文
+
+#xho
+msgid Xhosa
+msgstr 科萨文
+
+#xog
+msgid Soga
+msgstr 索加文
+
+#yao
+msgid Yao
+msgstr 瑶族语
+
+#yap
+msgid Yapese
+msgstr 雅浦文
+
+#yav
+msgid Yangben
+msgstr 洋卞文
+
+#ybb
+msgid Yemba
+msgstr 耶姆巴文
+
+#yid
+msgid Yiddish
+msgstr 意第绪文
+
+#yor
+msgid Yoruba
+msgstr 约鲁巴文
+
+#yue
+msgid Cantonese
+msgstr 粤语
+
+#zap
+msgid Zapotec
+msgstr 萨波蒂克文
+
+#zbl
+msgid Blissymbols
+msgstr 布里斯符号
+
+#zen
+msgid Zenaga
+msgstr 泽纳加文
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr 标准摩洛哥塔马塞特文
+
+#zh Hans
+msgid Simplified Chinese
+msgstr 简体中文
+
+#zh Hant
+msgid Traditional Chinese
+msgstr 繁体中文
+
+#zha
+msgid Zhuang
+msgstr 壮语
+
+#zho
+msgid Chinese
+msgstr 中文
+
+#zul
+msgid Zulu
+msgstr 祖鲁语
+
+#zun
+msgid Zuni
+msgstr 祖尼文
+
+#zxx
+msgid No linguistic content
+msgstr 无语言内容
+
+#zza
+msgid Zaza
+msgstr 扎扎文
+

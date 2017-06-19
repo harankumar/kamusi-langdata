@@ -1,16 +1,16 @@
-#ak
+#aka
 msgid Akan
 msgstr Ichi Akan
 
-#am
+#amh
 msgid Amharic
 msgstr Ichi Amhari
 
-#ar
+#ara
 msgid Arabic
 msgstr Ichi Arab
 
-#be
+#bel
 msgid Belarusian
 msgstr Ichi Belarus
 
@@ -18,163 +18,163 @@ msgstr Ichi Belarus
 msgid Bemba
 msgstr Ichibemba
 
-#bg
-msgid Bulgarian
-msgstr Ichi Bulgariani
-
-#bn
+#ben
 msgid Bangla
 msgstr Ichi Bengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Ichi Bulgariani
+
+#ces
 msgid Czech
 msgstr Ichi Cheki
 
-#de
+#deu
 msgid German
 msgstr Ichi Jemani
 
-#el
+#ell
 msgid Greek
 msgstr Ichi Griki
 
-#en
+#eng
 msgid English
 msgstr Ichi Sungu
 
-#es
-msgid Spanish
-msgstr Ichi Spanishi
-
-#fa
+#fas
 msgid Persian
 msgstr Ichi Pesia
 
-#fr
+#fra
 msgid French
 msgstr Ichi Frenchi
 
-#ha
+#hau
 msgid Hausa
 msgstr Ichi Hausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Ichi Hindu
 
-#hu
+#hun
 msgid Hungarian
 msgstr Ichi Hangarian
 
-#id
-msgid Indonesian
-msgstr Ichi Indonesiani
-
-#ig
+#ibo
 msgid Igbo
 msgstr Ichi Ibo
 
-#it
+#ind
+msgid Indonesian
+msgstr Ichi Indonesiani
+
+#ita
 msgid Italian
 msgstr Ichi Italiani
 
-#ja
-msgid Japanese
-msgstr Ichi Japanisi
-
-#jv
+#jav
 msgid Javanese
 msgstr Ichi Javanisi
 
-#km
+#jpn
+msgid Japanese
+msgstr Ichi Japanisi
+
+#khm
 msgid Khmer
 msgstr Ichi Khmer
 
-#ko
-msgid Korean
-msgstr Ichi Koriani
-
-#ms
-msgid Malay
-msgstr Ichi Maleshani
-
-#my
-msgid Burmese
-msgstr Ichi Burma
-
-#ne
-msgid Nepali
-msgstr Ichi Nepali
-
-#nl
-msgid Dutch
-msgstr Ichi Dachi
-
-#pa
-msgid Punjabi
-msgstr Ichi Punjabi
-
-#pl
-msgid Polish
-msgstr Ichi Polishi
-
-#pt
-msgid Portuguese
-msgstr Ichi Potogisi
-
-#ro
-msgid Romanian
-msgstr Ichi Romaniani
-
-#ru
-msgid Russian
-msgstr Ichi Rusiani
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Ichi Rwanda
 
-#so
+#kor
+msgid Korean
+msgstr Ichi Koriani
+
+#msa
+msgid Malay
+msgstr Ichi Maleshani
+
+#mya
+msgid Burmese
+msgstr Ichi Burma
+
+#nep
+msgid Nepali
+msgstr Ichi Nepali
+
+#nld
+msgid Dutch
+msgstr Ichi Dachi
+
+#pan
+msgid Punjabi
+msgstr Ichi Punjabi
+
+#pol
+msgid Polish
+msgstr Ichi Polishi
+
+#por
+msgid Portuguese
+msgstr Ichi Potogisi
+
+#ron
+msgid Romanian
+msgstr Ichi Romaniani
+
+#rus
+msgid Russian
+msgstr Ichi Rusiani
+
+#som
 msgid Somali
 msgstr Ichi Somalia
 
-#sv
+#spa
+msgid Spanish
+msgstr Ichi Spanishi
+
+#swe
 msgid Swedish
 msgstr Ichi Swideni
 
-#ta
+#tam
 msgid Tamil
 msgstr Ichi Tamil
 
-#th
+#tha
 msgid Thai
 msgstr Ichi Thai
 
-#tr
+#tur
 msgid Turkish
 msgstr Ichi Takishi
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ichi Ukraniani
 
-#ur
+#urd
 msgid Urdu
 msgstr Ichi Urudu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Ichi Vietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Ichi Yoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Ichi Chainisi
 
-#zu
+#zul
 msgid Zulu
 msgstr Ichi Zulu
 

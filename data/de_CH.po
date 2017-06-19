@@ -10,7 +10,7 @@ msgstr Acholi-Sprache
 msgid Basaa
 msgstr Basaa-Sprache
 
-#be
+#bel
 msgid Belarusian
 msgstr Weissrussisch
 

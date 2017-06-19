@@ -1,92 +1,92 @@
-#ak
+#aka
 msgid Akan
 msgstr akan
 
-#am
+#amh
 msgid Amharic
 msgstr amarik
 
-#ar
+#ara
 msgid Arabic
 msgstr arab
 
-#be
+#bel
 msgid Belarusian
 msgstr bieloris
 
-#bg
-msgid Bulgarian
-msgstr bilgar
-
-#bn
+#ben
 msgid Bangla
 msgstr bengali
 
-#cs
+#bul
+msgid Bulgarian
+msgstr bilgar
+
+#ces
 msgid Czech
 msgstr tchek
 
-#de
+#deu
 msgid German
 msgstr alman
 
-#el
+#ell
 msgid Greek
 msgstr grek
 
-#en
+#eng
 msgid English
 msgstr angle
 
-#es
-msgid Spanish
-msgstr espagnol
-
-#fa
+#fas
 msgid Persian
 msgstr persan
 
-#fr
+#fra
 msgid French
 msgstr franse
 
-#ha
+#hau
 msgid Hausa
 msgstr haoussa
 
-#hi
+#hin
 msgid Hindi
 msgstr hindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr hongrwa
 
-#id
-msgid Indonesian
-msgstr indonezien
-
-#ig
+#ibo
 msgid Igbo
 msgstr igbo
 
-#it
+#ind
+msgid Indonesian
+msgstr indonezien
+
+#ita
 msgid Italian
 msgstr italien
 
-#ja
-msgid Japanese
-msgstr zapone
-
-#jv
+#jav
 msgid Javanese
 msgstr zavane
 
-#km
+#jpn
+msgid Japanese
+msgstr zapone
+
+#khm
 msgid Khmer
 msgstr khmer, santral
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr rwanda
+
+#kor
 msgid Korean
 msgstr koreen
 
@@ -94,87 +94,87 @@ msgstr koreen
 msgid Morisyen
 msgstr kreol morisien
 
-#ms
+#msa
 msgid Malay
 msgstr male
 
-#my
+#mya
 msgid Burmese
 msgstr birman
 
-#ne
+#nep
 msgid Nepali
 msgstr nepale
 
-#nl
+#nld
 msgid Dutch
 msgstr olande
 
-#pa
+#pan
 msgid Punjabi
 msgstr penjabi
 
-#pl
+#pol
 msgid Polish
 msgstr polone
 
-#pt
+#por
 msgid Portuguese
 msgstr portige
 
-#ro
+#ron
 msgid Romanian
 msgstr roumin
 
-#ru
+#rus
 msgid Russian
 msgstr ris
 
-#rw
-msgid Kinyarwanda
-msgstr rwanda
-
-#so
+#som
 msgid Somali
 msgstr somali
 
-#sv
+#spa
+msgid Spanish
+msgstr espagnol
+
+#swe
 msgid Swedish
 msgstr swedwa
 
-#ta
+#tam
 msgid Tamil
 msgstr tamoul
 
-#th
+#tha
 msgid Thai
 msgstr thaï
 
-#tr
+#tur
 msgid Turkish
 msgstr tirk
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ikrenien
 
-#ur
+#urd
 msgid Urdu
 msgstr ourdou
 
-#vi
+#vie
 msgid Vietnamese
 msgstr vietnamien
 
-#yo
+#yor
 msgid Yoruba
 msgstr yoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr sinwa, mandarin
 
-#zu
+#zul
 msgid Zulu
 msgstr zoulou
 

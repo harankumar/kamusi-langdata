@@ -1,0 +1,372 @@
+#afr
+msgid Afrikaans
+msgstr አፍሪቃንሰኛ
+
+#amh
+msgid Amharic
+msgstr አምሐረኛ
+
+#ara
+msgid Arabic
+msgstr ዓረበኛ
+
+#aze
+msgid Azerbaijani
+msgstr አዜርባይጃንኛ
+
+#bel
+msgid Belarusian
+msgstr ቤላራሻኛ
+
+#ben
+msgid Bangla
+msgstr በንጋሊኛ
+
+#bos
+msgid Bosnian
+msgstr ቦስኒያን
+
+#bre
+msgid Breton
+msgstr ብሬቶን
+
+#bul
+msgid Bulgarian
+msgstr ቡልጋሪኛ
+
+#cat
+msgid Catalan
+msgstr ካታላን
+
+#ces
+msgid Czech
+msgstr ቼክኛ
+
+#cym
+msgid Welsh
+msgstr ወልሽ
+
+#dan
+msgid Danish
+msgstr ዴኒሽ
+
+#deu
+msgid German
+msgstr ጀርመን
+
+#ell
+msgid Greek
+msgstr ግሪከኛ
+
+#eng
+msgid English
+msgstr እንግሊዝኛ
+
+#epo
+msgid Esperanto
+msgstr ኤስፐራንቶ
+
+#est
+msgid Estonian
+msgstr ኤስቶኒአን
+
+#eus
+msgid Basque
+msgstr ባስክኛ
+
+#fao
+msgid Faroese
+msgstr ፋሮኛ
+
+#fas
+msgid Persian
+msgstr ፐርሲያኛ
+
+#fil
+msgid Filipino
+msgstr ታጋሎገኛ
+
+#fin
+msgid Finnish
+msgstr ፊኒሽ
+
+#fra
+msgid French
+msgstr ፈረንሳይኛ
+
+#fry
+msgid Western Frisian
+msgstr ፍሪሰኛ
+
+#gla
+msgid Scottish Gaelic
+msgstr እስኮትስ ጌልክኛ
+
+#gle
+msgid Irish
+msgstr አይሪሽ
+
+#glg
+msgid Galician
+msgstr ጋለቪኛ
+
+#grn
+msgid Guarani
+msgstr ጓራኒ
+
+#guj
+msgid Gujarati
+msgstr ጉጃራቲኛ
+
+#hbs
+msgid Serbo-Croatian
+msgstr ሰርቦ- ክሮዊታን
+
+#heb
+msgid Hebrew
+msgstr ዕብራስጥ
+
+#hin
+msgid Hindi
+msgstr ሕንደኛ
+
+#hrv
+msgid Croatian
+msgstr ክሮሽያንኛ
+
+#hun
+msgid Hungarian
+msgstr ሀንጋሪኛ
+
+#ina
+msgid Interlingua
+msgstr ኢንቴር ቋንቋ
+
+#ind
+msgid Indonesian
+msgstr እንዶኑሲኛ
+
+#isl
+msgid Icelandic
+msgstr አይስላንደኛ
+
+#ita
+msgid Italian
+msgstr ጣሊያንኛ
+
+#jav
+msgid Javanese
+msgstr ጃቫንኛ
+
+#jpn
+msgid Japanese
+msgstr ጃፓንኛ
+
+#kan
+msgid Kannada
+msgstr ካማደኛ
+
+#kat
+msgid Georgian
+msgstr ጊዮርጊያኛ
+
+#kir
+msgid Kyrgyz
+msgstr ኪሩጋዚ
+
+#kor
+msgid Korean
+msgstr ኮሪያኛ
+
+#kur
+msgid Kurdish
+msgstr ኩርድሽ
+
+#lat
+msgid Latin
+msgstr ላቲንኛ
+
+#lav
+msgid Latvian
+msgstr ላቲቪያን
+
+#lit
+msgid Lithuanian
+msgstr ሊቱአኒየን
+
+#mal
+msgid Malayalam
+msgstr ማላያላምኛ
+
+#mar
+msgid Marathi
+msgstr ማራቲኛ
+
+#mkd
+msgid Macedonian
+msgstr ማክዶኒኛ
+
+#mlt
+msgid Maltese
+msgstr ማልቲስኛ
+
+#msa
+msgid Malay
+msgstr ማላይኛ
+
+#nep
+msgid Nepali
+msgstr ኔፖሊኛ
+
+#nld
+msgid Dutch
+msgstr ደች
+
+#nno
+msgid Norwegian Nynorsk
+msgstr ኖርዌይኛ (ናይ ኝኖርስክ)
+
+#nor
+msgid Norwegian
+msgstr ኖርዌጂያን
+
+#oci
+msgid Occitan
+msgstr ኦኪታንኛ
+
+#ori
+msgid Odia
+msgstr ኦሪያ
+
+#pan
+msgid Punjabi
+msgstr ፑንጃቢኛ
+
+#pol
+msgid Polish
+msgstr ፖሊሽ
+
+#por
+msgid Portuguese
+msgstr ፖርቱጋሊኛ
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr ፖርቱጋልኛ (ናይ ብራዚል)
+
+#pt PT
+msgid European Portuguese
+msgstr ፖርቱጋልኛ (ናይ ፖርቱጋል)
+
+#pus
+msgid Pashto
+msgstr ፓሽቶ
+
+#ron
+msgid Romanian
+msgstr ሮማኒያን
+
+#rus
+msgid Russian
+msgstr ራሽኛ
+
+#sin
+msgid Sinhala
+msgstr ስንሃልኛ
+
+#slk
+msgid Slovak
+msgstr ስሎቨክኛ
+
+#slv
+msgid Slovenian
+msgstr ስቁቪኛ
+
+#sot
+msgid Southern Sotho
+msgstr ሰሴቶ
+
+#spa
+msgid Spanish
+msgstr ስፓኒሽ
+
+#sqi
+msgid Albanian
+msgstr አልቤኒኛ
+
+#srp
+msgid Serbian
+msgstr ሰርቢኛ
+
+#sun
+msgid Sundanese
+msgstr ሱዳንኛ
+
+#swa
+msgid Swahili
+msgstr ሰዋሂሊኛ
+
+#swe
+msgid Swedish
+msgstr ስዊድንኛ
+
+#tam
+msgid Tamil
+msgstr ታሚልኛ
+
+#tel
+msgid Telugu
+msgstr ተሉጉኛ
+
+#tha
+msgid Thai
+msgstr ታይኛ
+
+#tir
+msgid Tigrinya
+msgstr ትግርኛ
+
+#tlh
+msgid Klingon
+msgstr ክሊንግኦንኛ
+
+#tuk
+msgid Turkmen
+msgstr ናይ ቱርኪ ሰብዓይ (ቱርካዊ)
+
+#tur
+msgid Turkish
+msgstr ቱርከኛ
+
+#twi
+msgid Twi
+msgstr ትዊ
+
+#ukr
+msgid Ukrainian
+msgstr ዩክረኒኛ
+
+#urd
+msgid Urdu
+msgstr ኡርዱኛ
+
+#uzb
+msgid Uzbek
+msgstr ኡዝበክኛ
+
+#vie
+msgid Vietnamese
+msgstr ቪትናምኛ
+
+#xho
+msgid Xhosa
+msgstr ዞሳኛ
+
+#yid
+msgid Yiddish
+msgstr ዪዲሽ
+
+#zul
+msgid Zulu
+msgstr ዙሉኛ
+

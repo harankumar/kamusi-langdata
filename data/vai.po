@@ -1,160 +1,160 @@
-#ak
+#aka
 msgid Akan
 msgstr ꕉꕪꘋ
 
-#am
+#amh
 msgid Amharic
 msgstr ꕉꕆꕌꔸ
 
-#ar
+#ara
 msgid Arabic
 msgstr ꕞꕌꖝ
 
-#be
+#bel
 msgid Belarusian
 msgstr ꔆꕞꖩꔻ
 
-#bg
-msgid Bulgarian
-msgstr ꗂꔠꗸꘋ
-
-#bn
+#ben
 msgid Bangla
 msgstr ꗩꕭꔷ
 
-#cs
+#bul
+msgid Bulgarian
+msgstr ꗂꔠꗸꘋ
+
+#ces
 msgid Czech
 msgstr ꗿꗡ
 
-#de
+#deu
 msgid German
 msgstr ꕧꕮꔧ
 
-#el
+#ell
 msgid Greek
 msgstr ꗥꗷꘋ
 
-#en
+#eng
 msgid English
 msgstr ꕶꕱ
 
-#es
-msgid Spanish
-msgstr ꕐꘊꔧ
-
-#fa
+#fas
 msgid Persian
 msgstr ꗨꗡꔻꘂꘋ
 
-#fr
+#fra
 msgid French
 msgstr ꗱꘋꔻ
 
-#ha
+#hau
 msgid Hausa
 msgstr ꕌꖙꕢ
 
-#hi
+#hin
 msgid Hindi
 msgstr ꔦꔺ
 
-#hu
+#hun
 msgid Hungarian
 msgstr ꖽꔟꗸꘋ
 
-#id
-msgid Indonesian
-msgstr ꔤꖆꕇꔻꘂꘋ
-
-#ig
+#ibo
 msgid Igbo
 msgstr ꔤꕼ
 
-#it
+#ind
+msgid Indonesian
+msgstr ꔤꖆꕇꔻꘂꘋ
+
+#ita
 msgid Italian
 msgstr ꔤꕚꔷꘂꘋ
 
-#ja
-msgid Japanese
-msgstr ꕧꕐꕇꔧ
-
-#jv
+#jav
 msgid Javanese
 msgstr ꕧꕙꕇꔧ
 
-#km
+#jpn
+msgid Japanese
+msgstr ꕧꕐꕇꔧ
+
+#khm
 msgid Khmer
 msgstr ꕃꘈꗢ
 
-#ko
-msgid Korean
-msgstr ꖏꔸꘂꘋ
-
-#ms
-msgid Malay
-msgstr ꕮꔒꔀ
-
-#my
-msgid Burmese
-msgstr ꗩꕆꔻ
-
-#ne
-msgid Nepali
-msgstr ꕇꕐꔷ
-
-#nl
-msgid Dutch
-msgstr ꗍꔿ
-
-#pa
-msgid Punjabi
-msgstr ꖛꕨꔬ
-
-#pl
-msgid Polish
-msgstr ꗁꔒꔻ
-
-#pt
-msgid Portuguese
-msgstr ꕶꕿꕃꔤ
-
-#ro
-msgid Romanian
-msgstr ꖄꕆꕇꘂꘋ
-
-#ru
-msgid Russian
-msgstr ꗐꖺꔻꘂꘋ
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr ꕟꖙꕡ
 
-#so
+#kor
+msgid Korean
+msgstr ꖏꔸꘂꘋ
+
+#msa
+msgid Malay
+msgstr ꕮꔒꔀ
+
+#mya
+msgid Burmese
+msgstr ꗩꕆꔻ
+
+#nep
+msgid Nepali
+msgstr ꕇꕐꔷ
+
+#nld
+msgid Dutch
+msgstr ꗍꔿ
+
+#pan
+msgid Punjabi
+msgstr ꖛꕨꔬ
+
+#pol
+msgid Polish
+msgstr ꗁꔒꔻ
+
+#por
+msgid Portuguese
+msgstr ꕶꕿꕃꔤ
+
+#ron
+msgid Romanian
+msgstr ꖄꕆꕇꘂꘋ
+
+#rus
+msgid Russian
+msgstr ꗐꖺꔻꘂꘋ
+
+#som
 msgid Somali
 msgstr ꖇꕮꔷ
 
-#sv
+#spa
+msgid Spanish
+msgstr ꕐꘊꔧ
+
+#swe
 msgid Swedish
 msgstr ꖬꔨꗵꘋ
 
-#ta
+#tam
 msgid Tamil
 msgstr ꕚꕆꔷ
 
-#th
+#tha
 msgid Thai
 msgstr ꕚꔤ
 
-#tr
+#tur
 msgid Turkish
 msgstr ꗋꕃ
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ꖳꖴꔓꕇꘂꘋ
 
-#ur
+#urd
 msgid Urdu
 msgstr ꖺꖦ
 
@@ -162,19 +162,19 @@ msgstr ꖺꖦ
 msgid Vai
 msgstr ꕙꔤ
 
-#vi
+#vie
 msgid Vietnamese
 msgstr ꔲꕩꕯꕆꔧ
 
-#yo
+#yor
 msgid Yoruba
 msgstr ꖎꖄꕑ
 
-#zh
+#zho
 msgid Chinese
 msgstr ꕦꕇꔧ
 
-#zu
+#zul
 msgid Zulu
 msgstr ꖮꖨ
 

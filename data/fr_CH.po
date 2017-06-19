@@ -1,4 +1,4 @@
-#gu
+#guj
 msgid Gujarati
 msgstr goudjrati
 

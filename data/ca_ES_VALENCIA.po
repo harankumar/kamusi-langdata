@@ -1,16 +1,16 @@
-#an
-msgid Aragonese
-msgstr aragonés
-
 #ang
 msgid Old English
 msgstr anglés antic
 
-#as
+#arg
+msgid Aragonese
+msgstr aragonés
+
+#asm
 msgid Assamese
 msgstr assamés
 
-#az
+#aze
 msgid Azerbaijani
 msgstr azerbaidjanés
 
@@ -18,25 +18,21 @@ msgstr azerbaidjanés
 msgid Balinese
 msgstr balinés
 
-#ce
+#che
 msgid Chechen
 msgstr txetxé
 
-#cy
+#cym
 msgid Welsh
 msgstr gal·lés
 
-#da
+#dan
 msgid Danish
 msgstr danés
 
 #dum
 msgid Middle Dutch
 msgstr neerlandés mitjà
-
-#en
-msgid English
-msgstr anglés
 
 #en GB-short
 msgid UK English
@@ -46,19 +42,23 @@ msgstr anglés (GB)
 msgid US English
 msgstr anglés (EUA)
 
+#eng
+msgid English
+msgstr anglés
+
 #enm
 msgid Middle English
 msgstr anglés mitjà
 
-#fi
-msgid Finnish
-msgstr finés
-
-#fo
+#fao
 msgid Faroese
 msgstr feroés
 
-#fr
+#fin
+msgid Finnish
+msgstr finés
+
+#fra
 msgid French
 msgstr francés
 
@@ -70,63 +70,67 @@ msgstr francés mitjà
 msgid Old French
 msgstr francés antic
 
-#ga
-msgid Irish
-msgstr irlandés
-
-#gd
-msgid Scottish Gaelic
-msgstr gaèlic escocés
-
 #gil
 msgid Gilbertese
 msgstr gilbertés
 
-#hu
+#gla
+msgid Scottish Gaelic
+msgstr gaèlic escocés
+
+#gle
+msgid Irish
+msgstr irlandés
+
+#hun
 msgid Hungarian
 msgstr hongarés
 
-#is
+#isl
 msgid Icelandic
 msgstr islandés
 
-#ja
+#jav
+msgid Javanese
+msgstr javanés
+
+#jpn
 msgid Japanese
 msgstr japonés
 
-#jv
-msgid Javanese
-msgstr javanés
+#kal
+msgid Kalaallisut
+msgstr grenlandés
 
 #kho
 msgid Khotanese
 msgstr khotanés
 
-#kl
-msgid Kalaallisut
-msgstr grenlandés
+#kin
+msgid Kinyarwanda
+msgstr ruandés
 
-#lb
-msgid Luxembourgish
-msgstr luxemburgués
-
-#li
+#lim
 msgid Limburgish
 msgstr limburgués
+
+#ltz
+msgid Luxembourgish
+msgstr luxemburgués
 
 #mad
 msgid Madurese
 msgstr madurés
 
+#mah
+msgid Marshallese
+msgstr marshallés
+
 #mga
 msgid Middle Irish
 msgstr gaèlic irlandés mitjà
 
-#mh
-msgid Marshallese
-msgstr marshallés
-
-#mt
+#mlt
 msgid Maltese
 msgstr maltés
 
@@ -134,33 +138,29 @@ msgstr maltés
 msgid Mirandese
 msgstr mirandés
 
-#ne
+#nep
 msgid Nepali
 msgstr nepalés
 
-#nl
+#nld
 msgid Dutch
 msgstr neerlandés
 
-#pl
+#pol
 msgid Polish
 msgstr polonés
 
-#pt
+#por
 msgid Portuguese
 msgstr portugués
 
-#ro
+#ron
 msgid Romanian
 msgstr romanés
 
 #rup
 msgid Aromanian
 msgstr aromanés
-
-#rw
-msgid Kinyarwanda
-msgstr ruandés
 
 #sco
 msgid Scots
@@ -170,23 +170,23 @@ msgstr escocés
 msgid Old Irish
 msgstr irlandés antic
 
-#si
+#sin
 msgid Sinhala
 msgstr singalés
 
-#sl
+#slv
 msgid Slovenian
 msgstr eslové
 
-#sq
+#sqi
 msgid Albanian
 msgstr albanés
 
-#su
+#sun
 msgid Sundanese
 msgstr sundanés
 
-#th
+#tha
 msgid Thai
 msgstr tailandés
 
@@ -194,11 +194,11 @@ msgstr tailandés
 msgid Tokelau
 msgstr tokelaués
 
-#to
+#ton
 msgid Tongan
 msgstr tongalés
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ucraïnés
 
@@ -206,7 +206,7 @@ msgstr ucraïnés
 msgid Cantonese
 msgstr cantonés
 
-#zh
+#zho
 msgid Chinese
 msgstr xinés
 

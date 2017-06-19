@@ -1,32 +1,32 @@
-#ak
+#aka
 msgid Akan
 msgstr Kĩakan
 
-#am
+#amh
 msgid Amharic
 msgstr Kĩamhari
 
-#ar
+#ara
 msgid Arabic
 msgstr Kĩarabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Kĩmbelarusi
 
-#bg
-msgid Bulgarian
-msgstr Kĩbulgaria
-
-#bn
+#ben
 msgid Bangla
 msgstr Kĩbangla
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Kĩbulgaria
+
+#ces
 msgid Czech
 msgstr Kĩcheki
 
-#de
+#deu
 msgid German
 msgstr Kĩnjeremani
 
@@ -34,147 +34,147 @@ msgstr Kĩnjeremani
 msgid Embu
 msgstr Kĩembu
 
-#el
+#ell
 msgid Greek
 msgstr Kĩngriki
 
-#en
+#eng
 msgid English
 msgstr Kĩthungu
 
-#es
-msgid Spanish
-msgstr Kĩhispania
-
-#fa
+#fas
 msgid Persian
 msgstr Kĩanjemi
 
-#fr
+#fra
 msgid French
 msgstr Kĩfaransa
 
-#ha
+#hau
 msgid Hausa
 msgstr Kĩhausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Kĩhindĩ
 
-#hu
+#hun
 msgid Hungarian
 msgstr Kĩhungari
 
-#id
-msgid Indonesian
-msgstr Kĩindonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Kĩigbo
 
-#it
+#ind
+msgid Indonesian
+msgstr Kĩindonesia
+
+#ita
 msgid Italian
 msgstr Kĩitaliano
 
-#ja
-msgid Japanese
-msgstr Kĩnjapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Kĩjava
 
-#km
+#jpn
+msgid Japanese
+msgstr Kĩnjapani
+
+#khm
 msgid Khmer
 msgstr Kĩkambodia
 
-#ko
-msgid Korean
-msgstr Kĩkorea
-
-#ms
-msgid Malay
-msgstr Kĩmalesia
-
-#my
-msgid Burmese
-msgstr Kĩburma
-
-#ne
-msgid Nepali
-msgstr Kĩnepali
-
-#nl
-msgid Dutch
-msgstr Kĩholanzi
-
-#pa
-msgid Punjabi
-msgstr Kĩpunjabi
-
-#pl
-msgid Polish
-msgstr Kĩpolandi
-
-#pt
-msgid Portuguese
-msgstr Kĩreno
-
-#ro
-msgid Romanian
-msgstr Kĩromania
-
-#ru
-msgid Russian
-msgstr Kĩrusi
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Kĩnyarwanda
 
-#so
+#kor
+msgid Korean
+msgstr Kĩkorea
+
+#msa
+msgid Malay
+msgstr Kĩmalesia
+
+#mya
+msgid Burmese
+msgstr Kĩburma
+
+#nep
+msgid Nepali
+msgstr Kĩnepali
+
+#nld
+msgid Dutch
+msgstr Kĩholanzi
+
+#pan
+msgid Punjabi
+msgstr Kĩpunjabi
+
+#pol
+msgid Polish
+msgstr Kĩpolandi
+
+#por
+msgid Portuguese
+msgstr Kĩreno
+
+#ron
+msgid Romanian
+msgstr Kĩromania
+
+#rus
+msgid Russian
+msgstr Kĩrusi
+
+#som
 msgid Somali
 msgstr Kĩsomali
 
-#sv
+#spa
+msgid Spanish
+msgstr Kĩhispania
+
+#swe
 msgid Swedish
 msgstr Kĩswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Kĩtamil
 
-#th
+#tha
 msgid Thai
 msgstr Kĩtailandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Kĩturuki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Kĩukrania
 
-#ur
+#urd
 msgid Urdu
 msgstr Kĩurdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Kĩvietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Kĩyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Kĩchina
 
-#zu
+#zul
 msgid Zulu
 msgstr Kĩzulu
 

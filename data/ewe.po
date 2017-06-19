@@ -1,0 +1,1020 @@
+#abk
+msgid Abkhazian
+msgstr abkhaziagbe
+
+#ady
+msgid Adyghe
+msgstr adyghegbe
+
+#afr
+msgid Afrikaans
+msgstr afrikaangbe
+
+#agq
+msgid Aghem
+msgstr aghemgbe
+
+#aka
+msgid Akan
+msgstr blugbe
+
+#amh
+msgid Amharic
+msgstr amhariagbe
+
+#ara
+msgid Arabic
+msgstr Arabiagbe
+
+#asa
+msgid Asu
+msgstr asagbe
+
+#asm
+msgid Assamese
+msgstr assamegbe
+
+#ast
+msgid Asturian
+msgstr asturiagbe
+
+#ava
+msgid Avaric
+msgstr avariagbe
+
+#aym
+msgid Aymara
+msgstr aymargbe
+
+#aze
+msgid Azerbaijani
+msgstr azerbaijangbe
+
+#bak
+msgid Bashkir
+msgstr bashkigbe
+
+#bam
+msgid Bambara
+msgstr bambaragbe
+
+#bas
+msgid Basaa
+msgstr basaagbe
+
+#bax
+msgid Bamun
+msgstr bamugbe
+
+#bbj
+msgid Ghomala
+msgstr ghomalagbe
+
+#bel
+msgid Belarusian
+msgstr belarusiagbe
+
+#bem
+msgid Bemba
+msgstr bembagbe
+
+#ben
+msgid Bangla
+msgstr Bengaligbe
+
+#bez
+msgid Bena
+msgstr benagbe
+
+#bfd
+msgid Bafut
+msgstr bafutgbe
+
+#bis
+msgid Bislama
+msgstr bislamagbe
+
+#bkm
+msgid Kom
+msgstr komgbe
+
+#bod
+msgid Tibetan
+msgstr tibetagbe
+
+#bos
+msgid Bosnian
+msgstr bosniagbe
+
+#bre
+msgid Breton
+msgstr bretongbe
+
+#brx
+msgid Bodo
+msgstr bodogbe
+
+#bss
+msgid Akoose
+msgstr akoosiagbe
+
+#bul
+msgid Bulgarian
+msgstr bulgariagbe
+
+#bum
+msgid Bulu
+msgstr bulugbe
+
+#byv
+msgid Medumba
+msgstr medumbagbe
+
+#cat
+msgid Catalan
+msgstr katalagbe
+
+#ceb
+msgid Cebuano
+msgstr Sebuanogbe
+
+#ces
+msgid Czech
+msgstr tsɛkgbe
+
+#cha
+msgid Chamorro
+msgstr kamorrogbe
+
+#chk
+msgid Chuukese
+msgstr tsukesegbe
+
+#chm
+msgid Mari
+msgstr tsetsniagbe
+
+#cym
+msgid Welsh
+msgstr walesgbe
+
+#dan
+msgid Danish
+msgstr denmarkgbe
+
+#de AT
+msgid Austrian German
+msgstr Germaniagbe (Austria)
+
+#de CH
+msgid Swiss High German
+msgstr Germaniagbe (Switzerland)
+
+#deu
+msgid German
+msgstr Germaniagbe
+
+#div
+msgid Divehi
+msgstr divehgbe
+
+#dje
+msgid Zarma
+msgstr zamagbe
+
+#dua
+msgid Duala
+msgstr dualagbe
+
+#dyo
+msgid Jola-Fonyi
+msgstr dzola-fonyigbe
+
+#dzo
+msgid Dzongkha
+msgstr dzongkhagbe
+
+#ebu
+msgid Embu
+msgstr embugbe
+
+#efi
+msgid Efik
+msgstr efigbe
+
+#ell
+msgid Greek
+msgstr grisigbe
+
+#en AU
+msgid Australian English
+msgstr Yevugbe (Australia)
+
+#en CA
+msgid Canadian English
+msgstr Yevugbe (Canada)
+
+#en GB
+msgid British English
+msgstr Yevugbe (Britain)
+
+#en GB-short
+msgid UK English
+msgstr Yevugbe (GB)
+
+#en US
+msgid American English
+msgstr Yevugbe (America)
+
+#en US-short
+msgid US English
+msgstr Yevugbe (US)
+
+#eng
+msgid English
+msgstr Yevugbe
+
+#epo
+msgid Esperanto
+msgstr esperantogbe
+
+#es 419
+msgid Latin American Spanish
+msgstr Spanishgbe (Latin America)
+
+#es ES
+msgid European Spanish
+msgstr Spanishgbe (Europe)
+
+#es MX
+msgid Mexican Spanish
+msgstr Spanishgbe (Mexico)
+
+#est
+msgid Estonian
+msgstr estoniagbe
+
+#eus
+msgid Basque
+msgstr basqugbe
+
+#ewe
+msgid Ewe
+msgstr Eʋegbe
+
+#ewo
+msgid Ewondo
+msgstr ewondogbe
+
+#fan
+msgid Fang
+msgstr fangbe
+
+#fao
+msgid Faroese
+msgstr faroegbe
+
+#fas
+msgid Persian
+msgstr persiagbe
+
+#fij
+msgid Fijian
+msgstr fidzigbe
+
+#fil
+msgid Filipino
+msgstr filipingbe
+
+#fin
+msgid Finnish
+msgstr finlanɖgbe
+
+#fr CA
+msgid Canadian French
+msgstr Fransegbe (Canada)
+
+#fr CH
+msgid Swiss French
+msgstr Fransegbe (Switzerland)
+
+#fra
+msgid French
+msgstr Fransegbe
+
+#fry
+msgid Western Frisian
+msgstr ɣetoɖoƒe frisiagbe
+
+#ful
+msgid Fulah
+msgstr fulagbe
+
+#gaa
+msgid Ga
+msgstr gɛgbe
+
+#gil
+msgid Gilbertese
+msgstr gilbertgbe
+
+#gla
+msgid Scottish Gaelic
+msgstr skɔtlanɖ gaeliagbe
+
+#gle
+msgid Irish
+msgstr irelanɖgbe
+
+#glg
+msgid Galician
+msgstr galatagbe
+
+#grn
+msgid Guarani
+msgstr guarangbe
+
+#gsw
+msgid Swiss German
+msgstr swizerlanɖtɔwo ƒe germaniagbe
+
+#guj
+msgid Gujarati
+msgstr gujarati
+
+#hat
+msgid Haitian Creole
+msgstr haitigbe
+
+#hau
+msgid Hausa
+msgstr hausagbe
+
+#haw
+msgid Hawaiian
+msgstr hawaigbe
+
+#hbs
+msgid Serbo-Croatian
+msgstr serbo-croatiagbe
+
+#heb
+msgid Hebrew
+msgstr hebrigbe
+
+#hil
+msgid Hiligaynon
+msgstr hiligenɔgbe
+
+#hin
+msgid Hindi
+msgstr Hindigbe
+
+#hmo
+msgid Hiri Motu
+msgstr hiri motugbe
+
+#hrv
+msgid Croatian
+msgstr kroatiagbe
+
+#hun
+msgid Hungarian
+msgstr hungarigbe
+
+#hye
+msgid Armenian
+msgstr armeniagbe
+
+#ibb
+msgid Ibibio
+msgstr ibibiogbe
+
+#ibo
+msgid Igbo
+msgstr igbogbe
+
+#ilo
+msgid Iloko
+msgstr ilikogbe
+
+#ind
+msgid Indonesian
+msgstr Indonesiagbe
+
+#inh
+msgid Ingush
+msgstr ingusigbe
+
+#isl
+msgid Icelandic
+msgstr icelanɖgbe
+
+#ita
+msgid Italian
+msgstr Italiagbe
+
+#jav
+msgid Javanese
+msgstr dzavangbe
+
+#jpn
+msgid Japanese
+msgstr Japangbe
+
+#kal
+msgid Kalaallisut
+msgstr kalaalisugbe
+
+#kan
+msgid Kannada
+msgstr kannadagbe
+
+#kas
+msgid Kashmiri
+msgstr kashmirgbe
+
+#kat
+msgid Georgian
+msgstr gɔgiagbe
+
+#kau
+msgid Kanuri
+msgstr kanuriagbe
+
+#kaz
+msgid Kazakh
+msgstr kazakhstangbe
+
+#kbd
+msgid Kabardian
+msgstr kabardiagbe
+
+#kea
+msgid Kabuverdianu
+msgstr cape verdegbe
+
+#kha
+msgid Khasi
+msgstr khasigbe
+
+#khm
+msgid Khmer
+msgstr khmergbe
+
+#kin
+msgid Kinyarwanda
+msgstr ruwandagbe
+
+#kir
+msgid Kyrgyz
+msgstr kirghistangbe
+
+#kkj
+msgid Kako
+msgstr kakogbe
+
+#kok
+msgid Konkani
+msgstr konkaniagbe
+
+#kon
+msgid Kongo
+msgstr kongogbe
+
+#kor
+msgid Korean
+msgstr Koreagbe
+
+#kos
+msgid Kosraean
+msgstr kosraeagbe
+
+#krc
+msgid Karachay-Balkar
+msgstr karakay-bakargbe
+
+#ksf
+msgid Bafia
+msgstr bafiagbe
+
+#kua
+msgid Kuanyama
+msgstr kunyamagbe
+
+#kum
+msgid Kumyk
+msgstr kumikagbe
+
+#kur
+msgid Kurdish
+msgstr kurdiagbe
+
+#lah
+msgid Lahnda
+msgstr lahndagbe
+
+#lao
+msgid Lao
+msgstr laogbe
+
+#lat
+msgid Latin
+msgstr latin
+
+#lav
+msgid Latvian
+msgstr latviagbe
+
+#lez
+msgid Lezghian
+msgstr lezghiagbe
+
+#lin
+msgid Lingala
+msgstr lingala
+
+#lit
+msgid Lithuanian
+msgstr lithuaniagbe
+
+#ltz
+msgid Luxembourgish
+msgstr laksembɔggbe
+
+#lua
+msgid Luba-Lulua
+msgstr luba-lulugbe
+
+#lub
+msgid Luba-Katanga
+msgstr luba-katangagbe
+
+#luy
+msgid Luyia
+msgstr luyiagbe
+
+#maf
+msgid Mafa
+msgstr mafagbe
+
+#mah
+msgid Marshallese
+msgstr marshalgbe
+
+#mai
+msgid Maithili
+msgstr maitiligbe
+
+#mal
+msgid Malayalam
+msgstr malayagbe
+
+#mar
+msgid Marathi
+msgstr marathiagbe
+
+#mdf
+msgid Moksha
+msgstr moktsiagbe
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr makuwa-mitogbe
+
+#mkd
+msgid Macedonian
+msgstr makedoniagbe
+
+#mlg
+msgid Malagasy
+msgstr malagasegbe
+
+#mlt
+msgid Maltese
+msgstr maltagbe
+
+#mon
+msgid Mongolian
+msgstr mongoliagbe
+
+#mri
+msgid Maori
+msgstr maorgbe
+
+#msa
+msgid Malay
+msgstr malaygbe
+
+#mua
+msgid Mundang
+msgstr mundangbe
+
+#mul
+msgid Multiple languages
+msgstr gbegbɔgblɔ sɔgbɔwo
+
+#mya
+msgid Burmese
+msgstr burmagbe
+
+#mye
+msgid Myene
+msgstr myenegbe
+
+#myv
+msgid Erzya
+msgstr erziyagbe
+
+#nau
+msgid Nauru
+msgstr naurugbe
+
+#nbl
+msgid South Ndebele
+msgstr anyiehe ndebelegbe
+
+#nde
+msgid North Ndebele
+msgstr dziehe ndebelegbe
+
+#nep
+msgid Nepali
+msgstr nepalgbe
+
+#niu
+msgid Niuean
+msgstr niuegbe
+
+#nl BE
+msgid Flemish
+msgstr Flemishgbe
+
+#nld
+msgid Dutch
+msgstr Hollandgbe
+
+#nmg
+msgid Kwasio
+msgstr kwasiogbe
+
+#nnh
+msgid Ngiemboon
+msgstr ngiemboongbe
+
+#nno
+msgid Norwegian Nynorsk
+msgstr nɔweigbe ninɔsk
+
+#nob
+msgid Norwegian Bokmål
+msgstr nɔweigbe bokmål
+
+#nor
+msgid Norwegian
+msgstr nɔweigbe
+
+#nso
+msgid Northern Sotho
+msgstr dziehe sothogbe
+
+#nus
+msgid Nuer
+msgstr nuergbe
+
+#nya
+msgid Nyanja
+msgstr nyanjagbe
+
+#ori
+msgid Odia
+msgstr oriyagbe
+
+#oss
+msgid Ossetic
+msgstr ossetiagbe
+
+#pag
+msgid Pangasinan
+msgstr pangsinagbe
+
+#pan
+msgid Punjabi
+msgstr pundzabgbe
+
+#pap
+msgid Papiamento
+msgstr papiamentogbe
+
+#pau
+msgid Palauan
+msgstr paluagbe
+
+#pol
+msgid Polish
+msgstr Polishgbe
+
+#pon
+msgid Pohnpeian
+msgstr ponpeiagbe
+
+#por
+msgid Portuguese
+msgstr Portuguesegbe
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Portuguesegbe (Brazil)
+
+#pt PT
+msgid European Portuguese
+msgstr Portuguesegbe (Europe)
+
+#pus
+msgid Pashto
+msgstr pashtogbe
+
+#que
+msgid Quechua
+msgstr kwetsuagbe
+
+#rof
+msgid Rombo
+msgstr rombogbe
+
+#roh
+msgid Romansh
+msgstr romanshgbe
+
+#ron
+msgid Romanian
+msgstr romaniagbe
+
+#run
+msgid Rundi
+msgstr rundigbe
+
+#rus
+msgid Russian
+msgstr Russiagbe
+
+#rwk
+msgid Rwa
+msgstr rwagbe
+
+#sag
+msgid Sango
+msgstr sangogbe
+
+#sah
+msgid Sakha
+msgstr sakagbe
+
+#san
+msgid Sanskrit
+msgstr sanskrigbe
+
+#sat
+msgid Santali
+msgstr santaligbe
+
+#sbp
+msgid Sangu
+msgstr sangugbe
+
+#sin
+msgid Sinhala
+msgstr sinhalgbe
+
+#slk
+msgid Slovak
+msgstr slovakiagbe
+
+#slv
+msgid Slovenian
+msgstr sloveniagbe
+
+#sme
+msgid Northern Sami
+msgstr dziehe samigbe
+
+#smo
+msgid Samoan
+msgstr samoagbe
+
+#sna
+msgid Shona
+msgstr shonagbe
+
+#snd
+msgid Sindhi
+msgstr sindhgbe
+
+#som
+msgid Somali
+msgstr somaliagbe
+
+#sot
+msgid Southern Sotho
+msgstr anyiehe sothogbe
+
+#spa
+msgid Spanish
+msgstr Spanishgbe
+
+#sqi
+msgid Albanian
+msgstr albaniagbe
+
+#srp
+msgid Serbian
+msgstr serbiagbe
+
+#ssw
+msgid Swati
+msgstr swatgbe
+
+#swa
+msgid Swahili
+msgstr swahili
+
+#swb
+msgid Comorian
+msgstr komorogbe
+
+#swe
+msgid Swedish
+msgstr swedengbe
+
+#tah
+msgid Tahitian
+msgstr tahitigbe
+
+#tam
+msgid Tamil
+msgstr tamilgbe
+
+#tat
+msgid Tatar
+msgstr tatargbe
+
+#tel
+msgid Telugu
+msgstr telegugbe
+
+#tet
+msgid Tetum
+msgstr tetumgbe
+
+#tgk
+msgid Tajik
+msgstr tadzikistangbe
+
+#tgl
+msgid Tagalog
+msgstr tagalogbe
+
+#tha
+msgid Thai
+msgstr Thailandgbe
+
+#tir
+msgid Tigrinya
+msgstr tigrinyagbe
+
+#tkl
+msgid Tokelau
+msgstr tokelaugbe
+
+#ton
+msgid Tongan
+msgstr tongagbe
+
+#tpi
+msgid Tok Pisin
+msgstr tok pisigbe
+
+#tsn
+msgid Tswana
+msgstr tswanagbe
+
+#tso
+msgid Tsonga
+msgstr tsongagbe
+
+#tuk
+msgid Turkmen
+msgstr tɛkmengbe
+
+#tur
+msgid Turkish
+msgstr Turkishgbe
+
+#tvl
+msgid Tuvalu
+msgstr tuvalugbe
+
+#twq
+msgid Tasawaq
+msgstr tasawakgbe
+
+#tyv
+msgid Tuvinian
+msgstr tuviniagbe
+
+#udm
+msgid Udmurt
+msgstr udmurtgbe
+
+#uig
+msgid Uyghur
+msgstr uighurgbe
+
+#ukr
+msgid Ukrainian
+msgstr ukraingbe
+
+#und
+msgid Unknown language
+msgstr gbegbɔgblɔ manya
+
+#urd
+msgid Urdu
+msgstr urdugbe
+
+#uzb
+msgid Uzbek
+msgstr uzbekistangbe
+
+#vai
+msgid Vai
+msgstr vaigbe
+
+#ven
+msgid Venda
+msgstr vendagbe
+
+#vie
+msgid Vietnamese
+msgstr vietnamgbe
+
+#wae
+msgid Walser
+msgstr walsegbe
+
+#war
+msgid Waray
+msgstr waraygbe
+
+#wol
+msgid Wolof
+msgstr wolofgbe
+
+#xho
+msgid Xhosa
+msgstr xhosagbe
+
+#yap
+msgid Yapese
+msgstr yapesigbe
+
+#yav
+msgid Yangben
+msgstr yangbengbe
+
+#ybb
+msgid Yemba
+msgstr yembagbe
+
+#yor
+msgid Yoruba
+msgstr yorubagbe
+
+#yue
+msgid Cantonese
+msgstr cantongbe
+
+#zh Hans
+msgid Simplified Chinese
+msgstr tsainagbe
+
+#zh Hant
+msgid Traditional Chinese
+msgstr blema tsainagbe
+
+#zha
+msgid Zhuang
+msgstr zhuangbe
+
+#zho
+msgid Chinese
+msgstr Chinagbe
+
+#zul
+msgid Zulu
+msgstr zulugbe
+
+#zxx
+msgid No linguistic content
+msgstr gbegbɔgblɔ manɔmee
+

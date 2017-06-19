@@ -1,8 +1,8 @@
-#ab
+#abk
 msgid Abkhazian
 msgstr Абхаастыы
 
-#af
+#afr
 msgid Afrikaans
 msgstr Аппырыкааныстыы
 
@@ -10,11 +10,11 @@ msgstr Аппырыкааныстыы
 msgid Aleut
 msgstr Алеуттуу
 
-#am
+#amh
 msgid Amharic
 msgstr Амхаардыы
 
-#ar
+#ara
 msgid Arabic
 msgstr Араабтыы
 
@@ -22,39 +22,43 @@ msgstr Араабтыы
 msgid Asturian
 msgstr Астуурдуу
 
-#av
+#ava
 msgid Avaric
 msgstr Аваардыы
 
-#az
+#aze
 msgid Azerbaijani
 msgstr Адьырбайдьаанныы
 
-#be
+#bel
 msgid Belarusian
 msgstr Бөлөрүүстүү
 
-#bg
-msgid Bulgarian
-msgstr Булҕаардыы
-
-#bn
+#ben
 msgid Bangla
 msgstr Бенгаллыы
 
-#bo
+#bod
 msgid Tibetan
 msgstr Тибиэттии
 
-#bs
+#bos
 msgid Bosnian
 msgstr Босныйалыы
 
-#ca
+#bul
+msgid Bulgarian
+msgstr Булҕаардыы
+
+#cat
 msgid Catalan
 msgstr Каталаанныы
 
-#ce
+#ces
+msgid Czech
+msgstr Чиэхтии
+
+#che
 msgid Chechen
 msgstr Чэчиэннии
 
@@ -62,95 +66,87 @@ msgstr Чэчиэннии
 msgid Central Kurdish
 msgstr Киин куурдуу
 
-#cs
-msgid Czech
-msgstr Чиэхтии
-
-#da
+#dan
 msgid Danish
 msgstr Даатскайдыы
 
-#de
+#deu
 msgid German
 msgstr Ниэмэстии
 
-#el
+#ell
 msgid Greek
 msgstr Гириэктии
 
-#en
+#eng
 msgid English
 msgstr Ааҥыллыы
 
-#es
-msgid Spanish
-msgstr Ыспаанныы
-
-#et
+#est
 msgid Estonian
 msgstr Эстиэнийэлии
 
-#fa
+#fas
 msgid Persian
 msgstr Пиэристии
-
-#fi
-msgid Finnish
-msgstr Пииннии
 
 #fil
 msgid Filipino
 msgstr Пилипииннии
 
-#fr
+#fin
+msgid Finnish
+msgstr Пииннии
+
+#fra
 msgid French
 msgstr Боронсуустуу
 
-#hu
+#hun
 msgid Hungarian
 msgstr Бэҥгиэрдии
 
-#hy
+#hye
 msgid Armenian
 msgstr Эрмээннии
 
-#it
+#ita
 msgid Italian
 msgstr Ытаалыйалыы
 
-#ja
+#jpn
 msgid Japanese
 msgstr Дьоппуоннуу
 
-#ka
+#kat
 msgid Georgian
 msgstr Курусууннуу
 
-#kk
+#kaz
 msgid Kazakh
 msgstr Хаһаахтыы
 
-#ko
-msgid Korean
-msgstr Кэриэйдии
-
-#ky
+#kir
 msgid Kyrgyz
 msgstr Кыргыстыы
 
-#la
+#kor
+msgid Korean
+msgstr Кэриэйдии
+
+#lat
 msgid Latin
 msgstr Латыынныы
 
-#mn
+#mon
 msgid Mongolian
 msgstr Моҕуоллуу
 
-#ms
+#msa
 msgid Malay
 msgstr Малаайдыы
 
-#ne
+#nep
 msgid Nepali
 msgstr Ньыпааллыы
 
@@ -158,19 +154,19 @@ msgstr Ньыпааллыы
 msgid Nogai
 msgstr Нагаайдыы
 
-#pa
+#pan
 msgid Punjabi
 msgstr Пандьаабтыы
 
-#pt
+#por
 msgid Portuguese
 msgstr Португааллыы
 
-#ro
+#ron
 msgid Romanian
 msgstr Румыынныы
 
-#ru
+#rus
 msgid Russian
 msgstr Нууччалыы
 
@@ -178,47 +174,51 @@ msgstr Нууччалыы
 msgid Sakha
 msgstr саха тыла
 
-#sk
+#slk
 msgid Slovak
 msgstr Словаактыы
 
-#sq
+#spa
+msgid Spanish
+msgstr Ыспаанныы
+
+#sqi
 msgid Albanian
 msgstr Албаанныы
 
-#ta
+#tam
 msgid Tamil
 msgstr Тамыллыы
 
-#te
-msgid Telugu
-msgstr Төлүгүлүү
-
-#tg
-msgid Tajik
-msgstr Тадьыыктыы
-
-#tt
+#tat
 msgid Tatar
 msgstr Татаардыы
 
-#ug
+#tel
+msgid Telugu
+msgstr Төлүгүлүү
+
+#tgk
+msgid Tajik
+msgstr Тадьыыктыы
+
+#uig
 msgid Uyghur
 msgstr Уйгуурдуу
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Украйыыньыстыы
 
-#uz
+#uzb
 msgid Uzbek
 msgstr Үзбиэктии
 
-#zh
+#zho
 msgid Chinese
 msgstr Кытайдыы
 
-#zu
+#zul
 msgid Zulu
 msgstr Зуулулуу
 

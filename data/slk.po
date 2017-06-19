@@ -1,0 +1,2100 @@
+#aar
+msgid Afar
+msgstr afarčina
+
+#abk
+msgid Abkhazian
+msgstr abcházčina
+
+#ace
+msgid Achinese
+msgstr acehčina
+
+#ach
+msgid Acoli
+msgstr ačoli
+
+#ada
+msgid Adangme
+msgstr adangme
+
+#ady
+msgid Adyghe
+msgstr adygejčina
+
+#afh
+msgid Afrihili
+msgstr afrihili
+
+#afr
+msgid Afrikaans
+msgstr afrikánčina
+
+#agq
+msgid Aghem
+msgstr aghem
+
+#ain
+msgid Ainu
+msgstr ainčina
+
+#aka
+msgid Akan
+msgstr akančina
+
+#akk
+msgid Akkadian
+msgstr akkadčina
+
+#ale
+msgid Aleut
+msgstr aleutčina
+
+#alt
+msgid Southern Altai
+msgstr južná altajčina
+
+#amh
+msgid Amharic
+msgstr amharčina
+
+#ang
+msgid Old English
+msgstr stará angličtina
+
+#anp
+msgid Angika
+msgstr angika
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr arabčina (moderná štandardná)
+
+#ara
+msgid Arabic
+msgstr arabčina
+
+#arc
+msgid Aramaic
+msgstr aramejčina
+
+#arg
+msgid Aragonese
+msgstr aragónčina
+
+#arn
+msgid Mapuche
+msgstr araukánčina
+
+#arp
+msgid Arapaho
+msgstr arapažština
+
+#arw
+msgid Arawak
+msgstr arawačtina
+
+#asa
+msgid Asu
+msgstr asu
+
+#asm
+msgid Assamese
+msgstr ásamčina
+
+#ast
+msgid Asturian
+msgstr astúrčina
+
+#ava
+msgid Avaric
+msgstr avarčina
+
+#ave
+msgid Avestan
+msgstr avestčina
+
+#awa
+msgid Awadhi
+msgstr awadhi
+
+#aym
+msgid Aymara
+msgstr aymarčina
+
+#az-short
+msgid Azeri
+msgstr azerbajdžančina
+
+#aze
+msgid Azerbaijani
+msgstr azerbajdžančina
+
+#bak
+msgid Bashkir
+msgstr baškirčina
+
+#bal
+msgid Baluchi
+msgstr balúčtina
+
+#bam
+msgid Bambara
+msgstr bambarčina
+
+#ban
+msgid Balinese
+msgstr balijčina
+
+#bas
+msgid Basaa
+msgstr basa
+
+#bax
+msgid Bamun
+msgstr bamun
+
+#bbj
+msgid Ghomala
+msgstr ghomala
+
+#bej
+msgid Beja
+msgstr bedža
+
+#bel
+msgid Belarusian
+msgstr bieloruština
+
+#bem
+msgid Bemba
+msgstr bemba
+
+#ben
+msgid Bangla
+msgstr bengálčina
+
+#bez
+msgid Bena
+msgstr bena
+
+#bfd
+msgid Bafut
+msgstr bafut
+
+#bgn
+msgid Western Balochi
+msgstr západná balúčtina
+
+#bho
+msgid Bhojpuri
+msgstr bhódžpurčina
+
+#bik
+msgid Bikol
+msgstr bikolčina
+
+#bin
+msgid Bini
+msgstr bini
+
+#bis
+msgid Bislama
+msgstr bislama
+
+#bkm
+msgid Kom
+msgstr kom
+
+#bla
+msgid Siksika
+msgstr siksika
+
+#bod
+msgid Tibetan
+msgstr tibetčina
+
+#bos
+msgid Bosnian
+msgstr bosniačtina
+
+#bra
+msgid Braj
+msgstr bradžčina
+
+#bre
+msgid Breton
+msgstr bretónčina
+
+#brx
+msgid Bodo
+msgstr bodo
+
+#bss
+msgid Akoose
+msgstr akoose
+
+#bua
+msgid Buriat
+msgstr buriatčina
+
+#bug
+msgid Buginese
+msgstr bugiština
+
+#bul
+msgid Bulgarian
+msgstr bulharčina
+
+#bum
+msgid Bulu
+msgstr bulu
+
+#byn
+msgid Blin
+msgstr blin
+
+#byv
+msgid Medumba
+msgstr medumba
+
+#cad
+msgid Caddo
+msgstr kaddo
+
+#car
+msgid Carib
+msgstr karibčina
+
+#cat
+msgid Catalan
+msgstr katalánčina
+
+#cay
+msgid Cayuga
+msgstr kajugčina
+
+#cch
+msgid Atsam
+msgstr atsam
+
+#ceb
+msgid Cebuano
+msgstr cebuánčina
+
+#ces
+msgid Czech
+msgstr čeština
+
+#cgg
+msgid Chiga
+msgstr kiga
+
+#cha
+msgid Chamorro
+msgstr čamorčina
+
+#chb
+msgid Chibcha
+msgstr čibča
+
+#che
+msgid Chechen
+msgstr čečenčina
+
+#chg
+msgid Chagatai
+msgstr čagatajčina
+
+#chk
+msgid Chuukese
+msgstr chuuk
+
+#chm
+msgid Mari
+msgstr marijčina
+
+#chn
+msgid Chinook Jargon
+msgstr činucký žargón
+
+#cho
+msgid Choctaw
+msgstr čoktčina
+
+#chp
+msgid Chipewyan
+msgstr čipevajčina
+
+#chr
+msgid Cherokee
+msgstr čerokí
+
+#chu
+msgid Church Slavic
+msgstr cirkevná slovančina
+
+#chv
+msgid Chuvash
+msgstr čuvaština
+
+#chy
+msgid Cheyenne
+msgstr čejenčina
+
+#ckb
+msgid Central Kurdish
+msgstr kurdčina (sorání)
+
+#cop
+msgid Coptic
+msgstr koptčina
+
+#cor
+msgid Cornish
+msgstr kornčina
+
+#cos
+msgid Corsican
+msgstr korzičtina
+
+#cre
+msgid Cree
+msgstr krí
+
+#crh
+msgid Crimean Turkish
+msgstr krymská tatárčina
+
+#crs
+msgid Seselwa Creole French
+msgstr seychelská kreolčina
+
+#csb
+msgid Kashubian
+msgstr kašubčina
+
+#cym
+msgid Welsh
+msgstr waleština
+
+#dak
+msgid Dakota
+msgstr dakotčina
+
+#dan
+msgid Danish
+msgstr dánčina
+
+#dar
+msgid Dargwa
+msgstr darginčina
+
+#dav
+msgid Taita
+msgstr taita
+
+#de AT
+msgid Austrian German
+msgstr nemčina (rakúska)
+
+#de CH
+msgid Swiss High German
+msgstr nemčina (švajčiarska spisovná)
+
+#del
+msgid Delaware
+msgstr delawarčina
+
+#den
+msgid Slave
+msgstr slavé
+
+#deu
+msgid German
+msgstr nemčina
+
+#dgr
+msgid Dogrib
+msgstr dogribčina
+
+#din
+msgid Dinka
+msgstr dinkčina
+
+#div
+msgid Divehi
+msgstr maldivčina
+
+#dje
+msgid Zarma
+msgstr zarma
+
+#doi
+msgid Dogri
+msgstr dógrí
+
+#dsb
+msgid Lower Sorbian
+msgstr dolnolužická srbčina
+
+#dua
+msgid Duala
+msgstr duala
+
+#dum
+msgid Middle Dutch
+msgstr stredná holandčina
+
+#dyo
+msgid Jola-Fonyi
+msgstr jola-fonyi
+
+#dyu
+msgid Dyula
+msgstr ďula
+
+#dzg
+msgid Dazaga
+msgstr dazaga
+
+#dzo
+msgid Dzongkha
+msgstr dzongkha
+
+#ebu
+msgid Embu
+msgstr embu
+
+#efi
+msgid Efik
+msgstr efik
+
+#egy
+msgid Ancient Egyptian
+msgstr staroegyptčina
+
+#eka
+msgid Ekajuk
+msgstr ekadžuk
+
+#ell
+msgid Greek
+msgstr gréčtina
+
+#elx
+msgid Elamite
+msgstr elamčina
+
+#en AU
+msgid Australian English
+msgstr angličtina (austrálska)
+
+#en CA
+msgid Canadian English
+msgstr angličtina (kanadská)
+
+#en GB
+msgid British English
+msgstr angličtina (britská)
+
+#en GB-short
+msgid UK English
+msgstr angličtina (britská)
+
+#en US
+msgid American English
+msgstr angličtina (americká)
+
+#en US-short
+msgid US English
+msgstr angličtina (americká)
+
+#eng
+msgid English
+msgstr angličtina
+
+#enm
+msgid Middle English
+msgstr stredná angličtina
+
+#epo
+msgid Esperanto
+msgstr esperanto
+
+#es 419
+msgid Latin American Spanish
+msgstr španielčina (latinskoamerická)
+
+#es ES
+msgid European Spanish
+msgstr španielčina (európska)
+
+#es MX
+msgid Mexican Spanish
+msgstr španielčina (mexická)
+
+#est
+msgid Estonian
+msgstr estónčina
+
+#eus
+msgid Basque
+msgstr baskičtina
+
+#ewe
+msgid Ewe
+msgstr eweština
+
+#ewo
+msgid Ewondo
+msgstr ewondo
+
+#fan
+msgid Fang
+msgstr fangčina
+
+#fao
+msgid Faroese
+msgstr faerčina
+
+#fas
+msgid Persian
+msgstr perzština
+
+#fat
+msgid Fanti
+msgstr fanti
+
+#fij
+msgid Fijian
+msgstr fidžijčina
+
+#fil
+msgid Filipino
+msgstr filipínčina
+
+#fin
+msgid Finnish
+msgstr fínčina
+
+#fon
+msgid Fon
+msgstr fončina
+
+#fr CA
+msgid Canadian French
+msgstr francúzština (kanadská)
+
+#fr CH
+msgid Swiss French
+msgstr francúzština (švajčiarska)
+
+#fra
+msgid French
+msgstr francúzština
+
+#frm
+msgid Middle French
+msgstr stredná francúzština
+
+#fro
+msgid Old French
+msgstr stará francúzština
+
+#frr
+msgid Northern Frisian
+msgstr severná frízština
+
+#frs
+msgid Eastern Frisian
+msgstr východofrízština
+
+#fry
+msgid Western Frisian
+msgstr západná frízština
+
+#ful
+msgid Fulah
+msgstr fulbčina
+
+#fur
+msgid Friulian
+msgstr friulčina
+
+#gaa
+msgid Ga
+msgstr ga
+
+#gag
+msgid Gagauz
+msgstr gagauzština
+
+#gay
+msgid Gayo
+msgstr gayo
+
+#gba
+msgid Gbaya
+msgstr gbaja
+
+#gez
+msgid Geez
+msgstr etiópčina
+
+#gil
+msgid Gilbertese
+msgstr kiribatčina
+
+#gla
+msgid Scottish Gaelic
+msgstr škótska gaelčina
+
+#gle
+msgid Irish
+msgstr írčina
+
+#glg
+msgid Galician
+msgstr galícijčina
+
+#glv
+msgid Manx
+msgstr mančina
+
+#gmh
+msgid Middle High German
+msgstr stredná horná nemčina
+
+#goh
+msgid Old High German
+msgstr stará horná nemčina
+
+#gon
+msgid Gondi
+msgstr góndčina
+
+#gor
+msgid Gorontalo
+msgstr gorontalo
+
+#got
+msgid Gothic
+msgstr gótčina
+
+#grb
+msgid Grebo
+msgstr grebo
+
+#grc
+msgid Ancient Greek
+msgstr starogréčtina
+
+#grn
+msgid Guarani
+msgstr guaraníjčina
+
+#gsw
+msgid Swiss German
+msgstr nemčina (švajčiarska)
+
+#guj
+msgid Gujarati
+msgstr gudžarátčina
+
+#guz
+msgid Gusii
+msgstr gusii
+
+#gwi
+msgid Gwichʼin
+msgstr kučinčina
+
+#hai
+msgid Haida
+msgstr haida
+
+#hat
+msgid Haitian Creole
+msgstr haitská kreolčina
+
+#hau
+msgid Hausa
+msgstr hauština
+
+#haw
+msgid Hawaiian
+msgstr havajčina
+
+#hbs
+msgid Serbo-Croatian
+msgstr srbochorvátčina
+
+#heb
+msgid Hebrew
+msgstr hebrejčina
+
+#her
+msgid Herero
+msgstr herero
+
+#hil
+msgid Hiligaynon
+msgstr hiligajnončina
+
+#hin
+msgid Hindi
+msgstr hindčina
+
+#hit
+msgid Hittite
+msgstr chetitčina
+
+#hmn
+msgid Hmong
+msgstr hmongčina
+
+#hmo
+msgid Hiri Motu
+msgstr hiri motu
+
+#hrv
+msgid Croatian
+msgstr chorvátčina
+
+#hsb
+msgid Upper Sorbian
+msgstr hornolužická srbčina
+
+#hun
+msgid Hungarian
+msgstr maďarčina
+
+#hup
+msgid Hupa
+msgstr hupčina
+
+#hye
+msgid Armenian
+msgstr arménčina
+
+#iba
+msgid Iban
+msgstr ibančina
+
+#ibb
+msgid Ibibio
+msgstr ibibio
+
+#ibo
+msgid Igbo
+msgstr igboština
+
+#ido
+msgid Ido
+msgstr ido
+
+#iii
+msgid Sichuan Yi
+msgstr s’čchuanská iovčina
+
+#iku
+msgid Inuktitut
+msgstr inuktitut
+
+#ile
+msgid Interlingue
+msgstr interlingue
+
+#ilo
+msgid Iloko
+msgstr ilokánčina
+
+#ina
+msgid Interlingua
+msgstr interlingua
+
+#ind
+msgid Indonesian
+msgstr indonézština
+
+#inh
+msgid Ingush
+msgstr inguština
+
+#ipk
+msgid Inupiaq
+msgstr inupik
+
+#isl
+msgid Icelandic
+msgstr islandčina
+
+#ita
+msgid Italian
+msgstr taliančina
+
+#jav
+msgid Javanese
+msgstr jávčina
+
+#jbo
+msgid Lojban
+msgstr lojban
+
+#jgo
+msgid Ngomba
+msgstr ngomba
+
+#jmc
+msgid Machame
+msgstr mašame
+
+#jpn
+msgid Japanese
+msgstr japončina
+
+#jpr
+msgid Judeo-Persian
+msgstr židovská perzština
+
+#jrb
+msgid Judeo-Arabic
+msgstr židovská arabčina
+
+#kaa
+msgid Kara-Kalpak
+msgstr karakalpačtina
+
+#kab
+msgid Kabyle
+msgstr kabylčina
+
+#kac
+msgid Kachin
+msgstr kačjinčina
+
+#kaj
+msgid Jju
+msgstr jju
+
+#kal
+msgid Kalaallisut
+msgstr grónčina
+
+#kam
+msgid Kamba
+msgstr kamba
+
+#kan
+msgid Kannada
+msgstr kannadčina
+
+#kas
+msgid Kashmiri
+msgstr kašmírčina
+
+#kat
+msgid Georgian
+msgstr gruzínčina
+
+#kau
+msgid Kanuri
+msgstr kanurijčina
+
+#kaw
+msgid Kawi
+msgstr kawi
+
+#kaz
+msgid Kazakh
+msgstr kazaština
+
+#kbd
+msgid Kabardian
+msgstr kabardčina
+
+#kbl
+msgid Kanembu
+msgstr kanembu
+
+#kcg
+msgid Tyap
+msgstr tyap
+
+#kde
+msgid Makonde
+msgstr makonde
+
+#kea
+msgid Kabuverdianu
+msgstr kapverdčina
+
+#kfo
+msgid Koro
+msgstr koro
+
+#kha
+msgid Khasi
+msgstr khasijčina
+
+#khm
+msgid Khmer
+msgstr khmérčina
+
+#kho
+msgid Khotanese
+msgstr chotančina
+
+#khq
+msgid Koyra Chiini
+msgstr západná songhajčina
+
+#kik
+msgid Kikuyu
+msgstr kikujčina
+
+#kin
+msgid Kinyarwanda
+msgstr rwandčina
+
+#kir
+msgid Kyrgyz
+msgstr kirgizština
+
+#kkj
+msgid Kako
+msgstr kako
+
+#kln
+msgid Kalenjin
+msgstr kalendžin
+
+#kmb
+msgid Kimbundu
+msgstr kimbundu
+
+#koi
+msgid Komi-Permyak
+msgstr komi-permiačtina
+
+#kok
+msgid Konkani
+msgstr konkánčina
+
+#kom
+msgid Komi
+msgstr komijčina
+
+#kon
+msgid Kongo
+msgstr kongčina
+
+#kor
+msgid Korean
+msgstr kórejčina
+
+#kos
+msgid Kosraean
+msgstr kusaie
+
+#kpe
+msgid Kpelle
+msgstr kpelle
+
+#krc
+msgid Karachay-Balkar
+msgstr karačajevsko-balkarčina
+
+#krl
+msgid Karelian
+msgstr karelčina
+
+#kru
+msgid Kurukh
+msgstr kuruchčina
+
+#ksb
+msgid Shambala
+msgstr šambala
+
+#ksf
+msgid Bafia
+msgstr bafia
+
+#ksh
+msgid Colognian
+msgstr kolínčina
+
+#kua
+msgid Kuanyama
+msgstr kuaňama
+
+#kum
+msgid Kumyk
+msgstr kumyčtina
+
+#kur
+msgid Kurdish
+msgstr kurdčina
+
+#kut
+msgid Kutenai
+msgstr kutenajčina
+
+#lad
+msgid Ladino
+msgstr židovská španielčina
+
+#lag
+msgid Langi
+msgstr langi
+
+#lah
+msgid Lahnda
+msgstr lahandčina
+
+#lam
+msgid Lamba
+msgstr lamba
+
+#lao
+msgid Lao
+msgstr laoština
+
+#lat
+msgid Latin
+msgstr latinčina
+
+#lav
+msgid Latvian
+msgstr lotyština
+
+#lez
+msgid Lezghian
+msgstr lezginčina
+
+#lim
+msgid Limburgish
+msgstr limburčina
+
+#lin
+msgid Lingala
+msgstr lingalčina
+
+#lit
+msgid Lithuanian
+msgstr litovčina
+
+#lkt
+msgid Lakota
+msgstr lakotčina
+
+#lol
+msgid Mongo
+msgstr mongo
+
+#loz
+msgid Lozi
+msgstr lozi
+
+#lrc
+msgid Northern Luri
+msgstr severné luri
+
+#ltz
+msgid Luxembourgish
+msgstr luxemburčina
+
+#lua
+msgid Luba-Lulua
+msgstr lubčina (luluánska)
+
+#lub
+msgid Luba-Katanga
+msgstr lubčina (katanžská)
+
+#lug
+msgid Ganda
+msgstr gandčina
+
+#lui
+msgid Luiseno
+msgstr luiseňo
+
+#lun
+msgid Lunda
+msgstr lunda
+
+#lus
+msgid Mizo
+msgstr mizorámčina
+
+#luy
+msgid Luyia
+msgstr luhja
+
+#mad
+msgid Madurese
+msgstr madurčina
+
+#maf
+msgid Mafa
+msgstr mafa
+
+#mag
+msgid Magahi
+msgstr magadhčina
+
+#mah
+msgid Marshallese
+msgstr marshallčina
+
+#mai
+msgid Maithili
+msgstr maithilčina
+
+#mak
+msgid Makasar
+msgstr makasarčina
+
+#mal
+msgid Malayalam
+msgstr malajálamčina
+
+#man
+msgid Mandingo
+msgstr mandingo
+
+#mar
+msgid Marathi
+msgstr maráthčina
+
+#mas
+msgid Masai
+msgstr masajčina
+
+#mde
+msgid Maba
+msgstr maba
+
+#mdf
+msgid Moksha
+msgstr mokšiančina
+
+#mdr
+msgid Mandar
+msgstr mandarčina
+
+#men
+msgid Mende
+msgstr mendejčina
+
+#mer
+msgid Meru
+msgstr meru
+
+#mfe
+msgid Morisyen
+msgstr maurícijská kreolčina
+
+#mga
+msgid Middle Irish
+msgstr stredná írčina
+
+#mgh
+msgid Makhuwa-Meetto
+msgstr makua-meetto
+
+#mgo
+msgid Metaʼ
+msgstr meta’
+
+#mic
+msgid Mi'kmaq
+msgstr mikmakčina
+
+#min
+msgid Minangkabau
+msgstr minangkabaučina
+
+#mkd
+msgid Macedonian
+msgstr macedónčina
+
+#mlg
+msgid Malagasy
+msgstr malgaština
+
+#mlt
+msgid Maltese
+msgstr maltčina
+
+#mnc
+msgid Manchu
+msgstr mandžuština
+
+#mni
+msgid Manipuri
+msgstr manípurčina
+
+#moh
+msgid Mohawk
+msgstr mohawkčina
+
+#mon
+msgid Mongolian
+msgstr mongolčina
+
+#mos
+msgid Mossi
+msgstr mossi
+
+#mri
+msgid Maori
+msgstr maorijčina
+
+#msa
+msgid Malay
+msgstr malajčina
+
+#mua
+msgid Mundang
+msgstr mundang
+
+#mul
+msgid Multiple languages
+msgstr viaceré jazyky
+
+#mus
+msgid Creek
+msgstr kríkčina
+
+#mwl
+msgid Mirandese
+msgstr mirandčina
+
+#mwr
+msgid Marwari
+msgstr marwari
+
+#mya
+msgid Burmese
+msgstr barmčina
+
+#mye
+msgid Myene
+msgstr myene
+
+#myv
+msgid Erzya
+msgstr erzjančina
+
+#mzn
+msgid Mazanderani
+msgstr mázandaránčina
+
+#nap
+msgid Neapolitan
+msgstr neapolčina
+
+#naq
+msgid Nama
+msgstr nama
+
+#nau
+msgid Nauru
+msgstr nauruština
+
+#nav
+msgid Navajo
+msgstr navaho
+
+#nbl
+msgid South Ndebele
+msgstr južná ndebelčina
+
+#nde
+msgid North Ndebele
+msgstr severná ndebelčina
+
+#ndo
+msgid Ndonga
+msgstr ndonga
+
+#nds
+msgid Low German
+msgstr dolná nemčina
+
+#nds NL
+msgid Low Saxon
+msgstr dolná saština
+
+#nep
+msgid Nepali
+msgstr nepálčina
+
+#new
+msgid Newari
+msgstr nevárčina
+
+#nia
+msgid Nias
+msgstr niasánčina
+
+#niu
+msgid Niuean
+msgstr niueština
+
+#nl BE
+msgid Flemish
+msgstr flámčina
+
+#nld
+msgid Dutch
+msgstr holandčina
+
+#nmg
+msgid Kwasio
+msgstr kwasio
+
+#nnh
+msgid Ngiemboon
+msgstr ngiemboon
+
+#nno
+msgid Norwegian Nynorsk
+msgstr nórčina (nynorsk)
+
+#nob
+msgid Norwegian Bokmål
+msgstr nórčina (bokmal)
+
+#nog
+msgid Nogai
+msgstr nogajčina
+
+#non
+msgid Old Norse
+msgstr stará nórčina
+
+#nor
+msgid Norwegian
+msgstr nórčina
+
+#nqo
+msgid N’Ko
+msgstr n’ko
+
+#nso
+msgid Northern Sotho
+msgstr severná sothčina
+
+#nus
+msgid Nuer
+msgstr nuer
+
+#nwc
+msgid Classical Newari
+msgstr klasická nevárčina
+
+#nya
+msgid Nyanja
+msgstr ňandža
+
+#nym
+msgid Nyamwezi
+msgstr ňamwezi
+
+#nyn
+msgid Nyankole
+msgstr ňankole
+
+#nyo
+msgid Nyoro
+msgstr ňoro
+
+#nzi
+msgid Nzima
+msgstr nzima
+
+#oci
+msgid Occitan
+msgstr okcitánčina
+
+#oji
+msgid Ojibwa
+msgstr odžibva
+
+#ori
+msgid Odia
+msgstr uríjčina
+
+#orm
+msgid Oromo
+msgstr oromčina
+
+#osa
+msgid Osage
+msgstr osedžština
+
+#oss
+msgid Ossetic
+msgstr osetčina
+
+#ota
+msgid Ottoman Turkish
+msgstr osmanská turečtina
+
+#pag
+msgid Pangasinan
+msgstr pangasinančina
+
+#pal
+msgid Pahlavi
+msgstr pahlaví
+
+#pam
+msgid Pampanga
+msgstr kapampangančina
+
+#pan
+msgid Punjabi
+msgstr pandžábčina
+
+#pap
+msgid Papiamento
+msgstr papiamento
+
+#pau
+msgid Palauan
+msgstr palaučina
+
+#pcm
+msgid Nigerian Pidgin
+msgstr nigerijský pidžin
+
+#peo
+msgid Old Persian
+msgstr stará perzština
+
+#phn
+msgid Phoenician
+msgstr feničtina
+
+#pli
+msgid Pali
+msgstr pálí
+
+#pol
+msgid Polish
+msgstr poľština
+
+#pon
+msgid Pohnpeian
+msgstr pohnpeiština
+
+#por
+msgid Portuguese
+msgstr portugalčina
+
+#prg
+msgid Prussian
+msgstr pruština
+
+#pro
+msgid Old Provençal
+msgstr stará okcitánčina
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr portugalčina (brazílska)
+
+#pt PT
+msgid European Portuguese
+msgstr portugalčina (európska)
+
+#pus
+msgid Pashto
+msgstr paštčina
+
+#quc
+msgid Kʼicheʼ
+msgstr quiché
+
+#que
+msgid Quechua
+msgstr kečuánčina
+
+#raj
+msgid Rajasthani
+msgstr radžastančina
+
+#rap
+msgid Rapanui
+msgstr rapanujčina
+
+#rar
+msgid Rarotongan
+msgstr rarotongská maorijčina
+
+#ro MD
+msgid Moldavian
+msgstr moldavčina
+
+#rof
+msgid Rombo
+msgstr rombo
+
+#roh
+msgid Romansh
+msgstr rétorománčina
+
+#rom
+msgid Romany
+msgstr rómčina
+
+#ron
+msgid Romanian
+msgstr rumunčina
+
+#root
+msgid Root
+msgstr koreň
+
+#run
+msgid Rundi
+msgstr rundčina
+
+#rup
+msgid Aromanian
+msgstr arumunčina
+
+#rus
+msgid Russian
+msgstr ruština
+
+#rwk
+msgid Rwa
+msgstr rwa
+
+#sad
+msgid Sandawe
+msgstr sandaweština
+
+#sag
+msgid Sango
+msgstr sango
+
+#sah
+msgid Sakha
+msgstr jakutčina
+
+#sam
+msgid Samaritan Aramaic
+msgstr samaritánska aramejčina
+
+#san
+msgid Sanskrit
+msgstr sanskrit
+
+#saq
+msgid Samburu
+msgstr samburu
+
+#sas
+msgid Sasak
+msgstr sasačtina
+
+#sat
+msgid Santali
+msgstr santalčina
+
+#sba
+msgid Ngambay
+msgstr ngambay
+
+#sbp
+msgid Sangu
+msgstr sangu
+
+#scn
+msgid Sicilian
+msgstr sicílčina
+
+#sco
+msgid Scots
+msgstr škótčina
+
+#sdh
+msgid Southern Kurdish
+msgstr južná kurdčina
+
+#see
+msgid Seneca
+msgstr senekčina
+
+#seh
+msgid Sena
+msgstr sena
+
+#sel
+msgid Selkup
+msgstr selkupčina
+
+#ses
+msgid Koyraboro Senni
+msgstr koyraboro senni
+
+#sga
+msgid Old Irish
+msgstr stará írčina
+
+#shi
+msgid Tachelhit
+msgstr tachelhit
+
+#shn
+msgid Shan
+msgstr šančina
+
+#shu
+msgid Chadian Arabic
+msgstr čadská arabčina
+
+#sid
+msgid Sidamo
+msgstr sidamo
+
+#sin
+msgid Sinhala
+msgstr sinhalčina
+
+#slk
+msgid Slovak
+msgstr slovenčina
+
+#slv
+msgid Slovenian
+msgstr slovinčina
+
+#sma
+msgid Southern Sami
+msgstr južná lapončina
+
+#sme
+msgid Northern Sami
+msgstr severná lapončina
+
+#smj
+msgid Lule Sami
+msgstr lapončina (lulská)
+
+#smn
+msgid Inari Sami
+msgstr lapončina (inarijská)
+
+#smo
+msgid Samoan
+msgstr samojčina
+
+#sms
+msgid Skolt Sami
+msgstr lapončina (skoltská)
+
+#sna
+msgid Shona
+msgstr šončina
+
+#snd
+msgid Sindhi
+msgstr sindhčina
+
+#snk
+msgid Soninke
+msgstr soninke
+
+#sog
+msgid Sogdien
+msgstr sogdijčina
+
+#som
+msgid Somali
+msgstr somálčina
+
+#sot
+msgid Southern Sotho
+msgstr južná sothčina
+
+#spa
+msgid Spanish
+msgstr španielčina
+
+#sqi
+msgid Albanian
+msgstr albánčina
+
+#srd
+msgid Sardinian
+msgstr sardínčina
+
+#srn
+msgid Sranan Tongo
+msgstr surinamčina
+
+#srp
+msgid Serbian
+msgstr srbčina
+
+#srr
+msgid Serer
+msgstr sererčina
+
+#ssw
+msgid Swati
+msgstr svazijčina
+
+#ssy
+msgid Saho
+msgstr saho
+
+#suk
+msgid Sukuma
+msgstr sukuma
+
+#sun
+msgid Sundanese
+msgstr sundčina
+
+#sus
+msgid Susu
+msgstr susu
+
+#sux
+msgid Sumerian
+msgstr sumerčina
+
+#sw CD
+msgid Congo Swahili
+msgstr svahilčina (konžská)
+
+#swa
+msgid Swahili
+msgstr swahilčina
+
+#swb
+msgid Comorian
+msgstr komorčina
+
+#swe
+msgid Swedish
+msgstr švédčina
+
+#syc
+msgid Classical Syriac
+msgstr sýrčina (klasická)
+
+#syr
+msgid Syriac
+msgstr sýrčina
+
+#tah
+msgid Tahitian
+msgstr tahitčina
+
+#tam
+msgid Tamil
+msgstr tamilčina
+
+#tat
+msgid Tatar
+msgstr tatárčina
+
+#tel
+msgid Telugu
+msgstr telugčina
+
+#tem
+msgid Timne
+msgstr temne
+
+#teo
+msgid Teso
+msgstr teso
+
+#ter
+msgid Tereno
+msgstr terêna
+
+#tet
+msgid Tetum
+msgstr tetumčina
+
+#tgk
+msgid Tajik
+msgstr tadžičtina
+
+#tgl
+msgid Tagalog
+msgstr tagalčina
+
+#tha
+msgid Thai
+msgstr thajčina
+
+#tig
+msgid Tigre
+msgstr tigrejčina
+
+#tir
+msgid Tigrinya
+msgstr tigriňa
+
+#tiv
+msgid Tiv
+msgstr tiv
+
+#tkl
+msgid Tokelau
+msgstr tokelauština
+
+#tlh
+msgid Klingon
+msgstr klingónčina
+
+#tli
+msgid Tlingit
+msgstr tlingitčina
+
+#tmh
+msgid Tamashek
+msgstr tuaregčina
+
+#tog
+msgid Nyasa Tonga
+msgstr ňasa tonga
+
+#ton
+msgid Tongan
+msgstr tongčina
+
+#tpi
+msgid Tok Pisin
+msgstr novoguinejský pidžin
+
+#trv
+msgid Taroko
+msgstr taroko
+
+#tsi
+msgid Tsimshian
+msgstr cimšjančina
+
+#tsn
+msgid Tswana
+msgstr tswančina
+
+#tso
+msgid Tsonga
+msgstr tsongčina
+
+#tuk
+msgid Turkmen
+msgstr turkménčina
+
+#tum
+msgid Tumbuka
+msgstr tumbuka
+
+#tur
+msgid Turkish
+msgstr turečtina
+
+#tvl
+msgid Tuvalu
+msgstr tuvalčina
+
+#twi
+msgid Twi
+msgstr twi
+
+#twq
+msgid Tasawaq
+msgstr tasawaq
+
+#tyv
+msgid Tuvinian
+msgstr tuviančina
+
+#tzm
+msgid Central Atlas Tamazight
+msgstr stredomarocká tuaregčina
+
+#udm
+msgid Udmurt
+msgstr udmurtčina
+
+#uga
+msgid Ugaritic
+msgstr ugaritčina
+
+#uig
+msgid Uyghur
+msgstr ujgurčina
+
+#ukr
+msgid Ukrainian
+msgstr ukrajinčina
+
+#umb
+msgid Umbundu
+msgstr umbundu
+
+#und
+msgid Unknown language
+msgstr neznámy jazyk
+
+#urd
+msgid Urdu
+msgstr urdčina
+
+#uzb
+msgid Uzbek
+msgstr uzbečtina
+
+#ven
+msgid Venda
+msgstr vendčina
+
+#vie
+msgid Vietnamese
+msgstr vietnamčina
+
+#vol
+msgid Volapük
+msgstr volapük
+
+#vot
+msgid Votic
+msgstr vodčina
+
+#vun
+msgid Vunjo
+msgstr vunjo
+
+#wae
+msgid Walser
+msgstr walserčina
+
+#wal
+msgid Wolaytta
+msgstr walamčina
+
+#war
+msgid Waray
+msgstr waray
+
+#was
+msgid Washo
+msgstr washo
+
+#wbp
+msgid Warlpiri
+msgstr warlpiri
+
+#wln
+msgid Walloon
+msgstr valónčina
+
+#wol
+msgid Wolof
+msgstr wolofčina
+
+#xal
+msgid Kalmyk
+msgstr kalmyčtina
+
+#xho
+msgid Xhosa
+msgstr xhoština
+
+#xog
+msgid Soga
+msgstr soga
+
+#yao
+msgid Yao
+msgstr jao
+
+#yap
+msgid Yapese
+msgstr japčina
+
+#yav
+msgid Yangben
+msgstr jangben
+
+#ybb
+msgid Yemba
+msgstr yemba
+
+#yid
+msgid Yiddish
+msgstr jidiš
+
+#yor
+msgid Yoruba
+msgstr jorubčina
+
+#yue
+msgid Cantonese
+msgstr kantončina
+
+#zap
+msgid Zapotec
+msgstr zapotéčtina
+
+#zbl
+msgid Blissymbols
+msgstr systém Bliss
+
+#zen
+msgid Zenaga
+msgstr zenaga
+
+#zgh
+msgid Standard Moroccan Tamazight
+msgstr tuaregčina (štandardná marocká)
+
+#zh Hans
+msgid Simplified Chinese
+msgstr čínština (zjednodušená)
+
+#zh Hant
+msgid Traditional Chinese
+msgstr čínština (tradičná)
+
+#zha
+msgid Zhuang
+msgstr čuangčina
+
+#zho
+msgid Chinese
+msgstr čínština
+
+#zul
+msgid Zulu
+msgstr zuluština
+
+#zun
+msgid Zuni
+msgstr zuniština
+
+#zxx
+msgid No linguistic content
+msgstr bez jazykového obsahu
+
+#zza
+msgid Zaza
+msgstr zaza
+

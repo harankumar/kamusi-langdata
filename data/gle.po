@@ -1,0 +1,1188 @@
+#aar
+msgid Afar
+msgstr Afáiris
+
+#abk
+msgid Abkhazian
+msgstr Abcáisis
+
+#ady
+msgid Adyghe
+msgstr Adaigéis
+
+#afr
+msgid Afrikaans
+msgstr Afracáinis
+
+#ain
+msgid Ainu
+msgstr Aidhniúis
+
+#aka
+msgid Akan
+msgstr Acáinis
+
+#akk
+msgid Akkadian
+msgstr Acáidis
+
+#amh
+msgid Amharic
+msgstr Amáiris
+
+#ang
+msgid Old English
+msgstr Sean-Bhéarla
+
+#ar 001
+msgid Modern Standard Arabic
+msgstr Araibis Chaighdeánach
+
+#ara
+msgid Arabic
+msgstr Araibis
+
+#arc
+msgid Aramaic
+msgstr Aramais
+
+#arg
+msgid Aragonese
+msgstr Aragóinis
+
+#arn
+msgid Mapuche
+msgstr Mapúitsis
+
+#asm
+msgid Assamese
+msgstr Asaimis
+
+#ast
+msgid Asturian
+msgstr Astúiris
+
+#ava
+msgid Avaric
+msgstr Aváiris
+
+#ave
+msgid Avestan
+msgstr Aivéistis
+
+#aym
+msgid Aymara
+msgstr Aidhmiris
+
+#az-short
+msgid Azeri
+msgstr Asairis
+
+#aze
+msgid Azerbaijani
+msgstr Asarbaiseáinis
+
+#bak
+msgid Bashkir
+msgstr Baiscíris
+
+#ban
+msgid Balinese
+msgstr Bailís
+
+#bar
+msgid Bavarian
+msgstr Baváiris
+
+#bel
+msgid Belarusian
+msgstr Bealarúisis
+
+#bem
+msgid Bemba
+msgstr Beimbis
+
+#ben
+msgid Bangla
+msgstr Beangáilis
+
+#bis
+msgid Bislama
+msgstr Bioslaimis
+
+#bod
+msgid Tibetan
+msgstr Tibéidis
+
+#bos
+msgid Bosnian
+msgstr Boisnis
+
+#bre
+msgid Breton
+msgstr Briotáinis
+
+#bua
+msgid Buriat
+msgstr Buiriáitis
+
+#bug
+msgid Buginese
+msgstr Buiginis
+
+#bul
+msgid Bulgarian
+msgstr Bulgáiris
+
+#cat
+msgid Catalan
+msgstr Catalóinis
+
+#ceb
+msgid Cebuano
+msgstr Seabúáinis
+
+#ces
+msgid Czech
+msgstr Seicis
+
+#cha
+msgid Chamorro
+msgstr Seamóiris
+
+#che
+msgid Chechen
+msgstr Seisnis
+
+#chm
+msgid Mari
+msgstr Mairis
+
+#chr
+msgid Cherokee
+msgstr Seiricis
+
+#chu
+msgid Church Slavic
+msgstr Slavais na hEaglaise
+
+#chv
+msgid Chuvash
+msgstr Suvaisis
+
+#cop
+msgid Coptic
+msgstr Coptais
+
+#cor
+msgid Cornish
+msgstr Coirnis
+
+#cos
+msgid Corsican
+msgstr Corsaicis
+
+#cre
+msgid Cree
+msgstr Craís
+
+#csb
+msgid Kashubian
+msgstr Caisiúibis
+
+#cym
+msgid Welsh
+msgstr Breatnais
+
+#dan
+msgid Danish
+msgstr Danmhairgis
+
+#dav
+msgid Taita
+msgstr Taita
+
+#de AT
+msgid Austrian German
+msgstr Gearmáinis Ostarach
+
+#de CH
+msgid Swiss High German
+msgstr Ard-Ghearmáinis Eilvéiseach
+
+#deu
+msgid German
+msgstr Gearmáinis
+
+#div
+msgid Divehi
+msgstr Divéihis
+
+#dje
+msgid Zarma
+msgstr Zarmais
+
+#dsb
+msgid Lower Sorbian
+msgstr Sorbais Íochtarach
+
+#dum
+msgid Middle Dutch
+msgstr Meán-Ollainnis
+
+#dzo
+msgid Dzongkha
+msgstr Seoinicis
+
+#egy
+msgid Ancient Egyptian
+msgstr Sean-Éigiptis
+
+#ell
+msgid Greek
+msgstr Gréigis
+
+#en AU
+msgid Australian English
+msgstr Béarla Astrálach
+
+#en CA
+msgid Canadian English
+msgstr Béarla Ceanadach
+
+#en GB
+msgid British English
+msgstr Béarla Briotanach
+
+#en GB-short
+msgid UK English
+msgstr Béarla na R.A.
+
+#en US
+msgid American English
+msgstr Béarla Meiriceánach
+
+#en US-short
+msgid US English
+msgstr Béarla S.A.M.
+
+#eng
+msgid English
+msgstr Béarla
+
+#enm
+msgid Middle English
+msgstr Meán-Bhéarla
+
+#epo
+msgid Esperanto
+msgstr Esperanto
+
+#es 419
+msgid Latin American Spanish
+msgstr Spáinnis Mheiriceá Laidinigh
+
+#es ES
+msgid European Spanish
+msgstr Spáinnis Eorpach
+
+#es MX
+msgid Mexican Spanish
+msgstr Spáinnis Mheicsiceach
+
+#est
+msgid Estonian
+msgstr Eastóinis
+
+#eus
+msgid Basque
+msgstr Bascais
+
+#fao
+msgid Faroese
+msgstr Faróis
+
+#fas
+msgid Persian
+msgstr Peirsis
+
+#fij
+msgid Fijian
+msgstr Fidsis
+
+#fil
+msgid Filipino
+msgstr Filipínis
+
+#fin
+msgid Finnish
+msgstr Fionlainnis
+
+#fr CA
+msgid Canadian French
+msgstr Fraincis Cheanadach
+
+#fr CH
+msgid Swiss French
+msgstr Fraincis Eilvéiseach
+
+#fra
+msgid French
+msgstr Fraincis
+
+#frm
+msgid Middle French
+msgstr Meán-Fhraincis
+
+#fro
+msgid Old French
+msgstr Sean-Fhraincis
+
+#frr
+msgid Northern Frisian
+msgstr Freaslainnis an Tuaiscirt
+
+#fry
+msgid Western Frisian
+msgstr Freaslainnis Iartharach
+
+#ful
+msgid Fulah
+msgstr Fuláinis
+
+#fur
+msgid Friulian
+msgstr Friúilis
+
+#gez
+msgid Geez
+msgstr Aetóipis
+
+#gla
+msgid Scottish Gaelic
+msgstr Gaeilge na hAlban
+
+#gle
+msgid Irish
+msgstr Gaeilge
+
+#glg
+msgid Galician
+msgstr Gailísis
+
+#glv
+msgid Manx
+msgstr Manainnis
+
+#gmh
+msgid Middle High German
+msgstr Meán-Ard-Ghearmáinis
+
+#goh
+msgid Old High German
+msgstr Sean-Ard-Ghearmáinis
+
+#grc
+msgid Ancient Greek
+msgstr Sean-Ghréigis
+
+#grn
+msgid Guarani
+msgstr Guaráinis
+
+#gsw
+msgid Swiss German
+msgstr Gearmáinis Eilvéiseach
+
+#guc
+msgid Wayuu
+msgstr Uaúis
+
+#guj
+msgid Gujarati
+msgstr Gúisearáitis
+
+#hak
+msgid Hakka Chinese
+msgstr Haicéis
+
+#hat
+msgid Haitian Creole
+msgstr Criól Háítíoch
+
+#hau
+msgid Hausa
+msgstr Hásais
+
+#haw
+msgid Hawaiian
+msgstr Haváis
+
+#hbs
+msgid Serbo-Croatian
+msgstr Seirbea-Chróitis
+
+#heb
+msgid Hebrew
+msgstr Eabhrais
+
+#her
+msgid Herero
+msgstr Heiréiris
+
+#hif
+msgid Fiji Hindi
+msgstr Hiondúis Fhidsí
+
+#hil
+msgid Hiligaynon
+msgstr Hilgeanóinis
+
+#hin
+msgid Hindi
+msgstr Hiondúis
+
+#hit
+msgid Hittite
+msgstr Hitis
+
+#hmn
+msgid Hmong
+msgstr Mongais
+
+#hmo
+msgid Hiri Motu
+msgstr Motúis Hírí
+
+#hrv
+msgid Croatian
+msgstr Cróitis
+
+#hsb
+msgid Upper Sorbian
+msgstr Sorbais Uachtarach
+
+#hun
+msgid Hungarian
+msgstr Ungáiris
+
+#hup
+msgid Hupa
+msgstr Húipis
+
+#hye
+msgid Armenian
+msgstr Airméinis
+
+#ibb
+msgid Ibibio
+msgstr Ibibis
+
+#ibo
+msgid Igbo
+msgstr Íogbóis
+
+#ido
+msgid Ido
+msgstr Ido
+
+#iku
+msgid Inuktitut
+msgstr Ionúitis
+
+#ile
+msgid Interlingue
+msgstr Interlingue
+
+#ina
+msgid Interlingua
+msgstr Interlingua
+
+#ind
+msgid Indonesian
+msgstr Indinéisis
+
+#inh
+msgid Ingush
+msgstr Iongúis
+
+#ipk
+msgid Inupiaq
+msgstr Iniúipiaicis
+
+#isl
+msgid Icelandic
+msgstr Íoslainnis
+
+#ita
+msgid Italian
+msgstr Iodáilis
+
+#jav
+msgid Javanese
+msgstr Iáivis
+
+#jbo
+msgid Lojban
+msgstr Lojban
+
+#jpn
+msgid Japanese
+msgstr Seapáinis
+
+#jut
+msgid Jutish
+msgstr Iútlainnis
+
+#kaa
+msgid Kara-Kalpak
+msgstr Cara-Chalpáis
+
+#kal
+msgid Kalaallisut
+msgstr Kalaallisut
+
+#kan
+msgid Kannada
+msgstr Cannadais
+
+#kas
+msgid Kashmiri
+msgstr Caismíris
+
+#kat
+msgid Georgian
+msgstr Seoirsis
+
+#kau
+msgid Kanuri
+msgstr Canúiris
+
+#kaz
+msgid Kazakh
+msgstr Casaicis
+
+#khm
+msgid Khmer
+msgstr Ciméiris
+
+#kik
+msgid Kikuyu
+msgstr Ciocúis
+
+#kin
+msgid Kinyarwanda
+msgstr Ciniaruaindis
+
+#kir
+msgid Kyrgyz
+msgstr Cirgisis
+
+#kok
+msgid Konkani
+msgstr Concáinis
+
+#kom
+msgid Komi
+msgstr Coimis
+
+#kon
+msgid Kongo
+msgstr Congóis
+
+#kor
+msgid Korean
+msgstr Cóiréis
+
+#krl
+msgid Karelian
+msgstr Cairéilis
+
+#kru
+msgid Kurukh
+msgstr Curúicis
+
+#kua
+msgid Kuanyama
+msgstr Cuainiáimis
+
+#kur
+msgid Kurdish
+msgstr Coirdis
+
+#lad
+msgid Ladino
+msgstr Laidínis
+
+#lah
+msgid Lahnda
+msgstr Puinseáibis Iartharach
+
+#lao
+msgid Lao
+msgstr Laoisis
+
+#lat
+msgid Latin
+msgstr Laidin
+
+#lav
+msgid Latvian
+msgstr Laitvis
+
+#lij
+msgid Ligurian
+msgstr Liogúiris
+
+#lin
+msgid Lingala
+msgstr Liongáilis
+
+#lit
+msgid Lithuanian
+msgstr Liotuáinis
+
+#liv
+msgid Livonian
+msgstr Liovóinis
+
+#lmo
+msgid Lombard
+msgstr Lombairdis
+
+#ltz
+msgid Luxembourgish
+msgstr Lucsambuirgis
+
+#lub
+msgid Luba-Katanga
+msgstr Lúba-Cataingis
+
+#lug
+msgid Ganda
+msgstr Lugandais
+
+#mah
+msgid Marshallese
+msgstr Mairsillis
+
+#mal
+msgid Malayalam
+msgstr Mailéalaimis
+
+#mar
+msgid Marathi
+msgstr Maraitis
+
+#men
+msgid Mende
+msgstr Meindis
+
+#mga
+msgid Middle Irish
+msgstr Meán-Ghaeilge
+
+#mkd
+msgid Macedonian
+msgstr Macadóinis
+
+#mlg
+msgid Malagasy
+msgstr Malagáisis
+
+#mlt
+msgid Maltese
+msgstr Máltais
+
+#mni
+msgid Manipuri
+msgstr Manapúiris
+
+#moh
+msgid Mohawk
+msgstr Móháicis
+
+#mon
+msgid Mongolian
+msgstr Mongóilis
+
+#mri
+msgid Maori
+msgstr Maorais
+
+#mrj
+msgid Western Mari
+msgstr Mairis Iartharach
+
+#msa
+msgid Malay
+msgstr Malaeis
+
+#mul
+msgid Multiple languages
+msgstr Ilteangacha
+
+#mwl
+msgid Mirandese
+msgstr Mioraindéis
+
+#mwr
+msgid Marwari
+msgstr Marmhairis
+
+#mya
+msgid Burmese
+msgstr Burmais
+
+#nau
+msgid Nauru
+msgstr Nárúis
+
+#nav
+msgid Navajo
+msgstr Navachóis
+
+#nbl
+msgid South Ndebele
+msgstr Ndeibéilis an Deiscirt
+
+#nde
+msgid North Ndebele
+msgstr Ndeibéilis an Tuaiscirt
+
+#ndo
+msgid Ndonga
+msgstr Ndongais
+
+#nds
+msgid Low German
+msgstr Gearmáinis Íochtarach
+
+#nds NL
+msgid Low Saxon
+msgstr Sacsainis Íochtarach
+
+#nep
+msgid Nepali
+msgstr Neipeailis
+
+#niu
+msgid Niuean
+msgstr Níobhais
+
+#nl BE
+msgid Flemish
+msgstr Pléimeannais
+
+#nld
+msgid Dutch
+msgstr Ollainnis
+
+#nno
+msgid Norwegian Nynorsk
+msgstr Nua-Ioruais
+
+#nob
+msgid Norwegian Bokmål
+msgstr Ioruais Bokmål
+
+#non
+msgid Old Norse
+msgstr Sean-Lochlainnis
+
+#nor
+msgid Norwegian
+msgstr Ioruais
+
+#nso
+msgid Northern Sotho
+msgstr Sútúis an Tuaiscirt
+
+#nya
+msgid Nyanja
+msgstr Siséivis
+
+#oci
+msgid Occitan
+msgstr Ocsatáinis
+
+#oji
+msgid Ojibwa
+msgstr Óisibis
+
+#ori
+msgid Odia
+msgstr Oirísis
+
+#orm
+msgid Oromo
+msgstr Oraimis
+
+#oss
+msgid Ossetic
+msgstr Oiséitis
+
+#pan
+msgid Punjabi
+msgstr Puinseáibis
+
+#peo
+msgid Old Persian
+msgstr Sean-Pheirsis
+
+#pli
+msgid Pali
+msgstr Páilis
+
+#pol
+msgid Polish
+msgstr Polainnis
+
+#por
+msgid Portuguese
+msgstr Portaingéilis
+
+#prg
+msgid Prussian
+msgstr Prúisis
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Portaingéilis na Brasaíle
+
+#pt PT
+msgid European Portuguese
+msgstr Portaingéilis Ibéarach
+
+#pus
+msgid Pashto
+msgstr Paistis
+
+#quc
+msgid Kʼicheʼ
+msgstr Cuitséis
+
+#que
+msgid Quechua
+msgstr Ceatsuais
+
+#ro MD
+msgid Moldavian
+msgstr Moldáivis
+
+#roh
+msgid Romansh
+msgstr Rómainis
+
+#rom
+msgid Romany
+msgstr Romainis
+
+#ron
+msgid Romanian
+msgstr Rómáinis
+
+#run
+msgid Rundi
+msgstr Rúindis
+
+#rup
+msgid Aromanian
+msgstr Arómáinis
+
+#rus
+msgid Russian
+msgstr Rúisis
+
+#sag
+msgid Sango
+msgstr Sangóis
+
+#sah
+msgid Sakha
+msgstr Sachais
+
+#sam
+msgid Samaritan Aramaic
+msgstr Aramais Shamárach
+
+#san
+msgid Sanskrit
+msgstr Sanscrait
+
+#sat
+msgid Santali
+msgstr Santáilis
+
+#scn
+msgid Sicilian
+msgstr Sicilis
+
+#sco
+msgid Scots
+msgstr Albainis
+
+#sga
+msgid Old Irish
+msgstr Sean-Ghaeilge
+
+#shi
+msgid Tachelhit
+msgstr Tachelhit
+
+#sin
+msgid Sinhala
+msgstr Siolóinis
+
+#slk
+msgid Slovak
+msgstr Slóvaicis
+
+#slv
+msgid Slovenian
+msgstr Slóivéinis
+
+#sme
+msgid Northern Sami
+msgstr Sáimis Thuaidh
+
+#smj
+msgid Lule Sami
+msgstr Sáimis Lule
+
+#smo
+msgid Samoan
+msgstr Samóis
+
+#sna
+msgid Shona
+msgstr Seoinis
+
+#snd
+msgid Sindhi
+msgstr Sindis
+
+#sog
+msgid Sogdien
+msgstr Sogdánais
+
+#som
+msgid Somali
+msgstr Somáilis
+
+#sot
+msgid Southern Sotho
+msgstr Seasóitis
+
+#spa
+msgid Spanish
+msgstr Spáinnis
+
+#sqi
+msgid Albanian
+msgstr Albáinis
+
+#srd
+msgid Sardinian
+msgstr Sairdínis
+
+#srp
+msgid Serbian
+msgstr Seirbis
+
+#ssw
+msgid Swati
+msgstr Suaisis
+
+#sun
+msgid Sundanese
+msgstr Sundais
+
+#sux
+msgid Sumerian
+msgstr Suiméiris
+
+#sw CD
+msgid Congo Swahili
+msgstr Svahaílis an Chongó
+
+#swa
+msgid Swahili
+msgstr Svahaílis
+
+#swe
+msgid Swedish
+msgstr Sualainnis
+
+#syr
+msgid Syriac
+msgstr Siricis
+
+#szl
+msgid Silesian
+msgstr Siléisis
+
+#tah
+msgid Tahitian
+msgstr Taihítis
+
+#tam
+msgid Tamil
+msgstr Tamailis
+
+#tat
+msgid Tatar
+msgstr Tatairis
+
+#tel
+msgid Telugu
+msgstr Teileagúis
+
+#tgk
+msgid Tajik
+msgstr Táidsícis
+
+#tgl
+msgid Tagalog
+msgstr Tagálaigis
+
+#tha
+msgid Thai
+msgstr Téalainnis
+
+#tir
+msgid Tigrinya
+msgstr Tigrinis
+
+#tlh
+msgid Klingon
+msgstr Klingon
+
+#ton
+msgid Tongan
+msgstr Tongais
+
+#tsn
+msgid Tswana
+msgstr Suáinis
+
+#tso
+msgid Tsonga
+msgstr Songais
+
+#tuk
+msgid Turkmen
+msgstr Tuircméinis
+
+#tur
+msgid Turkish
+msgstr Tuircis
+
+#twi
+msgid Twi
+msgstr Tíbhis
+
+#udm
+msgid Udmurt
+msgstr Udmairtis
+
+#uig
+msgid Uyghur
+msgstr Uigiúiris
+
+#ukr
+msgid Ukrainian
+msgstr Úcráinis
+
+#und
+msgid Unknown language
+msgstr Teanga Anaithnid
+
+#urd
+msgid Urdu
+msgstr Urdúis
+
+#uzb
+msgid Uzbek
+msgstr Úisbéiceastáinis
+
+#vec
+msgid Venetian
+msgstr Veinéisis
+
+#ven
+msgid Venda
+msgstr Veindis
+
+#vie
+msgid Vietnamese
+msgstr Vítneaimis
+
+#vls
+msgid West Flemish
+msgstr Pléimeannais Iartharach
+
+#vol
+msgid Volapük
+msgstr Volapük
+
+#wln
+msgid Walloon
+msgstr Vallúnais
+
+#wol
+msgid Wolof
+msgstr Volaifis
+
+#xal
+msgid Kalmyk
+msgstr Cailmícis
+
+#xho
+msgid Xhosa
+msgstr Cóisis
+
+#yid
+msgid Yiddish
+msgstr Giúdais
+
+#yor
+msgid Yoruba
+msgstr Iarúibis
+
+#yue
+msgid Cantonese
+msgstr Cantainis
+
+#zea
+msgid Zeelandic
+msgstr Séalainnis
+
+#zh Hans
+msgid Simplified Chinese
+msgstr Sínis Shimplithe
+
+#zh Hant
+msgid Traditional Chinese
+msgstr Sínis Thraidisiúnta
+
+#zha
+msgid Zhuang
+msgstr Siuáingis
+
+#zho
+msgid Chinese
+msgstr Sínis
+
+#zul
+msgid Zulu
+msgstr Súlúis
+
+#zun
+msgid Zuni
+msgstr Zúinis
+
+#zxx
+msgid No linguistic content
+msgstr Gan ábhar teangeolaíoch
+

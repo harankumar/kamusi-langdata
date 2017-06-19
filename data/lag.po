@@ -1,92 +1,92 @@
-#ak
+#aka
 msgid Akan
 msgstr Kɨakáani
 
-#am
+#amh
 msgid Amharic
 msgstr Kɨmʉháari
 
-#ar
+#ara
 msgid Arabic
 msgstr Kɨaráabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Kɨberalúusi
 
-#bg
-msgid Bulgarian
-msgstr Kɨbulugária
-
-#bn
+#ben
 msgid Bangla
 msgstr Kɨbangála
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Kɨbulugária
+
+#ces
 msgid Czech
 msgstr Kɨchéeki
 
-#de
+#deu
 msgid German
 msgstr Kɨjerʉmáani
 
-#el
+#ell
 msgid Greek
 msgstr Kɨgiríki
 
-#en
+#eng
 msgid English
 msgstr Kɨɨngeréesa
 
-#es
-msgid Spanish
-msgstr Kɨhispánia
-
-#fa
+#fas
 msgid Persian
 msgstr Kɨajéemi
 
-#fr
+#fra
 msgid French
 msgstr Kɨfaráansa
 
-#ha
+#hau
 msgid Hausa
 msgstr Kɨhaúusa
 
-#hi
+#hin
 msgid Hindi
 msgstr Kɨhíindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Kɨhungári
 
-#id
-msgid Indonesian
-msgstr Kɨɨndonésia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Kiígibo
 
-#it
+#ind
+msgid Indonesian
+msgstr Kɨɨndonésia
+
+#ita
 msgid Italian
 msgstr Kɨtaliáano
 
-#ja
-msgid Japanese
-msgstr Kɨjapáani
-
-#jv
+#jav
 msgid Javanese
 msgstr Kɨjáava
 
-#km
+#jpn
+msgid Japanese
+msgstr Kɨjapáani
+
+#khm
 msgid Khmer
 msgstr Kɨkambódia
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Kɨnyarwáanda
+
+#kor
 msgid Korean
 msgstr Kɨkoréa
 
@@ -94,87 +94,87 @@ msgstr Kɨkoréa
 msgid Langi
 msgstr Kɨlaangi
 
-#ms
+#msa
 msgid Malay
 msgstr Kɨmelésia
 
-#my
+#mya
 msgid Burmese
 msgstr Kɨbáama
 
-#ne
+#nep
 msgid Nepali
 msgstr Kɨnepáali
 
-#nl
+#nld
 msgid Dutch
 msgstr Kɨholáanzi
 
-#pa
+#pan
 msgid Punjabi
 msgstr Kɨpúnjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Kɨpólandi
 
-#pt
+#por
 msgid Portuguese
 msgstr Kɨréeno
 
-#ro
+#ron
 msgid Romanian
 msgstr Kɨromanía
 
-#ru
+#rus
 msgid Russian
 msgstr Kɨrúusi
 
-#rw
-msgid Kinyarwanda
-msgstr Kɨnyarwáanda
-
-#so
+#som
 msgid Somali
 msgstr Kɨsómáali
 
-#sv
+#spa
+msgid Spanish
+msgstr Kɨhispánia
+
+#swe
 msgid Swedish
 msgstr Kɨswíidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Kɨtamíili
 
-#th
+#tha
 msgid Thai
 msgstr Kɨtáilandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Kɨturúuki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Kɨukɨranía
 
-#ur
+#urd
 msgid Urdu
 msgstr Kɨúrdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Kɨvietináamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Kɨyorúuba
 
-#zh
+#zho
 msgid Chinese
 msgstr Kɨchíina
 
-#zu
+#zul
 msgid Zulu
 msgstr Kɨzúulu
 

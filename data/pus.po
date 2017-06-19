@@ -1,0 +1,432 @@
+#afr
+msgid Afrikaans
+msgstr افريکاني
+
+#amh
+msgid Amharic
+msgstr امهاري
+
+#ara
+msgid Arabic
+msgstr عربي
+
+#asm
+msgid Assamese
+msgstr آسامي
+
+#aze
+msgid Azerbaijani
+msgstr أذربائجاني
+
+#bal
+msgid Baluchi
+msgstr بلوڅي
+
+#bel
+msgid Belarusian
+msgstr بېلاروسي
+
+#ben
+msgid Bangla
+msgstr بنګالي
+
+#bos
+msgid Bosnian
+msgstr بوسني
+
+#bre
+msgid Breton
+msgstr برېتون
+
+#bul
+msgid Bulgarian
+msgstr بلغاري
+
+#cat
+msgid Catalan
+msgstr کټلاني
+
+#ces
+msgid Czech
+msgstr چېک
+
+#cym
+msgid Welsh
+msgstr ويلشي
+
+#dan
+msgid Danish
+msgstr ډېنش
+
+#deu
+msgid German
+msgstr الماني
+
+#ell
+msgid Greek
+msgstr یوناني
+
+#eng
+msgid English
+msgstr انګریزي
+
+#epo
+msgid Esperanto
+msgstr اسپرانتو
+
+#est
+msgid Estonian
+msgstr حبشي
+
+#eus
+msgid Basque
+msgstr باسکي
+
+#fao
+msgid Faroese
+msgstr فاروئې
+
+#fas
+msgid Persian
+msgstr فارسي
+
+#fil
+msgid Filipino
+msgstr تګالوګ
+
+#fin
+msgid Finnish
+msgstr فینلنډي
+
+#fra
+msgid French
+msgstr فرانسوي
+
+#fry
+msgid Western Frisian
+msgstr فريزي
+
+#gla
+msgid Scottish Gaelic
+msgstr سکاټلېنډي ګېلک
+
+#gle
+msgid Irish
+msgstr ائيرلېنډي
+
+#glg
+msgid Galician
+msgstr ګلېشيايي
+
+#grn
+msgid Guarani
+msgstr ګوراني
+
+#guj
+msgid Gujarati
+msgstr ګجراتي
+
+#hbs
+msgid Serbo-Croatian
+msgstr سرب-کروشيايي
+
+#heb
+msgid Hebrew
+msgstr عبري
+
+#hin
+msgid Hindi
+msgstr هندي
+
+#hrv
+msgid Croatian
+msgstr کروواتي
+
+#hun
+msgid Hungarian
+msgstr هنګري
+
+#hye
+msgid Armenian
+msgstr ارمني
+
+#ile
+msgid Interlingue
+msgstr آسا نا جبة
+
+#ina
+msgid Interlingua
+msgstr انټرلنګوا
+
+#ind
+msgid Indonesian
+msgstr انډونېشيايي
+
+#isl
+msgid Icelandic
+msgstr أيسلېنډي
+
+#ita
+msgid Italian
+msgstr ایټالوي
+
+#jav
+msgid Javanese
+msgstr جاوايې
+
+#jpn
+msgid Japanese
+msgstr جاپانی
+
+#kan
+msgid Kannada
+msgstr کنأډه
+
+#kat
+msgid Georgian
+msgstr جورجيائي
+
+#khm
+msgid Khmer
+msgstr کمبوډيايې يا د کمبوډيا
+
+#kir
+msgid Kyrgyz
+msgstr کرګيز
+
+#kor
+msgid Korean
+msgstr کوريائي
+
+#kur
+msgid Kurdish
+msgstr کردي
+
+#lao
+msgid Lao
+msgstr لويتين
+
+#lat
+msgid Latin
+msgstr لاتیني
+
+#lav
+msgid Latvian
+msgstr لېټواني
+
+#lit
+msgid Lithuanian
+msgstr ليتواني
+
+#mal
+msgid Malayalam
+msgstr مالايالم
+
+#mar
+msgid Marathi
+msgstr مراټهي
+
+#mkd
+msgid Macedonian
+msgstr مقدوني
+
+#mlg
+msgid Malagasy
+msgstr ملغاسي
+
+#mlt
+msgid Maltese
+msgstr مالټايي
+
+#mon
+msgid Mongolian
+msgstr مغولي
+
+#msa
+msgid Malay
+msgstr ملایا
+
+#nep
+msgid Nepali
+msgstr نېپالي
+
+#nld
+msgid Dutch
+msgstr هالېنډي
+
+#nno
+msgid Norwegian Nynorsk
+msgstr ناروېئي (نائنورسک)
+
+#nor
+msgid Norwegian
+msgstr ناروېئې
+
+#oci
+msgid Occitan
+msgstr اوکسيټاني
+
+#ori
+msgid Odia
+msgstr اوريا
+
+#pan
+msgid Punjabi
+msgstr پنجابي
+
+#pol
+msgid Polish
+msgstr پولنډي
+
+#por
+msgid Portuguese
+msgstr پورتګالي
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr پرتگال (برازيل)
+
+#pt PT
+msgid European Portuguese
+msgstr پرتګالي (پرتګال)
+
+#pus
+msgid Pashto
+msgstr پښتو
+
+#ron
+msgid Romanian
+msgstr روماني
+
+#rus
+msgid Russian
+msgstr روسي
+
+#san
+msgid Sanskrit
+msgstr سنسکریټ
+
+#sin
+msgid Sinhala
+msgstr سينهالي
+
+#slk
+msgid Slovak
+msgstr سلوواکي
+
+#slv
+msgid Slovenian
+msgstr سلوواني
+
+#snd
+msgid Sindhi
+msgstr سندهي
+
+#som
+msgid Somali
+msgstr سومالي
+
+#sot
+msgid Southern Sotho
+msgstr سيسوتو
+
+#spa
+msgid Spanish
+msgstr هسپانوي
+
+#sqi
+msgid Albanian
+msgstr الباني
+
+#srp
+msgid Serbian
+msgstr سربيائي
+
+#sun
+msgid Sundanese
+msgstr سوډاني
+
+#swa
+msgid Swahili
+msgstr سواهېلي
+
+#swe
+msgid Swedish
+msgstr سویډنی
+
+#tam
+msgid Tamil
+msgstr تامل
+
+#tat
+msgid Tatar
+msgstr تاتار
+
+#tel
+msgid Telugu
+msgstr تېليګو
+
+#tgk
+msgid Tajik
+msgstr تاجکي
+
+#tha
+msgid Thai
+msgstr تايلېنډي
+
+#tir
+msgid Tigrinya
+msgstr تيګريني
+
+#tlh
+msgid Klingon
+msgstr کلينګاني
+
+#tuk
+msgid Turkmen
+msgstr ترکمني
+
+#tur
+msgid Turkish
+msgstr ترکي
+
+#twi
+msgid Twi
+msgstr توی
+
+#uig
+msgid Uyghur
+msgstr اويگور
+
+#ukr
+msgid Ukrainian
+msgstr اوکرانايي
+
+#urd
+msgid Urdu
+msgstr اردو
+
+#uzb
+msgid Uzbek
+msgstr ازبکي
+
+#vie
+msgid Vietnamese
+msgstr وېتنامي
+
+#xho
+msgid Xhosa
+msgstr خوسا
+
+#yid
+msgid Yiddish
+msgstr يديش
+
+#zho
+msgid Chinese
+msgstr چیني
+
+#zul
+msgid Zulu
+msgstr زولو
+

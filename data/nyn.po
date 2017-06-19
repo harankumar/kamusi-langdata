@@ -1,108 +1,108 @@
-#ak
+#aka
 msgid Akan
 msgstr Orukani
 
-#am
+#amh
 msgid Amharic
 msgstr Orumariki
 
-#ar
+#ara
 msgid Arabic
 msgstr Oruharabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Oruberarusi
 
-#bg
-msgid Bulgarian
-msgstr Oruburugariya
-
-#bn
+#ben
 msgid Bangla
 msgstr Orubengari
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Oruburugariya
+
+#ces
 msgid Czech
 msgstr Oruceeki
 
-#de
+#deu
 msgid German
 msgstr Orugirimaani
 
-#el
+#ell
 msgid Greek
 msgstr Oruguriiki
 
-#en
+#eng
 msgid English
 msgstr Orungyereza
 
-#es
-msgid Spanish
-msgstr Orusupaani
-
-#fa
+#fas
 msgid Persian
 msgstr Orupaasiya
 
-#fr
+#fra
 msgid French
 msgstr Orufaransa
 
-#ha
+#hau
 msgid Hausa
 msgstr Oruhausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Oruhindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Oruhangare
 
-#id
-msgid Indonesian
-msgstr Oruindonezia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Oruibo
 
-#it
+#ind
+msgid Indonesian
+msgstr Oruindonezia
+
+#ita
 msgid Italian
 msgstr Oruyitare
 
-#ja
-msgid Japanese
-msgstr Orujapaani
-
-#jv
+#jav
 msgid Javanese
 msgstr Orujava
 
-#km
+#jpn
+msgid Japanese
+msgstr Orujapaani
+
+#khm
 msgid Khmer
 msgstr Orukambodiya
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Orunyarwanda
+
+#kor
 msgid Korean
 msgstr Orukoreya
 
-#ms
+#msa
 msgid Malay
 msgstr Orumalesiya
 
-#my
+#mya
 msgid Burmese
 msgstr Oruburuma
 
-#ne
+#nep
 msgid Nepali
 msgstr Orunepali
 
-#nl
+#nld
 msgid Dutch
 msgstr Orudaaki
 
@@ -110,71 +110,71 @@ msgstr Orudaaki
 msgid Nyankole
 msgstr Runyankore
 
-#pa
+#pan
 msgid Punjabi
 msgstr Orupungyabi
 
-#pl
+#pol
 msgid Polish
 msgstr Orupoori
 
-#pt
+#por
 msgid Portuguese
 msgstr Orupocugo
 
-#ro
+#ron
 msgid Romanian
 msgstr Oruromania
 
-#ru
+#rus
 msgid Russian
 msgstr Orurrasha
 
-#rw
-msgid Kinyarwanda
-msgstr Orunyarwanda
-
-#so
+#som
 msgid Somali
 msgstr Orusomaari
 
-#sv
+#spa
+msgid Spanish
+msgstr Orusupaani
+
+#swe
 msgid Swedish
 msgstr Oruswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Orutamiri
 
-#th
+#tha
 msgid Thai
 msgstr Orutailandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Orukuruki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Orukuraini
 
-#ur
+#urd
 msgid Urdu
 msgstr Oru-Urudu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Oruviyetinaamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Oruyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Oruchaina
 
-#zu
+#zul
 msgid Zulu
 msgstr Oruzuru
 

@@ -10,7 +10,7 @@ msgstr ancien haut-allemand
 msgid Gothic
 msgstr gotique
 
-#gu
+#guj
 msgid Gujarati
 msgstr gujarati
 
@@ -18,13 +18,13 @@ msgstr gujarati
 msgid Ao Naga
 msgstr ao
 
-#se
-msgid Northern Sami
-msgstr same du Nord
-
 #sma
 msgid Southern Sami
 msgstr same du Sud
+
+#sme
+msgid Northern Sami
+msgstr same du Nord
 
 #smj
 msgid Lule Sami

@@ -1,92 +1,92 @@
-#ak
+#aka
 msgid Akan
 msgstr Kiakan
 
-#am
+#amh
 msgid Amharic
 msgstr Kiamhali
 
-#ar
+#ara
 msgid Arabic
 msgstr Kialabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Kibelaausi
 
-#bg
-msgid Bulgarian
-msgstr Kibulgalia
-
-#bn
+#ben
 msgid Bangla
 msgstr Kibangla
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Kibulgalia
+
+#ces
 msgid Czech
 msgstr Kichecki
 
-#de
+#deu
 msgid German
 msgstr Kijeumani
 
-#el
+#ell
 msgid Greek
 msgstr Kigiiki
 
-#en
+#eng
 msgid English
 msgstr Kiingeeza
 
-#es
-msgid Spanish
-msgstr Kihispania
-
-#fa
+#fas
 msgid Persian
 msgstr Kiajemi
 
-#fr
+#fra
 msgid French
 msgstr Kifalansa
 
-#ha
+#hau
 msgid Hausa
 msgstr Kihausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Kihindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Kihungai
 
-#id
-msgid Indonesian
-msgstr Kiindonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Kiigbo
 
-#it
+#ind
+msgid Indonesian
+msgstr Kiindonesia
+
+#ita
 msgid Italian
 msgstr Kiitaliano
 
-#ja
-msgid Japanese
-msgstr Kijapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Kijava
 
-#km
+#jpn
+msgid Japanese
+msgstr Kijapani
+
+#khm
 msgid Khmer
 msgstr Kikambodia
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Kinyalwanda
+
+#kor
 msgid Korean
 msgstr Kikolea
 
@@ -94,87 +94,87 @@ msgstr Kikolea
 msgid Shambala
 msgstr Kishambaa
 
-#ms
+#msa
 msgid Malay
 msgstr Kimalesia
 
-#my
+#mya
 msgid Burmese
 msgstr Kibulma
 
-#ne
+#nep
 msgid Nepali
 msgstr Kinepali
 
-#nl
+#nld
 msgid Dutch
 msgstr Kiholanzi
 
-#pa
+#pan
 msgid Punjabi
 msgstr Kipunjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Kipolandi
 
-#pt
+#por
 msgid Portuguese
 msgstr Kileno
 
-#ro
+#ron
 msgid Romanian
 msgstr Kiomania
 
-#ru
+#rus
 msgid Russian
 msgstr Kilusi
 
-#rw
-msgid Kinyarwanda
-msgstr Kinyalwanda
-
-#so
+#som
 msgid Somali
 msgstr Kisomali
 
-#sv
+#spa
+msgid Spanish
+msgstr Kihispania
+
+#swe
 msgid Swedish
 msgstr Kiswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Kitamil
 
-#th
+#tha
 msgid Thai
 msgstr Kitailandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Kituuki
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Kiuklania
 
-#ur
+#urd
 msgid Urdu
 msgstr Kiuldu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Kivietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Kiyoluba
 
-#zh
+#zho
 msgid Chinese
 msgstr Kichina
 
-#zu
+#zul
 msgid Zulu
 msgstr Kizulu
 

@@ -1,70 +1,66 @@
-#ab
+#abk
 msgid Abkhazian
 msgstr Abčasiš
 
-#af
+#afr
 msgid Afrikaans
 msgstr Afrikáns
 
-#am
+#amh
 msgid Amharic
 msgstr Amhariš
 
-#ar
+#ara
 msgid Arabic
 msgstr Arabiš
 
-#as
+#asm
 msgid Assamese
 msgstr Assamesiš
 
-#ay
+#aym
 msgid Aymara
 msgstr Aymara
 
-#az
+#aze
 msgid Azerbaijani
 msgstr Serbaidšaniš
 
-#be
+#bel
 msgid Belarusian
 msgstr Wísrussiš
 
-#bg
-msgid Bulgarian
-msgstr Bulgariš
-
-#bn
+#ben
 msgid Bangla
 msgstr Bengališ
 
-#bo
+#bod
 msgid Tibetan
 msgstr Tibetiš
 
-#bs
+#bos
 msgid Bosnian
 msgstr Bosniš
 
-#ca
+#bul
+msgid Bulgarian
+msgstr Bulgariš
+
+#cat
 msgid Catalan
 msgstr Katalaniš
 
-#cs
+#ces
 msgid Czech
 msgstr Tšečiš
 
-#cy
+#cym
 msgid Welsh
 msgstr Walisiš
 
-#da
+#dan
 msgid Danish
 msgstr Däniš
-
-#de
-msgid German
-msgstr Titš
 
 #de AT
 msgid Austrian German
@@ -74,11 +70,15 @@ msgstr Öštričišes Titš
 msgid Swiss High German
 msgstr Schwizer Hočtitš
 
-#dv
+#deu
+msgid German
+msgstr Titš
+
+#div
 msgid Divehi
 msgstr Malediwiš
 
-#dz
+#dzo
 msgid Dzongkha
 msgstr Butaniš
 
@@ -86,13 +86,9 @@ msgstr Butaniš
 msgid Efik
 msgstr Efik
 
-#el
+#ell
 msgid Greek
 msgstr Gričiš
-
-#en
-msgid English
-msgstr Engliš
 
 #en AU
 msgid Australian English
@@ -110,9 +106,9 @@ msgstr Britišes Engliš
 msgid American English
 msgstr Amerikanišes Engliš
 
-#es
-msgid Spanish
-msgstr Schpaniš
+#eng
+msgid English
+msgstr Engliš
 
 #es 419
 msgid Latin American Spanish
@@ -122,33 +118,29 @@ msgstr Latiamerikanišes Schpaniš
 msgid European Spanish
 msgstr Iberišes Schpaniš
 
-#et
+#est
 msgid Estonian
 msgstr Estniš
 
-#eu
+#eus
 msgid Basque
 msgstr Baskiš
 
-#fa
+#fas
 msgid Persian
 msgstr Persiš
 
-#fi
-msgid Finnish
-msgstr Finiš
+#fij
+msgid Fijian
+msgstr Fidšianiš
 
 #fil
 msgid Filipino
 msgstr Filipiniš
 
-#fj
-msgid Fijian
-msgstr Fidšianiš
-
-#fr
-msgid French
-msgstr Wälš
+#fin
+msgid Finnish
+msgstr Finiš
 
 #fr CA
 msgid Canadian French
@@ -158,23 +150,31 @@ msgstr Kanadišes Wälš
 msgid Swiss French
 msgstr Schwizer Wälš
 
-#ga
+#fra
+msgid French
+msgstr Wälš
+
+#gle
 msgid Irish
 msgstr Iriš
 
-#gl
+#glg
 msgid Galician
 msgstr Galiziš
 
-#gn
+#grn
 msgid Guarani
 msgstr Guarani
 
-#gu
+#guj
 msgid Gujarati
 msgstr Gujarati
 
-#ha
+#hat
+msgid Haitian Creole
+msgstr Haitianiš
+
+#hau
 msgid Hausa
 msgstr Hausa
 
@@ -182,195 +182,191 @@ msgstr Hausa
 msgid Hawaiian
 msgstr Hawaíaniš
 
-#he
+#heb
 msgid Hebrew
 msgstr Hebräiš
 
-#hi
+#hin
 msgid Hindi
 msgstr Hindi
 
-#hr
+#hrv
 msgid Croatian
 msgstr Kroatiš
 
-#ht
-msgid Haitian Creole
-msgstr Haitianiš
-
-#hu
+#hun
 msgid Hungarian
 msgstr Ungariš
 
-#hy
+#hye
 msgid Armenian
 msgstr Armeniš
 
-#id
-msgid Indonesian
-msgstr Indonesiš
-
-#ig
+#ibo
 msgid Igbo
 msgstr Igbo
 
-#is
+#ind
+msgid Indonesian
+msgstr Indonesiš
+
+#isl
 msgid Icelandic
 msgstr Iisländiš
 
-#it
+#ita
 msgid Italian
 msgstr Italieniš
 
-#ja
+#jpn
 msgid Japanese
 msgstr Japaniš
 
-#ka
-msgid Georgian
-msgstr Georgiš
-
-#kk
-msgid Kazakh
-msgstr Kazačiš
-
-#km
-msgid Khmer
-msgstr Kambodšaniš
-
-#kn
+#kan
 msgid Kannada
 msgstr Kannada
 
-#ko
-msgid Korean
-msgstr Koreaniš
-
-#ks
+#kas
 msgid Kashmiri
 msgstr Kašmiriš
 
-#ku
-msgid Kurdish
-msgstr Kurdiš
+#kat
+msgid Georgian
+msgstr Georgiš
 
-#ky
+#kaz
+msgid Kazakh
+msgstr Kazačiš
+
+#khm
+msgid Khmer
+msgstr Kambodšaniš
+
+#kin
+msgid Kinyarwanda
+msgstr Ruandiš
+
+#kir
 msgid Kyrgyz
 msgstr Kirgisiš
 
-#la
-msgid Latin
-msgstr Latiniš
+#kor
+msgid Korean
+msgstr Koreaniš
 
-#lb
-msgid Luxembourgish
-msgstr Luxemburgiš
+#kur
+msgid Kurdish
+msgstr Kurdiš
 
-#ln
-msgid Lingala
-msgstr Lingala
-
-#lo
+#lao
 msgid Lao
 msgstr Laotiš
 
-#lt
-msgid Lithuanian
-msgstr Litauiš
+#lat
+msgid Latin
+msgstr Latiniš
 
-#lv
+#lav
 msgid Latvian
 msgstr Lettiš
 
-#mg
-msgid Malagasy
-msgstr Malagási
+#lin
+msgid Lingala
+msgstr Lingala
 
-#mi
-msgid Maori
-msgstr Maori
+#lit
+msgid Lithuanian
+msgstr Litauiš
 
-#mk
-msgid Macedonian
-msgstr Mazedoniš
+#ltz
+msgid Luxembourgish
+msgstr Luxemburgiš
 
-#ml
+#mal
 msgid Malayalam
 msgstr Malayalam
 
-#mn
-msgid Mongolian
-msgstr Mongoliš
-
-#mr
+#mar
 msgid Marathi
 msgstr Marathi
 
-#ms
-msgid Malay
-msgstr Malaíš
+#mkd
+msgid Macedonian
+msgstr Mazedoniš
 
-#mt
+#mlg
+msgid Malagasy
+msgstr Malagási
+
+#mlt
 msgid Maltese
 msgstr Maltesiš
 
-#my
+#mon
+msgid Mongolian
+msgstr Mongoliš
+
+#mri
+msgid Maori
+msgstr Maori
+
+#msa
+msgid Malay
+msgstr Malaíš
+
+#mya
 msgid Burmese
 msgstr Burmesiš
 
-#nb
-msgid Norwegian Bokmål
-msgstr Norwegiš Bokmål
-
-#nd
+#nde
 msgid North Ndebele
 msgstr Nordndebele
 
-#ne
+#nep
 msgid Nepali
 msgstr Nepalesiš
-
-#nl
-msgid Dutch
-msgstr Holändiš
 
 #nl BE
 msgid Flemish
 msgstr Flämiš
 
-#nn
+#nld
+msgid Dutch
+msgstr Holändiš
+
+#nno
 msgid Norwegian Nynorsk
 msgstr Norwegiš Nynorsk
+
+#nob
+msgid Norwegian Bokmål
+msgstr Norwegiš Bokmål
 
 #nso
 msgid Northern Sotho
 msgstr Nordsotho
 
-#ny
+#nya
 msgid Nyanja
 msgstr Nyanja
 
-#or
+#ori
 msgid Odia
 msgstr Oriya
 
-#os
+#oss
 msgid Ossetic
 msgstr Osétiš
 
-#pa
+#pan
 msgid Punjabi
 msgstr Pandšabiš
 
-#pl
+#pol
 msgid Polish
 msgstr Polniš
 
-#ps
-msgid Pashto
-msgstr Paštu
-
-#pt
+#por
 msgid Portuguese
 msgstr Portugisiš
 
@@ -382,107 +378,115 @@ msgstr Brasilianišes Portugisiš
 msgid European Portuguese
 msgstr Iberišes Portugisiš
 
-#qu
+#pus
+msgid Pashto
+msgstr Paštu
+
+#que
 msgid Quechua
 msgstr Quečua
 
-#rm
+#roh
 msgid Romansh
 msgstr Rätromaniš
 
-#rn
-msgid Rundi
-msgstr Rundi
-
-#ro
+#ron
 msgid Romanian
 msgstr Rumäniš
 
-#ru
+#run
+msgid Rundi
+msgstr Rundi
+
+#rus
 msgid Russian
 msgstr Rusiš
 
-#rw
-msgid Kinyarwanda
-msgstr Ruandiš
-
-#sa
-msgid Sanskrit
-msgstr Sanskrit
+#sag
+msgid Sango
+msgstr Sango
 
 #sah
 msgid Sakha
 msgstr Jakutiš
 
-#sd
-msgid Sindhi
-msgstr Sindhi
+#san
+msgid Sanskrit
+msgstr Sanskrit
 
-#se
-msgid Northern Sami
-msgstr Nordsamiš
-
-#sg
-msgid Sango
-msgstr Sango
-
-#si
+#sin
 msgid Sinhala
 msgstr Singalesiš
 
-#sk
+#slk
 msgid Slovak
 msgstr Slowakiš
 
-#sl
+#slv
 msgid Slovenian
 msgstr Sloweniš
 
-#sm
+#sme
+msgid Northern Sami
+msgstr Nordsamiš
+
+#smo
 msgid Samoan
 msgstr Samoaniš
 
-#sn
+#sna
 msgid Shona
 msgstr Shona
 
-#so
+#snd
+msgid Sindhi
+msgstr Sindhi
+
+#som
 msgid Somali
 msgstr Somališ
 
-#sq
-msgid Albanian
-msgstr Albaniš
-
-#sr
-msgid Serbian
-msgstr Serbiš
-
-#ss
-msgid Swati
-msgstr Swazi
-
-#st
+#sot
 msgid Southern Sotho
 msgstr Südsotho
 
-#su
+#spa
+msgid Spanish
+msgstr Schpaniš
+
+#sqi
+msgid Albanian
+msgstr Albaniš
+
+#srp
+msgid Serbian
+msgstr Serbiš
+
+#ssw
+msgid Swati
+msgstr Swazi
+
+#sun
 msgid Sundanese
 msgstr Sundanesiš
 
-#sv
-msgid Swedish
-msgstr Schwediš
-
-#sw
+#swa
 msgid Swahili
 msgstr Suaheliš
 
-#ta
+#swe
+msgid Swedish
+msgstr Schwediš
+
+#tah
+msgid Tahitian
+msgstr Taitiš
+
+#tam
 msgid Tamil
 msgstr Tamiliš
 
-#te
+#tel
 msgid Telugu
 msgstr Telugu
 
@@ -490,27 +494,19 @@ msgstr Telugu
 msgid Tetum
 msgstr Tetum
 
-#tg
+#tgk
 msgid Tajik
 msgstr Tadšikiš
 
-#th
+#tha
 msgid Thai
 msgstr Thailändiš
 
-#ti
+#tir
 msgid Tigrinya
 msgstr Tigrinja
 
-#tk
-msgid Turkmen
-msgstr Turkmeniš
-
-#tn
-msgid Tswana
-msgstr Tswana
-
-#to
+#ton
 msgid Tongan
 msgstr Tonga
 
@@ -518,23 +514,27 @@ msgstr Tonga
 msgid Tok Pisin
 msgstr Niwmelanesiš
 
-#tr
-msgid Turkish
-msgstr Türkiš
+#tsn
+msgid Tswana
+msgstr Tswana
 
-#ts
+#tso
 msgid Tsonga
 msgstr Tsonga
 
-#ty
-msgid Tahitian
-msgstr Taitiš
+#tuk
+msgid Turkmen
+msgstr Turkmeniš
 
-#ug
+#tur
+msgid Turkish
+msgstr Türkiš
+
+#uig
 msgid Uyghur
 msgstr Uiguriš
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ukrainiš
 
@@ -542,19 +542,19 @@ msgstr Ukrainiš
 msgid Unknown language
 msgstr Unbekannti Schprač
 
-#ur
+#urd
 msgid Urdu
 msgstr Urdu
 
-#uz
+#uzb
 msgid Uzbek
 msgstr Usbekiš
 
-#ve
+#ven
 msgid Venda
 msgstr Venda
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vietnamesiš
 
@@ -562,21 +562,17 @@ msgstr Vietnamesiš
 msgid Walser
 msgstr Walser
 
-#wo
+#wol
 msgid Wolof
 msgstr Wolof
 
-#xh
+#xho
 msgid Xhosa
 msgstr Xhosa
 
-#yo
+#yor
 msgid Yoruba
 msgstr Yoruba
-
-#zh
-msgid Chinese
-msgstr Chinesiš
 
 #zh Hans
 msgid Simplified Chinese
@@ -586,7 +582,11 @@ msgstr Vereifačts Chinesiš
 msgid Traditional Chinese
 msgstr Traditionells Chinesiš
 
-#zu
+#zho
+msgid Chinese
+msgstr Chinesiš
+
+#zul
 msgid Zulu
 msgstr Zulu
 

@@ -2,35 +2,35 @@
 msgid Mapuche
 msgstr المابودونجونية
 
-#gn
+#grn
 msgid Guarani
 msgstr الغورانية
+
+#hbs
+msgid Serbo-Croatian
+msgstr الكرواتية الصربية
 
 #hsb
 msgid Upper Sorbian
 msgstr صوربيا العليا
 
-#lo
+#lao
 msgid Lao
 msgstr اللاوو
-
-#sh
-msgid Serbo-Croatian
-msgstr الكرواتية الصربية
 
 #sma
 msgid Southern Sami
 msgstr سامي الجنوبية
 
-#sw
-msgid Swahili
-msgstr السواحيلية
-
 #sw CD
 msgid Congo Swahili
 msgstr السواحيلية الكونغولية
 
-#ti
+#swa
+msgid Swahili
+msgstr السواحيلية
+
+#tir
 msgid Tigrinya
 msgstr التيغرينية
 

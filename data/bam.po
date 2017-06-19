@@ -1,0 +1,180 @@
+#aka
+msgid Akan
+msgstr akankan
+
+#amh
+msgid Amharic
+msgstr amarikikan
+
+#ara
+msgid Arabic
+msgstr larabukan
+
+#bam
+msgid Bambara
+msgstr bamanakan
+
+#bel
+msgid Belarusian
+msgstr biyelorisikan
+
+#ben
+msgid Bangla
+msgstr bɛngalikan
+
+#bul
+msgid Bulgarian
+msgstr buligarikan
+
+#ces
+msgid Czech
+msgstr cɛkikan
+
+#deu
+msgid German
+msgstr alimaɲikan
+
+#ell
+msgid Greek
+msgstr gɛrɛsikan
+
+#eng
+msgid English
+msgstr angilɛkan
+
+#fas
+msgid Persian
+msgstr perisanikan
+
+#fra
+msgid French
+msgstr tubabukan
+
+#hau
+msgid Hausa
+msgstr awusakan
+
+#hin
+msgid Hindi
+msgstr inidikan
+
+#hun
+msgid Hungarian
+msgstr oŋirikan
+
+#ibo
+msgid Igbo
+msgstr igibokan
+
+#ind
+msgid Indonesian
+msgstr Ɛndonezikan
+
+#ita
+msgid Italian
+msgstr italikan
+
+#jav
+msgid Javanese
+msgstr javanekan
+
+#jpn
+msgid Japanese
+msgstr zapɔnekan
+
+#khm
+msgid Khmer
+msgstr kambojikan
+
+#kin
+msgid Kinyarwanda
+msgstr ruwandakan
+
+#kor
+msgid Korean
+msgstr korekan
+
+#msa
+msgid Malay
+msgstr malɛzikan
+
+#mya
+msgid Burmese
+msgstr birimanikan
+
+#nep
+msgid Nepali
+msgstr nepalekan
+
+#nld
+msgid Dutch
+msgstr olandekan
+
+#pan
+msgid Punjabi
+msgstr pɛnijabikan
+
+#pol
+msgid Polish
+msgstr polonekan
+
+#por
+msgid Portuguese
+msgstr pɔritigalikan
+
+#ron
+msgid Romanian
+msgstr rumanikan
+
+#rus
+msgid Russian
+msgstr irisikan
+
+#som
+msgid Somali
+msgstr somalikan
+
+#spa
+msgid Spanish
+msgstr esipaɲolkan
+
+#swe
+msgid Swedish
+msgstr suwɛdikan
+
+#tam
+msgid Tamil
+msgstr tamulikan
+
+#tha
+msgid Thai
+msgstr tayikan
+
+#tur
+msgid Turkish
+msgstr turikikan
+
+#ukr
+msgid Ukrainian
+msgstr ukɛrɛnikan
+
+#urd
+msgid Urdu
+msgstr urudukan
+
+#vie
+msgid Vietnamese
+msgstr wiyɛtinamukan
+
+#yor
+msgid Yoruba
+msgstr yorubakan
+
+#zho
+msgid Chinese
+msgstr siniwakan
+
+#zul
+msgid Zulu
+msgstr zulukan
+

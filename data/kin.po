@@ -1,0 +1,420 @@
+#afr
+msgid Afrikaans
+msgstr Ikinyafurikaneri
+
+#amh
+msgid Amharic
+msgstr Inyamuhariki
+
+#ara
+msgid Arabic
+msgstr Icyarabu
+
+#asm
+msgid Assamese
+msgstr Icyasamizi
+
+#aze
+msgid Azerbaijani
+msgstr Inyazeribayijani
+
+#bel
+msgid Belarusian
+msgstr Ikibelarusiya
+
+#ben
+msgid Bangla
+msgstr Ikibengali
+
+#bos
+msgid Bosnian
+msgstr Inyebosiniya
+
+#bre
+msgid Breton
+msgstr Inyebiritoni
+
+#bul
+msgid Bulgarian
+msgstr Urunyabuligariya
+
+#cat
+msgid Catalan
+msgstr Igikatalani
+
+#ces
+msgid Czech
+msgstr Igiceke
+
+#cym
+msgid Welsh
+msgstr Ikigaluwa
+
+#dan
+msgid Danish
+msgstr Ikidaninwa
+
+#deu
+msgid German
+msgstr Ikidage
+
+#ell
+msgid Greek
+msgstr Ikigereki
+
+#eng
+msgid English
+msgstr Icyongereza
+
+#epo
+msgid Esperanto
+msgstr Icyesiperanto
+
+#est
+msgid Estonian
+msgstr Icyesitoniya
+
+#eus
+msgid Basque
+msgstr Ikibasiki
+
+#fao
+msgid Faroese
+msgstr Inyefaroyizi
+
+#fas
+msgid Persian
+msgstr Inyeperisi
+
+#fil
+msgid Filipino
+msgstr Ikinyafilipine
+
+#fin
+msgid Finnish
+msgstr Igifinilande
+
+#fra
+msgid French
+msgstr Igifaransa
+
+#fry
+msgid Western Frisian
+msgstr Igifiriziyani
+
+#gla
+msgid Scottish Gaelic
+msgstr Ikigaluwa cy’Igisweduwa
+
+#gle
+msgid Irish
+msgstr Ikirilandi
+
+#glg
+msgid Galician
+msgstr Ikigalisiya
+
+#grn
+msgid Guarani
+msgstr Inyaguwarani
+
+#guj
+msgid Gujarati
+msgstr Inyegujarati
+
+#hbs
+msgid Serbo-Croatian
+msgstr Inyeseribiya na Korowasiya
+
+#heb
+msgid Hebrew
+msgstr Igiheburayo
+
+#hin
+msgid Hindi
+msgstr Igihindi
+
+#hrv
+msgid Croatian
+msgstr Igikorowasiya
+
+#hun
+msgid Hungarian
+msgstr Igihongiriya
+
+#hye
+msgid Armenian
+msgstr Ikinyarumeniya
+
+#ile
+msgid Interlingue
+msgstr Uruhuzandimi
+
+#ina
+msgid Interlingua
+msgstr Ururimi Gahuzamiryango
+
+#ind
+msgid Indonesian
+msgstr Ikinyendoziya
+
+#isl
+msgid Icelandic
+msgstr Igisilande
+
+#ita
+msgid Italian
+msgstr Igitaliyani
+
+#jav
+msgid Javanese
+msgstr Inyejava
+
+#jpn
+msgid Japanese
+msgstr Ikiyapani
+
+#kan
+msgid Kannada
+msgstr Igikanada
+
+#kat
+msgid Georgian
+msgstr Inyejeworujiya
+
+#khm
+msgid Khmer
+msgstr Igikambodiya
+
+#kin
+msgid Kinyarwanda
+msgstr Kinyarwanda
+
+#kir
+msgid Kyrgyz
+msgstr Inkerigizi
+
+#kor
+msgid Korean
+msgstr Igikoreya
+
+#kur
+msgid Kurdish
+msgstr Inyekuridishi
+
+#lao
+msgid Lao
+msgstr Ikilawotiyani
+
+#lat
+msgid Latin
+msgstr Ikilatini
+
+#lav
+msgid Latvian
+msgstr Ikinyaletoviyani
+
+#lin
+msgid Lingala
+msgstr Ilingala
+
+#lit
+msgid Lithuanian
+msgstr Ikilituwaniya
+
+#mal
+msgid Malayalam
+msgstr Ikimalayalami
+
+#mar
+msgid Marathi
+msgstr Ikimarati
+
+#mkd
+msgid Macedonian
+msgstr Ikimasedoniyani
+
+#mlt
+msgid Maltese
+msgstr Ikimaliteze
+
+#mon
+msgid Mongolian
+msgstr Ikimongoli
+
+#msa
+msgid Malay
+msgstr Ikimalayi
+
+#nep
+msgid Nepali
+msgstr Ikinepali
+
+#nld
+msgid Dutch
+msgstr Ikinerilande
+
+#nno
+msgid Norwegian Nynorsk
+msgstr Inyenoruveji (Nyonorusiki)
+
+#nor
+msgid Norwegian
+msgstr Ikinoruveji
+
+#oci
+msgid Occitan
+msgstr Inyogusitani
+
+#ori
+msgid Odia
+msgstr Inyoriya
+
+#pan
+msgid Punjabi
+msgstr Igipunjabi
+
+#pol
+msgid Polish
+msgstr Igipolone
+
+#por
+msgid Portuguese
+msgstr Igiporutugali
+
+#pt BR
+msgid Brazilian Portuguese
+msgstr Inyeporutigali (Brezili)
+
+#pt PT
+msgid European Portuguese
+msgstr Inyeporutigali (Igiporutigali)
+
+#pus
+msgid Pashto
+msgstr Impashito
+
+#ron
+msgid Romanian
+msgstr Ikinyarumaniya
+
+#rus
+msgid Russian
+msgstr Ikirusiya
+
+#san
+msgid Sanskrit
+msgstr Igisansikiri
+
+#sin
+msgid Sinhala
+msgstr Inyesimpaleze
+
+#slk
+msgid Slovak
+msgstr Igisilovaki
+
+#slv
+msgid Slovenian
+msgstr Ikinyasiloveniya
+
+#snd
+msgid Sindhi
+msgstr Igisindi
+
+#som
+msgid Somali
+msgstr Igisomali
+
+#sot
+msgid Southern Sotho
+msgstr Inyesesoto
+
+#spa
+msgid Spanish
+msgstr Icyesipanyolo
+
+#sqi
+msgid Albanian
+msgstr Icyalubaniya
+
+#srp
+msgid Serbian
+msgstr Igiseribe
+
+#sun
+msgid Sundanese
+msgstr Inyesudani
+
+#swa
+msgid Swahili
+msgstr Igiswahili
+
+#swe
+msgid Swedish
+msgstr Igisuweduwa
+
+#tam
+msgid Tamil
+msgstr Igitamili
+
+#tel
+msgid Telugu
+msgstr Igitelugu
+
+#tha
+msgid Thai
+msgstr Igitayi
+
+#tir
+msgid Tigrinya
+msgstr Inyatigirinya
+
+#tlh
+msgid Klingon
+msgstr Inyekilingoni
+
+#tuk
+msgid Turkmen
+msgstr Inyeturukimeni
+
+#tur
+msgid Turkish
+msgstr Igiturukiya
+
+#twi
+msgid Twi
+msgstr Inyetuwi
+
+#uig
+msgid Uyghur
+msgstr Ikiwiguri
+
+#ukr
+msgid Ukrainian
+msgstr Ikinyayukereni
+
+#urd
+msgid Urdu
+msgstr Inyeyurudu
+
+#uzb
+msgid Uzbek
+msgstr Inyeyuzubeki
+
+#vie
+msgid Vietnamese
+msgstr Ikinyaviyetinamu
+
+#xho
+msgid Xhosa
+msgstr Inyehawusa
+
+#yid
+msgid Yiddish
+msgstr Inyeyidishi
+
+#zul
+msgid Zulu
+msgstr Inyezulu
+

@@ -1,12 +1,12 @@
-#ak
+#aka
 msgid Akan
 msgstr Hɔp u akan
 
-#am
+#amh
 msgid Amharic
 msgstr Hɔp u amhārìk
 
-#ar
+#ara
 msgid Arabic
 msgstr Hɔp u arâb
 
@@ -14,167 +14,167 @@ msgstr Hɔp u arâb
 msgid Basaa
 msgstr Ɓàsàa
 
-#be
+#bel
 msgid Belarusian
 msgstr Hɔp u bièlòrûs
 
-#bg
-msgid Bulgarian
-msgstr Hɔp u bûlgâr
-
-#bn
+#ben
 msgid Bangla
 msgstr Hɔp u bɛŋgàli
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Hɔp u bûlgâr
+
+#ces
 msgid Czech
 msgstr Hɔp u cɛ̂k
 
-#de
+#deu
 msgid German
 msgstr Hɔp u jamân
 
-#el
+#ell
 msgid Greek
 msgstr Hɔp u gri ᷇kyà
 
-#en
+#eng
 msgid English
 msgstr Hɔp u ŋgisì
 
-#es
-msgid Spanish
-msgstr Hɔp u panyā
-
-#fa
+#fas
 msgid Persian
 msgstr Hɔp u pɛrsìà
 
-#fr
+#fra
 msgid French
 msgstr Hɔp u pulàsi
 
-#ha
+#hau
 msgid Hausa
 msgstr Hɔp u ɓausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Hɔp u hindì
 
-#hu
+#hun
 msgid Hungarian
 msgstr Hɔp u hɔŋgrìi
 
-#id
-msgid Indonesian
-msgstr Hɔp u indònesìà
-
-#ig
+#ibo
 msgid Igbo
 msgstr Hɔp u iɓò
 
-#it
+#ind
+msgid Indonesian
+msgstr Hɔp u indònesìà
+
+#ita
 msgid Italian
 msgstr Hɔp u italìà
 
-#ja
-msgid Japanese
-msgstr Hɔp u yapàn
-
-#jv
+#jav
 msgid Javanese
 msgstr Hɔp u yavà
 
-#km
+#jpn
+msgid Japanese
+msgstr Hɔp u yapàn
+
+#khm
 msgid Khmer
 msgstr Hɔp u kmɛ̂r
 
-#ko
-msgid Korean
-msgstr Hɔp u kɔrēà
-
-#ms
-msgid Malay
-msgstr Hɔp u makɛ᷆
-
-#my
-msgid Burmese
-msgstr Hɔp u birmàn
-
-#ne
-msgid Nepali
-msgstr Hɔp u nepa᷆l
-
-#nl
-msgid Dutch
-msgstr Hɔp u nlɛ̀ndi
-
-#pa
-msgid Punjabi
-msgstr Hɔp u pɛnjàbi
-
-#pl
-msgid Polish
-msgstr Hɔp u pɔlɔ̄nà
-
-#pt
-msgid Portuguese
-msgstr Hɔp u pɔtɔ̄kì
-
-#ro
-msgid Romanian
-msgstr Hɔp u rùmanìà
-
-#ru
-msgid Russian
-msgstr Hɔp u ruslànd
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Hɔp u ruāndà
 
-#so
+#kor
+msgid Korean
+msgstr Hɔp u kɔrēà
+
+#msa
+msgid Malay
+msgstr Hɔp u makɛ᷆
+
+#mya
+msgid Burmese
+msgstr Hɔp u birmàn
+
+#nep
+msgid Nepali
+msgstr Hɔp u nepa᷆l
+
+#nld
+msgid Dutch
+msgstr Hɔp u nlɛ̀ndi
+
+#pan
+msgid Punjabi
+msgstr Hɔp u pɛnjàbi
+
+#pol
+msgid Polish
+msgstr Hɔp u pɔlɔ̄nà
+
+#por
+msgid Portuguese
+msgstr Hɔp u pɔtɔ̄kì
+
+#ron
+msgid Romanian
+msgstr Hɔp u rùmanìà
+
+#rus
+msgid Russian
+msgstr Hɔp u ruslànd
+
+#som
 msgid Somali
 msgstr Hɔp u somàlî
 
-#sv
+#spa
+msgid Spanish
+msgstr Hɔp u panyā
+
+#swe
 msgid Swedish
 msgstr Hɔp u suɛ᷆d
 
-#ta
+#tam
 msgid Tamil
 msgstr Hɔp u tamu᷆l
 
-#th
+#tha
 msgid Thai
 msgstr Hɔp u tây
 
-#tr
+#tur
 msgid Turkish
 msgstr Hɔp u tûrk
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Hɔp u ukrǎnìà
 
-#ur
+#urd
 msgid Urdu
 msgstr Hɔp u urdù
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Hɔp u vyɛ̄dnàm
 
-#yo
+#yor
 msgid Yoruba
 msgstr Hɔp u yorūbà
 
-#zh
+#zho
 msgid Chinese
 msgstr Hɔp u kinà
 
-#zu
+#zul
 msgid Zulu
 msgstr Hɔp u zulù
 

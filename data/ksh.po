@@ -1,8 +1,8 @@
-#aa
+#aar
 msgid Afar
 msgstr Afahresch
 
-#ab
+#abk
 msgid Abkhazian
 msgstr Abchahsesch
 
@@ -18,21 +18,17 @@ msgstr Adangmesch
 msgid Adyghe
 msgstr Adygehjsch
 
-#ae
-msgid Avestan
-msgstr Avästahnesch
-
 #aeb
 msgid Tunisian Arabic
 msgstr Tonehsesch Arahbesch
 
-#af
-msgid Afrikaans
-msgstr Afrikaans
-
 #afh
 msgid Afrihili
 msgstr Afrehihlesch
+
+#afr
+msgid Afrikaans
+msgstr Afrikaans
 
 #agq
 msgid Aghem
@@ -42,7 +38,7 @@ msgstr Aghehmesch
 msgid Ainu
 msgstr Aijnu
 
-#ak
+#aka
 msgid Akan
 msgstr Akahnesch
 
@@ -54,13 +50,9 @@ msgstr Akahdesch
 msgid Aleut
 msgstr Ale’uhtesch
 
-#am
+#amh
 msgid Amharic
 msgstr Amhahresch
-
-#an
-msgid Aragonese
-msgstr Arrajonehsesch
 
 #ang
 msgid Old English
@@ -70,13 +62,17 @@ msgstr Ahl Änglesch
 msgid Angika
 msgstr Anjikahnesch
 
-#ar
-msgid Arabic
-msgstr Arahbesch
-
 #ar 001
 msgid Modern Standard Arabic
 msgstr Schtandatt Arahbesch
+
+#ara
+msgid Arabic
+msgstr Arahbesch
+
+#arg
+msgid Aragonese
+msgstr Arrajonehsesch
 
 #arp
 msgid Arapaho
@@ -94,10 +90,6 @@ msgstr Marokahnesch Arahbesch
 msgid Egyptian Arabic
 msgstr Äjiptesch Arahbesch
 
-#as
-msgid Assamese
-msgstr Aßamehsesch
-
 #asa
 msgid Asu
 msgstr Pare
@@ -106,25 +98,29 @@ msgstr Pare
 msgid American Sign Language
 msgstr Amärrekahnesche Blendeschprohch
 
+#asm
+msgid Assamese
+msgstr Aßamehsesch
+
 #ast
 msgid Asturian
 msgstr Astuhrejahnesch
 
-#av
+#ava
 msgid Avaric
 msgstr Avahresch
+
+#ave
+msgid Avestan
+msgstr Avästahnesch
 
 #awa
 msgid Awadhi
 msgstr Awahdesch
 
-#ay
+#aym
 msgid Aymara
 msgstr Aimahresch
-
-#az
-msgid Azerbaijani
-msgstr Asserbaidschahnesch
 
 #az Arab
 msgid undefined
@@ -134,13 +130,21 @@ msgstr Södasserbaidschahnesch
 msgid Azeri
 msgstr Asehresch
 
-#ba
+#aze
+msgid Azerbaijani
+msgstr Asserbaidschahnesch
+
+#bak
 msgid Bashkir
 msgstr Baschkihresch
 
 #bal
 msgid Baluchi
 msgstr Beluhtschesch
+
+#bam
+msgid Bambara
+msgstr Bambara
 
 #ban
 msgid Balinese
@@ -154,7 +158,7 @@ msgstr Bairesch
 msgid Basaa
 msgstr Basaa-Schprohche
 
-#be
+#bel
 msgid Belarusian
 msgstr Wiißrußesch
 
@@ -162,49 +166,45 @@ msgstr Wiißrußesch
 msgid Bemba
 msgstr Bemba
 
+#ben
+msgid Bangla
+msgstr Bängjahlesch
+
 #bez
 msgid Bena
 msgstr Bena
-
-#bg
-msgid Bulgarian
-msgstr Bulljahresch
 
 #bho
 msgid Bhojpuri
 msgstr Bhohdschpuresch
 
-#bi
-msgid Bislama
-msgstr Bislahmesch
-
 #bin
 msgid Bini
 msgstr Edo
 
-#bm
-msgid Bambara
-msgstr Bambara
+#bis
+msgid Bislama
+msgstr Bislahmesch
 
-#bn
-msgid Bangla
-msgstr Bängjahlesch
-
-#bo
+#bod
 msgid Tibetan
 msgstr Tibehtesch
+
+#bos
+msgid Bosnian
+msgstr Boßnesch
 
 #bpy
 msgid Bishnupriya
 msgstr Bischnuprejahnesch
 
-#br
-msgid Breton
-msgstr Bettohnesch
-
 #bra
 msgid Braj
 msgstr Brahjesch
+
+#bre
+msgid Breton
+msgstr Bettohnesch
 
 #brh
 msgid Brahui
@@ -214,10 +214,6 @@ msgstr Brahuijesch
 msgid Bodo
 msgstr Boddo
 
-#bs
-msgid Bosnian
-msgstr Boßnesch
-
 #bua
 msgid Buriat
 msgstr Burejahtesch
@@ -226,29 +222,37 @@ msgstr Burejahtesch
 msgid Buginese
 msgstr Bujinehsesch
 
+#bul
+msgid Bulgarian
+msgstr Bulljahresch
+
 #byn
 msgid Blin
 msgstr Bilihnesch
 
-#ca
+#cat
 msgid Catalan
 msgstr Kattalahnesch
-
-#ce
-msgid Chechen
-msgstr Tschätschehnesch
 
 #ceb
 msgid Cebuano
 msgstr Zebuwahnesch
 
+#ces
+msgid Czech
+msgstr Tschäschesch
+
 #cgg
 msgid Chiga
 msgstr Kihja-Schprohch
 
-#ch
+#cha
 msgid Chamorro
 msgstr Chamorru
+
+#che
+msgid Chechen
+msgstr Tschätschehnesch
 
 #chk
 msgid Chuukese
@@ -266,6 +270,14 @@ msgstr Tschoktoh
 msgid Cherokee
 msgstr Tschärrokeh
 
+#chu
+msgid Church Slavic
+msgstr Kerscheßlahwesch
+
+#chv
+msgid Chuvash
+msgstr Tschowaschesch
+
 #chy
 msgid Cheyenne
 msgstr Tschäjänn
@@ -274,41 +286,33 @@ msgstr Tschäjänn
 msgid Central Kurdish
 msgstr Zäntrahl-Kurrdesch
 
-#co
-msgid Corsican
-msgstr Korsesch
-
 #cop
 msgid Coptic
 msgstr Koptesch
 
-#cs
-msgid Czech
-msgstr Tschäschesch
+#cor
+msgid Cornish
+msgstr Kornesch
+
+#cos
+msgid Corsican
+msgstr Korsesch
 
 #csb
 msgid Kashubian
 msgstr Kaschuhbesch
 
-#cu
-msgid Church Slavic
-msgstr Kerscheßlahwesch
-
-#cv
-msgid Chuvash
-msgstr Tschowaschesch
-
-#cy
+#cym
 msgid Welsh
 msgstr Wallihsesch
-
-#da
-msgid Danish
-msgstr Dähnesch
 
 #dak
 msgid Dakota
 msgstr Dakohtesch
+
+#dan
+msgid Danish
+msgstr Dähnesch
 
 #dar
 msgid Dargwa
@@ -318,10 +322,6 @@ msgstr Darjihnesch
 msgid Taita
 msgstr Dawedahnesch
 
-#de
-msgid German
-msgstr Deutsch
-
 #de AT
 msgid Austrian German
 msgstr Deutsch uß Öhßterich
@@ -330,9 +330,17 @@ msgstr Deutsch uß Öhßterich
 msgid Swiss High German
 msgstr Deutsch uß de Schweijz
 
+#deu
+msgid German
+msgstr Deutsch
+
 #dgr
 msgid Dogrib
 msgstr Dohjribesch
+
+#div
+msgid Divehi
+msgstr Divehjesch
 
 #dje
 msgid Zarma
@@ -350,29 +358,21 @@ msgstr Du’ala
 msgid Middle Dutch
 msgstr Meddelnehderlängsch
 
-#dv
-msgid Divehi
-msgstr Divehjesch
-
 #dyo
 msgid Jola-Fonyi
 msgstr Jola-Fonyisch
-
-#dz
-msgid Dzongkha
-msgstr Butahnesch
 
 #dzg
 msgid Dazaga
 msgstr Dassajahnesch
 
+#dzo
+msgid Dzongkha
+msgstr Butahnesch
+
 #ebu
 msgid Embu
 msgstr Kîembu
-
-#ee
-msgid Ewe
-msgstr Ewe
 
 #efi
 msgid Efik
@@ -390,13 +390,9 @@ msgstr Ahl Äjiptesch
 msgid Ekajuk
 msgstr Ekajukesch
 
-#el
+#ell
 msgid Greek
 msgstr Jrihschesch
-
-#en
-msgid English
-msgstr Änglesch
 
 #en AU
 msgid Australian English
@@ -422,17 +418,17 @@ msgstr Amärrekahnesch Änglesch
 msgid US English
 msgstr Änglesch uß de USA
 
+#eng
+msgid English
+msgstr Änglesch
+
 #enm
 msgid Middle English
 msgstr Meddelänglesch
 
-#eo
+#epo
 msgid Esperanto
 msgstr Esperanto
-
-#es
-msgid Spanish
-msgstr Schpahnesch
 
 #es 419
 msgid Latin American Spanish
@@ -446,53 +442,49 @@ msgstr Schpahnesch en Schpahneje
 msgid Mexican Spanish
 msgstr Schpahnesch en Mäxikoh
 
+#est
+msgid Estonian
+msgstr Äßnesch
+
 #esu
 msgid Central Yupik
 msgstr Zäntrahl-Juppik
 
-#et
-msgid Estonian
-msgstr Äßnesch
-
-#eu
+#eus
 msgid Basque
 msgstr Baskesch
+
+#ewe
+msgid Ewe
+msgstr Ewe
 
 #ewo
 msgid Ewondo
 msgstr Ewonndo
 
-#fa
+#fao
+msgid Faroese
+msgstr Färröhresch
+
+#fas
 msgid Persian
 msgstr Pärsesch
 
-#ff
-msgid Fulah
-msgstr Fulfulde
-
-#fi
-msgid Finnish
-msgstr Finnesch
+#fij
+msgid Fijian
+msgstr Fihdschesch
 
 #fil
 msgid Filipino
 msgstr Fillipihnesch
 
-#fj
-msgid Fijian
-msgstr Fihdschesch
-
-#fo
-msgid Faroese
-msgstr Färröhresch
+#fin
+msgid Finnish
+msgstr Finnesch
 
 #fon
 msgid Fon
 msgstr Fohnesch
-
-#fr
-msgid French
-msgstr Franzühsesch
 
 #fr CA
 msgid Canadian French
@@ -502,17 +494,21 @@ msgstr Franzühsesch uß Kanada
 msgid Swiss French
 msgstr Franzühsesch uß de Schweijz
 
-#fur
-msgid Friulian
-msgstr Frijauhlesch
+#fra
+msgid French
+msgstr Franzühsesch
 
-#fy
+#fry
 msgid Western Frisian
 msgstr Wäßfrihsesch
 
-#ga
-msgid Irish
-msgstr Ihresch
+#ful
+msgid Fulah
+msgstr Fulfulde
+
+#fur
+msgid Friulian
+msgstr Frijauhlesch
 
 #gaa
 msgid Ga
@@ -526,31 +522,39 @@ msgstr Ji’is-Ahl-Ättejohpesch
 msgid Gilbertese
 msgstr Jillbättehsesch
 
-#gl
+#gle
+msgid Irish
+msgstr Ihresch
+
+#glg
 msgid Galician
 msgstr Jallihzesch
 
-#gn
-msgid Guarani
-msgstr Juwarahnesch
+#glv
+msgid Manx
+msgstr Mangx
 
 #gor
 msgid Gorontalo
 msgstr Jorontalohsch
 
+#grn
+msgid Guarani
+msgstr Juwarahnesch
+
 #gsw
 msgid Swiss German
 msgstr Schwitzerdütsch
 
-#gu
+#guj
 msgid Gujarati
 msgstr Gutscharatesch
 
-#gv
-msgid Manx
-msgstr Mangx
+#hat
+msgid Haitian Creole
+msgstr Ha’iihtesch
 
-#ha
+#hau
 msgid Hausa
 msgstr Haußa
 
@@ -558,23 +562,31 @@ msgstr Haußa
 msgid Hawaiian
 msgstr Hauajahnesch
 
-#he
+#hbs
+msgid Serbo-Croatian
+msgstr Särbokowatesch
+
+#heb
 msgid Hebrew
 msgstr Hebrähjesch
 
-#hi
-msgid Hindi
-msgstr Hinndi
+#her
+msgid Herero
+msgstr Herrehro
 
 #hil
 msgid Hiligaynon
 msgstr Hiligaynon
 
+#hin
+msgid Hindi
+msgstr Hinndi
+
 #hmn
 msgid Hmong
 msgstr Hmong
 
-#hr
+#hrv
 msgid Croatian
 msgstr Krowatesch
 
@@ -582,11 +594,7 @@ msgstr Krowatesch
 msgid Upper Sorbian
 msgstr Bovversorrbesch
 
-#ht
-msgid Haitian Creole
-msgstr Ha’iihtesch
-
-#hu
+#hun
 msgid Hungarian
 msgstr Unnjarresch
 
@@ -594,17 +602,9 @@ msgstr Unnjarresch
 msgid Hupa
 msgstr Hupa
 
-#hy
+#hye
 msgid Armenian
 msgstr Armehnesch
-
-#hz
-msgid Herero
-msgstr Herrehro
-
-#ia
-msgid Interlingua
-msgstr de Interlingua
 
 #iba
 msgid Iban
@@ -614,49 +614,53 @@ msgstr Ibahnesch
 msgid Ibibio
 msgstr Ibibio
 
-#id
-msgid Indonesian
-msgstr Indonehsesch
-
-#ig
+#ibo
 msgid Igbo
 msgstr Igbo
+
+#ido
+msgid Ido
+msgstr Ihdo
+
+#iku
+msgid Inuktitut
+msgstr Inuktitut
 
 #ilo
 msgid Iloko
 msgstr Ilokahnesch
 
+#ina
+msgid Interlingua
+msgstr de Interlingua
+
+#ind
+msgid Indonesian
+msgstr Indonehsesch
+
 #inh
 msgid Ingush
 msgstr Engjuschesch
 
-#io
-msgid Ido
-msgstr Ihdo
-
-#is
+#isl
 msgid Icelandic
 msgstr Ißlänndesch
 
-#it
+#ita
 msgid Italian
 msgstr Etalljähnesch
-
-#iu
-msgid Inuktitut
-msgstr Inuktitut
 
 #izh
 msgid Ingrian
 msgstr Ingjrijahnesch
 
-#ja
-msgid Japanese
-msgstr Japahnesch
-
 #jam
 msgid Jamaican Creole English
 msgstr Jamaikahnesch-Änglesch
+
+#jav
+msgid Javanese
+msgstr Javahnesch
 
 #jbo
 msgid Lojban
@@ -666,6 +670,10 @@ msgstr Lodschbahn
 msgid Ngomba
 msgstr Njomba
 
+#jpn
+msgid Japanese
+msgstr Japahnesch
+
 #jpr
 msgid Judeo-Persian
 msgstr Jühdesch-Pärsesch
@@ -674,21 +682,37 @@ msgstr Jühdesch-Pärsesch
 msgid Jutish
 msgstr Jüttesch
 
-#jv
-msgid Javanese
-msgstr Javahnesch
-
-#ka
-msgid Georgian
-msgstr Je’orjesch
-
 #kab
 msgid Kabyle
 msgstr Kabyhlesch
 
+#kal
+msgid Kalaallisut
+msgstr Jröhnländesch
+
 #kam
 msgid Kamba
 msgstr Kamba vun Kehnija
+
+#kan
+msgid Kannada
+msgstr Kannada
+
+#kas
+msgid Kashmiri
+msgstr Kaschmihresch
+
+#kat
+msgid Georgian
+msgstr Je’orjesch
+
+#kau
+msgid Kanuri
+msgstr Kanuhresch
+
+#kaz
+msgid Kazakh
+msgstr Kassakkesch
 
 #kbd
 msgid Kabardian
@@ -710,61 +734,53 @@ msgstr Koro vun de Älfebeijnköß
 msgid Khasi
 msgstr Khasi
 
+#khm
+msgid Khmer
+msgstr Khmer
+
 #khq
 msgid Koyra Chiini
 msgstr Kojra Tschihni
 
-#ki
+#kik
 msgid Kikuyu
 msgstr Rekohjo
 
-#kj
-msgid Kuanyama
-msgstr Oschivambo
+#kin
+msgid Kinyarwanda
+msgstr Kinja-Ruandesch
 
-#kk
-msgid Kazakh
-msgstr Kassakkesch
+#kir
+msgid Kyrgyz
+msgstr Kirjihsesch
 
 #kkj
 msgid Kako
 msgstr Kako
 
-#kl
-msgid Kalaallisut
-msgstr Jröhnländesch
-
 #kln
 msgid Kalenjin
 msgstr Kaländjihnesch
-
-#km
-msgid Khmer
-msgstr Khmer
 
 #kmb
 msgid Kimbundu
 msgstr Kimbundu
 
-#kn
-msgid Kannada
-msgstr Kannada
-
-#ko
-msgid Korean
-msgstr Korrejaanesch
-
 #kok
 msgid Konkani
 msgstr Kon’kahnesch
 
+#kom
+msgid Komi
+msgstr Kohmesch
+
+#kor
+msgid Korean
+msgstr Korrejaanesch
+
 #kpe
 msgid Kpelle
 msgstr Kpäle
-
-#kr
-msgid Kanuri
-msgstr Kanuhresch
 
 #krc
 msgid Karachay-Balkar
@@ -778,10 +794,6 @@ msgstr Karehlesch
 msgid Kurukh
 msgstr Korochesch
 
-#ks
-msgid Kashmiri
-msgstr Kaschmihresch
-
 #ksf
 msgid Bafia
 msgstr Bafijahnesch
@@ -790,29 +802,17 @@ msgstr Bafijahnesch
 msgid Colognian
 msgstr Kölsch
 
-#ku
-msgid Kurdish
-msgstr Kurrdesch
+#kua
+msgid Kuanyama
+msgstr Oschivambo
 
 #kum
 msgid Kumyk
 msgstr Kumykesch
 
-#kv
-msgid Komi
-msgstr Kohmesch
-
-#kw
-msgid Cornish
-msgstr Kornesch
-
-#ky
-msgid Kyrgyz
-msgstr Kirjihsesch
-
-#la
-msgid Latin
-msgstr Lateijnesch
+#kur
+msgid Kurdish
+msgstr Kurrdesch
 
 #lad
 msgid Ladino
@@ -826,33 +826,37 @@ msgstr Lango
 msgid Lahnda
 msgstr de Landa-Schprooche
 
-#lb
-msgid Luxembourgish
-msgstr Luxemborjesch
+#lao
+msgid Lao
+msgstr Lahootesch
+
+#lat
+msgid Latin
+msgstr Lateijnesch
+
+#lav
+msgid Latvian
+msgstr Lättesch
 
 #lez
 msgid Lezghian
 msgstr Lesjesch
 
-#lg
-msgid Ganda
-msgstr Lugannda
-
-#li
+#lim
 msgid Limburgish
 msgstr Lemburjesch
+
+#lin
+msgid Lingala
+msgstr Lingjalla
+
+#lit
+msgid Lithuanian
+msgstr Littouesch
 
 #lkt
 msgid Lakota
 msgstr Lakota
-
-#ln
-msgid Lingala
-msgstr Lingjalla
-
-#lo
-msgid Lao
-msgstr Lahootesch
 
 #loz
 msgid Lozi
@@ -862,17 +866,21 @@ msgstr Silohzi
 msgid Northern Luri
 msgstr Nood-Luhresch
 
-#lt
-msgid Lithuanian
-msgstr Littouesch
-
-#lu
-msgid Luba-Katanga
-msgstr Kiluba
+#ltz
+msgid Luxembourgish
+msgstr Luxemborjesch
 
 #lua
 msgid Luba-Lulua
 msgstr Tschiluba
+
+#lub
+msgid Luba-Katanga
+msgstr Kiluba
+
+#lug
+msgid Ganda
+msgstr Lugannda
 
 #lun
 msgid Lunda
@@ -886,53 +894,49 @@ msgstr Luo
 msgid Luyia
 msgstr Luhjesch
 
-#lv
-msgid Latvian
-msgstr Lättesch
+#mah
+msgid Marshallese
+msgstr Maschallehsesch
+
+#mal
+msgid Malayalam
+msgstr Mallajalam
+
+#mar
+msgid Marathi
+msgstr Marrahtesch
 
 #mdf
 msgid Moksha
 msgstr Mokschah
 
-#mg
-msgid Malagasy
-msgstr Madajaßkesch
-
-#mh
-msgid Marshallese
-msgstr Maschallehsesch
-
-#mi
-msgid Maori
-msgstr Ma’ohresch
-
-#mk
+#mkd
 msgid Macedonian
 msgstr Mazedohnesch
 
-#ml
-msgid Malayalam
-msgstr Mallajalam
+#mlg
+msgid Malagasy
+msgstr Madajaßkesch
 
-#mn
-msgid Mongolian
-msgstr Mongjohlesch
+#mlt
+msgid Maltese
+msgstr Maltehsesch
 
 #mni
 msgid Manipuri
 msgstr Meitei-Manipuhresch
 
-#mr
-msgid Marathi
-msgstr Marrahtesch
+#mon
+msgid Mongolian
+msgstr Mongjohlesch
 
-#ms
+#mri
+msgid Maori
+msgstr Ma’ohresch
+
+#msa
 msgid Malay
 msgstr Mallaijesch
-
-#mt
-msgid Maltese
-msgstr Maltehsesch
 
 #mua
 msgid Mundang
@@ -950,7 +954,7 @@ msgstr Krihk
 msgid Mirandese
 msgstr Mirandehsesch
 
-#my
+#mya
 msgid Burmese
 msgstr Burmehsesch
 
@@ -958,27 +962,31 @@ msgstr Burmehsesch
 msgid Erzya
 msgstr Ärsjahnesch
 
-#na
-msgid Nauru
-msgstr Nauruhesch
-
 #nap
 msgid Neapolitan
 msgstr Napolletahnesch
 
-#nb
-msgid Norwegian Bokmål
-msgstr Norrwehjesch Bokmål
+#nau
+msgid Nauru
+msgstr Nauruhesch
 
-#nd
+#nav
+msgid Navajo
+msgstr Navvacho
+
+#nde
 msgid North Ndebele
 msgstr Nood-Ndebele
+
+#ndo
+msgid Ndonga
+msgstr Ndongjahnesch
 
 #nds NL
 msgid Low Saxon
 msgstr Nehdersaksesch en de Nederläng
 
-#ne
+#nep
 msgid Nepali
 msgstr Nepallehsesch
 
@@ -986,71 +994,63 @@ msgstr Nepallehsesch
 msgid Newari
 msgstr Newahresch
 
-#ng
-msgid Ndonga
-msgstr Ndongjahnesch
-
-#nl
-msgid Dutch
-msgstr Holländesch
-
 #nl BE
 msgid Flemish
 msgstr Flähmesch
+
+#nld
+msgid Dutch
+msgstr Holländesch
 
 #nmg
 msgid Kwasio
 msgstr Gyele
 
-#nn
-msgid Norwegian Nynorsk
-msgstr Neu Norrwehjesch
-
 #nnh
 msgid Ngiemboon
 msgstr Njijembohn
 
-#no
-msgid Norwegian
-msgstr Norrwehjesch
+#nno
+msgid Norwegian Nynorsk
+msgstr Neu Norrwehjesch
+
+#nob
+msgid Norwegian Bokmål
+msgstr Norrwehjesch Bokmål
 
 #nog
 msgid Nogai
 msgstr Nojal
 
+#nor
+msgid Norwegian
+msgstr Norrwehjesch
+
 #nso
 msgid Northern Sotho
 msgstr Nood-Sohto
 
-#nv
-msgid Navajo
-msgstr Navvacho
-
-#ny
+#nya
 msgid Nyanja
 msgstr Schi-Schewa
 
-#or
+#ori
 msgid Odia
 msgstr Oriija
 
-#os
+#oss
 msgid Ossetic
 msgstr Oßeetesch
 
-#pa
+#pan
 msgid Punjabi
 msgstr Panschaabesch
 
-#pl
+#pol
 msgid Polish
 msgstr Pollnesch
 
-#ps
-msgid Pashto
-msgstr Paschtuunesch
-
-#pt
+#por
 msgid Portuguese
 msgstr Pochtojesesch
 
@@ -1062,93 +1062,81 @@ msgstr Brasilljaanesch Pochtojesesch
 msgid European Portuguese
 msgstr Pochtojesesch uß Pochtojall
 
-#qu
-msgid Quechua
-msgstr Kättschowa
+#pus
+msgid Pashto
+msgstr Paschtuunesch
 
 #quc
 msgid Kʼicheʼ
 msgstr K’ische’
 
-#rm
-msgid Romansh
-msgstr Rätoromaanesch
-
-#rn
-msgid Rundi
-msgstr K-Rundesch
-
-#ro
-msgid Romanian
-msgstr Rumänesch
+#que
+msgid Quechua
+msgstr Kättschowa
 
 #rof
 msgid Rombo
 msgstr Kirombo
 
-#ru
-msgid Russian
-msgstr Rußßesch
+#roh
+msgid Romansh
+msgstr Rätoromaanesch
+
+#ron
+msgid Romanian
+msgstr Rumänesch
+
+#run
+msgid Rundi
+msgstr K-Rundesch
 
 #rup
 msgid Aromanian
 msgstr Arromahnesch
 
-#rw
-msgid Kinyarwanda
-msgstr Kinja-Ruandesch
+#rus
+msgid Russian
+msgstr Rußßesch
 
-#sa
-msgid Sanskrit
-msgstr Sanskrit
+#sag
+msgid Sango
+msgstr Sangjo
 
 #sah
 msgid Sakha
 msgstr Jackutesch
 
+#san
+msgid Sanskrit
+msgstr Sanskrit
+
 #sba
 msgid Ngambay
 msgstr Njambaij
-
-#sd
-msgid Sindhi
-msgstr Sinndi
-
-#se
-msgid Northern Sami
-msgstr Nood-Lappländesch
 
 #ses
 msgid Koyraboro Senni
 msgstr Kojraboro Senni
 
-#sg
-msgid Sango
-msgstr Sangjo
-
-#sh
-msgid Serbo-Croatian
-msgstr Särbokowatesch
-
 #shi
 msgid Tachelhit
 msgstr Taschelhittesch
 
-#si
+#sin
 msgid Sinhala
 msgstr Singjaleesesch
 
-#sk
+#slk
 msgid Slovak
 msgstr ẞlovakesch
 
-#sl
+#slv
 msgid Slovenian
 msgstr ẞloveenesch
 
-#sm
-msgid Samoan
-msgstr Sammohanesch
+#sme
+msgid Northern Sami
+msgstr Nood-Lappländesch
 
 #smj
 msgid Lule Sami
@@ -1158,39 +1146,47 @@ msgstr Lule-Läppländesch
 msgid Inari Sami
 msgstr Inahri Lappländesch
 
-#sn
+#smo
+msgid Samoan
+msgstr Sammohanesch
+
+#sna
 msgid Shona
 msgstr Schi-Schona
 
-#so
+#snd
+msgid Sindhi
+msgstr Sinndi
+
+#som
 msgid Somali
 msgstr Somahlesch
 
-#sq
-msgid Albanian
-msgstr Albahnesch
-
-#sr
-msgid Serbian
-msgstr Särbesch
-
-#ss
-msgid Swati
-msgstr Si-Swatesch
-
-#st
+#sot
 msgid Southern Sotho
 msgstr Söd-Sooto
 
-#su
+#spa
+msgid Spanish
+msgstr Schpahnesch
+
+#sqi
+msgid Albanian
+msgstr Albahnesch
+
+#srp
+msgid Serbian
+msgstr Särbesch
+
+#ssw
+msgid Swati
+msgstr Si-Swatesch
+
+#sun
 msgid Sundanese
 msgstr Sindanehsesch
 
-#sv
-msgid Swedish
-msgstr Schwehdesch
-
-#sw
+#swa
 msgid Swahili
 msgstr Suahehlesch
 
@@ -1198,15 +1194,27 @@ msgstr Suahehlesch
 msgid Comorian
 msgstr Kommohresch
 
+#swe
+msgid Swedish
+msgstr Schwehdesch
+
 #syr
 msgid Syriac
 msgstr Sührejakkesch
 
-#ta
+#tah
+msgid Tahitian
+msgstr Tahihtesch
+
+#tam
 msgid Tamil
 msgstr Tamihlesch
 
-#te
+#tat
+msgid Tatar
+msgstr Tattahresch
+
+#tel
 msgid Telugu
 msgstr Telluhju
 
@@ -1214,39 +1222,31 @@ msgstr Telluhju
 msgid Tetum
 msgstr Tetumsch
 
-#tg
+#tgk
 msgid Tajik
 msgstr Tadschihkesch
 
-#th
+#tgl
+msgid Tagalog
+msgstr Tajalloch
+
+#tha
 msgid Thai
 msgstr Tailändesch
-
-#ti
-msgid Tigrinya
-msgstr Tijrenejahnesch
 
 #tig
 msgid Tigre
 msgstr Tigre
 
-#tk
-msgid Turkmen
-msgstr Törkmehnesch
-
-#tl
-msgid Tagalog
-msgstr Tajalloch
+#tir
+msgid Tigrinya
+msgstr Tijrenejahnesch
 
 #tlh
 msgid Klingon
 msgstr Klingjohnesch
 
-#tn
-msgid Tswana
-msgstr Se-Zwahnesch
-
-#to
+#ton
 msgid Tongan
 msgstr Tongjahnesch
 
@@ -1254,25 +1254,25 @@ msgstr Tongjahnesch
 msgid Tok Pisin
 msgstr Tok Pisin
 
-#tr
-msgid Turkish
-msgstr Törkesch
+#tsn
+msgid Tswana
+msgstr Se-Zwahnesch
 
-#ts
+#tso
 msgid Tsonga
 msgstr Xi-Zongjahnesch
 
-#tt
-msgid Tatar
-msgstr Tattahresch
+#tuk
+msgid Turkmen
+msgstr Törkmehnesch
+
+#tur
+msgid Turkish
+msgstr Törkesch
 
 #twq
 msgid Tasawaq
 msgstr Tasawaq
-
-#ty
-msgid Tahitian
-msgstr Tahihtesch
 
 #tyv
 msgid Tuvinian
@@ -1286,11 +1286,11 @@ msgstr Tamasicht ussem meddlere Atlas
 msgid Udmurt
 msgstr Udmuchtesch
 
-#ug
+#uig
 msgid Uyghur
 msgstr Uj’juhresch
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Ukrainesch
 
@@ -1302,29 +1302,25 @@ msgstr Umbundesch
 msgid Unknown language
 msgstr -onbikannte-Schprooch-
 
-#ur
+#urd
 msgid Urdu
 msgstr Urdu/Hindi
 
-#uz
+#uzb
 msgid Uzbek
 msgstr Ußbehkesch
 
-#ve
+#ven
 msgid Venda
 msgstr Wenda
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Vijätnammehsesch
 
-#vo
+#vol
 msgid Volapük
 msgstr Volapük
-
-#wa
-msgid Walloon
-msgstr Walohnesch
 
 #wae
 msgid Walser
@@ -1338,7 +1334,11 @@ msgstr Welahmo
 msgid Waray
 msgstr Waray-Waray
 
-#wo
+#wln
+msgid Walloon
+msgstr Walohnesch
+
+#wol
 msgid Wolof
 msgstr Woloff
 
@@ -1346,7 +1346,7 @@ msgstr Woloff
 msgid Kalmyk
 msgstr Kalmükkesch
 
-#xh
+#xho
 msgid Xhosa
 msgstr Isi-Khohsa
 
@@ -1354,21 +1354,17 @@ msgstr Isi-Khohsa
 msgid Yemba
 msgstr Jämmbah
 
-#yi
+#yid
 msgid Yiddish
 msgstr Jiddesch
 
-#yo
+#yor
 msgid Yoruba
 msgstr Joruhba
 
 #yue
 msgid Cantonese
 msgstr Kanton-Schinehsesch
-
-#zh
-msgid Chinese
-msgstr Schinehsesch (Mandarin)
 
 #zh Hans
 msgid Simplified Chinese
@@ -1378,7 +1374,11 @@ msgstr Schinehsesch (eijfache Schreff)
 msgid Traditional Chinese
 msgstr Schinehsesch (tradizjonälle Schreff)
 
-#zu
+#zho
+msgid Chinese
+msgstr Schinehsesch (Mandarin)
+
+#zul
 msgid Zulu
 msgstr Suhlu
 

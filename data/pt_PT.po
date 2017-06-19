@@ -1,4 +1,4 @@
-#af
+#afr
 msgid Afrikaans
 msgstr africanês
 
@@ -26,9 +26,17 @@ msgstr ghomala
 msgid Buriat
 msgstr buriat
 
+#ces
+msgid Czech
+msgstr checo
+
 #chn
 msgid Chinook Jargon
 msgstr jargão chinook
+
+#chv
+msgid Chuvash
+msgstr chuvash
 
 #ckb
 msgid Central Kurdish
@@ -38,14 +46,6 @@ msgstr sorani curdo
 msgid Seselwa Creole French
 msgstr francês crioulo seselwa
 
-#cs
-msgid Czech
-msgstr checo
-
-#cv
-msgid Chuvash
-msgstr chuvash
-
 #de AT
 msgid Austrian German
 msgstr alemão austríaco
@@ -53,10 +53,6 @@ msgstr alemão austríaco
 #de CH
 msgid Swiss High German
 msgstr alto alemão suíço
-
-#ee
-msgid Ewe
-msgstr ewe
 
 #egy
 msgid Ancient Egyptian
@@ -90,9 +86,13 @@ msgstr espanhol latino-americano
 msgid European Spanish
 msgstr espanhol europeu
 
-#et
+#est
 msgid Estonian
 msgstr estónio
+
+#ewe
+msgid Ewe
+msgstr ewe
 
 #fr CA
 msgid Canadian French
@@ -110,7 +110,7 @@ msgstr francês antigo
 msgid Eastern Frisian
 msgstr frísio oriental
 
-#fy
+#fry
 msgid Western Frisian
 msgstr frísico ocidental
 
@@ -126,21 +126,25 @@ msgstr grego clássico
 msgid Swiss German
 msgstr alemão suíço
 
-#ha
+#hau
 msgid Hausa
 msgstr haúça
 
-#hi
+#hin
 msgid Hindi
 msgstr hindi
 
-#hy
+#hye
 msgid Armenian
 msgstr arménio
 
-#ig
+#ibo
 msgid Igbo
 msgstr igbo
+
+#kan
+msgid Kannada
+msgstr canarim
 
 #kbd
 msgid Kabardian
@@ -150,33 +154,29 @@ msgstr cabardiano
 msgid Kabuverdianu
 msgstr crioulo cabo-verdiano
 
-#kn
-msgid Kannada
-msgstr canarim
+#kin
+msgid Kinyarwanda
+msgstr kinyarwanda
 
 #lez
 msgid Lezghian
 msgstr lezghiano
 
-#lg
-msgid Ganda
-msgstr ganda
-
 #lrc
 msgid Northern Luri
 msgstr luri do norte
 
-#mk
+#lug
+msgid Ganda
+msgstr ganda
+
+#mkd
 msgid Macedonian
 msgstr macedónio
 
 #moh
 msgid Mohawk
 msgstr mohawk
-
-#nb
-msgid Norwegian Bokmål
-msgstr norueguês bokmål
 
 #nds
 msgid Low German
@@ -186,19 +186,23 @@ msgstr baixo-alemão
 msgid Low Saxon
 msgstr baixo-saxão
 
-#nn
+#nno
 msgid Norwegian Nynorsk
 msgstr norueguês nynorsk
+
+#nob
+msgid Norwegian Bokmål
+msgstr norueguês bokmål
 
 #non
 msgid Old Norse
 msgstr nórdico antigo
 
-#oc
+#oci
 msgid Occitan
 msgstr occitano
 
-#os
+#oss
 msgid Ossetic
 msgstr ossético
 
@@ -210,7 +214,7 @@ msgstr língua pangasinesa
 msgid Old Persian
 msgstr persa antigo
 
-#pl
+#pol
 msgid Polish
 msgstr polaco
 
@@ -222,10 +226,6 @@ msgstr língua pohnpeica
 msgid Old Provençal
 msgstr provençal antigo
 
-#ps
-msgid Pashto
-msgstr pastó
-
 #pt BR
 msgid Brazilian Portuguese
 msgstr português do Brasil
@@ -233,6 +233,10 @@ msgstr português do Brasil
 #pt PT
 msgid European Portuguese
 msgstr português europeu
+
+#pus
+msgid Pashto
+msgstr pastó
 
 #raj
 msgid Rajasthani
@@ -242,17 +246,9 @@ msgstr rajastanês
 msgid Root
 msgstr root
 
-#rw
-msgid Kinyarwanda
-msgstr kinyarwanda
-
 #sah
 msgid Sakha
 msgstr sakha
-
-#se
-msgid Northern Sami
-msgstr sami do norte
 
 #sga
 msgid Old Irish
@@ -262,27 +258,31 @@ msgstr irlandês antigo
 msgid Chadian Arabic
 msgstr árabe do Chade
 
+#sme
+msgid Northern Sami
+msgstr sami do norte
+
 #smn
 msgid Inari Sami
 msgstr inari sami
 
-#ti
+#tir
 msgid Tigrinya
 msgstr tigrínia
 
-#tk
-msgid Turkmen
-msgstr turcomano
-
-#to
+#ton
 msgid Tongan
 msgstr tonga
+
+#tuk
+msgid Turkmen
+msgstr turcomano
 
 #xog
 msgid Soga
 msgstr soga
 
-#yo
+#yor
 msgid Yoruba
 msgstr ioruba
 

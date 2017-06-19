@@ -14,7 +14,7 @@ msgstr arapajó
 msgid UK English
 msgstr inglés (R.U.)
 
-#eu
+#eus
 msgid Basque
 msgstr vasco
 
@@ -26,23 +26,23 @@ msgstr alemán de la alta edad antigua
 msgid Ancient Greek
 msgstr griego clásico
 
-#gu
+#guj
 msgid Gujarati
 msgstr gujarati
+
+#hat
+msgid Haitian Creole
+msgstr haitiano
 
 #hsb
 msgid Upper Sorbian
 msgstr sorbio alto
 
-#ht
-msgid Haitian Creole
-msgstr haitiano
-
 #kea
 msgid Kabuverdianu
 msgstr Criollo (Cabo Verde)
 
-#lo
+#lao
 msgid Lao
 msgstr laosiano
 
@@ -54,7 +54,7 @@ msgstr prusiano antiguo
 msgid Pushto
 msgstr pashtún
 
-#rm
+#roh
 msgid Romansh
 msgstr retorrománico
 
@@ -62,13 +62,13 @@ msgstr retorrománico
 msgid Chadian Arabic
 msgstr árabe (Chad)
 
-#sw
-msgid Swahili
-msgstr swahili
-
 #sw CD
 msgid Congo Swahili
 msgstr swahili (Congo)
+
+#swa
+msgid Swahili
+msgstr swahili
 
 #tzm
 msgid Central Atlas Tamazight
@@ -86,7 +86,7 @@ msgstr walamo
 msgid Wu Chinese
 msgstr wu
 
-#yi
+#yid
 msgid Yiddish
 msgstr yídish
 

@@ -1,0 +1,176 @@
+#aka
+msgid Akan
+msgstr Akan
+
+#amh
+msgid Amharic
+msgstr Amarik
+
+#ara
+msgid Arabic
+msgstr Arabik
+
+#bel
+msgid Belarusian
+msgstr Belarus kasa
+
+#ben
+msgid Bangla
+msgstr Bengali kasa
+
+#bul
+msgid Bulgarian
+msgstr Bɔlgeria kasa
+
+#ces
+msgid Czech
+msgstr Kyɛk kasa
+
+#deu
+msgid German
+msgstr Gyaaman
+
+#ell
+msgid Greek
+msgstr Greek kasa
+
+#eng
+msgid English
+msgstr Borɔfo
+
+#fas
+msgid Persian
+msgstr Pɛɛhyia kasa
+
+#fra
+msgid French
+msgstr Frɛnkye
+
+#hau
+msgid Hausa
+msgstr Hausa
+
+#hin
+msgid Hindi
+msgstr Hindi
+
+#hun
+msgid Hungarian
+msgstr Hangri kasa
+
+#ibo
+msgid Igbo
+msgstr Igbo
+
+#ind
+msgid Indonesian
+msgstr Indonihyia kasa
+
+#ita
+msgid Italian
+msgstr Italy kasa
+
+#jav
+msgid Javanese
+msgstr Gyabanis kasa
+
+#jpn
+msgid Japanese
+msgstr Gyapan kasa
+
+#khm
+msgid Khmer
+msgstr Kambodia kasa
+
+#kin
+msgid Kinyarwanda
+msgstr Rewanda kasa
+
+#kor
+msgid Korean
+msgstr Korea kasa
+
+#msa
+msgid Malay
+msgstr Malay kasa
+
+#mya
+msgid Burmese
+msgstr Bɛɛmis kasa
+
+#nep
+msgid Nepali
+msgstr Nɛpal kasa
+
+#nld
+msgid Dutch
+msgstr Dɛɛkye
+
+#pan
+msgid Punjabi
+msgstr Pungyabi kasa
+
+#pol
+msgid Polish
+msgstr Pɔland kasa
+
+#por
+msgid Portuguese
+msgstr Pɔɔtugal kasa
+
+#ron
+msgid Romanian
+msgstr Romenia kasa
+
+#rus
+msgid Russian
+msgstr Rahyia kasa
+
+#som
+msgid Somali
+msgstr Somalia kasa
+
+#spa
+msgid Spanish
+msgstr Spain kasa
+
+#swe
+msgid Swedish
+msgstr Sweden kasa
+
+#tam
+msgid Tamil
+msgstr Tamil kasa
+
+#tha
+msgid Thai
+msgstr Taeland kasa
+
+#tur
+msgid Turkish
+msgstr Tɛɛki kasa
+
+#ukr
+msgid Ukrainian
+msgstr Ukren kasa
+
+#urd
+msgid Urdu
+msgstr Urdu kasa
+
+#vie
+msgid Vietnamese
+msgstr Viɛtnam kasa
+
+#yor
+msgid Yoruba
+msgstr Yoruba
+
+#zho
+msgid Chinese
+msgstr Kyaena kasa
+
+#zul
+msgid Zulu
+msgstr Zulu
+

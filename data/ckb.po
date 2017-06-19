@@ -1,22 +1,18 @@
-#af
+#afr
 msgid Afrikaans
 msgstr ئه‌فریكای
 
-#am
+#amh
 msgid Amharic
 msgstr ئەمهەرینجی
 
-#ar
+#ara
 msgid Arabic
 msgstr عەرەبی
 
-#as
+#asm
 msgid Assamese
 msgstr ئاسامی
-
-#az
-msgid Azerbaijani
-msgstr ئازەربایجانی
 
 #az Arab
 msgid undefined
@@ -26,57 +22,57 @@ msgstr ئازەربایجانی باشووری
 msgid Azeri
 msgstr ئازەربایجانی
 
-#be
+#aze
+msgid Azerbaijani
+msgstr ئازەربایجانی
+
+#bel
 msgid Belarusian
 msgstr بێلاڕووسی
 
-#bg
-msgid Bulgarian
-msgstr بۆلگاری
-
-#bn
+#ben
 msgid Bangla
 msgstr بەنگلادێشی
 
-#br
-msgid Breton
-msgstr برێتونی
-
-#bs
+#bos
 msgid Bosnian
 msgstr بۆسنی
 
-#ca
+#bre
+msgid Breton
+msgstr برێتونی
+
+#bul
+msgid Bulgarian
+msgstr بۆلگاری
+
+#cat
 msgid Catalan
 msgstr كاتالۆنی
+
+#ces
+msgid Czech
+msgstr چەكی
 
 #ckb
 msgid Central Kurdish
 msgstr کوردیی ناوەندی
 
-#cs
-msgid Czech
-msgstr چەكی
-
-#cy
+#cym
 msgid Welsh
 msgstr وێلزی
 
-#da
+#dan
 msgid Danish
 msgstr دانماركی
 
-#de
+#deu
 msgid German
 msgstr ئاڵمانی
 
-#el
+#ell
 msgid Greek
 msgstr یۆنانی
-
-#en
-msgid English
-msgstr ئینگلیزی
 
 #en AU
 msgid Australian English
@@ -98,223 +94,223 @@ msgstr ئینگلیزیی ئەمەریکایی
 msgid US English
 msgstr ئینگلیزیی ئەمەریکایی
 
-#eo
+#eng
+msgid English
+msgstr ئینگلیزی
+
+#epo
 msgid Esperanto
 msgstr ئێسپیرانتۆ
 
-#es
-msgid Spanish
-msgstr ئیسپانی
-
-#et
+#est
 msgid Estonian
 msgstr ئیستۆنی
 
-#eu
+#eus
 msgid Basque
 msgstr باسکی
 
-#fa
+#fao
+msgid Faroese
+msgstr فه‌رئۆیی
+
+#fas
 msgid Persian
 msgstr فارسی
-
-#fi
-msgid Finnish
-msgstr فینلەندی
 
 #fil
 msgid Filipino
 msgstr تاگالۆگی
 
-#fo
-msgid Faroese
-msgstr فه‌رئۆیی
+#fin
+msgid Finnish
+msgstr فینلەندی
 
-#fr
+#fra
 msgid French
 msgstr فەرانسی
 
-#fy
+#fry
 msgid Western Frisian
 msgstr فریسیی ڕۆژاوا
 
-#ga
-msgid Irish
-msgstr ئیرلەندی
-
-#gd
+#gla
 msgid Scottish Gaelic
 msgstr گه‌لیكی سكۆتله‌ندی
 
-#gl
+#gle
+msgid Irish
+msgstr ئیرلەندی
+
+#glg
 msgid Galician
 msgstr گالیسی
 
-#gn
+#grn
 msgid Guarani
 msgstr گووارانی
 
-#gu
+#guj
 msgid Gujarati
 msgstr گوجاراتی
 
-#he
+#hbs
+msgid Serbo-Croatian
+msgstr سێربۆكرواتی
+
+#heb
 msgid Hebrew
 msgstr هیبرێ
 
-#hi
+#hin
 msgid Hindi
 msgstr هیندی
 
-#hr
+#hrv
 msgid Croatian
 msgstr كرواتی
 
-#hu
+#hun
 msgid Hungarian
 msgstr هەنگاری (مەجاری)
 
-#hy
+#hye
 msgid Armenian
 msgstr ئەرمەنی
 
-#ia
-msgid Interlingua
-msgstr ئینترلینگوی
-
-#id
-msgid Indonesian
-msgstr ئێەندونیزی
-
-#ie
+#ile
 msgid Interlingue
 msgstr ئینتەرلیگ
 
-#is
+#ina
+msgid Interlingua
+msgstr ئینترلینگوی
+
+#ind
+msgid Indonesian
+msgstr ئێەندونیزی
+
+#isl
 msgid Icelandic
 msgstr ئیسلەندی
 
-#it
+#ita
 msgid Italian
 msgstr ئیتالی
 
-#ja
-msgid Japanese
-msgstr ژاپۆنی
-
-#jv
+#jav
 msgid Javanese
 msgstr جاڤانی
 
-#ka
-msgid Georgian
-msgstr گۆرجستانی
+#jpn
+msgid Japanese
+msgstr ژاپۆنی
 
-#kk
-msgid Kazakh
-msgstr کازاخی
-
-#km
-msgid Khmer
-msgstr کامبۆجی (زوبان)
-
-#kn
+#kan
 msgid Kannada
 msgstr كه‌نه‌دایی
 
-#ko
-msgid Korean
-msgstr كۆری
+#kat
+msgid Georgian
+msgstr گۆرجستانی
 
-#ku
-msgid Kurdish
-msgstr کوردی
+#kaz
+msgid Kazakh
+msgstr کازاخی
 
-#ky
+#khm
+msgid Khmer
+msgstr کامبۆجی (زوبان)
+
+#kir
 msgid Kyrgyz
 msgstr كرگیزی
 
-#la
-msgid Latin
-msgstr لاتینی
+#kor
+msgid Korean
+msgstr كۆری
 
-#ln
-msgid Lingala
-msgstr لينگالا
+#kur
+msgid Kurdish
+msgstr کوردی
 
-#lo
+#lao
 msgid Lao
 msgstr لاوی
 
-#lt
-msgid Lithuanian
-msgstr لیتوانی
+#lat
+msgid Latin
+msgstr لاتینی
 
-#lv
+#lav
 msgid Latvian
 msgstr لێتۆنی
 
-#mk
-msgid Macedonian
-msgstr ماكێدۆنی
+#lin
+msgid Lingala
+msgstr لينگالا
 
-#ml
+#lit
+msgid Lithuanian
+msgstr لیتوانی
+
+#mal
 msgid Malayalam
 msgstr مالایلام
 
-#mn
-msgid Mongolian
-msgstr مەنگۆلی
-
-#mr
+#mar
 msgid Marathi
 msgstr ماراتی
 
-#ms
-msgid Malay
-msgstr مالیزی
+#mkd
+msgid Macedonian
+msgstr ماكێدۆنی
 
-#mt
+#mlt
 msgid Maltese
 msgstr ماڵتایی
+
+#mon
+msgid Mongolian
+msgstr مەنگۆلی
+
+#msa
+msgid Malay
+msgstr مالیزی
 
 #mzn
 msgid Mazanderani
 msgstr مازەندەرانی
 
-#ne
+#nep
 msgid Nepali
 msgstr نیپالی
 
-#nl
+#nld
 msgid Dutch
 msgstr هۆڵەندی
 
-#no
+#nor
 msgid Norwegian
 msgstr نۆروێژی
 
-#oc
+#oci
 msgid Occitan
 msgstr ئۆسیتانی
 
-#or
+#ori
 msgid Odia
 msgstr ئۆرییا
 
-#pa
+#pan
 msgid Punjabi
 msgstr پەنجابی
 
-#pl
+#pol
 msgid Polish
 msgstr پۆڵۆنیایی (لەهستانی)
 
-#ps
-msgid Pashto
-msgstr پەشتوو
-
-#pt
+#por
 msgid Portuguese
 msgstr پورتوگالی
 
@@ -326,39 +322,35 @@ msgstr پورتوگاڵی برازیل
 msgid European Portuguese
 msgstr پورتوگاڵی (پورتوگاڵ)
 
-#ro
+#pus
+msgid Pashto
+msgstr پەشتوو
+
+#ron
 msgid Romanian
 msgstr ڕۆمانی
 
-#ru
+#rus
 msgid Russian
 msgstr ڕووسی
 
-#sa
+#san
 msgid Sanskrit
 msgstr سانسکريت
-
-#sd
-msgid Sindhi
-msgstr سيندی
 
 #sdh
 msgid Southern Kurdish
 msgstr کوردیی باشووری
 
-#sh
-msgid Serbo-Croatian
-msgstr سێربۆكرواتی
-
-#si
+#sin
 msgid Sinhala
 msgstr سینهەلی
 
-#sk
+#slk
 msgid Slovak
 msgstr سلۆڤاكی
 
-#sl
+#slv
 msgid Slovenian
 msgstr سلۆڤێنی
 
@@ -366,75 +358,83 @@ msgstr سلۆڤێنی
 msgid Southern Sami
 msgstr سامی باشووری
 
-#so
+#snd
+msgid Sindhi
+msgstr سيندی
+
+#som
 msgid Somali
 msgstr سۆمالی
 
-#sq
-msgid Albanian
-msgstr ئاڵبانی
-
-#sr
-msgid Serbian
-msgstr سەربی
-
-#st
+#sot
 msgid Southern Sotho
 msgstr سێسۆتۆ
 
-#su
+#spa
+msgid Spanish
+msgstr ئیسپانی
+
+#sqi
+msgid Albanian
+msgstr ئاڵبانی
+
+#srp
+msgid Serbian
+msgstr سەربی
+
+#sun
 msgid Sundanese
 msgstr سودانی
 
-#sv
-msgid Swedish
-msgstr سویدی
-
-#sw
+#swa
 msgid Swahili
 msgstr سواهیلی
 
-#ta
+#swe
+msgid Swedish
+msgstr سویدی
+
+#tam
 msgid Tamil
 msgstr تامیلی
 
-#te
+#tel
 msgid Telugu
 msgstr تەلۆگوی
 
-#tg
+#tgk
 msgid Tajik
 msgstr تاجیکی
 
-#th
+#tha
 msgid Thai
 msgstr تایلەندی
 
-#ti
+#tir
 msgid Tigrinya
 msgstr تیگرینیای
-
-#tk
-msgid Turkmen
-msgstr تورکمانی
 
 #tlh
 msgid Klingon
 msgstr كلینگۆن
 
-#tr
+#tuk
+msgid Turkmen
+msgstr تورکمانی
+
+#tur
 msgid Turkish
 msgstr تورکی
 
-#tw
+#twi
 msgid Twi
 msgstr توی
 
-#ug
+#uig
 msgid Uyghur
 msgstr ئويخووری
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr ئۆكراینی
 
@@ -442,31 +442,31 @@ msgstr ئۆكراینی
 msgid Unknown language
 msgstr زمانی نەناسراو
 
-#ur
+#urd
 msgid Urdu
 msgstr ئۆردوو
 
-#uz
+#uzb
 msgid Uzbek
 msgstr ئوزبەکی
 
-#vi
+#vie
 msgid Vietnamese
 msgstr ڤیەتنامی
 
-#xh
+#xho
 msgid Xhosa
 msgstr سسوسا
 
-#yi
+#yid
 msgid Yiddish
 msgstr یوددی
 
-#zh
+#zho
 msgid Chinese
 msgstr چینی
 
-#zu
+#zul
 msgid Zulu
 msgstr زولو
 

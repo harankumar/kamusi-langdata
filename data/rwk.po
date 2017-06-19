@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Kiakanyi
 
-#am
+#amh
 msgid Amharic
 msgstr Kiamharyi
 
-#ar
+#ara
 msgid Arabic
 msgstr Kyiarabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Kyibelarusi
 
-#bg
-msgid Bulgarian
-msgstr Kyibulgaryia
-
-#bn
+#ben
 msgid Bangla
 msgstr Kyibangla
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Kyibulgaryia
+
+#ces
 msgid Czech
 msgstr Kyichecki
 
-#de
+#deu
 msgid German
 msgstr Kyijerumani
 
-#el
+#ell
 msgid Greek
 msgstr Kyigiriki
 
-#en
+#eng
 msgid English
 msgstr Kyingereza
 
-#es
-msgid Spanish
-msgstr Kyihispania
-
-#fa
+#fas
 msgid Persian
 msgstr Kyiajemi
 
-#fr
+#fra
 msgid French
 msgstr Kyifaransa
 
-#ha
+#hau
 msgid Hausa
 msgstr Kyihausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Kyihindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Kyihungari
 
-#id
-msgid Indonesian
-msgstr Kyiindonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Kyiigbo
 
-#it
+#ind
+msgid Indonesian
+msgstr Kyiindonesia
+
+#ita
 msgid Italian
 msgstr Kyiitaliano
 
-#ja
-msgid Japanese
-msgstr Kyijapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Kyijava
 
-#km
+#jpn
+msgid Japanese
+msgstr Kyijapani
+
+#khm
 msgid Khmer
 msgstr Kyikambodia
 
-#ko
+#kin
+msgid Kinyarwanda
+msgstr Kyinyarwanda
+
+#kor
 msgid Korean
 msgstr Kyikorea
 
-#ms
+#msa
 msgid Malay
 msgstr Kyimalesia
 
-#my
+#mya
 msgid Burmese
 msgstr Kyiburma
 
-#ne
+#nep
 msgid Nepali
 msgstr Kyinepali
 
-#nl
+#nld
 msgid Dutch
 msgstr Kyiholanzi
 
-#pa
+#pan
 msgid Punjabi
 msgstr Kyipunjabi
 
-#pl
+#pol
 msgid Polish
 msgstr Kyipolandi
 
-#pt
+#por
 msgid Portuguese
 msgstr Kyireno
 
-#ro
+#ron
 msgid Romanian
 msgstr Kyiromania
 
-#ru
+#rus
 msgid Russian
 msgstr Kyirusi
-
-#rw
-msgid Kinyarwanda
-msgstr Kyinyarwanda
 
 #rwk
 msgid Rwa
 msgstr Kiruwa
 
-#so
+#som
 msgid Somali
 msgstr Kyisomalyi
 
-#sv
+#spa
+msgid Spanish
+msgstr Kyihispania
+
+#swe
 msgid Swedish
 msgstr Kyiswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Kyitamil
 
-#th
+#tha
 msgid Thai
 msgstr Kyitailandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Kyiturukyi
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Kyiukrania
 
-#ur
+#urd
 msgid Urdu
 msgstr Kyiurdu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Kyivietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Kyiyoruba
 
-#zh
+#zho
 msgid Chinese
 msgstr Kyichina
 
-#zu
+#zul
 msgid Zulu
 msgstr Kyizulu
 

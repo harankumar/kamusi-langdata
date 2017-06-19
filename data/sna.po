@@ -1,0 +1,180 @@
+#aka
+msgid Akan
+msgstr chiAkani
+
+#amh
+msgid Amharic
+msgstr chiAmaric
+
+#ara
+msgid Arabic
+msgstr chiArabu
+
+#bel
+msgid Belarusian
+msgstr chiBelarusi
+
+#ben
+msgid Bangla
+msgstr chiBengali
+
+#bul
+msgid Bulgarian
+msgstr chiBulgarian
+
+#ces
+msgid Czech
+msgstr chiCzech
+
+#deu
+msgid German
+msgstr chiJerimani
+
+#ell
+msgid Greek
+msgstr chiGreek
+
+#eng
+msgid English
+msgstr Chirungu
+
+#fas
+msgid Persian
+msgstr chiPeshiya
+
+#fra
+msgid French
+msgstr chiFurenchi
+
+#hau
+msgid Hausa
+msgstr chiHausa
+
+#hin
+msgid Hindi
+msgstr chiHindi
+
+#hun
+msgid Hungarian
+msgstr chiHungari
+
+#ibo
+msgid Igbo
+msgstr chiIgbo
+
+#ind
+msgid Indonesian
+msgstr chiIndonesia
+
+#ita
+msgid Italian
+msgstr chiTariana
+
+#jav
+msgid Javanese
+msgstr chiJava
+
+#jpn
+msgid Japanese
+msgstr chiJapani
+
+#khm
+msgid Khmer
+msgstr chiKhema
+
+#kin
+msgid Kinyarwanda
+msgstr chiRwanda
+
+#kor
+msgid Korean
+msgstr chiKoria
+
+#msa
+msgid Malay
+msgstr chiMalay
+
+#mya
+msgid Burmese
+msgstr chiBurma
+
+#nep
+msgid Nepali
+msgstr chiNepali
+
+#nld
+msgid Dutch
+msgstr chiDutch
+
+#pan
+msgid Punjabi
+msgstr chiPunjabi
+
+#pol
+msgid Polish
+msgstr chiPolish
+
+#por
+msgid Portuguese
+msgstr chiPutukezi
+
+#ron
+msgid Romanian
+msgstr chiRomanian
+
+#rus
+msgid Russian
+msgstr chiRashiya
+
+#sna
+msgid Shona
+msgstr chiShona
+
+#som
+msgid Somali
+msgstr chiSomali
+
+#spa
+msgid Spanish
+msgstr chiSpanish
+
+#swe
+msgid Swedish
+msgstr chiSwedish
+
+#tam
+msgid Tamil
+msgstr chiTamil
+
+#tha
+msgid Thai
+msgstr chiThai
+
+#tur
+msgid Turkish
+msgstr chiTurkish
+
+#ukr
+msgid Ukrainian
+msgstr chiUkrenia
+
+#urd
+msgid Urdu
+msgstr chiUrdu
+
+#vie
+msgid Vietnamese
+msgstr chiVietnam
+
+#yor
+msgid Yoruba
+msgstr chiYoruba
+
+#zho
+msgid Chinese
+msgstr chiChinese
+
+#zul
+msgid Zulu
+msgstr chiZulu
+

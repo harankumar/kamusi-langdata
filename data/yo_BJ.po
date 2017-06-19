@@ -1,32 +1,32 @@
-#da
+#dan
 msgid Danish
 msgstr Èdè Ilɛ̀ Denmark
 
-#de
+#deu
 msgid German
 msgstr Èdè Ilɛ̀ Gemani
 
-#en
+#eng
 msgid English
 msgstr Èdè Gɛ̀ɛ́sì
 
-#pl
+#pol
 msgid Polish
 msgstr Èdè Ilɛ̀ Polandi
 
-#pt
+#por
 msgid Portuguese
 msgstr Èdè Pɔtugi
 
-#ru
+#rus
 msgid Russian
 msgstr Èdè ̣Rɔɔsia
 
-#tr
+#tur
 msgid Turkish
 msgstr Èdè Tɔɔkisi
 
-#zu
+#zul
 msgid Zulu
 msgstr Èdè Shulu
 

@@ -2,27 +2,27 @@
 msgid Mapuche
 msgstr мапудунгун
 
-#be
-msgid Belarusian
-msgstr бјелоруски
-
-#bm
+#bam
 msgid Bambara
 msgstr бамананкан
 
-#bn
+#bel
+msgid Belarusian
+msgstr бјелоруски
+
+#ben
 msgid Bangla
 msgstr бангла
 
-#ff
+#ful
 msgid Fulah
 msgstr фулах
 
-#ht
+#hat
 msgid Haitian Creole
 msgstr хаићански креолски
 
-#lo
+#lao
 msgid Lao
 msgstr лаошки
 
@@ -42,7 +42,7 @@ msgstr јужни шилха
 msgid Central Atlas Tamazight
 msgstr централноатласки тамашек
 
-#xh
+#xho
 msgid Xhosa
 msgstr исикоса
 
@@ -50,7 +50,7 @@ msgstr исикоса
 msgid Standard Moroccan Tamazight
 msgstr стандардни марокански тамашек
 
-#zu
+#zul
 msgid Zulu
 msgstr исизулу
 

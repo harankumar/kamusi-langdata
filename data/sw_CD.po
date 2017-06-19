@@ -1,4 +1,4 @@
-#ak
+#aka
 msgid Akan
 msgstr Kiakan
 
@@ -10,7 +10,7 @@ msgstr Kiarabu cha Dunia Kilichosanifishwa
 msgid Algerian Arabic
 msgstr Kiarabu cha Aljeria
 
-#az
+#aze
 msgid Azerbaijani
 msgstr Kiazabajani
 
@@ -18,7 +18,7 @@ msgstr Kiazabajani
 msgid Buginese
 msgstr Kibugini
 
-#gv
+#glv
 msgid Manx
 msgstr Kimanksi
 
@@ -46,6 +46,10 @@ msgstr Kikachin
 msgid Koyra Chiini
 msgstr Kikoyra Chiini
 
+#kir
+msgid Kyrgyz
+msgstr Kikirigizi
+
 #kkj
 msgid Kako
 msgstr Kikako
@@ -62,15 +66,11 @@ msgstr Kikurukh
 msgid Kumyk
 msgstr Kikumyk
 
-#ky
-msgid Kyrgyz
-msgstr Kikirigizi
-
 #lam
 msgid Lamba
 msgstr Kilamba
 
-#li
+#lim
 msgid Limburgish
 msgstr Kilimburgi
 
@@ -86,7 +86,7 @@ msgstr Kimoksha
 msgid Mi'kmaq
 msgstr Kimikmaki
 
-#mk
+#mkd
 msgid Macedonian
 msgstr Kimasedonia
 
@@ -142,7 +142,7 @@ msgstr Kiudumurti
 msgid Walser
 msgstr Kiwalser
 
-#yi
+#yid
 msgid Yiddish
 msgstr Kiyidi
 

@@ -6,7 +6,7 @@ msgstr acehnés
 msgid Arapaho
 msgstr arapaho
 
-#ba
+#bak
 msgid Bashkir
 msgstr bashkir
 
@@ -34,7 +34,7 @@ msgstr inglés (R. U.)
 msgid Middle English
 msgstr inglés medieval
 
-#eu
+#eus
 msgid Basque
 msgstr euskera
 
@@ -62,7 +62,7 @@ msgstr kejia (China)
 msgid Xiang Chinese
 msgstr xiang (China)
 
-#lo
+#lao
 msgid Lao
 msgstr lao
 
@@ -78,11 +78,11 @@ msgstr min nan (Chino)
 msgid Northern Sotho
 msgstr sotho septentrional
 
-#pa
+#pan
 msgid Punjabi
 msgstr punyabí
 
-#rn
+#run
 msgid Rundi
 msgstr kiroundi
 
@@ -90,23 +90,23 @@ msgstr kiroundi
 msgid Chadian Arabic
 msgstr árabe chadiano
 
-#ss
+#ssw
 msgid Swati
 msgstr siswati
-
-#sw
-msgid Swahili
-msgstr suajili
 
 #sw CD
 msgid Congo Swahili
 msgstr suajili del Congo
 
+#swa
+msgid Swahili
+msgstr suajili
+
 #ug-variant
 msgid Uighur
 msgstr uyghur
 
-#wo
+#wol
 msgid Wolof
 msgstr wolof
 

@@ -1,180 +1,180 @@
-#ak
+#aka
 msgid Akan
 msgstr Chakan
 
-#am
+#amh
 msgid Amharic
 msgstr Chamhali
 
-#ar
+#ara
 msgid Arabic
 msgstr Chalabu
 
-#be
+#bel
 msgid Belarusian
 msgstr Chibelalusi
 
-#bg
-msgid Bulgarian
-msgstr Chibulgalia
-
-#bn
+#ben
 msgid Bangla
 msgstr Chibangla
 
-#cs
+#bul
+msgid Bulgarian
+msgstr Chibulgalia
+
+#ces
 msgid Czech
 msgstr Chichechi
 
-#de
+#deu
 msgid German
 msgstr Chidyelumani
 
-#el
+#ell
 msgid Greek
 msgstr Chigilichi
 
-#en
+#eng
 msgid English
 msgstr Chiingeleza
 
-#es
-msgid Spanish
-msgstr Chihispania
-
-#fa
+#fas
 msgid Persian
 msgstr Chiajemi
 
-#fr
+#fra
 msgid French
 msgstr Chifalansa
 
-#ha
+#hau
 msgid Hausa
 msgstr Chihausa
 
-#hi
+#hin
 msgid Hindi
 msgstr Chihindi
 
-#hu
+#hun
 msgid Hungarian
 msgstr Chihungali
 
-#id
-msgid Indonesian
-msgstr Chiiongonesia
-
-#ig
+#ibo
 msgid Igbo
 msgstr Chiigbo
 
-#it
+#ind
+msgid Indonesian
+msgstr Chiiongonesia
+
+#ita
 msgid Italian
 msgstr Chiitaliano
 
-#ja
-msgid Japanese
-msgstr Chidyapani
-
-#jv
+#jav
 msgid Javanese
 msgstr Chidyava
+
+#jpn
+msgid Japanese
+msgstr Chidyapani
 
 #kde
 msgid Makonde
 msgstr Chimakonde
 
-#km
+#khm
 msgid Khmer
 msgstr Chikambodia
 
-#ko
-msgid Korean
-msgstr Chikolea
-
-#ms
-msgid Malay
-msgstr Chimalesia
-
-#my
-msgid Burmese
-msgstr Chibulma
-
-#ne
-msgid Nepali
-msgstr Chinepali
-
-#nl
-msgid Dutch
-msgstr Chiholanzi
-
-#pa
-msgid Punjabi
-msgstr Chipunjabi
-
-#pl
-msgid Polish
-msgstr Chipolandi
-
-#pt
-msgid Portuguese
-msgstr Chileno
-
-#ro
-msgid Romanian
-msgstr Chilomania
-
-#ru
-msgid Russian
-msgstr Chilusi
-
-#rw
+#kin
 msgid Kinyarwanda
 msgstr Chinyalwanda
 
-#so
+#kor
+msgid Korean
+msgstr Chikolea
+
+#msa
+msgid Malay
+msgstr Chimalesia
+
+#mya
+msgid Burmese
+msgstr Chibulma
+
+#nep
+msgid Nepali
+msgstr Chinepali
+
+#nld
+msgid Dutch
+msgstr Chiholanzi
+
+#pan
+msgid Punjabi
+msgstr Chipunjabi
+
+#pol
+msgid Polish
+msgstr Chipolandi
+
+#por
+msgid Portuguese
+msgstr Chileno
+
+#ron
+msgid Romanian
+msgstr Chilomania
+
+#rus
+msgid Russian
+msgstr Chilusi
+
+#som
 msgid Somali
 msgstr Chisomali
 
-#sv
+#spa
+msgid Spanish
+msgstr Chihispania
+
+#swe
 msgid Swedish
 msgstr Chiswidi
 
-#ta
+#tam
 msgid Tamil
 msgstr Chitamil
 
-#th
+#tha
 msgid Thai
 msgstr Chitailandi
 
-#tr
+#tur
 msgid Turkish
 msgstr Chituluchi
 
-#uk
+#ukr
 msgid Ukrainian
 msgstr Chiuklania
 
-#ur
+#urd
 msgid Urdu
 msgstr Chiuldu
 
-#vi
+#vie
 msgid Vietnamese
 msgstr Chivietinamu
 
-#yo
+#yor
 msgid Yoruba
 msgstr Chiyoluba
 
-#zh
+#zho
 msgid Chinese
 msgstr Chichina
 
-#zu
+#zul
 msgid Zulu
 msgstr Chizulu
 

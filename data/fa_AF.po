@@ -1,16 +1,16 @@
-#ab
+#abk
 msgid Abkhazian
 msgstr افریکانس
 
-#as
+#asm
 msgid Assamese
 msgstr اسامی
 
-#az
+#aze
 msgid Azerbaijani
 msgstr آذربایجانی
 
-#ba
+#bak
 msgid Bashkir
 msgstr باشقیری
 
@@ -18,87 +18,87 @@ msgstr باشقیری
 msgid Central Kurdish
 msgstr کردی سورانی
 
-#dv
+#div
 msgid Divehi
 msgstr مالدیوی
 
-#es
-msgid Spanish
-msgstr هسپانوی
-
-#fi
+#fin
 msgid Finnish
 msgstr فنلندی
 
-#ga
+#gle
 msgid Irish
 msgstr آیرلندی
 
-#hr
+#hrv
 msgid Croatian
 msgstr کروشیایی
 
-#id
+#ind
 msgid Indonesian
 msgstr اندونیزیایی
 
-#is
+#isl
 msgid Icelandic
 msgstr آیسلندی
 
-#it
+#ita
 msgid Italian
 msgstr ایتالوی
 
-#ja
+#jpn
 msgid Japanese
 msgstr جاپانی
 
-#ko
-msgid Korean
-msgstr کوریایی
-
-#ky
+#kir
 msgid Kyrgyz
 msgstr قرغزی
 
-#mn
+#kor
+msgid Korean
+msgstr کوریایی
+
+#mon
 msgid Mongolian
 msgstr مغلی
 
-#ne
+#nep
 msgid Nepali
 msgstr نیپالی
 
-#nl
+#nld
 msgid Dutch
 msgstr هالندی
 
-#no
+#nor
 msgid Norwegian
 msgstr نارویژی
 
-#pl
+#pol
 msgid Polish
 msgstr پولندی
 
-#pt
+#por
 msgid Portuguese
 msgstr پرتگالی
 
-#sq
+#spa
+msgid Spanish
+msgstr هسپانوی
+
+#sqi
 msgid Albanian
 msgstr البانیایی
 
-#sv
-msgid Swedish
-msgstr سویدنی
-
-#sw
+#swa
 msgid Swahili
 msgstr سواحلی
 
-#tg
+#swe
+msgid Swedish
+msgstr سویدنی
+
+#tgk
 msgid Tajik
 msgstr تاجکی
 
