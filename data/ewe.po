@@ -7,7 +7,6 @@ msgid "Abkhazian"
 msgstr "abkhaziagbe"
 
 #: ady
-#: ady
 msgid "Adyghe"
 msgstr "adyghegbe"
 
@@ -45,7 +44,6 @@ msgid "Assamese"
 msgstr "assamegbe"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "asturiagbe"
 
@@ -75,7 +73,6 @@ msgid "Bambara"
 msgstr "bambaragbe"
 
 #: bas
-#: bas
 msgid "Basaa"
 msgstr "basaagbe"
 
@@ -92,7 +89,6 @@ msgstr "ghomalagbe"
 msgid "Belarusian"
 msgstr "belarusiagbe"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "bembagbe"
@@ -161,7 +157,6 @@ msgid "Catalan"
 msgstr "katalagbe"
 
 #: ceb
-#: ceb
 msgid "Cebuano"
 msgstr "Sebuanogbe"
 
@@ -176,11 +171,9 @@ msgid "Chamorro"
 msgstr "kamorrogbe"
 
 #: chk
-#: chk
 msgid "Chuukese"
 msgstr "tsukesegbe"
 
-#: chm
 #: chm
 msgid "Mari"
 msgstr "tsetsniagbe"
@@ -218,7 +211,6 @@ msgid "Zarma"
 msgstr "zamagbe"
 
 #: dua
-#: dua
 msgid "Duala"
 msgstr "dualagbe"
 
@@ -235,7 +227,6 @@ msgstr "dzongkhagbe"
 msgid "Embu"
 msgstr "embugbe"
 
-#: efi
 #: efi
 msgid "Efik"
 msgstr "efigbe"
@@ -307,11 +298,9 @@ msgid "Ewe"
 msgstr "Eʋegbe"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "ewondogbe"
 
-#: fan
 #: fan
 msgid "Fang"
 msgstr "fangbe"
@@ -331,7 +320,6 @@ msgstr "persiagbe"
 msgid "Fijian"
 msgstr "fidzigbe"
 
-#: fil
 #: fil
 msgid "Filipino"
 msgstr "filipingbe"
@@ -365,11 +353,9 @@ msgid "Fulah"
 msgstr "fulagbe"
 
 #: gaa
-#: gaa
 msgid "Ga"
 msgstr "gɛgbe"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "gilbertgbe"
@@ -395,7 +381,6 @@ msgid "Guarani"
 msgstr "guarangbe"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "swizerlanɖtɔwo ƒe germaniagbe"
 
@@ -415,7 +400,6 @@ msgid "Hausa"
 msgstr "hausagbe"
 
 #: haw
-#: haw
 msgid "Hawaiian"
 msgstr "hawaigbe"
 
@@ -429,7 +413,6 @@ msgstr "serbo-croatiagbe"
 msgid "Hebrew"
 msgstr "hebrigbe"
 
-#: hil
 #: hil
 msgid "Hiligaynon"
 msgstr "hiligenɔgbe"
@@ -469,7 +452,6 @@ msgid "Igbo"
 msgstr "igbogbe"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "ilikogbe"
 
@@ -478,7 +460,6 @@ msgstr "ilikogbe"
 msgid "Indonesian"
 msgstr "Indonesiagbe"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "ingusigbe"
@@ -534,7 +515,6 @@ msgid "Kazakh"
 msgstr "kazakhstangbe"
 
 #: kbd
-#: kbd
 msgid "Kabardian"
 msgstr "kabardiagbe"
 
@@ -542,7 +522,6 @@ msgstr "kabardiagbe"
 msgid "Kabuverdianu"
 msgstr "cape verdegbe"
 
-#: kha
 #: kha
 msgid "Khasi"
 msgstr "khasigbe"
@@ -567,7 +546,6 @@ msgid "Kako"
 msgstr "kakogbe"
 
 #: kok
-#: kok
 msgid "Konkani"
 msgstr "konkaniagbe"
 
@@ -582,11 +560,9 @@ msgid "Korean"
 msgstr "Koreagbe"
 
 #: kos
-#: kos
 msgid "Kosraean"
 msgstr "kosraeagbe"
 
-#: krc
 #: krc
 msgid "Karachay-Balkar"
 msgstr "karakay-bakargbe"
@@ -601,7 +577,6 @@ msgid "Kuanyama"
 msgstr "kunyamagbe"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "kumikagbe"
 
@@ -610,7 +585,6 @@ msgstr "kumikagbe"
 msgid "Kurdish"
 msgstr "kurdiagbe"
 
-#: lah
 #: lah
 msgid "Lahnda"
 msgstr "lahndagbe"
@@ -631,7 +605,6 @@ msgid "Latvian"
 msgstr "latviagbe"
 
 #: lez
-#: lez
 msgid "Lezghian"
 msgstr "lezghiagbe"
 
@@ -650,7 +623,6 @@ msgstr "lithuaniagbe"
 msgid "Luxembourgish"
 msgstr "laksembɔggbe"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "luba-lulugbe"
@@ -674,7 +646,6 @@ msgid "Marshallese"
 msgstr "marshalgbe"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "maitiligbe"
 
@@ -688,7 +659,6 @@ msgstr "malayagbe"
 msgid "Marathi"
 msgstr "marathiagbe"
 
-#: mdf
 #: mdf
 msgid "Moksha"
 msgstr "moktsiagbe"
@@ -732,7 +702,6 @@ msgid "Mundang"
 msgstr "mundangbe"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "gbegbɔgblɔ sɔgbɔwo"
 
@@ -745,7 +714,6 @@ msgstr "burmagbe"
 msgid "Myene"
 msgstr "myenegbe"
 
-#: myv
 #: myv
 msgid "Erzya"
 msgstr "erziyagbe"
@@ -770,7 +738,6 @@ msgstr "dziehe ndebelegbe"
 msgid "Nepali"
 msgstr "nepalgbe"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "niuegbe"
@@ -808,7 +775,6 @@ msgid "Norwegian"
 msgstr "nɔweigbe"
 
 #: nso
-#: nso
 msgid "Northern Sotho"
 msgstr "dziehe sothogbe"
 
@@ -832,7 +798,6 @@ msgid "Ossetic"
 msgstr "ossetiagbe"
 
 #: pag
-#: pag
 msgid "Pangasinan"
 msgstr "pangsinagbe"
 
@@ -842,11 +807,9 @@ msgid "Punjabi"
 msgstr "pundzabgbe"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "papiamentogbe"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "paluagbe"
@@ -856,7 +819,6 @@ msgstr "paluagbe"
 msgid "Polish"
 msgstr "Polishgbe"
 
-#: pon
 #: pon
 msgid "Pohnpeian"
 msgstr "ponpeiagbe"
@@ -918,7 +880,6 @@ msgid "Sango"
 msgstr "sangogbe"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "sakagbe"
 
@@ -927,7 +888,6 @@ msgstr "sakagbe"
 msgid "Sanskrit"
 msgstr "sanskrigbe"
 
-#: sat
 #: sat
 msgid "Santali"
 msgstr "santaligbe"
@@ -1036,7 +996,6 @@ msgid "Telugu"
 msgstr "telegugbe"
 
 #: tet
-#: tet
 msgid "Tetum"
 msgstr "tetumgbe"
 
@@ -1061,7 +1020,6 @@ msgid "Tigrinya"
 msgstr "tigrinyagbe"
 
 #: tkl
-#: tkl
 msgid "Tokelau"
 msgstr "tokelaugbe"
 
@@ -1070,7 +1028,6 @@ msgstr "tokelaugbe"
 msgid "Tongan"
 msgstr "tongagbe"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "tok pisigbe"
@@ -1096,7 +1053,6 @@ msgid "Turkish"
 msgstr "Turkishgbe"
 
 #: tvl
-#: tvl
 msgid "Tuvalu"
 msgstr "tuvalugbe"
 
@@ -1105,11 +1061,9 @@ msgid "Tasawaq"
 msgstr "tasawakgbe"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "tuviniagbe"
 
-#: udm
 #: udm
 msgid "Udmurt"
 msgstr "udmurtgbe"
@@ -1125,7 +1079,6 @@ msgid "Ukrainian"
 msgstr "ukraingbe"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "gbegbɔgblɔ manya"
 
@@ -1139,7 +1092,6 @@ msgstr "urdugbe"
 msgid "Uzbek"
 msgstr "uzbekistangbe"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "vaigbe"
@@ -1159,7 +1111,6 @@ msgid "Walser"
 msgstr "walsegbe"
 
 #: war
-#: war
 msgid "Waray"
 msgstr "waraygbe"
 
@@ -1173,7 +1124,6 @@ msgstr "wolofgbe"
 msgid "Xhosa"
 msgstr "xhosagbe"
 
-#: yap
 #: yap
 msgid "Yapese"
 msgstr "yapesigbe"
@@ -1218,7 +1168,6 @@ msgstr "Chinagbe"
 msgid "Zulu"
 msgstr "zulugbe"
 
-#: zxx
 #: zxx
 msgid "No linguistic content"
 msgstr "gbegbɔgblɔ manɔmee"

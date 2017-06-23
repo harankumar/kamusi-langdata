@@ -12,21 +12,17 @@ msgid "Abkhazian"
 msgstr "آبخازی"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "آچئی"
 
-#: ach
 #: ach
 msgid "Acoli"
 msgstr "آچولیایی"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "آدانگمه‌ای"
 
-#: ady
 #: ady
 msgid "Adyghe"
 msgstr "آدیجیایی"
@@ -35,7 +31,6 @@ msgstr "آدیجیایی"
 msgid "Tunisian Arabic"
 msgstr "عربی تونسی"
 
-#: afh
 #: afh
 msgid "Afrihili"
 msgstr "آفریهیلی"
@@ -50,7 +45,6 @@ msgid "Aghem"
 msgstr "آگیم"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "آینویی"
 
@@ -60,7 +54,6 @@ msgid "Akan"
 msgstr "آکان"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "اکدی"
 
@@ -69,11 +62,9 @@ msgid "Alabama"
 msgstr "آلابامایی"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "آلئوتی"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "آلتایی جنوبی"
@@ -84,11 +75,9 @@ msgid "Amharic"
 msgstr "امهری"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "انگلیسی باستان"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "آنگیکا"
@@ -103,7 +92,6 @@ msgid "Arabic"
 msgstr "عربی"
 
 #: arc
-#: arc
 msgid "Aramaic"
 msgstr "آرامی"
 
@@ -113,11 +101,9 @@ msgid "Aragonese"
 msgstr "آراگونی"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "ماپوچه‌ای"
 
-#: arp
 #: arp
 msgid "Arapaho"
 msgstr "آراپاهویی"
@@ -126,7 +112,6 @@ msgstr "آراپاهویی"
 msgid "Algerian Arabic"
 msgstr "عربی الجزایری"
 
-#: arw
 #: arw
 msgid "Arawak"
 msgstr "آراواکی"
@@ -149,7 +134,6 @@ msgid "Assamese"
 msgstr "آسامی"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "آستوری"
 
@@ -163,7 +147,6 @@ msgstr "آواری"
 msgid "Avestan"
 msgstr "اوستایی"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "اودهی"
@@ -196,7 +179,6 @@ msgid "Bashkir"
 msgstr "باشغیری"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "بلوچی"
 
@@ -206,7 +188,6 @@ msgid "Bambara"
 msgstr "بامبارایی"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "بالیایی"
 
@@ -214,7 +195,6 @@ msgstr "بالیایی"
 msgid "Bavarian"
 msgstr "باواریایی"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "باسایی"
@@ -224,7 +204,6 @@ msgid "Bamun"
 msgstr "بمونی"
 
 #: bej
-#: bej
 msgid "Beja"
 msgstr "بجایی"
 
@@ -233,7 +212,6 @@ msgstr "بجایی"
 msgid "Belarusian"
 msgstr "بلاروسی"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "بمبایی"
@@ -252,16 +230,13 @@ msgid "Western Balochi"
 msgstr "بلوچی غربی"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "بوجپوری"
 
 #: bik
-#: bik
 msgid "Bikol"
 msgstr "بیکولی"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "بینی"
@@ -271,7 +246,6 @@ msgstr "بینی"
 msgid "Bislama"
 msgstr "بیسلاما"
 
-#: bla
 #: bla
 msgid "Siksika"
 msgstr "سیکسیکا"
@@ -291,7 +265,6 @@ msgid "Bakhtiari"
 msgstr "لری بختیاری"
 
 #: bra
-#: bra
 msgid "Braj"
 msgstr "براج"
 
@@ -309,11 +282,9 @@ msgid "Bodo"
 msgstr "بودویی"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "بوریاتی"
 
-#: bug
 #: bug
 msgid "Buginese"
 msgstr "بوگیایی"
@@ -324,16 +295,13 @@ msgid "Bulgarian"
 msgstr "بلغاری"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "بلین"
 
 #: cad
-#: cad
 msgid "Caddo"
 msgstr "کادویی"
 
-#: car
 #: car
 msgid "Carib"
 msgstr "کاریبی"
@@ -343,7 +311,6 @@ msgstr "کاریبی"
 msgid "Catalan"
 msgstr "کاتالان"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "سبویی"
@@ -363,7 +330,6 @@ msgid "Chamorro"
 msgstr "چامورویی"
 
 #: chb
-#: chb
 msgid "Chibcha"
 msgstr "چیبچا"
 
@@ -373,31 +339,25 @@ msgid "Chechen"
 msgstr "چچنی"
 
 #: chg
-#: chg
 msgid "Chagatai"
 msgstr "جغتایی"
 
-#: chk
 #: chk
 msgid "Chuukese"
 msgstr "چوکی"
 
 #: chm
-#: chm
 msgid "Mari"
 msgstr "ماریایی"
 
-#: cho
 #: cho
 msgid "Choctaw"
 msgstr "چوکتویی"
 
 #: chp
-#: chp
 msgid "Chipewyan"
 msgstr "چیپه‌ویه‌ای"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "چروکیایی"
@@ -413,7 +373,6 @@ msgid "Chuvash"
 msgstr "چوواشی"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "شایانی"
 
@@ -421,7 +380,6 @@ msgstr "شایانی"
 msgid "Central Kurdish"
 msgstr "کردی مرکزی"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "قبطی"
@@ -442,7 +400,6 @@ msgid "Cree"
 msgstr "کریایی"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "ترکی کریمه"
 
@@ -450,7 +407,6 @@ msgstr "ترکی کریمه"
 msgid "Seselwa Creole French"
 msgstr "سیشل آمیختهٔ فرانسوی"
 
-#: csb
 #: csb
 msgid "Kashubian"
 msgstr "کاشوبی"
@@ -461,7 +417,6 @@ msgid "Welsh"
 msgstr "ولزی"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "داکوتایی"
 
@@ -470,7 +425,6 @@ msgstr "داکوتایی"
 msgid "Danish"
 msgstr "دانمارکی"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "دارقینی"
@@ -488,7 +442,6 @@ msgid "Swiss High German"
 msgstr "آلمانی معیار سوئیس"
 
 #: del
-#: del
 msgid "Delaware"
 msgstr "دلاواری"
 
@@ -498,11 +451,9 @@ msgid "German"
 msgstr "آلمانی"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "دوگریب"
 
-#: din
 #: din
 msgid "Dinka"
 msgstr "دینکایی"
@@ -517,21 +468,17 @@ msgid "Zarma"
 msgstr "زرما"
 
 #: doi
-#: doi
 msgid "Dogri"
 msgstr "دوگری"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "صُربی سفلی"
 
 #: dua
-#: dua
 msgid "Duala"
 msgstr "دوآلایی"
 
-#: dum
 #: dum
 msgid "Middle Dutch"
 msgstr "هلندی میانه"
@@ -540,7 +487,6 @@ msgstr "هلندی میانه"
 msgid "Jola-Fonyi"
 msgstr "دیولا فونی"
 
-#: dyu
 #: dyu
 msgid "Dyula"
 msgstr "دایولایی"
@@ -559,16 +505,13 @@ msgid "Embu"
 msgstr "امبو"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "افیکی"
 
 #: egy
-#: egy
 msgid "Ancient Egyptian"
 msgstr "مصری کهن"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "اکاجوک"
@@ -578,7 +521,6 @@ msgstr "اکاجوک"
 msgid "Greek"
 msgstr "یونانی"
 
-#: elx
 #: elx
 msgid "Elamite"
 msgstr "عیلامی"
@@ -612,7 +554,6 @@ msgstr "انگلیسی امریکا"
 msgid "English"
 msgstr "انگلیسی"
 
-#: enm
 #: enm
 msgid "Middle English"
 msgstr "انگلیسی میانه"
@@ -650,7 +591,6 @@ msgid "Ewe"
 msgstr "اوه‌ای"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "اواندو"
 
@@ -658,7 +598,6 @@ msgstr "اواندو"
 msgid "Dari"
 msgstr "دری"
 
-#: fan
 #: fan
 msgid "Fang"
 msgstr "فانگی"
@@ -674,7 +613,6 @@ msgid "Persian"
 msgstr "فارسی"
 
 #: fat
-#: fat
 msgid "Fanti"
 msgstr "فانتیایی"
 
@@ -684,7 +622,6 @@ msgid "Fijian"
 msgstr "فیجیایی"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "فیلیپینی"
 
@@ -693,7 +630,6 @@ msgstr "فیلیپینی"
 msgid "Finnish"
 msgstr "فنلاندی"
 
-#: fon
 #: fon
 msgid "Fon"
 msgstr "فونی"
@@ -716,21 +652,17 @@ msgid "Cajun French"
 msgstr "فرانسوی کادین"
 
 #: frm
-#: frm
 msgid "Middle French"
 msgstr "فرانسوی میانه"
 
-#: fro
 #: fro
 msgid "Old French"
 msgstr "فرانسوی باستان"
 
 #: frr
-#: frr
 msgid "Northern Frisian"
 msgstr "فریزی شمالی"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "فریزی شرقی"
@@ -746,11 +678,9 @@ msgid "Fulah"
 msgstr "فولایی"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "فریولیایی"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "گایی"
@@ -760,11 +690,9 @@ msgid "Gagauz"
 msgstr "گاگائوزیایی"
 
 #: gay
-#: gay
 msgid "Gayo"
 msgstr "گایویی"
 
-#: gba
 #: gba
 msgid "Gbaya"
 msgstr "گبایایی"
@@ -774,11 +702,9 @@ msgid "Zoroastrian Dari"
 msgstr "دری زرتشتی"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "گی‌ئزی"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "گیلبرتی"
@@ -808,36 +734,29 @@ msgid "Manx"
 msgstr "مانی"
 
 #: gmh
-#: gmh
 msgid "Middle High German"
 msgstr "آلمانی معیار میانه"
 
-#: goh
 #: goh
 msgid "Old High German"
 msgstr "آلمانی علیای باستان"
 
 #: gon
-#: gon
 msgid "Gondi"
 msgstr "گوندی"
 
-#: gor
 #: gor
 msgid "Gorontalo"
 msgstr "گورونتالو"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "گوتی"
 
 #: grb
-#: grb
 msgid "Grebo"
 msgstr "گریبویی"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "یونانی کهن"
@@ -847,7 +766,6 @@ msgstr "یونانی کهن"
 msgid "Guarani"
 msgstr "گوارانی"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "آلمانی سوئیسی"
@@ -862,11 +780,9 @@ msgid "Gusii"
 msgstr "گوسی"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "گویچ این"
 
-#: hai
 #: hai
 msgid "Haida"
 msgstr "هایدایی"
@@ -881,7 +797,6 @@ msgstr "هائیتیایی"
 msgid "Hausa"
 msgstr "هوسیایی"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "هاوائیایی"
@@ -906,7 +821,6 @@ msgid "Fiji Hindi"
 msgstr "هندی فیجیایی"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "هیلی‌گاینونی"
 
@@ -916,11 +830,9 @@ msgid "Hindi"
 msgstr "هندی"
 
 #: hit
-#: hit
 msgid "Hittite"
 msgstr "هیتی"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "همونگ"
@@ -936,7 +848,6 @@ msgid "Croatian"
 msgstr "کروات"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "صُربی علیا"
 
@@ -946,7 +857,6 @@ msgid "Hungarian"
 msgstr "مجاری"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "هوپا"
 
@@ -955,7 +865,6 @@ msgstr "هوپا"
 msgid "Armenian"
 msgstr "ارمنی"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "ایبانی"
@@ -990,7 +899,6 @@ msgid "Interlingue"
 msgstr "اکسیدنتال"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "ایلوکویی"
 
@@ -1004,7 +912,6 @@ msgstr "میان‌زبان"
 msgid "Indonesian"
 msgstr "اندونزیایی"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "اینگوشی"
@@ -1030,7 +937,6 @@ msgid "Javanese"
 msgstr "جاوه‌ای"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "لوجبان"
 
@@ -1048,26 +954,21 @@ msgid "Japanese"
 msgstr "ژاپنی"
 
 #: jpr
-#: jpr
 msgid "Judeo-Persian"
 msgstr "فارسی یهودی"
 
-#: jrb
 #: jrb
 msgid "Judeo-Arabic"
 msgstr "عربی یهودی"
 
 #: kaa
-#: kaa
 msgid "Kara-Kalpak"
 msgstr "قره‌قالپاقی"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "قبایلی"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "کاچینی"
@@ -1081,7 +982,6 @@ msgstr "جو"
 msgid "Kalaallisut"
 msgstr "گرینلندی"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "کامبایی"
@@ -1107,7 +1007,6 @@ msgid "Kanuri"
 msgstr "کانوریایی"
 
 #: kaw
-#: kaw
 msgid "Kawi"
 msgstr "کاویایی"
 
@@ -1116,7 +1015,6 @@ msgstr "کاویایی"
 msgid "Kazakh"
 msgstr "قزاقی"
 
-#: kbd
 #: kbd
 msgid "Kabardian"
 msgstr "کاباردینی"
@@ -1138,7 +1036,6 @@ msgid "Koro"
 msgstr "کورو"
 
 #: kha
-#: kha
 msgid "Khasi"
 msgstr "خاسیایی"
 
@@ -1147,7 +1044,6 @@ msgstr "خاسیایی"
 msgid "Khmer"
 msgstr "خمری"
 
-#: kho
 #: kho
 msgid "Khotanese"
 msgstr "ختنی"
@@ -1188,7 +1084,6 @@ msgid "Kalenjin"
 msgstr "کالنجین"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "کیمبوندویی"
 
@@ -1196,7 +1091,6 @@ msgstr "کیمبوندویی"
 msgid "Komi-Permyak"
 msgstr "کومی پرمیاک"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "کنکانی"
@@ -1217,21 +1111,17 @@ msgid "Korean"
 msgstr "کره‌ای"
 
 #: kpe
-#: kpe
 msgid "Kpelle"
 msgstr "کپله‌ای"
 
-#: krc
 #: krc
 msgid "Karachay-Balkar"
 msgstr "قره‌چایی‐بالکاری"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "کاریلیانی"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "کوروخی"
@@ -1254,7 +1144,6 @@ msgid "Kuanyama"
 msgstr "کوانیاما"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "کومیکی"
 
@@ -1264,11 +1153,9 @@ msgid "Kurdish"
 msgstr "کردی"
 
 #: kut
-#: kut
 msgid "Kutenai"
 msgstr "کوتنی"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "لادینو"
@@ -1278,11 +1165,9 @@ msgid "Langi"
 msgstr "لانگی"
 
 #: lah
-#: lah
 msgid "Lahnda"
 msgstr "لاهندا"
 
-#: lam
 #: lam
 msgid "Lamba"
 msgstr "لامبا"
@@ -1302,7 +1187,6 @@ msgstr "لاتین"
 msgid "Latvian"
 msgstr "لتونیایی"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "لزگی"
@@ -1327,11 +1211,9 @@ msgid "Lakota"
 msgstr "لاکوتا"
 
 #: lol
-#: lol
 msgid "Mongo"
 msgstr "مونگویی"
 
-#: loz
 #: loz
 msgid "Lozi"
 msgstr "لوزیایی"
@@ -1345,7 +1227,6 @@ msgstr "لری شمالی"
 msgid "Luxembourgish"
 msgstr "لوگزامبورگی"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "لوبایی‐لولوا"
@@ -1361,21 +1242,17 @@ msgid "Ganda"
 msgstr "گاندایی"
 
 #: lui
-#: lui
 msgid "Luiseno"
 msgstr "لویسنو"
 
-#: lun
 #: lun
 msgid "Lunda"
 msgstr "لوندایی"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "لوئویی"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "لوشه‌ای"
@@ -1389,11 +1266,9 @@ msgid "Literary Chinese"
 msgstr "چینی ادبی"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "مادورایی"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "ماگاهیایی"
@@ -1404,11 +1279,9 @@ msgid "Marshallese"
 msgstr "مارشالی"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "مایدیلی"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "ماکاسار"
@@ -1419,7 +1292,6 @@ msgid "Malayalam"
 msgstr "مالایالامی"
 
 #: man
-#: man
 msgid "Mandingo"
 msgstr "ماندینگویی"
 
@@ -1429,21 +1301,17 @@ msgid "Marathi"
 msgstr "مراتی"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "ماسایی"
 
-#: mdf
 #: mdf
 msgid "Moksha"
 msgstr "مکشایی"
 
 #: mdr
-#: mdr
 msgid "Mandar"
 msgstr "ماندار"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "منده‌ای"
@@ -1457,7 +1325,6 @@ msgid "Morisyen"
 msgstr "موریسین"
 
 #: mga
-#: mga
 msgid "Middle Irish"
 msgstr "ایرلندی میانه"
 
@@ -1470,11 +1337,9 @@ msgid "Metaʼ"
 msgstr "متایی"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "میکماکی"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "مینانگ‌کابویی"
@@ -1495,16 +1360,13 @@ msgid "Maltese"
 msgstr "مالتی"
 
 #: mnc
-#: mnc
 msgid "Manchu"
 msgstr "مانچویی"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "میته‌ای"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "موهاکی"
@@ -1514,7 +1376,6 @@ msgstr "موهاکی"
 msgid "Mongolian"
 msgstr "مغولی"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "ماسیایی"
@@ -1534,21 +1395,17 @@ msgid "Mundang"
 msgstr "ماندانگی"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "چندین زبان"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "کریکی"
 
 #: mwl
-#: mwl
 msgid "Mirandese"
 msgstr "میراندی"
 
-#: mwr
 #: mwr
 msgid "Marwari"
 msgstr "مارواری"
@@ -1559,7 +1416,6 @@ msgid "Burmese"
 msgstr "برمه‌ای"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "ارزیایی"
 
@@ -1567,7 +1423,6 @@ msgstr "ارزیایی"
 msgid "Mazanderani"
 msgstr "مازندرانی"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "ناپلی"
@@ -1602,7 +1457,6 @@ msgid "Ndonga"
 msgstr "اندونگایی"
 
 #: nds
-#: nds
 msgid "Low German"
 msgstr "آلمانی سفلی"
 
@@ -1616,16 +1470,13 @@ msgid "Nepali"
 msgstr "نپالی"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "نواریایی"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "نیاسی"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "نیویی"
@@ -1658,11 +1509,9 @@ msgid "Norwegian Bokmål"
 msgstr "نروژی بوک‌مُل"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "نغایی"
 
-#: non
 #: non
 msgid "Old Norse"
 msgstr "نرس باستان"
@@ -1673,11 +1522,9 @@ msgid "Norwegian"
 msgstr "نروژی"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "نکو"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "سوتویی شمالی"
@@ -1686,7 +1533,6 @@ msgstr "سوتویی شمالی"
 msgid "Nuer"
 msgstr "نویر"
 
-#: nwc
 #: nwc
 msgid "Classical Newari"
 msgstr "نواریایی کلاسیک"
@@ -1697,21 +1543,17 @@ msgid "Nyanja"
 msgstr "نیانجایی"
 
 #: nym
-#: nym
 msgid "Nyamwezi"
 msgstr "نیام‌وزیایی"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "نیانکوله‌ای"
 
 #: nyo
-#: nyo
 msgid "Nyoro"
 msgstr "نیورویی"
 
-#: nzi
 #: nzi
 msgid "Nzima"
 msgstr "نزیمایی"
@@ -1737,7 +1579,6 @@ msgid "Oromo"
 msgstr "اورومویی"
 
 #: osa
-#: osa
 msgid "Osage"
 msgstr "اوسیجی"
 
@@ -1747,21 +1588,17 @@ msgid "Ossetic"
 msgstr "آسی"
 
 #: ota
-#: ota
 msgid "Ottoman Turkish"
 msgstr "ترکی عثمانی"
 
-#: pag
 #: pag
 msgid "Pangasinan"
 msgstr "پانگاسینانی"
 
 #: pal
-#: pal
 msgid "Pahlavi"
 msgstr "پهلوی"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "پامپانگایی"
@@ -1772,11 +1609,9 @@ msgid "Punjabi"
 msgstr "پنجابی"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "پاپیامنتو"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "پالائویی"
@@ -1790,11 +1625,9 @@ msgid "Pennsylvania German"
 msgstr "آلمانی پنسیلوانیایی"
 
 #: peo
-#: peo
 msgid "Old Persian"
 msgstr "فارسی باستان"
 
-#: phn
 #: phn
 msgid "Phoenician"
 msgstr "فنیقی"
@@ -1810,7 +1643,6 @@ msgid "Polish"
 msgstr "لهستانی"
 
 #: pon
-#: pon
 msgid "Pohnpeian"
 msgstr "پانپیی"
 
@@ -1823,7 +1655,6 @@ msgstr "پرتغالی"
 msgid "Prussian"
 msgstr "پروسی"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "پرووانسی باستان"
@@ -1855,16 +1686,13 @@ msgid "Quechua"
 msgstr "کچوایی"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "راجستانی"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "راپانویی"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "راروتونگایی"
@@ -1882,7 +1710,6 @@ msgstr "رومبویی"
 msgid "Romansh"
 msgstr "رومانش"
 
-#: rom
 #: rom
 msgid "Romany"
 msgstr "رومانویی"
@@ -1902,7 +1729,6 @@ msgid "Rundi"
 msgstr "روندیایی"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "آرومانی"
 
@@ -1916,7 +1742,6 @@ msgid "Rwa"
 msgstr "روایی"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "سانداوه‌ای"
 
@@ -1926,11 +1751,9 @@ msgid "Sango"
 msgstr "سانگو"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "یاقوتی"
 
-#: sam
 #: sam
 msgid "Samaritan Aramaic"
 msgstr "آرامی سامری"
@@ -1945,11 +1768,9 @@ msgid "Samburu"
 msgstr "سامبورو"
 
 #: sas
-#: sas
 msgid "Sasak"
 msgstr "ساساکی"
 
-#: sat
 #: sat
 msgid "Santali"
 msgstr "سانتالی"
@@ -1963,11 +1784,9 @@ msgid "Sangu"
 msgstr "سانگویی"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "سیسیلی"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "اسکاتلندی"
@@ -1981,7 +1800,6 @@ msgid "Sena"
 msgstr "سنا"
 
 #: sel
-#: sel
 msgid "Selkup"
 msgstr "سلکوپی"
 
@@ -1989,7 +1807,6 @@ msgstr "سلکوپی"
 msgid "Koyraboro Senni"
 msgstr "کویرابورا سنی"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "ایرلندی باستان"
@@ -1999,7 +1816,6 @@ msgid "Tachelhit"
 msgstr "تاچل‌هیت"
 
 #: shn
-#: shn
 msgid "Shan"
 msgstr "شانی"
 
@@ -2007,7 +1823,6 @@ msgstr "شانی"
 msgid "Chadian Arabic"
 msgstr "عربی چادی"
 
-#: sid
 #: sid
 msgid "Sidamo"
 msgstr "سیدامویی"
@@ -2032,7 +1847,6 @@ msgid "Slovenian"
 msgstr "اسلوونیایی"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "سامی جنوبی"
 
@@ -2042,11 +1856,9 @@ msgid "Northern Sami"
 msgstr "سامی شمالی"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "لوله سامی"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "ایناری سامی"
@@ -2056,7 +1868,6 @@ msgstr "ایناری سامی"
 msgid "Samoan"
 msgstr "ساموآیی"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "اسکولت سامی"
@@ -2072,11 +1883,9 @@ msgid "Sindhi"
 msgstr "سندی"
 
 #: snk
-#: snk
 msgid "Soninke"
 msgstr "سونینکه‌ای"
 
-#: sog
 #: sog
 msgid "Sogdien"
 msgstr "سغدی"
@@ -2107,7 +1916,6 @@ msgid "Sardinian"
 msgstr "ساردینیایی"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "تاکی‌تاکی"
 
@@ -2116,7 +1924,6 @@ msgstr "تاکی‌تاکی"
 msgid "Serbian"
 msgstr "صربی"
 
-#: srr
 #: srr
 msgid "Serer"
 msgstr "سریری"
@@ -2131,7 +1938,6 @@ msgid "Saho"
 msgstr "ساهو"
 
 #: suk
-#: suk
 msgid "Sukuma"
 msgstr "سوکومایی"
 
@@ -2141,11 +1947,9 @@ msgid "Sundanese"
 msgstr "سوندایی"
 
 #: sus
-#: sus
 msgid "Susu"
 msgstr "سوسویی"
 
-#: sux
 #: sux
 msgid "Sumerian"
 msgstr "سومری"
@@ -2169,11 +1973,9 @@ msgid "Swedish"
 msgstr "سوئدی"
 
 #: syc
-#: syc
 msgid "Classical Syriac"
 msgstr "سریانی کلاسیک"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "سریانی"
@@ -2203,7 +2005,6 @@ msgid "Telugu"
 msgstr "تلوگویی"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "تمنه‌ای"
 
@@ -2212,11 +2013,9 @@ msgid "Teso"
 msgstr "تسویی"
 
 #: ter
-#: ter
 msgid "Tereno"
 msgstr "ترنو"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "تتومی"
@@ -2237,7 +2036,6 @@ msgid "Thai"
 msgstr "تایلندی"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "تیگره‌ای"
 
@@ -2247,26 +2045,21 @@ msgid "Tigrinya"
 msgstr "تیگرینیایی"
 
 #: tiv
-#: tiv
 msgid "Tiv"
 msgstr "تیوی"
 
-#: tlh
 #: tlh
 msgid "Klingon"
 msgstr "کلینگون"
 
 #: tli
-#: tli
 msgid "Tlingit"
 msgstr "تلین‌گیتی"
 
 #: tmh
-#: tmh
 msgid "Tamashek"
 msgstr "تاماشقی"
 
-#: tog
 #: tog
 msgid "Nyasa Tonga"
 msgstr "تونگایی نیاسا"
@@ -2276,7 +2069,6 @@ msgstr "تونگایی نیاسا"
 msgid "Tongan"
 msgstr "تونگایی"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "توک‌پیسینی"
@@ -2289,7 +2081,6 @@ msgstr "ترکی"
 msgid "Taroko"
 msgstr "تاروکویی"
 
-#: tsi
 #: tsi
 msgid "Tsimshian"
 msgstr "تسیم‌شیانی"
@@ -2310,7 +2101,6 @@ msgid "Turkmen"
 msgstr "ترکمنی"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "تومبوکایی"
 
@@ -2319,7 +2109,6 @@ msgstr "تومبوکایی"
 msgid "Turkish"
 msgstr "ترکی استانبولی"
 
-#: tvl
 #: tvl
 msgid "Tuvalu"
 msgstr "تووالویی"
@@ -2334,7 +2123,6 @@ msgid "Tasawaq"
 msgstr "تسواکی"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "تووایی"
 
@@ -2343,11 +2131,9 @@ msgid "Central Atlas Tamazight"
 msgstr "آمازیغی اطلس مرکزی"
 
 #: udm
-#: udm
 msgid "Udmurt"
 msgstr "اودمورتی"
 
-#: uga
 #: uga
 msgid "Ugaritic"
 msgstr "اوگاریتی"
@@ -2363,11 +2149,9 @@ msgid "Ukrainian"
 msgstr "اوکراینی"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "امبوندویی"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "زبان نامشخص"
@@ -2382,7 +2166,6 @@ msgstr "اردو"
 msgid "Uzbek"
 msgstr "ازبکی"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "ویایی"
@@ -2403,7 +2186,6 @@ msgid "Volapük"
 msgstr "ولاپوک"
 
 #: vot
-#: vot
 msgid "Votic"
 msgstr "وتی"
 
@@ -2416,16 +2198,13 @@ msgid "Walser"
 msgstr "والسر"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "والامو"
 
 #: war
-#: war
 msgid "Waray"
 msgstr "وارایی"
 
-#: was
 #: was
 msgid "Washo"
 msgstr "واشویی"
@@ -2445,7 +2224,6 @@ msgid "Wolof"
 msgstr "ولوفی"
 
 #: xal
-#: xal
 msgid "Kalmyk"
 msgstr "قلموقی"
 
@@ -2459,11 +2237,9 @@ msgid "Soga"
 msgstr "سوگایی"
 
 #: yao
-#: yao
 msgid "Yao"
 msgstr "یائویی"
 
-#: yap
 #: yap
 msgid "Yapese"
 msgstr "یاپی"
@@ -2491,11 +2267,9 @@ msgid "Cantonese"
 msgstr "کانتونی"
 
 #: zap
-#: zap
 msgid "Zapotec"
 msgstr "زاپوتکی"
 
-#: zen
 #: zen
 msgid "Zenaga"
 msgstr "زناگا"
@@ -2528,16 +2302,13 @@ msgid "Zulu"
 msgstr "زولویی"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "زونیایی"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "بدون محتوای زبانی"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "زازایی"

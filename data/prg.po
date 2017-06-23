@@ -161,7 +161,6 @@ msgid "Turkish"
 msgstr "turkiskan"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "niwaistā bilā"
 

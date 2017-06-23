@@ -12,16 +12,13 @@ msgid "Abkhazian"
 msgstr "абхазская"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "ачэх"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "адангмэ"
 
-#: ady
 #: ady
 msgid "Adyghe"
 msgstr "адыгейская"
@@ -36,7 +33,6 @@ msgid "Aghem"
 msgstr "агем"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "айнская"
 
@@ -46,16 +42,13 @@ msgid "Akan"
 msgstr "акан"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "акадская"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "алеуцкая"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "паўднёваалтайская"
@@ -66,11 +59,9 @@ msgid "Amharic"
 msgstr "амхарская"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "стараанглійская"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "ангіка"
@@ -85,7 +76,6 @@ msgid "Arabic"
 msgstr "арабская"
 
 #: arc
-#: arc
 msgid "Aramaic"
 msgstr "арамейская"
 
@@ -95,11 +85,9 @@ msgid "Aragonese"
 msgstr "арагонская"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "мапудунгун"
 
-#: arp
 #: arp
 msgid "Arapaho"
 msgstr "арапаха"
@@ -114,7 +102,6 @@ msgid "Assamese"
 msgstr "асамская"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "астурыйская"
 
@@ -123,7 +110,6 @@ msgstr "астурыйская"
 msgid "Avaric"
 msgstr "аварская"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "авадхі"
@@ -153,11 +139,9 @@ msgid "Bambara"
 msgstr "бамбара"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "балійская"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "басаа"
@@ -167,7 +151,6 @@ msgstr "басаа"
 msgid "Belarusian"
 msgstr "беларуская"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "бемба"
@@ -186,11 +169,9 @@ msgid "Western Balochi"
 msgstr "заходняя белуджская"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "бхаджпуры"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "эда"
@@ -200,7 +181,6 @@ msgstr "эда"
 msgid "Bislama"
 msgstr "біслама"
 
-#: bla
 #: bla
 msgid "Siksika"
 msgstr "блэкфут"
@@ -225,11 +205,9 @@ msgid "Bodo"
 msgstr "бода"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "бурацкая"
 
-#: bug
 #: bug
 msgid "Buginese"
 msgstr "бугіс"
@@ -240,7 +218,6 @@ msgid "Bulgarian"
 msgstr "балгарская"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "білен"
 
@@ -249,7 +226,6 @@ msgstr "білен"
 msgid "Catalan"
 msgstr "каталанская"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "себуана"
@@ -269,7 +245,6 @@ msgid "Chamorro"
 msgstr "чамора"
 
 #: chb
-#: chb
 msgid "Chibcha"
 msgstr "чыбча"
 
@@ -279,21 +254,17 @@ msgid "Chechen"
 msgstr "чачэнская"
 
 #: chk
-#: chk
 msgid "Chuukese"
 msgstr "чуук"
 
-#: chm
 #: chm
 msgid "Mari"
 msgstr "мары"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "чокта"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "чэрокі"
@@ -309,7 +280,6 @@ msgid "Chuvash"
 msgstr "чувашская"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "шэйен"
 
@@ -317,7 +287,6 @@ msgstr "шэйен"
 msgid "Central Kurdish"
 msgstr "цэнтральнакурдская"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "копцкая"
@@ -342,7 +311,6 @@ msgid "Welsh"
 msgstr "валійская"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "дакота"
 
@@ -351,7 +319,6 @@ msgstr "дакота"
 msgid "Danish"
 msgstr "дацкая"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "даргінская"
@@ -374,7 +341,6 @@ msgid "German"
 msgstr "нямецкая"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "догрыб"
 
@@ -388,11 +354,9 @@ msgid "Zarma"
 msgstr "зарма"
 
 #: dsb
-#: dsb
 msgid "Lower Sorbian"
 msgstr "ніжнялужыцкая"
 
-#: dua
 #: dua
 msgid "Duala"
 msgstr "дуала"
@@ -415,16 +379,13 @@ msgid "Embu"
 msgstr "эмбу"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "эфік"
 
 #: egy
-#: egy
 msgid "Ancient Egyptian"
 msgstr "старажытнаегіпецкая"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "экаджук"
@@ -496,7 +457,6 @@ msgid "Ewe"
 msgstr "эве"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "эвонда"
 
@@ -516,7 +476,6 @@ msgid "Fijian"
 msgstr "фіджыйская"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "філіпінская"
 
@@ -525,7 +484,6 @@ msgstr "філіпінская"
 msgid "Finnish"
 msgstr "фінская"
 
-#: fon
 #: fon
 msgid "Fon"
 msgstr "фон"
@@ -544,7 +502,6 @@ msgid "French"
 msgstr "французская"
 
 #: fro
-#: fro
 msgid "Old French"
 msgstr "старафранцузская"
 
@@ -559,11 +516,9 @@ msgid "Fulah"
 msgstr "фула"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "фрыульская"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "га"
@@ -573,11 +528,9 @@ msgid "Gagauz"
 msgstr "гагаузская"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "геэз"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "кірыбаці"
@@ -603,11 +556,9 @@ msgid "Manx"
 msgstr "мэнская"
 
 #: gor
-#: gor
 msgid "Gorontalo"
 msgstr "гарантала"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "старажытнагрэчаская"
@@ -617,7 +568,6 @@ msgstr "старажытнагрэчаская"
 msgid "Guarani"
 msgstr "гуарані"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "швейцарская нямецкая"
@@ -632,7 +582,6 @@ msgid "Gusii"
 msgstr "гусіі"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "гуіч’ін"
 
@@ -646,7 +595,6 @@ msgstr "гаіцянская крэольская"
 msgid "Hausa"
 msgstr "хауса"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "гавайская"
@@ -667,7 +615,6 @@ msgid "Herero"
 msgstr "герэра"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "хілігайнон"
 
@@ -676,7 +623,6 @@ msgstr "хілігайнон"
 msgid "Hindi"
 msgstr "хіндзі"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "хмонг"
@@ -687,7 +633,6 @@ msgid "Croatian"
 msgstr "харвацкая"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "верхнялужыцкая"
 
@@ -697,7 +642,6 @@ msgid "Hungarian"
 msgstr "венгерская"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "хупа"
 
@@ -706,7 +650,6 @@ msgstr "хупа"
 msgid "Armenian"
 msgstr "армянская"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "ібан"
@@ -741,7 +684,6 @@ msgid "Interlingue"
 msgstr "інтэрлінгвэ"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "ілакана"
 
@@ -755,7 +697,6 @@ msgstr "інтэрлінгва"
 msgid "Indonesian"
 msgstr "інданезійская"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "інгушская"
@@ -776,7 +717,6 @@ msgid "Javanese"
 msgstr "яванская"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "ложбан"
 
@@ -794,11 +734,9 @@ msgid "Japanese"
 msgstr "японская"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "кабільская"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "качынская"
@@ -812,7 +750,6 @@ msgstr "дджу"
 msgid "Kalaallisut"
 msgstr "грэнландская"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "камба"
@@ -843,7 +780,6 @@ msgid "Kazakh"
 msgstr "казахская"
 
 #: kbd
-#: kbd
 msgid "Kabardian"
 msgstr "кабардзінская"
 
@@ -863,7 +799,6 @@ msgstr "кабувердыяну"
 msgid "Koro"
 msgstr "кора"
 
-#: kha
 #: kha
 msgid "Khasi"
 msgstr "кхасі"
@@ -901,7 +836,6 @@ msgid "Kalenjin"
 msgstr "календжын"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "кімбунду"
 
@@ -909,7 +843,6 @@ msgstr "кімбунду"
 msgid "Komi-Permyak"
 msgstr "комі-пярмяцкая"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "канкані"
@@ -925,21 +858,17 @@ msgid "Korean"
 msgstr "карэйская"
 
 #: kpe
-#: kpe
 msgid "Kpelle"
 msgstr "кпеле"
 
-#: krc
 #: krc
 msgid "Karachay-Balkar"
 msgstr "карачай-балкарская"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "карэльская"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "курух"
@@ -962,7 +891,6 @@ msgid "Kuanyama"
 msgstr "куаньяма"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "кумыцкая"
 
@@ -971,7 +899,6 @@ msgstr "кумыцкая"
 msgid "Kurdish"
 msgstr "курдская"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "ладына"
@@ -996,7 +923,6 @@ msgid "Latvian"
 msgstr "латышская"
 
 #: lez
-#: lez
 msgid "Lezghian"
 msgstr "лезгінская"
 
@@ -1020,11 +946,9 @@ msgid "Lakota"
 msgstr "лакота"
 
 #: lol
-#: lol
 msgid "Mongo"
 msgstr "монга"
 
-#: loz
 #: loz
 msgid "Lozi"
 msgstr "лозі"
@@ -1038,7 +962,6 @@ msgstr "паўночная луры"
 msgid "Luxembourgish"
 msgstr "люксембургская"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "луба-касаі"
@@ -1054,16 +977,13 @@ msgid "Ganda"
 msgstr "ганда"
 
 #: lun
-#: lun
 msgid "Lunda"
 msgstr "лунда"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "луо"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "мізо"
@@ -1073,11 +993,9 @@ msgid "Luyia"
 msgstr "луйя"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "мадурская"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "магахі"
@@ -1088,11 +1006,9 @@ msgid "Marshallese"
 msgstr "маршальская"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "майтхілі"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "макасар"
@@ -1103,7 +1019,6 @@ msgid "Malayalam"
 msgstr "малаялам"
 
 #: man
-#: man
 msgid "Mandingo"
 msgstr "мандынг"
 
@@ -1113,16 +1028,13 @@ msgid "Marathi"
 msgstr "маратхі"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "маасай"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "макшанская"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "мендэ"
@@ -1144,11 +1056,9 @@ msgid "Metaʼ"
 msgstr "мета"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "мікмак"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "мінангкабау"
@@ -1169,11 +1079,9 @@ msgid "Maltese"
 msgstr "мальтыйская"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "мейтэй"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "мохак"
@@ -1183,7 +1091,6 @@ msgstr "мохак"
 msgid "Mongolian"
 msgstr "мангольская"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "мосі"
@@ -1203,16 +1110,13 @@ msgid "Mundang"
 msgstr "мунданг"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "некалькі моў"
 
 #: mus
-#: mus
 msgid "Creek"
 msgstr "мускогі"
 
-#: mwl
 #: mwl
 msgid "Mirandese"
 msgstr "мірандыйская"
@@ -1223,7 +1127,6 @@ msgid "Burmese"
 msgstr "бірманская"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "эрзянская"
 
@@ -1231,7 +1134,6 @@ msgstr "эрзянская"
 msgid "Mazanderani"
 msgstr "мазандэранская"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "неапалітанская"
@@ -1266,7 +1168,6 @@ msgid "Ndonga"
 msgstr "ндонга"
 
 #: nds
-#: nds
 msgid "Low German"
 msgstr "ніжненямецкая"
 
@@ -1280,16 +1181,13 @@ msgid "Nepali"
 msgstr "непальская"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "неўары"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "ніас"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "ніўэ"
@@ -1322,11 +1220,9 @@ msgid "Norwegian Bokmål"
 msgstr "нарвежская (букмол)"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "нагайская"
 
-#: non
 #: non
 msgid "Old Norse"
 msgstr "старанарвежская"
@@ -1337,11 +1233,9 @@ msgid "Norwegian"
 msgstr "нарвежская"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "нко"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "паўночная сота"
@@ -1355,7 +1249,6 @@ msgstr "нуэр"
 msgid "Nyanja"
 msgstr "ньянджа"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "ньянколе"
@@ -1386,11 +1279,9 @@ msgid "Ossetic"
 msgstr "асецінская"
 
 #: pag
-#: pag
 msgid "Pangasinan"
 msgstr "пангасінан"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "пампанга"
@@ -1401,11 +1292,9 @@ msgid "Punjabi"
 msgstr "панджабі"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "пап’яменту"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "палау"
@@ -1415,11 +1304,9 @@ msgid "Nigerian Pidgin"
 msgstr "нігерыйскі піджын"
 
 #: peo
-#: peo
 msgid "Old Persian"
 msgstr "стараперсідская"
 
-#: phn
 #: phn
 msgid "Phoenician"
 msgstr "фінікійская"
@@ -1438,7 +1325,6 @@ msgstr "партугальская"
 msgid "Prussian"
 msgstr "пруская"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "стараправансальская"
@@ -1466,16 +1352,13 @@ msgid "Quechua"
 msgstr "кечуа"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "раджастханская"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "рапануі"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "раратонг"
@@ -1508,7 +1391,6 @@ msgid "Rundi"
 msgstr "рундзі"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "арумунская"
 
@@ -1522,7 +1404,6 @@ msgid "Rwa"
 msgstr "руа"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "сандаўэ"
 
@@ -1531,7 +1412,6 @@ msgstr "сандаўэ"
 msgid "Sango"
 msgstr "санга"
 
-#: sah
 #: sah
 msgid "Sakha"
 msgstr "якуцкая"
@@ -1546,7 +1426,6 @@ msgid "Samburu"
 msgstr "самбуру"
 
 #: sat
-#: sat
 msgid "Santali"
 msgstr "санталі"
 
@@ -1559,11 +1438,9 @@ msgid "Sangu"
 msgstr "сангу"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "сіцылійская"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "шатландская"
@@ -1581,7 +1458,6 @@ msgid "Koyraboro Senni"
 msgstr "кайрабора сэні"
 
 #: sga
-#: sga
 msgid "Old Irish"
 msgstr "стараірландская"
 
@@ -1589,7 +1465,6 @@ msgstr "стараірландская"
 msgid "Tachelhit"
 msgstr "ташэльхіт"
 
-#: shn
 #: shn
 msgid "Shan"
 msgstr "шан"
@@ -1610,7 +1485,6 @@ msgid "Slovenian"
 msgstr "славенская"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "паўднёвасаамская"
 
@@ -1620,11 +1494,9 @@ msgid "Northern Sami"
 msgstr "паўночнасаамская"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "луле-саамская"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "інары-саамская"
@@ -1634,7 +1506,6 @@ msgstr "інары-саамская"
 msgid "Samoan"
 msgstr "самоа"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "колта-саамская"
@@ -1649,7 +1520,6 @@ msgstr "шона"
 msgid "Sindhi"
 msgstr "сіндхі"
 
-#: snk
 #: snk
 msgid "Soninke"
 msgstr "санінке"
@@ -1680,7 +1550,6 @@ msgid "Sardinian"
 msgstr "сардзінская"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "сранан-тонга"
 
@@ -1699,7 +1568,6 @@ msgid "Saho"
 msgstr "саха"
 
 #: suk
-#: suk
 msgid "Sukuma"
 msgstr "сукума"
 
@@ -1708,7 +1576,6 @@ msgstr "сукума"
 msgid "Sundanese"
 msgstr "сунда"
 
-#: sux
 #: sux
 msgid "Sumerian"
 msgstr "шумерская"
@@ -1731,7 +1598,6 @@ msgstr "каморская"
 msgid "Swedish"
 msgstr "шведская"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "сірыйская"
@@ -1757,7 +1623,6 @@ msgid "Telugu"
 msgstr "тэлугу"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "тэмнэ"
 
@@ -1765,7 +1630,6 @@ msgstr "тэмнэ"
 msgid "Teso"
 msgstr "тэсо"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "тэтум"
@@ -1781,7 +1645,6 @@ msgid "Thai"
 msgstr "тайская"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "тыгрэ"
 
@@ -1791,7 +1654,6 @@ msgid "Tigrinya"
 msgstr "тыгрынья"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "клінган"
 
@@ -1800,7 +1662,6 @@ msgstr "клінган"
 msgid "Tongan"
 msgstr "танганская"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "ток-пісін"
@@ -1825,7 +1686,6 @@ msgid "Turkmen"
 msgstr "туркменская"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "тумбука"
 
@@ -1835,7 +1695,6 @@ msgid "Turkish"
 msgstr "турэцкая"
 
 #: tvl
-#: tvl
 msgid "Tuvalu"
 msgstr "тувалу"
 
@@ -1844,7 +1703,6 @@ msgid "Tasawaq"
 msgstr "тасаўак"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "тувінская"
 
@@ -1852,7 +1710,6 @@ msgstr "тувінская"
 msgid "Central Atlas Tamazight"
 msgstr "цэнтральнаатлаская тамазіхт"
 
-#: udm
 #: udm
 msgid "Udmurt"
 msgstr "удмурцкая"
@@ -1868,11 +1725,9 @@ msgid "Ukrainian"
 msgstr "украінская"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "умбунду"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "невядомая мова"
@@ -1887,7 +1742,6 @@ msgstr "урду"
 msgid "Uzbek"
 msgstr "узбекская"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "ваі"
@@ -1916,11 +1770,9 @@ msgid "Walser"
 msgstr "вальшская"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "волайта"
 
-#: war
 #: war
 msgid "Waray"
 msgstr "варай"
@@ -1939,7 +1791,6 @@ msgstr "валонская"
 msgid "Wolof"
 msgstr "валоф"
 
-#: xal
 #: xal
 msgid "Kalmyk"
 msgstr "калмыцкая"
@@ -1976,7 +1827,6 @@ msgid "Cantonese"
 msgstr "кантонскі дыялект кітайскай"
 
 #: zap
-#: zap
 msgid "Zapotec"
 msgstr "сапатэк"
 
@@ -2003,16 +1853,13 @@ msgid "Zulu"
 msgstr "зулу"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "зуні"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "няма моўнага матэрыялу"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "зазакі"

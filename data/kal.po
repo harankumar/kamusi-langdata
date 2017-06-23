@@ -207,7 +207,6 @@ msgid "Ukrainian"
 msgstr "ukrainimiusut"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "(atorsinnaanngitsoq oqaatsit)"
 

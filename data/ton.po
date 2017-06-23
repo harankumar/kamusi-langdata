@@ -12,21 +12,17 @@ msgid "Abkhazian"
 msgstr "lea fakaʻapakasia"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "lea fakaʻatisē"
 
-#: ach
 #: ach
 msgid "Acoli"
 msgstr "lea fakaʻakoli"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "lea fakaʻatangimē"
 
-#: ady
 #: ady
 msgid "Adyghe"
 msgstr "lea fakaʻatikē"
@@ -35,7 +31,6 @@ msgstr "lea fakaʻatikē"
 msgid "Tunisian Arabic"
 msgstr "lea fakaʻalepea-tunīsia"
 
-#: afh
 #: afh
 msgid "Afrihili"
 msgstr "lea fakaʻafilihili"
@@ -50,7 +45,6 @@ msgid "Aghem"
 msgstr "lea fakaʻakihemi"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "lea fakaʻainu"
 
@@ -60,7 +54,6 @@ msgid "Akan"
 msgstr "lea fakaʻakani"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "lea fakaʻakatia"
 
@@ -69,7 +62,6 @@ msgid "Alabama"
 msgstr "lea fakaʻalapama"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "lea fakaʻaleuti"
 
@@ -77,7 +69,6 @@ msgstr "lea fakaʻaleuti"
 msgid "Gheg Albanian"
 msgstr "lea fakaʻalapēnia-keki"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "lea fakaʻalitai-tonga"
@@ -88,11 +79,9 @@ msgid "Amharic"
 msgstr "lea fakaʻameliki"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "lea fakapālangi-motuʻa"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "lea fakaʻangika"
@@ -107,7 +96,6 @@ msgid "Arabic"
 msgstr "lea fakaʻalepea"
 
 #: arc
-#: arc
 msgid "Aramaic"
 msgstr "lea fakaʻalāmiti"
 
@@ -117,7 +105,6 @@ msgid "Aragonese"
 msgstr "lea fakaʻalakoni"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "lea fakamapuse"
 
@@ -126,7 +113,6 @@ msgid "Araona"
 msgstr "lea fakaʻalaona"
 
 #: arp
-#: arp
 msgid "Arapaho"
 msgstr "lea fakaʻalapaho"
 
@@ -134,7 +120,6 @@ msgstr "lea fakaʻalapaho"
 msgid "Algerian Arabic"
 msgstr "lea fakaʻalepea-ʻaisilia"
 
-#: arw
 #: arw
 msgid "Arawak"
 msgstr "lea fakaʻalauaki"
@@ -161,7 +146,6 @@ msgid "Assamese"
 msgstr "lea fakaʻasamia"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "lea fakaʻasitūlia"
 
@@ -179,7 +163,6 @@ msgstr "lea fakaʻavesitani"
 msgid "Kotava"
 msgstr "lea fakakotava"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "lea fakaʻauati"
@@ -204,7 +187,6 @@ msgid "Bashkir"
 msgstr "lea fakapasikili"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "lea fakapalusi"
 
@@ -214,7 +196,6 @@ msgid "Bambara"
 msgstr "lea fakapamipala"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "lea fakapali"
 
@@ -222,7 +203,6 @@ msgstr "lea fakapali"
 msgid "Bavarian"
 msgstr "lea fakapavālia"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "lea fakapasaʻa"
@@ -240,7 +220,6 @@ msgid "Ghomala"
 msgstr "lea fakakomala"
 
 #: bej
-#: bej
 msgid "Beja"
 msgstr "lea fakapesa"
 
@@ -249,7 +228,6 @@ msgstr "lea fakapesa"
 msgid "Belarusian"
 msgstr "lea fakapelalusi"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "lea fakapēmipa"
@@ -280,16 +258,13 @@ msgid "Western Balochi"
 msgstr "lea fakapalusi-hihifo"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "lea fakaposipuli"
 
 #: bik
-#: bik
 msgid "Bikol"
 msgstr "lea fakapikoli"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "lea fakapini"
@@ -307,7 +282,6 @@ msgstr "lea fakapanisali"
 msgid "Kom"
 msgstr "lea fakakome"
 
-#: bla
 #: bla
 msgid "Siksika"
 msgstr "lea fakasikesikā"
@@ -331,7 +305,6 @@ msgid "Bakhtiari"
 msgstr "lea fakapakitiāli"
 
 #: bra
-#: bra
 msgid "Braj"
 msgstr "lea fakapalai"
 
@@ -353,11 +326,9 @@ msgid "Akoose"
 msgstr "lea fakaʻakōse"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "lea fakapuliati"
 
-#: bug
 #: bug
 msgid "Buginese"
 msgstr "lea fakapukisi"
@@ -372,7 +343,6 @@ msgid "Bulu"
 msgstr "lea fakapulu"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "lea fakapilini"
 
@@ -381,11 +351,9 @@ msgid "Medumba"
 msgstr "lea fakametūmipa"
 
 #: cad
-#: cad
 msgid "Caddo"
 msgstr "lea fakakato"
 
-#: car
 #: car
 msgid "Carib"
 msgstr "lea fakakalipa"
@@ -403,7 +371,6 @@ msgstr "lea fakakaiuka"
 msgid "Atsam"
 msgstr "lea fakaʻatisami"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "lea fakasepuano"
@@ -423,7 +390,6 @@ msgid "Chamorro"
 msgstr "lea fakakamolo"
 
 #: chb
-#: chb
 msgid "Chibcha"
 msgstr "lea fakasīpisa"
 
@@ -433,36 +399,29 @@ msgid "Chechen"
 msgstr "lea fakasese"
 
 #: chg
-#: chg
 msgid "Chagatai"
 msgstr "lea fakasakatāi"
 
-#: chk
 #: chk
 msgid "Chuukese"
 msgstr "lea fakatūke"
 
 #: chm
-#: chm
 msgid "Mari"
 msgstr "lea fakamalī"
 
-#: chn
 #: chn
 msgid "Chinook Jargon"
 msgstr "lea fakasinuki-takote"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "lea fakasokitau"
 
 #: chp
-#: chp
 msgid "Chipewyan"
 msgstr "lea fakasipeuiani"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "lea fakaselokī"
@@ -478,7 +437,6 @@ msgid "Chuvash"
 msgstr "lea fakasuvasa"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "lea fakaseiene"
 
@@ -486,7 +444,6 @@ msgstr "lea fakaseiene"
 msgid "Central Kurdish"
 msgstr "lea fakakūtisi-loloto"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "lea fakakopitika"
@@ -511,7 +468,6 @@ msgid "Cree"
 msgstr "lea fakakelī"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "lea fakatoake-kilimea"
 
@@ -519,7 +475,6 @@ msgstr "lea fakatoake-kilimea"
 msgid "Seselwa Creole French"
 msgstr "lea fakaseselua-falanisē"
 
-#: csb
 #: csb
 msgid "Kashubian"
 msgstr "lea fakakasiupia"
@@ -530,7 +485,6 @@ msgid "Welsh"
 msgstr "lea fakauēlesi"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "lea fakatakota"
 
@@ -539,7 +493,6 @@ msgstr "lea fakatakota"
 msgid "Danish"
 msgstr "lea fakatenimaʻake"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "lea fakatalakuā"
@@ -557,11 +510,9 @@ msgid "Swiss High German"
 msgstr "lea fakasiamane-hake-suisilani"
 
 #: del
-#: del
 msgid "Delaware"
 msgstr "lea fakatelauale"
 
-#: den
 #: den
 msgid "Slave"
 msgstr "lea fakasilave"
@@ -572,11 +523,9 @@ msgid "German"
 msgstr "lea fakasiamane"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "lea fakatōkelipi"
 
-#: din
 #: din
 msgid "Dinka"
 msgstr "lea fakatingikā"
@@ -591,11 +540,9 @@ msgid "Zarma"
 msgstr "lea fakatisāma"
 
 #: doi
-#: doi
 msgid "Dogri"
 msgstr "lea fakatokili"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "lea fakasōpia-hifo"
@@ -605,11 +552,9 @@ msgid "Central Dusun"
 msgstr "lea fakatusuni-loloto"
 
 #: dua
-#: dua
 msgid "Duala"
 msgstr "lea fakatuala"
 
-#: dum
 #: dum
 msgid "Middle Dutch"
 msgstr "lea fakahōlani-lotoloto"
@@ -618,7 +563,6 @@ msgstr "lea fakahōlani-lotoloto"
 msgid "Jola-Fonyi"
 msgstr "lea fakaiola-fonī"
 
-#: dyu
 #: dyu
 msgid "Dyula"
 msgstr "lea fakatiula"
@@ -637,7 +581,6 @@ msgid "Embu"
 msgstr "lea fakaʻemipū"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "lea fakaʻefiki"
 
@@ -646,11 +589,9 @@ msgid "Emilian"
 msgstr "lea fakaʻemilia"
 
 #: egy
-#: egy
 msgid "Ancient Egyptian"
 msgstr "lea fakaʻisipitemuʻa"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "lea fakaʻekaiuki"
@@ -660,7 +601,6 @@ msgstr "lea fakaʻekaiuki"
 msgid "Greek"
 msgstr "lea fakakalisi"
 
-#: elx
 #: elx
 msgid "Elamite"
 msgstr "lea fakaʻelamite"
@@ -694,7 +634,6 @@ msgstr "lea fakapālangi-ʻAmelika"
 msgid "English"
 msgstr "lea fakapālangi"
 
-#: enm
 #: enm
 msgid "Middle English"
 msgstr "lea fakapālangi-lotoloto"
@@ -736,7 +675,6 @@ msgid "Ewe"
 msgstr "lea fakaʻeue"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "lea fakaʻeuōnito"
 
@@ -744,7 +682,6 @@ msgstr "lea fakaʻeuōnito"
 msgid "Extremaduran"
 msgstr "lea fakaʻekisitematula"
 
-#: fan
 #: fan
 msgid "Fang"
 msgstr "lea fakafangi"
@@ -760,7 +697,6 @@ msgid "Persian"
 msgstr "lea fakapēsia"
 
 #: fat
-#: fat
 msgid "Fanti"
 msgstr "lea fakafanitē"
 
@@ -769,7 +705,6 @@ msgstr "lea fakafanitē"
 msgid "Fijian"
 msgstr "lea fakafisi"
 
-#: fil
 #: fil
 msgid "Filipino"
 msgstr "lea fakafilipaini"
@@ -783,7 +718,6 @@ msgstr "lea fakafinilani"
 msgid "Tornedalen Finnish"
 msgstr "lea fakafinilani-tōnetale"
 
-#: fon
 #: fon
 msgid "Fon"
 msgstr "lea fakafōngi"
@@ -806,11 +740,9 @@ msgid "Cajun French"
 msgstr "lea fakafalanisē-kasuni"
 
 #: frm
-#: frm
 msgid "Middle French"
 msgstr "lea fakafalanisē-lotoloto"
 
-#: fro
 #: fro
 msgid "Old French"
 msgstr "lea fakafalanisē-motuʻa"
@@ -820,11 +752,9 @@ msgid "Arpitan"
 msgstr "lea fakaʻāpitano"
 
 #: frr
-#: frr
 msgid "Northern Frisian"
 msgstr "lea fakafilisia-tokelau"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "lea fakafilisia-hahake"
@@ -840,11 +770,9 @@ msgid "Fulah"
 msgstr "lea fakafulā"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "lea fakafulilāni"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "lea fakakā"
@@ -858,11 +786,9 @@ msgid "Gan Chinese"
 msgstr "lea fakasiaina-kani"
 
 #: gay
-#: gay
 msgid "Gayo"
 msgstr "lea fakakaio"
 
-#: gba
 #: gba
 msgid "Gbaya"
 msgstr "lea fakakapaia"
@@ -872,11 +798,9 @@ msgid "Zoroastrian Dari"
 msgstr "lea fakateli-soloasitelia"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "lea fakasiʻisi"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "lea fakakilipasi"
@@ -906,11 +830,9 @@ msgid "Manx"
 msgstr "lea fakamangikī"
 
 #: gmh
-#: gmh
 msgid "Middle High German"
 msgstr "lea fakasiamane-hake-lotoloto"
 
-#: goh
 #: goh
 msgid "Old High German"
 msgstr "lea fakasiamane-hake-motuʻa"
@@ -920,26 +842,21 @@ msgid "Goan Konkani"
 msgstr "lea fakakonikanī-koani"
 
 #: gon
-#: gon
 msgid "Gondi"
 msgstr "lea fakakonitī"
 
-#: gor
 #: gor
 msgid "Gorontalo"
 msgstr "lea fakakolonitalo"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "lea fakakotika"
 
 #: grb
-#: grb
 msgid "Grebo"
 msgstr "lea fakakēpo"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "lea fakakalisimuʻa"
@@ -949,7 +866,6 @@ msgstr "lea fakakalisimuʻa"
 msgid "Guarani"
 msgstr "lea fakakualani"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "lea fakasiamane-suisilani"
@@ -972,11 +888,9 @@ msgid "Gusii"
 msgstr "lea fakakusī"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "lea fakaʻuīsini"
 
-#: hai
 #: hai
 msgid "Haida"
 msgstr "lea fakahaita"
@@ -995,7 +909,6 @@ msgstr "lea fakahaiti"
 msgid "Hausa"
 msgstr "lea fakahausa"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "lea fakahauaiʻi"
@@ -1020,7 +933,6 @@ msgid "Fiji Hindi"
 msgstr "lea fakahinitī-fisi"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "lea fakahilikainoni"
 
@@ -1030,11 +942,9 @@ msgid "Hindi"
 msgstr "lea fakahinitī"
 
 #: hit
-#: hit
 msgid "Hittite"
 msgstr "lea fakahitite"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "lea fakamōngi"
@@ -1050,7 +960,6 @@ msgid "Croatian"
 msgstr "lea fakakuloisia"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "lea fakasōpia-hake"
 
@@ -1064,7 +973,6 @@ msgid "Hungarian"
 msgstr "lea fakahungakalia"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "lea fakahupa"
 
@@ -1073,7 +981,6 @@ msgstr "lea fakahupa"
 msgid "Armenian"
 msgstr "lea fakaʻāmenia"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "lea fakaʻipani"
@@ -1108,7 +1015,6 @@ msgid "Interlingue"
 msgstr "lea fakavahaʻalingikē"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "lea fakaʻiloko"
 
@@ -1122,7 +1028,6 @@ msgstr "lea fakavahaʻalea"
 msgid "Indonesian"
 msgstr "lea fakaʻinitōnesia"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "lea fakaʻingusi"
@@ -1156,7 +1061,6 @@ msgid "Javanese"
 msgstr "lea fakasava"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "lea fakalosipani"
 
@@ -1174,11 +1078,9 @@ msgid "Japanese"
 msgstr "lea fakasiapani"
 
 #: jpr
-#: jpr
 msgid "Judeo-Persian"
 msgstr "lea fakaʻiuteo-pēsia"
 
-#: jrb
 #: jrb
 msgid "Judeo-Arabic"
 msgstr "lea fakaʻiuteo-ʻalepea"
@@ -1188,16 +1090,13 @@ msgid "Jutish"
 msgstr "lea fakaʻiutilani"
 
 #: kaa
-#: kaa
 msgid "Kara-Kalpak"
 msgstr "lea fakakala-kalipaki"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "lea fakakapile"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "lea fakakasini"
@@ -1211,7 +1110,6 @@ msgstr "lea fakasisū"
 msgid "Kalaallisut"
 msgstr "lea fakakalaʻalisuti"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "lea fakakamipa"
@@ -1237,7 +1135,6 @@ msgid "Kanuri"
 msgstr "lea fakakanuli"
 
 #: kaw
-#: kaw
 msgid "Kawi"
 msgstr "lea fakakavi"
 
@@ -1246,7 +1143,6 @@ msgstr "lea fakakavi"
 msgid "Kazakh"
 msgstr "lea fakakasaki"
 
-#: kbd
 #: kbd
 msgid "Kabardian"
 msgstr "lea fakakapālitia"
@@ -1280,7 +1176,6 @@ msgid "Kaingang"
 msgstr "lea fakakaingangi"
 
 #: kha
-#: kha
 msgid "Khasi"
 msgstr "lea fakakāsi"
 
@@ -1289,7 +1184,6 @@ msgstr "lea fakakāsi"
 msgid "Khmer"
 msgstr "lea fakakamipōtia"
 
-#: kho
 #: kho
 msgid "Khotanese"
 msgstr "lea fakakōtani"
@@ -1330,7 +1224,6 @@ msgid "Kalenjin"
 msgstr "lea fakakalenisini"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "lea fakakimipūnitu"
 
@@ -1338,7 +1231,6 @@ msgstr "lea fakakimipūnitu"
 msgid "Komi-Permyak"
 msgstr "lea fakakomi-pelemiaki"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "lea fakakonikanī"
@@ -1359,16 +1251,13 @@ msgid "Korean"
 msgstr "lea fakakōlea"
 
 #: kos
-#: kos
 msgid "Kosraean"
 msgstr "lea fakakosilae"
 
 #: kpe
-#: kpe
 msgid "Kpelle"
 msgstr "lea fakakepele"
 
-#: krc
 #: krc
 msgid "Karachay-Balkar"
 msgstr "lea fakakalate-palakili"
@@ -1382,11 +1271,9 @@ msgid "Kinaray-a"
 msgstr "lea fakakinaraiā"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "lea fakakalelia"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "lea fakakuluki"
@@ -1409,7 +1296,6 @@ msgid "Kuanyama"
 msgstr "lea fakakuaniama"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "lea fakakumiki"
 
@@ -1419,11 +1305,9 @@ msgid "Kurdish"
 msgstr "lea fakakulitī"
 
 #: kut
-#: kut
 msgid "Kutenai"
 msgstr "lea fakakutenai"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "lea fakalatino"
@@ -1433,11 +1317,9 @@ msgid "Langi"
 msgstr "lea fakalangi"
 
 #: lah
-#: lah
 msgid "Lahnda"
 msgstr "lea fakalānita"
 
-#: lam
 #: lam
 msgid "Lamba"
 msgstr "lea fakalamipā"
@@ -1457,7 +1339,6 @@ msgstr "lea fakalatina"
 msgid "Latvian"
 msgstr "lea fakalativia"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "lea fakalesikia"
@@ -1498,11 +1379,9 @@ msgid "Lombard"
 msgstr "lea fakalomipāti"
 
 #: lol
-#: lol
 msgid "Mongo"
 msgstr "lea fakamongikō"
 
-#: loz
 #: loz
 msgid "Lozi"
 msgstr "lea fakalosi"
@@ -1521,7 +1400,6 @@ msgid "Luxembourgish"
 msgstr "lea fakalakisimipeki"
 
 #: lua
-#: lua
 msgid "Luba-Lulua"
 msgstr "lea fakalupa-lulua"
 
@@ -1536,21 +1414,17 @@ msgid "Ganda"
 msgstr "lea fakakanita"
 
 #: lui
-#: lui
 msgid "Luiseno"
 msgstr "lea fakaluiseno"
 
-#: lun
 #: lun
 msgid "Lunda"
 msgstr "lea fakalunitā"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "lea fakaluo"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "lea fakamiso"
@@ -1568,7 +1442,6 @@ msgid "Laz"
 msgstr "lea fakalasu"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "lea fakamatula"
 
@@ -1576,7 +1449,6 @@ msgstr "lea fakamatula"
 msgid "Mafa"
 msgstr "lea fakamafa"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "lea fakamakahi"
@@ -1587,11 +1459,9 @@ msgid "Marshallese"
 msgstr "lea fakamāsolo"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "lea fakamaitili"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "lea fakamakasali"
@@ -1602,7 +1472,6 @@ msgid "Malayalam"
 msgstr "lea fakaʻinitia-malāialami"
 
 #: man
-#: man
 msgid "Mandingo"
 msgstr "lea fakamanitīngiko"
 
@@ -1612,7 +1481,6 @@ msgid "Marathi"
 msgstr "lea fakamalati"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "lea fakamasai"
 
@@ -1621,16 +1489,13 @@ msgid "Maba"
 msgstr "lea fakamapa"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "lea fakamokisiā"
 
 #: mdr
-#: mdr
 msgid "Mandar"
 msgstr "lea fakamanetali"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "lea fakamenetī"
@@ -1644,7 +1509,6 @@ msgid "Morisyen"
 msgstr "lea fakamolisieni"
 
 #: mga
-#: mga
 msgid "Middle Irish"
 msgstr "lea fakaʻaelani-lotoloto"
 
@@ -1657,11 +1521,9 @@ msgid "Metaʼ"
 msgstr "lea fakametā"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "lea fakamikemaki"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "lea fakaminangikapau"
@@ -1682,16 +1544,13 @@ msgid "Maltese"
 msgstr "lea fakamalita"
 
 #: mnc
-#: mnc
 msgid "Manchu"
 msgstr "lea fakamanisū"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "lea fakamanipuli"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "lea fakamohauki"
@@ -1701,7 +1560,6 @@ msgstr "lea fakamohauki"
 msgid "Mongolian"
 msgstr "lea fakamongokōlia"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "lea fakamosi"
@@ -1725,21 +1583,17 @@ msgid "Mundang"
 msgstr "lea fakamunitangi"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "lea tuifio"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "lea fakakileki"
 
 #: mwl
-#: mwl
 msgid "Mirandese"
 msgstr "lea fakamilanitēsi"
 
-#: mwr
 #: mwr
 msgid "Marwari"
 msgstr "lea fakamaliwali"
@@ -1758,7 +1612,6 @@ msgid "Myene"
 msgstr "lea fakamiene"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "lea fakaʻelisia"
 
@@ -1770,7 +1623,6 @@ msgstr "lea fakamasanitelani"
 msgid "Min Nan Chinese"
 msgstr "lea fakasiaina-mininani"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "lea fakanapoletano"
@@ -1805,7 +1657,6 @@ msgid "Ndonga"
 msgstr "lea fakanetongikā"
 
 #: nds
-#: nds
 msgid "Low German"
 msgstr "lea fakasiamane-hifo"
 
@@ -1819,16 +1670,13 @@ msgid "Nepali"
 msgstr "lea fakanepali"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "lea fakaneuali"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "lea fakaniasi"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "lea fakaniuē"
@@ -1865,11 +1713,9 @@ msgid "Norwegian Bokmål"
 msgstr "lea fakanouaē-pokimali"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "lea fakanokai"
 
-#: non
 #: non
 msgid "Old Norse"
 msgstr "lea fakanoauē-motuʻa"
@@ -1884,11 +1730,9 @@ msgid "Novial"
 msgstr "lea fakanoviale"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "lea fakanikō"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "lea fakasoto-tokelau"
@@ -1897,7 +1741,6 @@ msgstr "lea fakasoto-tokelau"
 msgid "Nuer"
 msgstr "lea fakanueli"
 
-#: nwc
 #: nwc
 msgid "Classical Newari"
 msgstr "lea fakaneuali-motuʻa"
@@ -1908,21 +1751,17 @@ msgid "Nyanja"
 msgstr "lea fakanianisa"
 
 #: nym
-#: nym
 msgid "Nyamwezi"
 msgstr "lea fakaniamiuesi"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "lea fakanianikole"
 
 #: nyo
-#: nyo
 msgid "Nyoro"
 msgstr "lea fakaniolo"
 
-#: nzi
 #: nzi
 msgid "Nzima"
 msgstr "lea fakanesima"
@@ -1948,7 +1787,6 @@ msgid "Oromo"
 msgstr "lea fakaʻolomo"
 
 #: osa
-#: osa
 msgid "Osage"
 msgstr "lea fakaʻosēse"
 
@@ -1958,21 +1796,17 @@ msgid "Ossetic"
 msgstr "lea fakaʻosetiki"
 
 #: ota
-#: ota
 msgid "Ottoman Turkish"
 msgstr "lea fakatoake-ʻotomani"
 
-#: pag
 #: pag
 msgid "Pangasinan"
 msgstr "lea fakapangasinani"
 
 #: pal
-#: pal
 msgid "Pahlavi"
 msgstr "lea fakapālavi"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "lea fakapamipanga"
@@ -1983,11 +1817,9 @@ msgid "Punjabi"
 msgstr "lea fakapūnusapi"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "lea fakapapiamēnito"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "lea fakapalau"
@@ -2009,7 +1841,6 @@ msgid "Plautdietsch"
 msgstr "lea fakasiamane-lafalafa"
 
 #: peo
-#: peo
 msgid "Old Persian"
 msgstr "lea fakapēsia-motuʻa"
 
@@ -2017,7 +1848,6 @@ msgstr "lea fakapēsia-motuʻa"
 msgid "Palatine German"
 msgstr "lea fakasiamane-palatine"
 
-#: phn
 #: phn
 msgid "Phoenician"
 msgstr "lea fakafoinikia"
@@ -2041,7 +1871,6 @@ msgid "Polish"
 msgstr "lea fakapolani"
 
 #: pon
-#: pon
 msgid "Pohnpeian"
 msgstr "lea fakaponapē"
 
@@ -2054,7 +1883,6 @@ msgstr "lea fakapotukali"
 msgid "Prussian"
 msgstr "lea fakapulūsia"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "lea fakapolovenisi-motuʻa"
@@ -2086,16 +1914,13 @@ msgid "Chimborazo Highland Quichua"
 msgstr "lea fakakuitisa-simipolaso"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "lea fakalasasitani"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "lea fakalapanui"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "lea fakalalotonga"
@@ -2121,7 +1946,6 @@ msgstr "lea fakalomipō"
 msgid "Romansh"
 msgstr "lea fakalaito-lomēnia"
 
-#: rom
 #: rom
 msgid "Romany"
 msgstr "lea fakalomani"
@@ -2153,7 +1977,6 @@ msgid "Rundi"
 msgstr "lea fakaluaniti"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "lea fakaʻalomania"
 
@@ -2167,7 +1990,6 @@ msgid "Rwa"
 msgstr "lea fakaluā"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "lea fakasanitaue"
 
@@ -2177,11 +1999,9 @@ msgid "Sango"
 msgstr "lea fakasangikō"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "lea fakasaka"
 
-#: sam
 #: sam
 msgid "Samaritan Aramaic"
 msgstr "lea fakasamalitani-ʻalāmiti"
@@ -2196,11 +2016,9 @@ msgid "Samburu"
 msgstr "lea fakasamipulu"
 
 #: sas
-#: sas
 msgid "Sasak"
 msgstr "lea fakasasaki"
 
-#: sat
 #: sat
 msgid "Santali"
 msgstr "lea fakasanitali"
@@ -2218,11 +2036,9 @@ msgid "Sangu"
 msgstr "lea fakasangu"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "lea fakasisīlia"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "lea fakasikotilani"
@@ -2248,7 +2064,6 @@ msgid "Seri"
 msgstr "lea fakaseli"
 
 #: sel
-#: sel
 msgid "Selkup"
 msgstr "lea fakaselikupi"
 
@@ -2256,7 +2071,6 @@ msgstr "lea fakaselikupi"
 msgid "Koyraboro Senni"
 msgstr "lea fakakoilapolo-seni"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "lea fakaʻaelani-motuʻa"
@@ -2270,7 +2084,6 @@ msgid "Tachelhit"
 msgstr "lea fakataselihiti"
 
 #: shn
-#: shn
 msgid "Shan"
 msgstr "lea fakasiani"
 
@@ -2278,7 +2091,6 @@ msgstr "lea fakasiani"
 msgid "Chadian Arabic"
 msgstr "lea fakaʻalepea-sāti"
 
-#: sid
 #: sid
 msgid "Sidamo"
 msgstr "lea fakasitamo"
@@ -2307,7 +2119,6 @@ msgid "Selayar"
 msgstr "lea fakaselaiā"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "lea fakasami-tonga"
 
@@ -2317,11 +2128,9 @@ msgid "Northern Sami"
 msgstr "lea fakasami-tokelau"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "lea fakasami-lule"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "lea fakasami-ʻinali"
@@ -2331,7 +2140,6 @@ msgstr "lea fakasami-ʻinali"
 msgid "Samoan"
 msgstr "lea fakahaʻamoa"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "lea fakasami-sikolita"
@@ -2347,11 +2155,9 @@ msgid "Sindhi"
 msgstr "lea fakasīniti"
 
 #: snk
-#: snk
 msgid "Soninke"
 msgstr "lea fakasoninekē"
 
-#: sog
 #: sog
 msgid "Sogdien"
 msgstr "lea fakasokitiana"
@@ -2382,7 +2188,6 @@ msgid "Sardinian"
 msgstr "lea fakasaletīnia"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "lea fakasulanane-tongikō"
 
@@ -2391,7 +2196,6 @@ msgstr "lea fakasulanane-tongikō"
 msgid "Serbian"
 msgstr "lea fakasēpia"
 
-#: srr
 #: srr
 msgid "Serer"
 msgstr "lea fakasēlēle"
@@ -2410,7 +2214,6 @@ msgid "Saterland Frisian"
 msgstr "lea fakafilisia-satēlani"
 
 #: suk
-#: suk
 msgid "Sukuma"
 msgstr "lea fakasukuma"
 
@@ -2420,11 +2223,9 @@ msgid "Sundanese"
 msgstr "lea fakasunitā"
 
 #: sus
-#: sus
 msgid "Susu"
 msgstr "lea fakasusū"
 
-#: sux
 #: sux
 msgid "Sumerian"
 msgstr "lea fakasumelia"
@@ -2448,11 +2249,9 @@ msgid "Swedish"
 msgstr "lea fakasuēteni"
 
 #: syc
-#: syc
 msgid "Classical Syriac"
 msgstr "lea fakasuliāiā-muʻa"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "lea fakasuliāiā"
@@ -2486,7 +2285,6 @@ msgid "Telugu"
 msgstr "lea fakaʻinitia-teluku"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "lea fakatimenē"
 
@@ -2495,11 +2293,9 @@ msgid "Teso"
 msgstr "lea fakateso"
 
 #: ter
-#: ter
 msgid "Tereno"
 msgstr "lea fakateleno"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "lea fakatetumu"
@@ -2520,7 +2316,6 @@ msgid "Thai"
 msgstr "lea fakatailani"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "lea fakatikilē"
 
@@ -2530,11 +2325,9 @@ msgid "Tigrinya"
 msgstr "lea fakatikilinia"
 
 #: tiv
-#: tiv
 msgid "Tiv"
 msgstr "lea fakativi"
 
-#: tkl
 #: tkl
 msgid "Tokelau"
 msgstr "lea fakatokelau"
@@ -2544,11 +2337,9 @@ msgid "Tsakhur"
 msgstr "lea fakasākuli"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "lea fakakilingoni"
 
-#: tli
 #: tli
 msgid "Tlingit"
 msgstr "lea fakatilingikīte"
@@ -2558,11 +2349,9 @@ msgid "Talysh"
 msgstr "lea fakatalisi"
 
 #: tmh
-#: tmh
 msgid "Tamashek"
 msgstr "lea fakatamasieki"
 
-#: tog
 #: tog
 msgid "Nyasa Tonga"
 msgstr "lea fakaniasa-tonga"
@@ -2572,7 +2361,6 @@ msgstr "lea fakaniasa-tonga"
 msgid "Tongan"
 msgstr "lea fakatonga"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "lea fakatoki-pisini"
@@ -2589,7 +2377,6 @@ msgstr "lea fakataloko"
 msgid "Tsakonian"
 msgstr "lea fakasakōnia"
 
-#: tsi
 #: tsi
 msgid "Tsimshian"
 msgstr "lea fakatisīmisiani"
@@ -2614,7 +2401,6 @@ msgid "Turkmen"
 msgstr "lea fakatēkimeni"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "lea fakatumepuka"
 
@@ -2623,7 +2409,6 @@ msgstr "lea fakatumepuka"
 msgid "Turkish"
 msgstr "lea fakatoake"
 
-#: tvl
 #: tvl
 msgid "Tuvalu"
 msgstr "lea fakatūvalu"
@@ -2638,7 +2423,6 @@ msgid "Tasawaq"
 msgstr "lea fakatasauaki"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "lea fakatuvīnia"
 
@@ -2647,11 +2431,9 @@ msgid "Central Atlas Tamazight"
 msgstr "lea fakatamasaiti-ʻatilasi-loloto"
 
 #: udm
-#: udm
 msgid "Udmurt"
 msgstr "lea fakaʻutimuliti"
 
-#: uga
 #: uga
 msgid "Ugaritic"
 msgstr "lea fakaʻūkaliti"
@@ -2667,11 +2449,9 @@ msgid "Ukrainian"
 msgstr "lea fakaʻūkalaʻine"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "lea fakaʻumipūnitu"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "lea taʻeʻiloa"
@@ -2686,7 +2466,6 @@ msgstr "lea fakaʻūtū"
 msgid "Uzbek"
 msgstr "lea fakaʻusipeki"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "lea fakavai"
@@ -2723,7 +2502,6 @@ msgid "Volapük"
 msgstr "lea fakavolapiki"
 
 #: vot
-#: vot
 msgid "Votic"
 msgstr "lea fakavotiki"
 
@@ -2740,16 +2518,13 @@ msgid "Walser"
 msgstr "lea fakaʻualiseli"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "lea fakaʻuolaita"
 
 #: war
-#: war
 msgid "Waray"
 msgstr "lea fakaʻualai"
 
-#: was
 #: was
 msgid "Washo"
 msgstr "lea fakaʻuasiō"
@@ -2773,7 +2548,6 @@ msgid "Wu Chinese"
 msgstr "lea fakasiaina-uū"
 
 #: xal
-#: xal
 msgid "Kalmyk"
 msgstr "lea fakakalimiki"
 
@@ -2791,11 +2565,9 @@ msgid "Soga"
 msgstr "lea fakasoka"
 
 #: yao
-#: yao
 msgid "Yao"
 msgstr "lea fakaʻiao"
 
-#: yap
 #: yap
 msgid "Yapese"
 msgstr "lea fakaʻiapi"
@@ -2827,11 +2599,9 @@ msgid "Cantonese"
 msgstr "lea fakakuangitongi"
 
 #: zap
-#: zap
 msgid "Zapotec"
 msgstr "lea fakasapoteki"
 
-#: zbl
 #: zbl
 msgid "Blissymbols"
 msgstr "lea fakaʻilonga-pilisi"
@@ -2840,7 +2610,6 @@ msgstr "lea fakaʻilonga-pilisi"
 msgid "Zeelandic"
 msgstr "lea fakasēlani"
 
-#: zen
 #: zen
 msgid "Zenaga"
 msgstr "lea fakasenaka"
@@ -2873,16 +2642,13 @@ msgid "Zulu"
 msgstr "lea fakasulu"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "lea fakasuni"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "ʻikai ha lea"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "lea fakasāsā"

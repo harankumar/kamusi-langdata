@@ -22,7 +22,6 @@ msgid "Amharic"
 msgstr "amaric"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "vieri inglês"
 
@@ -31,7 +30,6 @@ msgstr "vieri inglês"
 msgid "Arabic"
 msgstr "arap"
 
-#: arc
 #: arc
 msgid "Aramaic"
 msgstr "aramaic"
@@ -46,7 +44,6 @@ msgstr "aragonês"
 msgid "Assamese"
 msgstr "assamês"
 
-#: ast
 #: ast
 msgid "Asturian"
 msgstr "asturian"
@@ -127,7 +124,6 @@ msgid "Church Slavic"
 msgstr "sclâf de glesie"
 
 #: cop
-#: cop
 msgid "Coptic"
 msgstr "coptic"
 
@@ -165,7 +161,6 @@ msgid "Swiss High German"
 msgstr "alt todesc de Svuizare"
 
 #: den
-#: den
 msgid "Slave"
 msgstr "sclâf"
 
@@ -174,7 +169,6 @@ msgstr "sclâf"
 msgid "German"
 msgstr "todesc"
 
-#: egy
 #: egy
 msgid "Ancient Egyptian"
 msgstr "vieri egjizian"
@@ -244,7 +238,6 @@ msgid "Fijian"
 msgstr "fizian"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "filipin"
 
@@ -267,7 +260,6 @@ msgid "French"
 msgstr "francês"
 
 #: fro
-#: fro
 msgid "Old French"
 msgstr "vieri francês"
 
@@ -281,7 +273,6 @@ msgstr "frisian"
 msgid "Fulah"
 msgstr "fulah"
 
-#: fur
 #: fur
 msgid "Friulian"
 msgstr "furlan"
@@ -307,11 +298,9 @@ msgid "Manx"
 msgstr "manx"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "gotic"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "vieri grêc"
@@ -432,7 +421,6 @@ msgid "Kurdish"
 msgstr "curd"
 
 #: lad
-#: lad
 msgid "Ladino"
 msgstr "ladin"
 
@@ -512,16 +500,13 @@ msgid "Malay"
 msgstr "malês"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "lenghis multiplis"
 
 #: mwl
-#: mwl
 msgid "Mirandese"
 msgstr "mirandês"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "napoletan"
@@ -536,7 +521,6 @@ msgstr "navajo"
 msgid "North Ndebele"
 msgstr "ndebele setentrionâl"
 
-#: nds
 #: nds
 msgid "Low German"
 msgstr "bas todesc"
@@ -566,7 +550,6 @@ msgid "Norwegian Bokmål"
 msgstr "norvegjês bokmål"
 
 #: non
-#: non
 msgid "Old Norse"
 msgstr "vieri norvegjês"
 
@@ -575,7 +558,6 @@ msgstr "vieri norvegjês"
 msgid "Norwegian"
 msgstr "norvegjês"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "sotho setentrionâl"
@@ -596,7 +578,6 @@ msgid "Ossetic"
 msgstr "osetic"
 
 #: ota
-#: ota
 msgid "Ottoman Turkish"
 msgstr "turc otoman"
 
@@ -606,11 +587,9 @@ msgid "Punjabi"
 msgstr "punjabi"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "papiamento"
 
-#: peo
 #: peo
 msgid "Old Persian"
 msgstr "vieri persian"
@@ -625,7 +604,6 @@ msgstr "polac"
 msgid "Portuguese"
 msgstr "portughês"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "vieri provenzâl"
@@ -678,16 +656,13 @@ msgid "Sanskrit"
 msgstr "sanscrit"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "sicilian"
 
 #: sco
-#: sco
 msgid "Scots"
 msgstr "scozês"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "vieri irlandês"
@@ -763,7 +738,6 @@ msgid "Sundanese"
 msgstr "sundanês"
 
 #: sux
-#: sux
 msgid "Sumerian"
 msgstr "sumeric"
 
@@ -797,7 +771,6 @@ msgstr "tartar"
 msgid "Telugu"
 msgstr "telegu"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "tetum"
@@ -837,7 +810,6 @@ msgstr "uigur"
 msgid "Ukrainian"
 msgstr "ucrain"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "indeterminade"

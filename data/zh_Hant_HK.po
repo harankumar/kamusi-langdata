@@ -40,7 +40,6 @@ msgid "Catalan"
 msgstr "加泰隆尼亞文"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "克里米亞韃靼文"
 
@@ -56,7 +55,6 @@ msgstr "奧地利德文"
 msgid "Swiss High German"
 msgstr "瑞士德語"
 
-#: den
 #: den
 msgid "Slave"
 msgstr "斯拉夫文"
@@ -111,7 +109,6 @@ msgid "Swiss French"
 msgstr "瑞士法文"
 
 #: gil
-#: gil
 msgid "Gilbertese"
 msgstr "吉爾伯特文"
 
@@ -121,7 +118,6 @@ msgid "Galician"
 msgstr "加里西亞文"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "瑞士德文"
 
@@ -130,7 +126,6 @@ msgstr "瑞士德文"
 msgid "Hindi"
 msgstr "印度文"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "苗語"
@@ -145,7 +140,6 @@ msgstr "克羅地亞文"
 msgid "Italian"
 msgstr "意大利文"
 
-#: jpr
 #: jpr
 msgid "Judeo-Persian"
 msgstr "猶太波斯文"
@@ -179,7 +173,6 @@ msgid "Lao"
 msgstr "老撾文"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "盧歐文"
 
@@ -211,7 +204,6 @@ msgid "Flemish"
 msgstr "比利時荷蘭文"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "西非書面語言（N’ko）"
 
@@ -241,7 +233,6 @@ msgid "Moldavian"
 msgstr "摩爾多瓦羅馬尼亞文"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "阿羅馬尼亞語"
 
@@ -269,7 +260,6 @@ msgstr "索馬里文"
 msgid "Congo Swahili"
 msgstr "剛果史瓦希里文"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "敍利亞文"

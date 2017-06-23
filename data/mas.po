@@ -117,7 +117,6 @@ msgid "Korean"
 msgstr "nkʉtʉ́k ɔ́ɔ̄ lkorea"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "Maa"
 

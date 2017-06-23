@@ -144,7 +144,6 @@ msgid "Persian"
 msgstr "فارسی"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "تاگالۆگی"
 
@@ -435,7 +434,6 @@ msgid "Slovenian"
 msgstr "سلۆڤێنی"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "سامی باشووری"
 
@@ -510,7 +508,6 @@ msgid "Tigrinya"
 msgstr "تیگرینیای"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "كلینگۆن"
 
@@ -539,7 +536,6 @@ msgstr "ئويخووری"
 msgid "Ukrainian"
 msgstr "ئۆكراینی"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "زمانی نەناسراو"

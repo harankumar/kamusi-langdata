@@ -137,7 +137,6 @@ msgid "Dutch"
 msgstr "Orudaaki"
 
 #: nyn
-#: nyn
 msgid "Nyankole"
 msgstr "Runyankore"
 

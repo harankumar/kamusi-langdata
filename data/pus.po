@@ -27,7 +27,6 @@ msgid "Azerbaijani"
 msgstr "أذربائجاني"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "بلوڅي"
 
@@ -116,7 +115,6 @@ msgstr "فاروئې"
 msgid "Persian"
 msgstr "فارسي"
 
-#: fil
 #: fil
 msgid "Filipino"
 msgstr "تګالوګ"
@@ -474,7 +472,6 @@ msgstr "تايلېنډي"
 msgid "Tigrinya"
 msgstr "تيګريني"
 
-#: tlh
 #: tlh
 msgid "Klingon"
 msgstr "کلينګاني"

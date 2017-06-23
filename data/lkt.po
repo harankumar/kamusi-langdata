@@ -7,7 +7,6 @@ msgid "Abkhazian"
 msgstr "Abkhaz Iyápi"
 
 #: ady
-#: ady
 msgid "Adyghe"
 msgstr "Adyghe Iyápi"
 
@@ -16,7 +15,6 @@ msgstr "Adyghe Iyápi"
 msgid "Afrikaans"
 msgstr "Afrikaans Iyápi"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "Itóǧata Altai Iyápi"
@@ -31,7 +29,6 @@ msgstr "Amharic Iyápi"
 msgid "Arabic"
 msgstr "Arab Iyápi"
 
-#: arp
 #: arp
 msgid "Arapaho"
 msgstr "Maȟpíya Tȟó Iyápi"
@@ -62,7 +59,6 @@ msgid "Bashkir"
 msgstr "Bashkir Iyápi"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "Baluchi Iyápi"
 
@@ -70,7 +66,6 @@ msgstr "Baluchi Iyápi"
 msgid "Bamun"
 msgstr "Bamun Iyápi"
 
-#: bej
 #: bej
 msgid "Beja"
 msgstr "Beja Iyápi"
@@ -96,7 +91,6 @@ msgid "Bosnian"
 msgstr "Bosnia Iyápi"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "Buriat Iyápi"
 
@@ -121,11 +115,9 @@ msgid "Chechen"
 msgstr "Chechen Iyápi"
 
 #: chm
-#: chm
 msgid "Mari"
 msgstr "Mari Iyápi"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "Cherokee Iyápi"
@@ -136,11 +128,9 @@ msgid "Chuvash"
 msgstr "Chuvash Iyápi"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "Šahíyela Iyápi"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "Coptic Iyápi"
@@ -151,7 +141,6 @@ msgid "Cree"
 msgstr "Maštíŋča Oyáte Iyápi"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "Crimean Turkish Iyápi"
 
@@ -160,7 +149,6 @@ msgstr "Crimean Turkish Iyápi"
 msgid "Welsh"
 msgstr "Wales Iyápi"
 
-#: dak
 #: dak
 msgid "Dakota"
 msgstr "Dakȟótiyapi"
@@ -171,7 +159,6 @@ msgid "Danish"
 msgstr "Dane Iyápi"
 
 #: dar
-#: dar
 msgid "Dargwa"
 msgstr "Dargwa Iyápi"
 
@@ -180,7 +167,6 @@ msgstr "Dargwa Iyápi"
 msgid "German"
 msgstr "Iyášiča Iyápi"
 
-#: doi
 #: doi
 msgid "Dogri"
 msgstr "Dogri Iyápi"
@@ -242,7 +228,6 @@ msgid "Fijian"
 msgstr "Fiji Iyápi"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Filipino Iyápi"
 
@@ -256,7 +241,6 @@ msgstr "Finnish Iyápi"
 msgid "French"
 msgstr "Wašíču Ikčéka Iyápi"
 
-#: gba
 #: gba
 msgid "Gbaya"
 msgstr "Gbaya Iyápi"
@@ -291,7 +275,6 @@ msgstr "Haiti Iyápi"
 msgid "Hausa"
 msgstr "Hausa Iyápi"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "Hawaiian Iyápi"
@@ -332,7 +315,6 @@ msgid "Indonesian"
 msgstr "Indonesia Iyápi"
 
 #: inh
-#: inh
 msgid "Ingush"
 msgstr "Ingush Iyápi"
 
@@ -356,7 +338,6 @@ msgstr "Java Iyápi"
 msgid "Japanese"
 msgstr "Kisúŋla Iyápi"
 
-#: kaa
 #: kaa
 msgid "Kara-Kalpak"
 msgstr "Kara-Kalpak Iyápi"
@@ -382,7 +363,6 @@ msgid "Kazakh"
 msgstr "Kazakh Iyápi"
 
 #: kbd
-#: kbd
 msgid "Kabardian"
 msgstr "Kabardian Iyápi"
 
@@ -406,7 +386,6 @@ msgstr "Korea Iyápi"
 msgid "Kurdish"
 msgstr "Kurd Iyápi"
 
-#: lah
 #: lah
 msgid "Lahnda"
 msgstr "Lahnda Iyápi"
@@ -441,7 +420,6 @@ msgid "Luxembourgish"
 msgstr "Luxembourg Iyápi"
 
 #: lus
-#: lus
 msgid "Mizo"
 msgstr "Mizo Iyápi"
 
@@ -470,7 +448,6 @@ msgstr "Malagasy Iyápi"
 msgid "Maltese"
 msgstr "Maltese Iyápi"
 
-#: mni
 #: mni
 msgid "Manipuri"
 msgstr "Namipuri Iyápi"
@@ -679,7 +656,6 @@ msgid "Ukrainian"
 msgstr "Ukrain Iyápi"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "Tukté iyápi tȟaŋíŋ šni"
 
@@ -731,7 +707,6 @@ msgstr "Pȟečhókaŋ Háŋska Iyápi"
 msgid "Zulu"
 msgstr "Zulu Iyápi"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "Zaza Iyápi"

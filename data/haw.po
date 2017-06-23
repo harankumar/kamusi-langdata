@@ -71,11 +71,9 @@ msgid "Irish"
 msgstr "ʻAiliki"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "Kuikilani Kelemānia"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "ʻŌlelo Hawaiʻi"
@@ -154,7 +152,6 @@ msgstr "Polapola"
 msgid "Tongan"
 msgstr "Tonga"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "ʻIke ʻole ‘ia a kūpono ʻole paha ka ʻōlelo"

@@ -102,7 +102,6 @@ msgid "Japanese"
 msgstr "Tajapunit"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "Taqbaylit"
 

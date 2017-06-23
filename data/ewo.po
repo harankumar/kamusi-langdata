@@ -52,7 +52,6 @@ msgid "English"
 msgstr "Ǹkɔ́bɔ éngəlís"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "ewondo"
 

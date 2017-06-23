@@ -20,7 +20,6 @@ msgid "Azerbaijani"
 msgstr "Kiazabajani"
 
 #: bug
-#: bug
 msgid "Buginese"
 msgstr "Kibugini"
 
@@ -30,26 +29,21 @@ msgid "Manx"
 msgstr "Kimanksi"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "Kigwichiin"
 
-#: hup
 #: hup
 msgid "Hupa"
 msgstr "Kihupa"
 
 #: inh
-#: inh
 msgid "Ingush"
 msgstr "Kiingush"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "Kilojban"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "Kikachin"
@@ -72,16 +66,13 @@ msgid "Komi-Permyak"
 msgstr "Kikomipermyak"
 
 #: kru
-#: kru
 msgid "Kurukh"
 msgstr "Kikurukh"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "Kikumyk"
 
-#: lam
 #: lam
 msgid "Lamba"
 msgstr "Kilamba"
@@ -92,16 +83,13 @@ msgid "Limburgish"
 msgstr "Kilimburgi"
 
 #: mak
-#: mak
 msgid "Makasar"
 msgstr "mak"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "Kimoksha"
 
-#: mic
 #: mic
 msgid "Mi'kmaq"
 msgstr "Kimikmaki"
@@ -112,11 +100,9 @@ msgid "Macedonian"
 msgstr "Kimasedonia"
 
 #: moh
-#: moh
 msgid "Mohawk"
 msgstr "Kimohoki"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "Kimossi"
@@ -125,7 +111,6 @@ msgstr "Kimossi"
 msgid "Ngiemboon"
 msgstr "Kingiemboon"
 
-#: nqo
 #: nqo
 msgid "N’Ko"
 msgstr "Kiinko"
@@ -147,7 +132,6 @@ msgid "Chadian Arabic"
 msgstr "Kiarabu cha Chadi"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "Kitongo cha Sranan"
 
@@ -156,11 +140,9 @@ msgid "Comorian"
 msgstr "Kikomoro"
 
 #: syr
-#: syr
 msgid "Syriac"
 msgstr "Kisiria"
 
-#: udm
 #: udm
 msgid "Udmurt"
 msgstr "Kiudumurti"

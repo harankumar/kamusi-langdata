@@ -17,7 +17,6 @@ msgid "Arabic"
 msgstr "Arabe Simi"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "Mapuche Simi"
 
@@ -77,7 +76,6 @@ msgid "Czech"
 msgstr "Checo Simi"
 
 #: chr
-#: chr
 msgid "Cherokee"
 msgstr "Cheroqui Simi"
 
@@ -110,7 +108,6 @@ msgstr "Aleman Simi"
 msgid "Divehi"
 msgstr "Divehi Simi"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "Bajo Sorbio Simi"
@@ -145,7 +142,6 @@ msgstr "Feroes Simi"
 msgid "Persian"
 msgstr "Persa Simi"
 
-#: fil
 #: fil
 msgid "Filipino"
 msgstr "Filipino Simi"
@@ -186,7 +182,6 @@ msgid "Galician"
 msgstr "Gallego Simi"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "Alsaciano Simi"
 
@@ -216,7 +211,6 @@ msgid "Hindi"
 msgstr "Hindi Simi"
 
 #: hmn
-#: hmn
 msgid "Hmong"
 msgstr "Hmong Daw Simi"
 
@@ -225,7 +219,6 @@ msgstr "Hmong Daw Simi"
 msgid "Croatian"
 msgstr "Croata Simi"
 
-#: hsb
 #: hsb
 msgid "Upper Sorbian"
 msgstr "Alto Sorbio Simi"
@@ -311,7 +304,6 @@ msgid "Kyrgyz"
 msgstr "Kirghiz Simi"
 
 #: kok
-#: kok
 msgid "Konkani"
 msgstr "Konkani Simi"
 
@@ -361,7 +353,6 @@ msgid "Maltese"
 msgstr "Maltes Simi"
 
 #: moh
-#: moh
 msgid "Mohawk"
 msgstr "Mohawk Simi"
 
@@ -396,7 +387,6 @@ msgid "Norwegian"
 msgstr "Noruego Simi"
 
 #: nso
-#: nso
 msgid "Northern Sotho"
 msgstr "Sesotho Sa Leboa Simi"
 
@@ -415,7 +405,6 @@ msgstr "Odia Simi"
 msgid "Punjabi"
 msgstr "Punyabi Simi"
 
-#: pap
 #: pap
 msgid "Papiamento"
 msgstr "Papiamento Simi"
@@ -460,7 +449,6 @@ msgid "Russian"
 msgstr "Ruso Simi"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "Sakha Simi"
 
@@ -485,7 +473,6 @@ msgid "Slovenian"
 msgstr "Esloveno Simi"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "Qulla Sami Simi"
 
@@ -495,16 +482,13 @@ msgid "Northern Sami"
 msgstr "Chincha Sami Simi"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "Sami Lule Simi"
 
 #: smn
-#: smn
 msgid "Inari Sami"
 msgstr "Sami Inari Simi"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "Sami Skolt Simi"
@@ -539,7 +523,6 @@ msgstr "Suajili Simi"
 msgid "Swedish"
 msgstr "Sueco Simi"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "Siriaco Simi"

@@ -102,7 +102,6 @@ msgid "Persian"
 msgstr "Afaan Persia"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Afaan Filippinii"
 
@@ -379,7 +378,6 @@ msgstr "Afaan Tayii"
 msgid "Tigrinya"
 msgstr "Afaan Tigiree"
 
-#: tlh
 #: tlh
 msgid "Klingon"
 msgstr "Afaan Kilingon"

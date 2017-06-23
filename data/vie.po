@@ -12,26 +12,21 @@ msgid "Abkhazian"
 msgstr "Tiếng Abkhazia"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "Tiếng Achinese"
 
-#: ach
 #: ach
 msgid "Acoli"
 msgstr "Tiếng Acoli"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "Tiếng Adangme"
 
 #: ady
-#: ady
 msgid "Adyghe"
 msgstr "Tiếng Adyghe"
 
-#: afh
 #: afh
 msgid "Afrihili"
 msgstr "Tiếng Afrihili"
@@ -46,7 +41,6 @@ msgid "Aghem"
 msgstr "Tiếng Aghem"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "Tiếng Ainu"
 
@@ -56,7 +50,6 @@ msgid "Akan"
 msgstr "Tiếng Akan"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "Tiếng Akkadia"
 
@@ -65,7 +58,6 @@ msgid "Alabama"
 msgstr "Tiếng Alabama"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "Tiếng Aleut"
 
@@ -73,7 +65,6 @@ msgstr "Tiếng Aleut"
 msgid "Gheg Albanian"
 msgstr "Tiếng Gheg Albani"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "Tiếng Altai Miền Nam"
@@ -84,11 +75,9 @@ msgid "Amharic"
 msgstr "Tiếng Amharic"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "Tiếng Anh cổ"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "Tiếng Angika"
@@ -103,7 +92,6 @@ msgid "Arabic"
 msgstr "Tiếng Ả Rập"
 
 #: arc
-#: arc
 msgid "Aramaic"
 msgstr "Tiếng Aramaic"
 
@@ -113,7 +101,6 @@ msgid "Aragonese"
 msgstr "Tiếng Aragon"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "Tiếng Mapuche"
 
@@ -122,7 +109,6 @@ msgid "Araona"
 msgstr "Tiếng Araona"
 
 #: arp
-#: arp
 msgid "Arapaho"
 msgstr "Tiếng Arapaho"
 
@@ -130,7 +116,6 @@ msgstr "Tiếng Arapaho"
 msgid "Algerian Arabic"
 msgstr "Tiếng Ả Rập Algeria"
 
-#: arw
 #: arw
 msgid "Arawak"
 msgstr "Tiếng Arawak"
@@ -153,7 +138,6 @@ msgid "Assamese"
 msgstr "Tiếng Assam"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "Tiếng Asturias"
 
@@ -167,7 +151,6 @@ msgstr "Tiếng Avaric"
 msgid "Avestan"
 msgstr "Tiếng Avestan"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "Tiếng Awadhi"
@@ -192,7 +175,6 @@ msgid "Bashkir"
 msgstr "Tiếng Bashkir"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "Tiếng Baluchi"
 
@@ -202,7 +184,6 @@ msgid "Bambara"
 msgstr "Tiếng Bambara"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "Tiếng Bali"
 
@@ -210,7 +191,6 @@ msgstr "Tiếng Bali"
 msgid "Bavarian"
 msgstr "Tiếng Bavaria"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "Tiếng Basaa"
@@ -228,7 +208,6 @@ msgid "Ghomala"
 msgstr "Tiếng Ghomala"
 
 #: bej
-#: bej
 msgid "Beja"
 msgstr "Tiếng Beja"
 
@@ -237,7 +216,6 @@ msgstr "Tiếng Beja"
 msgid "Belarusian"
 msgstr "Tiếng Belarus"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "Tiếng Bemba"
@@ -268,16 +246,13 @@ msgid "Western Balochi"
 msgstr "Tiếng Tây Balochi"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "Tiếng Bhojpuri"
 
 #: bik
-#: bik
 msgid "Bikol"
 msgstr "Tiếng Bikol"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "Tiếng Bini"
@@ -295,7 +270,6 @@ msgstr "Tiếng Banjar"
 msgid "Kom"
 msgstr "Tiếng Kom"
 
-#: bla
 #: bla
 msgid "Siksika"
 msgstr "Tiếng Siksika"
@@ -319,7 +293,6 @@ msgid "Bakhtiari"
 msgstr "Tiếng Bakhtiari"
 
 #: bra
-#: bra
 msgid "Braj"
 msgstr "Tiếng Braj"
 
@@ -341,11 +314,9 @@ msgid "Akoose"
 msgstr "Tiếng Akoose"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "Tiếng Buriat"
 
-#: bug
 #: bug
 msgid "Buginese"
 msgstr "Tiếng Bugin"
@@ -360,7 +331,6 @@ msgid "Bulu"
 msgstr "Tiếng Bulu"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "Tiếng Blin"
 
@@ -369,11 +339,9 @@ msgid "Medumba"
 msgstr "Tiếng Medumba"
 
 #: cad
-#: cad
 msgid "Caddo"
 msgstr "Tiếng Caddo"
 
-#: car
 #: car
 msgid "Carib"
 msgstr "Tiếng Carib"
@@ -391,7 +359,6 @@ msgstr "Tiếng Cayuga"
 msgid "Atsam"
 msgstr "Tiếng Atsam"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "Tiếng Cebuano"
@@ -411,7 +378,6 @@ msgid "Chamorro"
 msgstr "Tiếng Chamorro"
 
 #: chb
-#: chb
 msgid "Chibcha"
 msgstr "Tiếng Chibcha"
 
@@ -421,36 +387,29 @@ msgid "Chechen"
 msgstr "Tiếng Chechen"
 
 #: chg
-#: chg
 msgid "Chagatai"
 msgstr "Tiếng Chagatai"
 
-#: chk
 #: chk
 msgid "Chuukese"
 msgstr "Tiếng Chuuk"
 
 #: chm
-#: chm
 msgid "Mari"
 msgstr "Tiếng Mari"
 
-#: chn
 #: chn
 msgid "Chinook Jargon"
 msgstr "Biệt ngữ Chinook"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "Tiếng Choctaw"
 
 #: chp
-#: chp
 msgid "Chipewyan"
 msgstr "Tiếng Chipewyan"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "Tiếng Cherokee"
@@ -466,7 +425,6 @@ msgid "Chuvash"
 msgstr "Tiếng Chuvash"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "Tiếng Cheyenne"
 
@@ -474,7 +432,6 @@ msgstr "Tiếng Cheyenne"
 msgid "Central Kurdish"
 msgstr "Tiếng Kurd Miền Trung"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "Tiếng Coptic"
@@ -499,7 +456,6 @@ msgid "Cree"
 msgstr "Tiếng Cree"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "Tiếng Thổ Nhĩ Kỳ Crimean"
 
@@ -507,7 +463,6 @@ msgstr "Tiếng Thổ Nhĩ Kỳ Crimean"
 msgid "Seselwa Creole French"
 msgstr "Tiếng Pháp Seselwa Creole"
 
-#: csb
 #: csb
 msgid "Kashubian"
 msgstr "Tiếng Kashubia"
@@ -518,7 +473,6 @@ msgid "Welsh"
 msgstr "Tiếng Wales"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "Tiếng Dakota"
 
@@ -527,7 +481,6 @@ msgstr "Tiếng Dakota"
 msgid "Danish"
 msgstr "Tiếng Đan Mạch"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "Tiếng Dargwa"
@@ -541,11 +494,9 @@ msgid "Swiss High German"
 msgstr "Tiếng Thượng Giéc-man (Thụy Sĩ)"
 
 #: del
-#: del
 msgid "Delaware"
 msgstr "Tiếng Delaware"
 
-#: den
 #: den
 msgid "Slave"
 msgstr "Tiếng Slave"
@@ -556,11 +507,9 @@ msgid "German"
 msgstr "Tiếng Đức"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "Tiếng Dogrib"
 
-#: din
 #: din
 msgid "Dinka"
 msgstr "Tiếng Dinka"
@@ -575,11 +524,9 @@ msgid "Zarma"
 msgstr "Tiếng Zarma"
 
 #: doi
-#: doi
 msgid "Dogri"
 msgstr "Tiếng Dogri"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "Tiếng Hạ Sorbia"
@@ -589,11 +536,9 @@ msgid "Central Dusun"
 msgstr "Tiếng Dusun Miền Trung"
 
 #: dua
-#: dua
 msgid "Duala"
 msgstr "Tiếng Duala"
 
-#: dum
 #: dum
 msgid "Middle Dutch"
 msgstr "Tiếng Hà Lan Trung cổ"
@@ -602,7 +547,6 @@ msgstr "Tiếng Hà Lan Trung cổ"
 msgid "Jola-Fonyi"
 msgstr "Tiếng Jola-Fonyi"
 
-#: dyu
 #: dyu
 msgid "Dyula"
 msgstr "Tiếng Dyula"
@@ -621,7 +565,6 @@ msgid "Embu"
 msgstr "Tiếng Embu"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "Tiếng Efik"
 
@@ -630,11 +573,9 @@ msgid "Emilian"
 msgstr "Tiếng Emilia"
 
 #: egy
-#: egy
 msgid "Ancient Egyptian"
 msgstr "Tiếng Ai Cập cổ"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "Tiếng Ekajuk"
@@ -644,7 +585,6 @@ msgstr "Tiếng Ekajuk"
 msgid "Greek"
 msgstr "Tiếng Hy Lạp"
 
-#: elx
 #: elx
 msgid "Elamite"
 msgstr "Tiếng Elamite"
@@ -670,7 +610,6 @@ msgstr "Tiếng Anh (Mỹ)"
 msgid "English"
 msgstr "Tiếng Anh"
 
-#: enm
 #: enm
 msgid "Middle English"
 msgstr "Tiếng Anh Trung cổ"
@@ -708,7 +647,6 @@ msgid "Ewe"
 msgstr "Tiếng Ewe"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "Tiếng Ewondo"
 
@@ -716,7 +654,6 @@ msgstr "Tiếng Ewondo"
 msgid "Extremaduran"
 msgstr "Tiếng Extremadura"
 
-#: fan
 #: fan
 msgid "Fang"
 msgstr "Tiếng Fang"
@@ -732,7 +669,6 @@ msgid "Persian"
 msgstr "Tiếng Ba Tư"
 
 #: fat
-#: fat
 msgid "Fanti"
 msgstr "Tiếng Fanti"
 
@@ -742,7 +678,6 @@ msgid "Fijian"
 msgstr "Tiếng Fiji"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Tiếng Philippines"
 
@@ -751,7 +686,6 @@ msgstr "Tiếng Philippines"
 msgid "Finnish"
 msgstr "Tiếng Phần Lan"
 
-#: fon
 #: fon
 msgid "Fon"
 msgstr "Tiếng Fon"
@@ -766,11 +700,9 @@ msgid "Cajun French"
 msgstr "Tiếng Pháp Cajun"
 
 #: frm
-#: frm
 msgid "Middle French"
 msgstr "Tiếng Pháp Trung cổ"
 
-#: fro
 #: fro
 msgid "Old French"
 msgstr "Tiếng Pháp cổ"
@@ -780,11 +712,9 @@ msgid "Arpitan"
 msgstr "Tiếng Arpitan"
 
 #: frr
-#: frr
 msgid "Northern Frisian"
 msgstr "Tiếng Frisia Miền Bắc"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "Tiếng Frisian Miền Đông"
@@ -800,11 +730,9 @@ msgid "Fulah"
 msgstr "Tiếng Fulah"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "Tiếng Friulian"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "Tiếng Ga"
@@ -818,21 +746,17 @@ msgid "Gan Chinese"
 msgstr "Tiếng Cám"
 
 #: gay
-#: gay
 msgid "Gayo"
 msgstr "Tiếng Gayo"
 
-#: gba
 #: gba
 msgid "Gbaya"
 msgstr "Tiếng Gbaya"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "Tiếng Geez"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "Tiếng Gilbert"
@@ -862,11 +786,9 @@ msgid "Manx"
 msgstr "Tiếng Manx"
 
 #: gmh
-#: gmh
 msgid "Middle High German"
 msgstr "Tiếng Thượng Giéc-man Trung cổ"
 
-#: goh
 #: goh
 msgid "Old High German"
 msgstr "Tiếng Thượng Giéc-man cổ"
@@ -876,26 +798,21 @@ msgid "Goan Konkani"
 msgstr "Tiếng Goan Konkani"
 
 #: gon
-#: gon
 msgid "Gondi"
 msgstr "Tiếng Gondi"
 
-#: gor
 #: gor
 msgid "Gorontalo"
 msgstr "Tiếng Gorontalo"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "Tiếng Gô-tích"
 
 #: grb
-#: grb
 msgid "Grebo"
 msgstr "Tiếng Grebo"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "Tiếng Hy Lạp cổ"
@@ -905,7 +822,6 @@ msgstr "Tiếng Hy Lạp cổ"
 msgid "Guarani"
 msgstr "Tiếng Guarani"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "Tiếng Đức (Thụy Sĩ)"
@@ -924,11 +840,9 @@ msgid "Gusii"
 msgstr "Tiếng Gusii"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "Tiếng Gwichʼin"
 
-#: hai
 #: hai
 msgid "Haida"
 msgstr "Tiếng Haida"
@@ -947,7 +861,6 @@ msgstr "Tiếng Haiti"
 msgid "Hausa"
 msgstr "Tiếng Hausa"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "Tiếng Hawaii"
@@ -972,7 +885,6 @@ msgid "Fiji Hindi"
 msgstr "Tiếng Fiji Hindi"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "Tiếng Hiligaynon"
 
@@ -982,11 +894,9 @@ msgid "Hindi"
 msgstr "Tiếng Hindi"
 
 #: hit
-#: hit
 msgid "Hittite"
 msgstr "Tiếng Hittite"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "Tiếng Hmông"
@@ -1002,7 +912,6 @@ msgid "Croatian"
 msgstr "Tiếng Croatia"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "Tiếng Thượng Sorbia"
 
@@ -1016,7 +925,6 @@ msgid "Hungarian"
 msgstr "Tiếng Hungary"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "Tiếng Hupa"
 
@@ -1025,7 +933,6 @@ msgstr "Tiếng Hupa"
 msgid "Armenian"
 msgstr "Tiếng Armenia"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "Tiếng Iban"
@@ -1060,7 +967,6 @@ msgid "Interlingue"
 msgstr "Tiếng Interlingue"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "Tiếng Iloko"
 
@@ -1074,7 +980,6 @@ msgstr "Tiếng Khoa Học Quốc Tế"
 msgid "Indonesian"
 msgstr "Tiếng Indonesia"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "Tiếng Ingush"
@@ -1108,7 +1013,6 @@ msgid "Javanese"
 msgstr "Tiếng Java"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "Tiếng Lojban"
 
@@ -1126,11 +1030,9 @@ msgid "Japanese"
 msgstr "Tiếng Nhật"
 
 #: jpr
-#: jpr
 msgid "Judeo-Persian"
 msgstr "Tiếng Judeo-Ba Tư"
 
-#: jrb
 #: jrb
 msgid "Judeo-Arabic"
 msgstr "Tiếng Judeo-Ả Rập"
@@ -1140,16 +1042,13 @@ msgid "Jutish"
 msgstr "Tiếng Jutish"
 
 #: kaa
-#: kaa
 msgid "Kara-Kalpak"
 msgstr "Tiếng Kara-Kalpak"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "Tiếng Kabyle"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "Tiếng Kachin"
@@ -1163,7 +1062,6 @@ msgstr "Tiếng Jju"
 msgid "Kalaallisut"
 msgstr "Tiếng Kalaallisut"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "Tiếng Kamba"
@@ -1189,7 +1087,6 @@ msgid "Kanuri"
 msgstr "Tiếng Kanuri"
 
 #: kaw
-#: kaw
 msgid "Kawi"
 msgstr "Tiếng Kawi"
 
@@ -1198,7 +1095,6 @@ msgstr "Tiếng Kawi"
 msgid "Kazakh"
 msgstr "Tiếng Kazakh"
 
-#: kbd
 #: kbd
 msgid "Kabardian"
 msgstr "Tiếng Kabardian"
@@ -1224,7 +1120,6 @@ msgid "Koro"
 msgstr "Tiếng Koro"
 
 #: kha
-#: kha
 msgid "Khasi"
 msgstr "Tiếng Khasi"
 
@@ -1233,7 +1128,6 @@ msgstr "Tiếng Khasi"
 msgid "Khmer"
 msgstr "Tiếng Khơ-me"
 
-#: kho
 #: kho
 msgid "Khotanese"
 msgstr "Tiếng Khotan"
@@ -1266,7 +1160,6 @@ msgid "Kalenjin"
 msgstr "Tiếng Kalenjin"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "Tiếng Kimbundu"
 
@@ -1274,7 +1167,6 @@ msgstr "Tiếng Kimbundu"
 msgid "Komi-Permyak"
 msgstr "Tiếng Komi-Permyak"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "Tiếng Konkani"
@@ -1295,26 +1187,21 @@ msgid "Korean"
 msgstr "Tiếng Hàn"
 
 #: kos
-#: kos
 msgid "Kosraean"
 msgstr "Tiếng Kosrae"
 
-#: kpe
 #: kpe
 msgid "Kpelle"
 msgstr "Tiếng Kpelle"
 
 #: krc
-#: krc
 msgid "Karachay-Balkar"
 msgstr "Tiếng Karachay-Balkar"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "Tiếng Karelian"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "Tiếng Kurukh"
@@ -1337,7 +1224,6 @@ msgid "Kuanyama"
 msgstr "Tiếng Kuanyama"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "Tiếng Kumyk"
 
@@ -1347,11 +1233,9 @@ msgid "Kurdish"
 msgstr "Tiếng Kurd"
 
 #: kut
-#: kut
 msgid "Kutenai"
 msgstr "Tiếng Kutenai"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "Tiếng Ladino"
@@ -1361,11 +1245,9 @@ msgid "Langi"
 msgstr "Tiếng Langi"
 
 #: lah
-#: lah
 msgid "Lahnda"
 msgstr "Tiếng Lahnda"
 
-#: lam
 #: lam
 msgid "Lamba"
 msgstr "Tiếng Lamba"
@@ -1385,7 +1267,6 @@ msgstr "Tiếng La-tinh"
 msgid "Latvian"
 msgstr "Tiếng Latvia"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "Tiếng Lezghian"
@@ -1410,11 +1291,9 @@ msgid "Lakota"
 msgstr "Tiếng Lakota"
 
 #: lol
-#: lol
 msgid "Mongo"
 msgstr "Tiếng Mongo"
 
-#: loz
 #: loz
 msgid "Lozi"
 msgstr "Tiếng Lozi"
@@ -1428,7 +1307,6 @@ msgstr "Tiếng Bắc Luri"
 msgid "Luxembourgish"
 msgstr "Tiếng Luxembourg"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "Tiếng Luba-Lulua"
@@ -1444,21 +1322,17 @@ msgid "Ganda"
 msgstr "Tiếng Ganda"
 
 #: lui
-#: lui
 msgid "Luiseno"
 msgstr "Tiếng Luiseno"
 
-#: lun
 #: lun
 msgid "Lunda"
 msgstr "Tiếng Lunda"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "Tiếng Luo"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "Tiếng Lushai"
@@ -1468,7 +1342,6 @@ msgid "Luyia"
 msgstr "Tiếng Luyia"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "Tiếng Madura"
 
@@ -1476,7 +1349,6 @@ msgstr "Tiếng Madura"
 msgid "Mafa"
 msgstr "Tiếng Mafa"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "Tiếng Magahi"
@@ -1487,11 +1359,9 @@ msgid "Marshallese"
 msgstr "Tiếng Marshall"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "Tiếng Maithili"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "Tiếng Makasar"
@@ -1502,7 +1372,6 @@ msgid "Malayalam"
 msgstr "Tiếng Malayalam"
 
 #: man
-#: man
 msgid "Mandingo"
 msgstr "Tiếng Mandingo"
 
@@ -1512,7 +1381,6 @@ msgid "Marathi"
 msgstr "Tiếng Marathi"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "Tiếng Masai"
 
@@ -1521,16 +1389,13 @@ msgid "Maba"
 msgstr "Tiếng Maba"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "Tiếng Moksha"
 
 #: mdr
-#: mdr
 msgid "Mandar"
 msgstr "Tiếng Mandar"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "Tiếng Mende"
@@ -1544,7 +1409,6 @@ msgid "Morisyen"
 msgstr "Tiếng Morisyen"
 
 #: mga
-#: mga
 msgid "Middle Irish"
 msgstr "Tiếng Ai-len Trung cổ"
 
@@ -1557,11 +1421,9 @@ msgid "Metaʼ"
 msgstr "Tiếng Meta’"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "Tiếng Micmac"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "Tiếng Minangkabau"
@@ -1582,16 +1444,13 @@ msgid "Maltese"
 msgstr "Tiếng Malta"
 
 #: mnc
-#: mnc
 msgid "Manchu"
 msgstr "Tiếng Mãn Châu"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "Tiếng Manipuri"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "Tiếng Mohawk"
@@ -1601,7 +1460,6 @@ msgstr "Tiếng Mohawk"
 msgid "Mongolian"
 msgstr "Tiếng Mông Cổ"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "Tiếng Mossi"
@@ -1621,21 +1479,17 @@ msgid "Mundang"
 msgstr "Tiếng Mundang"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "Nhiều Ngôn ngữ"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "Tiếng Creek"
 
 #: mwl
-#: mwl
 msgid "Mirandese"
 msgstr "Tiếng Miranda"
 
-#: mwr
 #: mwr
 msgid "Marwari"
 msgstr "Tiếng Marwari"
@@ -1650,7 +1504,6 @@ msgid "Myene"
 msgstr "Tiếng Myene"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "Tiếng Erzya"
 
@@ -1662,7 +1515,6 @@ msgstr "Tiếng Mazanderani"
 msgid "Min Nan Chinese"
 msgstr "Tiếng Mân Nam"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "Tiếng Napoli"
@@ -1697,7 +1549,6 @@ msgid "Ndonga"
 msgstr "Tiếng Ndonga"
 
 #: nds
-#: nds
 msgid "Low German"
 msgstr "Tiếng Hạ Giéc-man"
 
@@ -1711,16 +1562,13 @@ msgid "Nepali"
 msgstr "Tiếng Nepal"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "Tiếng Newari"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "Tiếng Nias"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "Tiếng Niuean"
@@ -1757,11 +1605,9 @@ msgid "Norwegian Bokmål"
 msgstr "Tiếng Na Uy (Bokmål)"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "Tiếng Nogai"
 
-#: non
 #: non
 msgid "Old Norse"
 msgstr "Tiếng Na Uy cổ"
@@ -1772,11 +1618,9 @@ msgid "Norwegian"
 msgstr "Tiếng Na Uy"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "Tiếng N’Ko"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "Tiếng Sotho Miền Bắc"
@@ -1785,7 +1629,6 @@ msgstr "Tiếng Sotho Miền Bắc"
 msgid "Nuer"
 msgstr "Tiếng Nuer"
 
-#: nwc
 #: nwc
 msgid "Classical Newari"
 msgstr "Tiếng Newari cổ"
@@ -1796,21 +1639,17 @@ msgid "Nyanja"
 msgstr "Tiếng Nyanja"
 
 #: nym
-#: nym
 msgid "Nyamwezi"
 msgstr "Tiếng Nyamwezi"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "Tiếng Nyankole"
 
 #: nyo
-#: nyo
 msgid "Nyoro"
 msgstr "Tiếng Nyoro"
 
-#: nzi
 #: nzi
 msgid "Nzima"
 msgstr "Tiếng Nzima"
@@ -1836,7 +1675,6 @@ msgid "Oromo"
 msgstr "Tiếng Oromo"
 
 #: osa
-#: osa
 msgid "Osage"
 msgstr "Tiếng Osage"
 
@@ -1846,21 +1684,17 @@ msgid "Ossetic"
 msgstr "Tiếng Ossetic"
 
 #: ota
-#: ota
 msgid "Ottoman Turkish"
 msgstr "Tiếng Thổ Nhĩ Kỳ Ottoman"
 
-#: pag
 #: pag
 msgid "Pangasinan"
 msgstr "Tiếng Pangasinan"
 
 #: pal
-#: pal
 msgid "Pahlavi"
 msgstr "Tiếng Pahlavi"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "Tiếng Pampanga"
@@ -1871,11 +1705,9 @@ msgid "Punjabi"
 msgstr "Tiếng Punjab"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "Tiếng Papiamento"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "Tiếng Palauan"
@@ -1885,11 +1717,9 @@ msgid "Nigerian Pidgin"
 msgstr "Tiếng Nigeria Pidgin"
 
 #: peo
-#: peo
 msgid "Old Persian"
 msgstr "Tiếng Ba Tư cổ"
 
-#: phn
 #: phn
 msgid "Phoenician"
 msgstr "Tiếng Phoenicia"
@@ -1905,7 +1735,6 @@ msgid "Polish"
 msgstr "Tiếng Ba Lan"
 
 #: pon
-#: pon
 msgid "Pohnpeian"
 msgstr "Tiếng Pohnpeian"
 
@@ -1918,7 +1747,6 @@ msgstr "Tiếng Bồ Đào Nha"
 msgid "Prussian"
 msgstr "Tiếng Prussia"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "Tiếng Provençal cổ"
@@ -1950,16 +1778,13 @@ msgid "Chimborazo Highland Quichua"
 msgstr "Tiếng Quechua ở Cao nguyên Chimborazo"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "Tiếng Rajasthani"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "Tiếng Rapanui"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "Tiếng Rarotongan"
@@ -1977,7 +1802,6 @@ msgstr "Tiếng Rombo"
 msgid "Romansh"
 msgstr "Tiếng Romansh"
 
-#: rom
 #: rom
 msgid "Romany"
 msgstr "Tiếng Romany"
@@ -1997,7 +1821,6 @@ msgid "Rundi"
 msgstr "Tiếng Rundi"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "Tiếng Aromania"
 
@@ -2011,7 +1834,6 @@ msgid "Rwa"
 msgstr "Tiếng Rwa"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "Tiếng Sandawe"
 
@@ -2021,11 +1843,9 @@ msgid "Sango"
 msgstr "Tiếng Sango"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "Tiếng Sakha"
 
-#: sam
 #: sam
 msgid "Samaritan Aramaic"
 msgstr "Tiếng Samaritan Aramaic"
@@ -2040,11 +1860,9 @@ msgid "Samburu"
 msgstr "Tiếng Samburu"
 
 #: sas
-#: sas
 msgid "Sasak"
 msgstr "Tiếng Sasak"
 
-#: sat
 #: sat
 msgid "Santali"
 msgstr "Tiếng Santali"
@@ -2058,11 +1876,9 @@ msgid "Sangu"
 msgstr "Tiếng Sangu"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "Tiếng Sicilia"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "Tiếng Scots"
@@ -2080,7 +1896,6 @@ msgid "Sena"
 msgstr "Tiếng Sena"
 
 #: sel
-#: sel
 msgid "Selkup"
 msgstr "Tiếng Selkup"
 
@@ -2088,7 +1903,6 @@ msgstr "Tiếng Selkup"
 msgid "Koyraboro Senni"
 msgstr "Tiếng Koyraboro Senni"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "Tiếng Ai-len cổ"
@@ -2098,7 +1912,6 @@ msgid "Tachelhit"
 msgstr "Tiếng Tachelhit"
 
 #: shn
-#: shn
 msgid "Shan"
 msgstr "Tiếng Shan"
 
@@ -2106,7 +1919,6 @@ msgstr "Tiếng Shan"
 msgid "Chadian Arabic"
 msgstr "Tiếng Ả-Rập Chad"
 
-#: sid
 #: sid
 msgid "Sidamo"
 msgstr "Tiếng Sidamo"
@@ -2127,7 +1939,6 @@ msgid "Slovenian"
 msgstr "Tiếng Slovenia"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "Tiếng Sami Miền Nam"
 
@@ -2137,11 +1948,9 @@ msgid "Northern Sami"
 msgstr "Tiếng Sami Miền Bắc"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "Tiếng Lule Sami"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "Tiếng Inari Sami"
@@ -2151,7 +1960,6 @@ msgstr "Tiếng Inari Sami"
 msgid "Samoan"
 msgstr "Tiếng Samoa"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "Tiếng Skolt Sami"
@@ -2167,11 +1975,9 @@ msgid "Sindhi"
 msgstr "Tiếng Sindhi"
 
 #: snk
-#: snk
 msgid "Soninke"
 msgstr "Tiếng Soninke"
 
-#: sog
 #: sog
 msgid "Sogdien"
 msgstr "Tiếng Sogdien"
@@ -2202,7 +2008,6 @@ msgid "Sardinian"
 msgstr "Tiếng Sardinia"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "Tiếng Sranan Tongo"
 
@@ -2211,7 +2016,6 @@ msgstr "Tiếng Sranan Tongo"
 msgid "Serbian"
 msgstr "Tiếng Serbia"
 
-#: srr
 #: srr
 msgid "Serer"
 msgstr "Tiếng Serer"
@@ -2226,7 +2030,6 @@ msgid "Saho"
 msgstr "Tiếng Saho"
 
 #: suk
-#: suk
 msgid "Sukuma"
 msgstr "Tiếng Sukuma"
 
@@ -2236,11 +2039,9 @@ msgid "Sundanese"
 msgstr "Tiếng Sunda"
 
 #: sus
-#: sus
 msgid "Susu"
 msgstr "Tiếng Susu"
 
-#: sux
 #: sux
 msgid "Sumerian"
 msgstr "Tiếng Sumeria"
@@ -2264,11 +2065,9 @@ msgid "Swedish"
 msgstr "Tiếng Thụy Điển"
 
 #: syc
-#: syc
 msgid "Classical Syriac"
 msgstr "Tiếng Syriac cổ"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "Tiếng Syriac"
@@ -2294,7 +2093,6 @@ msgid "Telugu"
 msgstr "Tiếng Telugu"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "Tiếng Timne"
 
@@ -2303,11 +2101,9 @@ msgid "Teso"
 msgstr "Tiếng Teso"
 
 #: ter
-#: ter
 msgid "Tereno"
 msgstr "Tiếng Tereno"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "Tiếng Tetum"
@@ -2328,7 +2124,6 @@ msgid "Thai"
 msgstr "Tiếng Thái"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "Tiếng Tigre"
 
@@ -2338,31 +2133,25 @@ msgid "Tigrinya"
 msgstr "Tiếng Tigrinya"
 
 #: tiv
-#: tiv
 msgid "Tiv"
 msgstr "Tiếng Tiv"
 
-#: tkl
 #: tkl
 msgid "Tokelau"
 msgstr "Tiếng Tokelau"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "Tiếng Klingon"
 
-#: tli
 #: tli
 msgid "Tlingit"
 msgstr "Tiếng Tlingit"
 
 #: tmh
-#: tmh
 msgid "Tamashek"
 msgstr "Tiếng Tamashek"
 
-#: tog
 #: tog
 msgid "Nyasa Tonga"
 msgstr "Tiếng Nyasa Tonga"
@@ -2373,7 +2162,6 @@ msgid "Tongan"
 msgstr "Tiếng Tonga"
 
 #: tpi
-#: tpi
 msgid "Tok Pisin"
 msgstr "Tiếng Tok Pisin"
 
@@ -2381,7 +2169,6 @@ msgstr "Tiếng Tok Pisin"
 msgid "Taroko"
 msgstr "Tiếng Taroko"
 
-#: tsi
 #: tsi
 msgid "Tsimshian"
 msgstr "Tiếng Tsimshian"
@@ -2402,7 +2189,6 @@ msgid "Turkmen"
 msgstr "Tiếng Turkmen"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "Tiếng Tumbuka"
 
@@ -2411,7 +2197,6 @@ msgstr "Tiếng Tumbuka"
 msgid "Turkish"
 msgstr "Tiếng Thổ Nhĩ Kỳ"
 
-#: tvl
 #: tvl
 msgid "Tuvalu"
 msgstr "Tiếng Tuvalu"
@@ -2426,7 +2211,6 @@ msgid "Tasawaq"
 msgstr "Tiếng Tasawaq"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "Tiếng Tuvinian"
 
@@ -2435,11 +2219,9 @@ msgid "Central Atlas Tamazight"
 msgstr "Tiếng Tamazight Miền Trung Ma-rốc"
 
 #: udm
-#: udm
 msgid "Udmurt"
 msgstr "Tiếng Udmurt"
 
-#: uga
 #: uga
 msgid "Ugaritic"
 msgstr "Tiếng Ugaritic"
@@ -2455,11 +2237,9 @@ msgid "Ukrainian"
 msgstr "Tiếng Ucraina"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "Tiếng Umbundu"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "Ngôn ngữ không xác định"
@@ -2474,7 +2254,6 @@ msgstr "Tiếng Urdu"
 msgid "Uzbek"
 msgstr "Tiếng Uzbek"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "Tiếng Vai"
@@ -2495,7 +2274,6 @@ msgid "Volapük"
 msgstr "Tiếng Volapük"
 
 #: vot
-#: vot
 msgid "Votic"
 msgstr "Tiếng Votic"
 
@@ -2508,16 +2286,13 @@ msgid "Walser"
 msgstr "Tiếng Walser"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "Tiếng Walamo"
 
 #: war
-#: war
 msgid "Waray"
 msgstr "Tiếng Waray"
 
-#: was
 #: was
 msgid "Washo"
 msgstr "Tiếng Washo"
@@ -2541,7 +2316,6 @@ msgid "Wu Chinese"
 msgstr "Tiếng Ngô"
 
 #: xal
-#: xal
 msgid "Kalmyk"
 msgstr "Tiếng Kalmyk"
 
@@ -2555,11 +2329,9 @@ msgid "Soga"
 msgstr "Tiếng Soga"
 
 #: yao
-#: yao
 msgid "Yao"
 msgstr "Tiếng Yao"
 
-#: yap
 #: yap
 msgid "Yapese"
 msgstr "Tiếng Yap"
@@ -2587,16 +2359,13 @@ msgid "Cantonese"
 msgstr "Tiếng Quảng Đông"
 
 #: zap
-#: zap
 msgid "Zapotec"
 msgstr "Tiếng Zapotec"
 
 #: zbl
-#: zbl
 msgid "Blissymbols"
 msgstr "Ký hiệu Blissymbols"
 
-#: zen
 #: zen
 msgid "Zenaga"
 msgstr "Tiếng Zenaga"
@@ -2621,16 +2390,13 @@ msgid "Zulu"
 msgstr "Tiếng Zulu"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "Tiếng Zuni"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "Không có nội dung ngôn ngữ"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "Tiếng Zaza"

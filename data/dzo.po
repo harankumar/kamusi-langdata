@@ -77,7 +77,6 @@ msgid "Welsh"
 msgstr "ཝེལཤ་ཁ"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "ད་ཀོ་ཏ་ཁ"
 
@@ -109,7 +108,6 @@ msgstr "དི་བེ་ཧི་ཁ"
 msgid "Dzongkha"
 msgstr "རྫོང་ཁ"
 
-#: egy
 #: egy
 msgid "Ancient Egyptian"
 msgstr "ཨི་ཇིཔ་ཤཱན (སྔ་དུས་ཀྱི)"
@@ -179,7 +177,6 @@ msgid "Fijian"
 msgstr "ཕི་ཇི་ཡཱན་ཁ"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "ཕི་ལི་པི་ནོ་ཁ"
 
@@ -217,7 +214,6 @@ msgid "Galician"
 msgstr "གལ་ཨིས་ཨི་ཡན་ཁ"
 
 #: grc
-#: grc
 msgid "Ancient Greek"
 msgstr "གིརིཀ, སྔ་དུས་ཀྱི (༡༤༥༣)"
 
@@ -226,7 +222,6 @@ msgstr "གིརིཀ, སྔ་དུས་ཀྱི (༡༤༥༣)"
 msgid "Guarani"
 msgstr "གུ་ཝ་ར་ནི་ཁ"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "སུ་ཡིས་ཇཱར་མཱན་ཁ"
@@ -246,7 +241,6 @@ msgstr "ཧེ་ཏི་ཡཱན་ཁ"
 msgid "Hausa"
 msgstr "ཧཝ་ས་ཁ"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "ཧ་ཝ་ཡིའི་ཁ"
@@ -306,7 +300,6 @@ msgstr "ཇཱ་བ་ནིས་ཁ"
 msgid "Japanese"
 msgstr "ཇཱ་པཱ་ནིས་ཁ"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "ཀ་ཆིན་ཁ"
@@ -406,11 +399,9 @@ msgid "Maltese"
 msgstr "མཱལ་ཊ་ཁ"
 
 #: mnc
-#: mnc
 msgid "Manchu"
 msgstr "མན་ཇུ་ཁ"
 
-#: mni
 #: mni
 msgid "Manipuri"
 msgstr "མ་ནི་པུ་རི"
@@ -440,7 +431,6 @@ msgstr "བར་མིས་ཁ"
 msgid "Nepali"
 msgstr "ནེ་པཱལི་ཁ"
 
-#: new
 #: new
 msgid "Newari"
 msgstr "ནི་ཝ་རི"
@@ -532,7 +522,6 @@ msgstr "ཨུ་རུ་སུའི་ཁ"
 msgid "Sanskrit"
 msgstr "སཾསྐྲྀཏ་ཁ"
 
-#: shn
 #: shn
 msgid "Shan"
 msgstr "ཤཱན་ཁ"
@@ -648,7 +637,6 @@ msgid "Ukrainian"
 msgstr "ཡུ་ཀེ་རེ་ནི་ཡཱན་ཁ"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "ཁ་ངོ་མ་ཤེསཔ"
 
@@ -700,7 +688,6 @@ msgstr "རྒྱ་མི་ཁ"
 msgid "Zulu"
 msgstr "ཟུ་ལུ་ཁ"
 
-#: zxx
 #: zxx
 msgid "No linguistic content"
 msgstr "སྐད་རིག་ནང་དོན་མེདཔ"

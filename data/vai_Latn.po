@@ -202,7 +202,6 @@ msgid "Urdu"
 msgstr "Ɔdu"
 
 #: vai
-#: vai
 msgid "Vai"
 msgstr "Vai"
 

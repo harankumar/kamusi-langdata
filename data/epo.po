@@ -36,7 +36,6 @@ msgid "Arabic"
 msgstr "araba"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "mapuĉa"
 
@@ -115,7 +114,6 @@ msgid "Czech"
 msgstr "ĉeĥa"
 
 #: chr
-#: chr
 msgid "Cherokee"
 msgstr "ĉeroka"
 
@@ -157,7 +155,6 @@ msgid "Divehi"
 msgstr "mahla"
 
 #: dsb
-#: dsb
 msgid "Lower Sorbian"
 msgstr "malsuprasoraba"
 
@@ -166,7 +163,6 @@ msgstr "malsuprasoraba"
 msgid "Dzongkha"
 msgstr "dzonko"
 
-#: efi
 #: efi
 msgid "Efik"
 msgstr "ibibioefika"
@@ -248,7 +244,6 @@ msgid "Fijian"
 msgstr "fiĝia"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "filipina"
 
@@ -310,7 +305,6 @@ msgstr "haitia kreola"
 msgid "Hausa"
 msgstr "haŭsa"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "havaja"
@@ -510,7 +504,6 @@ msgstr "maoria"
 msgid "Malay"
 msgstr "malaja"
 
-#: mul
 #: mul
 msgid "Multiple languages"
 msgstr "pluraj lingvoj"
@@ -743,7 +736,6 @@ msgid "Tigrinya"
 msgstr "tigraja"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "klingona"
 
@@ -787,7 +779,6 @@ msgstr "ujgura"
 msgid "Ukrainian"
 msgstr "ukraina"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "nekonata lingvo"
@@ -855,7 +846,6 @@ msgstr "ĉina"
 msgid "Zulu"
 msgstr "zulua"
 
-#: zxx
 #: zxx
 msgid "No linguistic content"
 msgstr "nelingvaĵo"

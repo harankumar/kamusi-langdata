@@ -12,7 +12,6 @@ msgid "Afrikaans"
 msgstr "אַפֿריקאַנס"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "אַקאַדיש"
 
@@ -22,7 +21,6 @@ msgid "Amharic"
 msgstr "אַמהאַריש"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "אַלט ענגליש"
 
@@ -31,7 +29,6 @@ msgstr "אַלט ענגליש"
 msgid "Arabic"
 msgstr "אַראַביש"
 
-#: arc
 #: arc
 msgid "Aramaic"
 msgstr "אַראַמיש"
@@ -51,7 +48,6 @@ msgstr "אַסאַמיש"
 msgid "Azerbaijani"
 msgstr "אַזערביידזשאַניש"
 
-#: ban
 #: ban
 msgid "Balinese"
 msgstr "באַלינעזיש"
@@ -96,7 +92,6 @@ msgid "Catalan"
 msgstr "קאַטאַלאניש"
 
 #: ceb
-#: ceb
 msgid "Cebuano"
 msgstr "סעבואַניש"
 
@@ -116,11 +111,9 @@ msgid "Cornish"
 msgstr "קארניש"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "קרים־טערקיש"
 
-#: csb
 #: csb
 msgid "Kashubian"
 msgstr "קאַשוביש"
@@ -140,7 +133,6 @@ msgstr "דעניש"
 msgid "German"
 msgstr "דײַטש"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "אונטער־סארביש"
@@ -167,7 +159,6 @@ msgstr "ענגליש (US)"
 msgid "English"
 msgstr "ענגליש"
 
-#: enm
 #: enm
 msgid "Middle English"
 msgstr "מיטל ענגליש"
@@ -203,7 +194,6 @@ msgid "Fijian"
 msgstr "פֿידזשי"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "פֿיליפּינא"
 
@@ -218,16 +208,13 @@ msgid "French"
 msgstr "פֿראַנצויזיש"
 
 #: fro
-#: fro
 msgid "Old French"
 msgstr "אַלט־פֿראַנצויזיש"
 
 #: frr
-#: frr
 msgid "Northern Frisian"
 msgstr "דרום־פֿריזיש"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "מזרח־פֿריזיש"
@@ -258,21 +245,17 @@ msgid "Manx"
 msgstr "מאַנקס"
 
 #: gmh
-#: gmh
 msgid "Middle High German"
 msgstr "מיטל הויכדויטש"
 
-#: goh
 #: goh
 msgid "Old High German"
 msgstr "אַלט־ הויכדויטש"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "גאטיש"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "אוראַלט־גריכיש"
@@ -306,7 +289,6 @@ msgstr "הינדי"
 msgid "Croatian"
 msgstr "קראאַטיש"
 
-#: hsb
 #: hsb
 msgid "Upper Sorbian"
 msgstr "אייבער־סארביש"
@@ -347,7 +329,6 @@ msgid "Javanese"
 msgstr "יאַוואַנעזיש"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "לאזשבאָן"
 
@@ -356,7 +337,6 @@ msgstr "לאזשבאָן"
 msgid "Japanese"
 msgstr "יאַפּאַניש"
 
-#: jpr
 #: jpr
 msgid "Judeo-Persian"
 msgstr "יידיש־פערסיש"
@@ -397,7 +377,6 @@ msgid "Kurdish"
 msgstr "קורדיש"
 
 #: lad
-#: lad
 msgid "Ladino"
 msgstr "לאַדינא"
 
@@ -430,7 +409,6 @@ msgstr "ליוויש"
 msgid "Luxembourgish"
 msgstr "לוקסעמבורגיש"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "מיזא"
@@ -466,11 +444,9 @@ msgid "Burmese"
 msgstr "בירמאַניש"
 
 #: nap
-#: nap
 msgid "Neapolitan"
 msgstr "נאַפּאליטַניש"
 
-#: nds
 #: nds
 msgid "Low German"
 msgstr "נידערדײַטש"
@@ -509,7 +485,6 @@ msgstr "אקסיטאַניש"
 msgid "Ossetic"
 msgstr "אסעטיש"
 
-#: peo
 #: peo
 msgid "Old Persian"
 msgstr "אַלט פּערסיש"
@@ -553,16 +528,13 @@ msgid "Sanskrit"
 msgstr "סאַנסקריט"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "סיציליאַניש"
 
 #: sco
-#: sco
 msgid "Scots"
 msgstr "סקאטס"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "אַלט־איריש"
@@ -636,7 +608,6 @@ msgid "Serbian"
 msgstr "סערביש"
 
 #: sux
-#: sux
 msgid "Sumerian"
 msgstr "סומעריש"
 
@@ -678,7 +649,6 @@ msgid "Tagalog"
 msgstr "טאַגאַלאג"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "טיגרע"
 
@@ -692,7 +662,6 @@ msgstr "טורקמעניש"
 msgid "Ukrainian"
 msgstr "אוקראַאיניש"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "אומבאַוואוסטע שפּראַך"

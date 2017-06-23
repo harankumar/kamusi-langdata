@@ -6,21 +6,17 @@ msgid "Modern Standard Arabic"
 msgstr "modernes Hocharabisch"
 
 #: car
-#: car
 msgid "Carib"
 msgstr "karibische Sprache"
 
-#: chb
 #: chb
 msgid "Chibcha"
 msgstr "Chibcha-Sprache"
 
 #: del
-#: del
 msgid "Delaware"
 msgstr "Delawarisch"
 
-#: fur
 #: fur
 msgid "Friulian"
 msgstr "Friulanisch"
@@ -31,7 +27,6 @@ msgid "Hausa"
 msgstr "Hausa"
 
 #: haw
-#: haw
 msgid "Hawaiian"
 msgstr "Hawaiianisch"
 
@@ -41,21 +36,17 @@ msgid "Serbo-Croatian"
 msgstr "Serbokroatisch"
 
 #: hmn
-#: hmn
 msgid "Hmong"
 msgstr "Miao-Sprache"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "Muskogee-Sprache"
 
 #: niu
-#: niu
 msgid "Niuean"
 msgstr "Niueanisch"
 
-#: pag
 #: pag
 msgid "Pangasinan"
 msgstr "Pangasinensisch"

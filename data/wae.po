@@ -105,7 +105,6 @@ msgid "Dzongkha"
 msgstr "Butaniš"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "Efik"
 
@@ -164,7 +163,6 @@ msgid "Fijian"
 msgstr "Fidšianiš"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Filipiniš"
 
@@ -216,7 +214,6 @@ msgstr "Haitianiš"
 msgid "Hausa"
 msgstr "Hausa"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "Hawaíaniš"
@@ -421,7 +418,6 @@ msgid "Norwegian Bokmål"
 msgstr "Norwegiš Bokmål"
 
 #: nso
-#: nso
 msgid "Northern Sotho"
 msgstr "Nordsotho"
 
@@ -498,7 +494,6 @@ msgstr "Rusiš"
 msgid "Sango"
 msgstr "Sango"
 
-#: sah
 #: sah
 msgid "Sakha"
 msgstr "Jakutiš"
@@ -604,7 +599,6 @@ msgid "Telugu"
 msgstr "Telugu"
 
 #: tet
-#: tet
 msgid "Tetum"
 msgstr "Tetum"
 
@@ -628,7 +622,6 @@ msgstr "Tigrinja"
 msgid "Tongan"
 msgstr "Tonga"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "Niwmelanesiš"
@@ -663,7 +656,6 @@ msgstr "Uiguriš"
 msgid "Ukrainian"
 msgstr "Ukrainiš"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "Unbekannti Schprač"

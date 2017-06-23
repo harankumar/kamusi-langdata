@@ -17,7 +17,6 @@ msgid "Fulah"
 msgstr "фулах"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "швајцарски немачки"
 
@@ -32,11 +31,9 @@ msgid "Lao"
 msgstr "лаошки"
 
 #: moh
-#: moh
 msgid "Mohawk"
 msgstr "мохок"
 
-#: nqo
 #: nqo
 msgid "N’Ko"
 msgstr "н’ко"

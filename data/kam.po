@@ -102,7 +102,6 @@ msgid "Japanese"
 msgstr "Kijapani"
 
 #: kam
-#: kam
 msgid "Kamba"
 msgstr "Kikamba"
 

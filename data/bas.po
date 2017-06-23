@@ -17,7 +17,6 @@ msgid "Arabic"
 msgstr "Hɔp u arâb"
 
 #: bas
-#: bas
 msgid "Basaa"
 msgstr "Ɓàsàa"
 

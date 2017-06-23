@@ -112,7 +112,6 @@ msgid "Persian"
 msgstr "Inyeperisi"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Ikinyafilipine"
 
@@ -464,7 +463,6 @@ msgstr "Igitayi"
 msgid "Tigrinya"
 msgstr "Inyatigirinya"
 
-#: tlh
 #: tlh
 msgid "Klingon"
 msgstr "Inyekilingoni"

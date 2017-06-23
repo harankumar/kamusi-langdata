@@ -31,7 +31,6 @@ msgid "Amharic"
 msgstr "amharšćina"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "anglosakšćina"
 
@@ -50,7 +49,6 @@ msgid "Aragonese"
 msgstr "aragonšćina"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "arawkanšćina"
 
@@ -63,7 +61,6 @@ msgstr "pare"
 msgid "Assamese"
 msgstr "asamšćina"
 
-#: ast
 #: ast
 msgid "Asturian"
 msgstr "asturšćina"
@@ -98,7 +95,6 @@ msgstr "bambara"
 msgid "Belarusian"
 msgstr "běłorušćina"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "bemba"
@@ -137,7 +133,6 @@ msgid "Bodo"
 msgstr "bodo"
 
 #: bug
-#: bug
 msgid "Buginese"
 msgstr "buginezišćina"
 
@@ -166,11 +161,9 @@ msgid "Chamorro"
 msgstr "čamoršćina"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "choctawšćina"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "cherokee"
@@ -231,11 +224,9 @@ msgid "Zarma"
 msgstr "zarma"
 
 #: dsb
-#: dsb
 msgid "Lower Sorbian"
 msgstr "delnjoserbšćina"
 
-#: dua
 #: dua
 msgid "Duala"
 msgstr "duala"
@@ -335,7 +326,6 @@ msgid "Fijian"
 msgstr "fidźišćina"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "filipinšćina"
 
@@ -387,7 +377,6 @@ msgid "Manx"
 msgstr "manšćina"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "gotšćina"
 
@@ -396,7 +385,6 @@ msgstr "gotšćina"
 msgid "Guarani"
 msgstr "guarani"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "šwicarska němčina"
@@ -421,7 +409,6 @@ msgid "Hausa"
 msgstr "hausa"
 
 #: haw
-#: haw
 msgid "Hawaiian"
 msgstr "hawaiišćina"
 
@@ -445,7 +432,6 @@ msgstr "hindišćina"
 msgid "Croatian"
 msgstr "chorwatšćina"
 
-#: hsb
 #: hsb
 msgid "Upper Sorbian"
 msgstr "hornjoserbšćina"
@@ -524,7 +510,6 @@ msgid "Japanese"
 msgstr "japanšćina"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "kabylšćina"
 
@@ -533,7 +518,6 @@ msgstr "kabylšćina"
 msgid "Kalaallisut"
 msgstr "gröndlandšćina"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "kamba"
@@ -598,7 +582,6 @@ msgstr "kalenjin"
 msgid "Komi-Permyak"
 msgstr "permska komišćina"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "konkani"
@@ -693,7 +676,6 @@ msgid "Marathi"
 msgstr "maratišćina"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "masaišćina"
 
@@ -729,7 +711,6 @@ msgid "Maltese"
 msgstr "maltašćina"
 
 #: moh
-#: moh
 msgid "Mohawk"
 msgstr "mohawkšćina"
 
@@ -752,7 +733,6 @@ msgstr "malajšćina"
 msgid "Mundang"
 msgstr "mundang"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "krik"
@@ -781,7 +761,6 @@ msgstr "navaho"
 msgid "North Ndebele"
 msgstr "sewjero-ndebele"
 
-#: nds
 #: nds
 msgid "Low German"
 msgstr "delnjoněmčina"
@@ -820,7 +799,6 @@ msgid "Norwegian"
 msgstr "norwegšćina"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "n’ko"
 
@@ -828,7 +806,6 @@ msgstr "n’ko"
 msgid "Nuer"
 msgstr "nuer"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "nyankole"
@@ -940,7 +917,6 @@ msgid "Sangu"
 msgstr "sangu"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "sicilšćina"
 
@@ -972,7 +948,6 @@ msgid "Slovenian"
 msgstr "słowjenšćina"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "južnosamišćina"
 
@@ -982,11 +957,9 @@ msgid "Northern Sami"
 msgstr "sewjerosamišćina"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "lule-samišćina"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "inari-samišćina"
@@ -996,7 +969,6 @@ msgstr "inari-samišćina"
 msgid "Samoan"
 msgstr "samoašćina"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "skolt-samišćina"
@@ -1162,7 +1134,6 @@ msgid "Ukrainian"
 msgstr "ukrainšćina"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "njeznata rěč"
 
@@ -1246,7 +1217,6 @@ msgstr "chinšćina"
 msgid "Zulu"
 msgstr "zulušćina"
 
-#: zxx
 #: zxx
 msgid "No linguistic content"
 msgstr "žadyn rěčny wobsah"

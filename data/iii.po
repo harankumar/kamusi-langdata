@@ -51,7 +51,6 @@ msgid "Spanish"
 msgstr "ꑭꀠꑸꉙ"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "ꅉꀋꌠꅇꂷ"
 

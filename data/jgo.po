@@ -31,7 +31,6 @@ msgid "Ngomba"
 msgstr "Ndaꞌa"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "cú-pʉɔ yi pɛ́ ká kɛ́ jí"
 

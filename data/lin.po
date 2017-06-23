@@ -99,7 +99,6 @@ msgid "French"
 msgstr "lifalansɛ́"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "lialemaniki"
 
@@ -178,7 +177,6 @@ msgstr "latina"
 msgid "Lingala"
 msgstr "lingála"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "ciluba"

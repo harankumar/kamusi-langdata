@@ -12,21 +12,17 @@ msgid "Abkhazian"
 msgstr "阿布哈茲文"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "亞齊文"
 
-#: ach
 #: ach
 msgid "Acoli"
 msgstr "阿僑利文"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "阿當莫文"
 
-#: ady
 #: ady
 msgid "Adyghe"
 msgstr "阿迪各文"
@@ -35,7 +31,6 @@ msgstr "阿迪各文"
 msgid "Tunisian Arabic"
 msgstr "突尼斯阿拉伯文"
 
-#: afh
 #: afh
 msgid "Afrihili"
 msgstr "阿弗里希利文"
@@ -50,7 +45,6 @@ msgid "Aghem"
 msgstr "亞罕文"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "阿伊努文"
 
@@ -60,7 +54,6 @@ msgid "Akan"
 msgstr "阿坎文"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "阿卡德文"
 
@@ -69,7 +62,6 @@ msgid "Alabama"
 msgstr "阿拉巴馬文"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "阿留申文"
 
@@ -77,7 +69,6 @@ msgstr "阿留申文"
 msgid "Gheg Albanian"
 msgstr "蓋格阿爾巴尼亞文"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "南阿爾泰文"
@@ -88,11 +79,9 @@ msgid "Amharic"
 msgstr "阿姆哈拉文"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "古英文"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "昂加文"
@@ -107,7 +96,6 @@ msgid "Arabic"
 msgstr "阿拉伯文"
 
 #: arc
-#: arc
 msgid "Aramaic"
 msgstr "阿拉米文"
 
@@ -117,7 +105,6 @@ msgid "Aragonese"
 msgstr "阿拉貢文"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "馬普切文"
 
@@ -126,7 +113,6 @@ msgid "Araona"
 msgstr "阿拉奧納文"
 
 #: arp
-#: arp
 msgid "Arapaho"
 msgstr "阿拉帕霍文"
 
@@ -134,7 +120,6 @@ msgstr "阿拉帕霍文"
 msgid "Algerian Arabic"
 msgstr "阿爾及利亞阿拉伯文"
 
-#: arw
 #: arw
 msgid "Arawak"
 msgstr "阿拉瓦克文"
@@ -161,7 +146,6 @@ msgid "Assamese"
 msgstr "阿薩姆文"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "阿斯圖里亞文"
 
@@ -179,7 +163,6 @@ msgstr "阿維斯塔文"
 msgid "Kotava"
 msgstr "科塔瓦文"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "阿瓦文"
@@ -204,7 +187,6 @@ msgid "Bashkir"
 msgstr "巴什喀爾文"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "俾路支文"
 
@@ -214,7 +196,6 @@ msgid "Bambara"
 msgstr "班巴拉文"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "峇里文"
 
@@ -222,7 +203,6 @@ msgstr "峇里文"
 msgid "Bavarian"
 msgstr "巴伐利亞文"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "巴薩文"
@@ -240,7 +220,6 @@ msgid "Ghomala"
 msgstr "戈馬拉文"
 
 #: bej
-#: bej
 msgid "Beja"
 msgstr "貝扎文"
 
@@ -249,7 +228,6 @@ msgstr "貝扎文"
 msgid "Belarusian"
 msgstr "白俄羅斯文"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "別姆巴文"
@@ -280,16 +258,13 @@ msgid "Western Balochi"
 msgstr "西俾路支文"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "博傑普爾文"
 
 #: bik
-#: bik
 msgid "Bikol"
 msgstr "比科爾文"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "比尼文"
@@ -307,7 +282,6 @@ msgstr "班亞爾文"
 msgid "Kom"
 msgstr "康姆文"
 
-#: bla
 #: bla
 msgid "Siksika"
 msgstr "錫克錫卡文"
@@ -331,7 +305,6 @@ msgid "Bakhtiari"
 msgstr "巴赫蒂亞里文"
 
 #: bra
-#: bra
 msgid "Braj"
 msgstr "布拉杰文"
 
@@ -353,11 +326,9 @@ msgid "Akoose"
 msgstr "阿庫色文"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "布里阿特文"
 
-#: bug
 #: bug
 msgid "Buginese"
 msgstr "布吉斯文"
@@ -372,7 +343,6 @@ msgid "Bulu"
 msgstr "布魯文"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "比林文"
 
@@ -381,11 +351,9 @@ msgid "Medumba"
 msgstr "梅敦巴文"
 
 #: cad
-#: cad
 msgid "Caddo"
 msgstr "卡多文"
 
-#: car
 #: car
 msgid "Carib"
 msgstr "加勒比文"
@@ -403,7 +371,6 @@ msgstr "卡尤加文"
 msgid "Atsam"
 msgstr "阿燦文"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "宿霧文"
@@ -423,7 +390,6 @@ msgid "Chamorro"
 msgstr "查莫洛文"
 
 #: chb
-#: chb
 msgid "Chibcha"
 msgstr "奇布查文"
 
@@ -433,36 +399,29 @@ msgid "Chechen"
 msgstr "車臣文"
 
 #: chg
-#: chg
 msgid "Chagatai"
 msgstr "查加文"
 
-#: chk
 #: chk
 msgid "Chuukese"
 msgstr "處奇斯文"
 
 #: chm
-#: chm
 msgid "Mari"
 msgstr "馬里文"
 
-#: chn
 #: chn
 msgid "Chinook Jargon"
 msgstr "契奴克文"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "喬克托文"
 
 #: chp
-#: chp
 msgid "Chipewyan"
 msgstr "奇佩瓦揚文"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "柴羅基文"
@@ -478,7 +437,6 @@ msgid "Chuvash"
 msgstr "楚瓦什文"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "沙伊安文"
 
@@ -486,7 +444,6 @@ msgstr "沙伊安文"
 msgid "Central Kurdish"
 msgstr "中庫德文"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "科普特文"
@@ -511,7 +468,6 @@ msgid "Cree"
 msgstr "克里文"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "土耳其文（克里米亞半島）"
 
@@ -519,7 +475,6 @@ msgstr "土耳其文（克里米亞半島）"
 msgid "Seselwa Creole French"
 msgstr "塞席爾克里奧爾法文"
 
-#: csb
 #: csb
 msgid "Kashubian"
 msgstr "卡舒布文"
@@ -530,7 +485,6 @@ msgid "Welsh"
 msgstr "威爾斯文"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "達科他文"
 
@@ -539,7 +493,6 @@ msgstr "達科他文"
 msgid "Danish"
 msgstr "丹麥文"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "達爾格瓦文"
@@ -553,11 +506,9 @@ msgid "Swiss High German"
 msgstr "高地德文（瑞士）"
 
 #: del
-#: del
 msgid "Delaware"
 msgstr "德拉瓦文"
 
-#: den
 #: den
 msgid "Slave"
 msgstr "斯拉夫"
@@ -568,11 +519,9 @@ msgid "German"
 msgstr "德文"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "多格里布文"
 
-#: din
 #: din
 msgid "Dinka"
 msgstr "丁卡文"
@@ -587,11 +536,9 @@ msgid "Zarma"
 msgstr "扎爾馬文"
 
 #: doi
-#: doi
 msgid "Dogri"
 msgstr "多格來文"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "下索布文"
@@ -601,11 +548,9 @@ msgid "Central Dusun"
 msgstr "中部杜順文"
 
 #: dua
-#: dua
 msgid "Duala"
 msgstr "杜亞拉文"
 
-#: dum
 #: dum
 msgid "Middle Dutch"
 msgstr "中古荷蘭文"
@@ -614,7 +559,6 @@ msgstr "中古荷蘭文"
 msgid "Jola-Fonyi"
 msgstr "朱拉文"
 
-#: dyu
 #: dyu
 msgid "Dyula"
 msgstr "迪尤拉文"
@@ -633,7 +577,6 @@ msgid "Embu"
 msgstr "恩布文"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "埃菲克文"
 
@@ -642,11 +585,9 @@ msgid "Emilian"
 msgstr "埃米利安文"
 
 #: egy
-#: egy
 msgid "Ancient Egyptian"
 msgstr "古埃及文"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "艾卡朱克文"
@@ -657,7 +598,6 @@ msgid "Greek"
 msgstr "希臘文"
 
 #: elx
-#: elx
 msgid "Elamite"
 msgstr "埃蘭文"
 
@@ -666,7 +606,6 @@ msgstr "埃蘭文"
 msgid "English"
 msgstr "英文"
 
-#: enm
 #: enm
 msgid "Middle English"
 msgstr "中古英文"
@@ -696,7 +635,6 @@ msgid "Ewe"
 msgstr "埃維文"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "依汪都文"
 
@@ -704,7 +642,6 @@ msgstr "依汪都文"
 msgid "Extremaduran"
 msgstr "埃斯特雷馬杜拉文"
 
-#: fan
 #: fan
 msgid "Fang"
 msgstr "芳族文"
@@ -720,7 +657,6 @@ msgid "Persian"
 msgstr "波斯文"
 
 #: fat
-#: fat
 msgid "Fanti"
 msgstr "芳蒂文"
 
@@ -729,7 +665,6 @@ msgstr "芳蒂文"
 msgid "Fijian"
 msgstr "斐濟文"
 
-#: fil
 #: fil
 msgid "Filipino"
 msgstr "菲律賓文"
@@ -744,7 +679,6 @@ msgid "Tornedalen Finnish"
 msgstr "托爾訥芬蘭文"
 
 #: fon
-#: fon
 msgid "Fon"
 msgstr "豐文"
 
@@ -758,11 +692,9 @@ msgid "Cajun French"
 msgstr "卡真法文"
 
 #: frm
-#: frm
 msgid "Middle French"
 msgstr "中古法文"
 
-#: fro
 #: fro
 msgid "Old French"
 msgstr "古法文"
@@ -772,11 +704,9 @@ msgid "Arpitan"
 msgstr "法蘭克-普羅旺斯文"
 
 #: frr
-#: frr
 msgid "Northern Frisian"
 msgstr "北弗里西亞文"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "東弗里西亞文"
@@ -792,11 +722,9 @@ msgid "Fulah"
 msgstr "富拉文"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "弗留利文"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "加族文"
@@ -810,11 +738,9 @@ msgid "Gan Chinese"
 msgstr "贛語"
 
 #: gay
-#: gay
 msgid "Gayo"
 msgstr "加約文"
 
-#: gba
 #: gba
 msgid "Gbaya"
 msgstr "葛巴亞文"
@@ -824,11 +750,9 @@ msgid "Zoroastrian Dari"
 msgstr "索羅亞斯德教達里文"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "吉茲文"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "吉爾伯特群島文"
@@ -858,11 +782,9 @@ msgid "Manx"
 msgstr "曼島文"
 
 #: gmh
-#: gmh
 msgid "Middle High German"
 msgstr "中古高地德文"
 
-#: goh
 #: goh
 msgid "Old High German"
 msgstr "古高地德文"
@@ -872,26 +794,21 @@ msgid "Goan Konkani"
 msgstr "孔卡尼文"
 
 #: gon
-#: gon
 msgid "Gondi"
 msgstr "岡德文"
 
-#: gor
 #: gor
 msgid "Gorontalo"
 msgstr "科隆達羅文"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "哥德文"
 
 #: grb
-#: grb
 msgid "Grebo"
 msgstr "格列博文"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "古希臘文"
@@ -901,7 +818,6 @@ msgstr "古希臘文"
 msgid "Guarani"
 msgstr "瓜拉尼文"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "德文（瑞士）"
@@ -924,11 +840,9 @@ msgid "Gusii"
 msgstr "古西文"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "圭契文"
 
-#: hai
 #: hai
 msgid "Haida"
 msgstr "海達文"
@@ -947,7 +861,6 @@ msgstr "海地文"
 msgid "Hausa"
 msgstr "豪撒文"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "夏威夷文"
@@ -972,7 +885,6 @@ msgid "Fiji Hindi"
 msgstr "斐濟印地文"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "希利蓋農文"
 
@@ -982,11 +894,9 @@ msgid "Hindi"
 msgstr "印地文"
 
 #: hit
-#: hit
 msgid "Hittite"
 msgstr "赫梯文"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "孟文"
@@ -1002,7 +912,6 @@ msgid "Croatian"
 msgstr "克羅埃西亞文"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "上索布文"
 
@@ -1016,7 +925,6 @@ msgid "Hungarian"
 msgstr "匈牙利文"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "胡帕文"
 
@@ -1025,7 +933,6 @@ msgstr "胡帕文"
 msgid "Armenian"
 msgstr "亞美尼亞文"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "伊班文"
@@ -1060,7 +967,6 @@ msgid "Interlingue"
 msgstr "國際文（E）"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "伊洛闊文"
 
@@ -1074,7 +980,6 @@ msgstr "國際文"
 msgid "Indonesian"
 msgstr "印尼文"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "印古什文"
@@ -1108,7 +1013,6 @@ msgid "Javanese"
 msgstr "爪哇文"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "邏輯文"
 
@@ -1126,11 +1030,9 @@ msgid "Japanese"
 msgstr "日文"
 
 #: jpr
-#: jpr
 msgid "Judeo-Persian"
 msgstr "猶太教-波斯文"
 
-#: jrb
 #: jrb
 msgid "Judeo-Arabic"
 msgstr "猶太阿拉伯文"
@@ -1140,16 +1042,13 @@ msgid "Jutish"
 msgstr "日德蘭文"
 
 #: kaa
-#: kaa
 msgid "Kara-Kalpak"
 msgstr "卡拉卡爾帕克文"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "卡比爾文"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "卡琴文"
@@ -1163,7 +1062,6 @@ msgstr "卡捷文"
 msgid "Kalaallisut"
 msgstr "格陵蘭文"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "卡姆巴文"
@@ -1189,7 +1087,6 @@ msgid "Kanuri"
 msgstr "卡努里文"
 
 #: kaw
-#: kaw
 msgid "Kawi"
 msgstr "卡威文"
 
@@ -1198,7 +1095,6 @@ msgstr "卡威文"
 msgid "Kazakh"
 msgstr "哈薩克文"
 
-#: kbd
 #: kbd
 msgid "Kabardian"
 msgstr "卡巴爾達文"
@@ -1232,7 +1128,6 @@ msgid "Kaingang"
 msgstr "坎剛文"
 
 #: kha
-#: kha
 msgid "Khasi"
 msgstr "卡西文"
 
@@ -1241,7 +1136,6 @@ msgstr "卡西文"
 msgid "Khmer"
 msgstr "高棉文"
 
-#: kho
 #: kho
 msgid "Khotanese"
 msgstr "和闐文"
@@ -1282,7 +1176,6 @@ msgid "Kalenjin"
 msgstr "卡倫金文"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "金邦杜文"
 
@@ -1290,7 +1183,6 @@ msgstr "金邦杜文"
 msgid "Komi-Permyak"
 msgstr "科米-彼爾米亞克文"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "貢根文"
@@ -1311,16 +1203,13 @@ msgid "Korean"
 msgstr "韓文"
 
 #: kos
-#: kos
 msgid "Kosraean"
 msgstr "科斯雷恩文"
 
 #: kpe
-#: kpe
 msgid "Kpelle"
 msgstr "克佩列文"
 
-#: krc
 #: krc
 msgid "Karachay-Balkar"
 msgstr "卡拉柴-包爾卡爾文"
@@ -1334,11 +1223,9 @@ msgid "Kinaray-a"
 msgstr "基那來阿文"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "卡累利阿文"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "庫魯科文"
@@ -1361,7 +1248,6 @@ msgid "Kuanyama"
 msgstr "廣亞馬文"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "庫密克文"
 
@@ -1371,11 +1257,9 @@ msgid "Kurdish"
 msgstr "庫德文"
 
 #: kut
-#: kut
 msgid "Kutenai"
 msgstr "庫特奈文"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "拉迪諾文"
@@ -1385,11 +1269,9 @@ msgid "Langi"
 msgstr "朗吉文"
 
 #: lah
-#: lah
 msgid "Lahnda"
 msgstr "拉亨達文"
 
-#: lam
 #: lam
 msgid "Lamba"
 msgstr "蘭巴文"
@@ -1409,7 +1291,6 @@ msgstr "拉丁文"
 msgid "Latvian"
 msgstr "拉脫維亞文"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "列茲干文"
@@ -1450,11 +1331,9 @@ msgid "Lombard"
 msgstr "倫巴底文"
 
 #: lol
-#: lol
 msgid "Mongo"
 msgstr "芒戈文"
 
-#: loz
 #: loz
 msgid "Lozi"
 msgstr "洛齊文"
@@ -1473,7 +1352,6 @@ msgid "Luxembourgish"
 msgstr "盧森堡文"
 
 #: lua
-#: lua
 msgid "Luba-Lulua"
 msgstr "魯巴魯魯亞文"
 
@@ -1488,21 +1366,17 @@ msgid "Ganda"
 msgstr "干達文"
 
 #: lui
-#: lui
 msgid "Luiseno"
 msgstr "路易塞諾文"
 
-#: lun
 #: lun
 msgid "Lunda"
 msgstr "盧恩達文"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "盧奧文"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "米佐文"
@@ -1520,7 +1394,6 @@ msgid "Laz"
 msgstr "拉茲文"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "馬都拉文"
 
@@ -1528,7 +1401,6 @@ msgstr "馬都拉文"
 msgid "Mafa"
 msgstr "馬法文"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "馬加伊文"
@@ -1539,11 +1411,9 @@ msgid "Marshallese"
 msgstr "馬紹爾文"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "邁蒂利文"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "望加錫文"
@@ -1554,7 +1424,6 @@ msgid "Malayalam"
 msgstr "馬來亞拉姆文"
 
 #: man
-#: man
 msgid "Mandingo"
 msgstr "曼丁哥文"
 
@@ -1564,7 +1433,6 @@ msgid "Marathi"
 msgstr "馬拉地文"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "馬賽文"
 
@@ -1573,16 +1441,13 @@ msgid "Maba"
 msgstr "馬巴文"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "莫克沙文"
 
 #: mdr
-#: mdr
 msgid "Mandar"
 msgstr "曼達文"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "門德文"
@@ -1596,7 +1461,6 @@ msgid "Morisyen"
 msgstr "克里奧文（模里西斯）"
 
 #: mga
-#: mga
 msgid "Middle Irish"
 msgstr "中古愛爾蘭文"
 
@@ -1609,11 +1473,9 @@ msgid "Metaʼ"
 msgstr "美塔文"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "米克馬克文"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "米南卡堡文"
@@ -1634,16 +1496,13 @@ msgid "Maltese"
 msgstr "馬爾他文"
 
 #: mnc
-#: mnc
 msgid "Manchu"
 msgstr "滿族文"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "曼尼普爾文"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "莫霍克文"
@@ -1653,7 +1512,6 @@ msgstr "莫霍克文"
 msgid "Mongolian"
 msgstr "蒙古文"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "莫西文"
@@ -1677,21 +1535,17 @@ msgid "Mundang"
 msgstr "蒙當文"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "多種語言"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "克里克文"
 
 #: mwl
-#: mwl
 msgid "Mirandese"
 msgstr "米蘭德斯文"
 
-#: mwr
 #: mwr
 msgid "Marwari"
 msgstr "馬瓦里文"
@@ -1710,7 +1564,6 @@ msgid "Myene"
 msgstr "姆耶內文"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "厄爾茲亞文"
 
@@ -1722,7 +1575,6 @@ msgstr "馬贊德蘭文"
 msgid "Min Nan Chinese"
 msgstr "閩南語"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "拿波里文"
@@ -1757,7 +1609,6 @@ msgid "Ndonga"
 msgstr "恩東加文"
 
 #: nds
-#: nds
 msgid "Low German"
 msgstr "低地德文"
 
@@ -1771,16 +1622,13 @@ msgid "Nepali"
 msgstr "尼泊爾文"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "尼瓦爾文"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "尼亞斯文"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "紐埃文"
@@ -1817,11 +1665,9 @@ msgid "Norwegian Bokmål"
 msgstr "巴克摩挪威文"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "諾蓋文"
 
-#: non
 #: non
 msgid "Old Norse"
 msgstr "古諾爾斯文"
@@ -1836,11 +1682,9 @@ msgid "Novial"
 msgstr "諾維亞文"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "曼德文字 (N’Ko)"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "北索托文"
@@ -1849,7 +1693,6 @@ msgstr "北索托文"
 msgid "Nuer"
 msgstr "努埃爾文"
 
-#: nwc
 #: nwc
 msgid "Classical Newari"
 msgstr "古尼瓦爾文"
@@ -1860,21 +1703,17 @@ msgid "Nyanja"
 msgstr "尼揚賈文"
 
 #: nym
-#: nym
 msgid "Nyamwezi"
 msgstr "尼揚韋齊文"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "尼揚科萊文"
 
 #: nyo
-#: nyo
 msgid "Nyoro"
 msgstr "尼奧囉文"
 
-#: nzi
 #: nzi
 msgid "Nzima"
 msgstr "尼茲馬文"
@@ -1900,7 +1739,6 @@ msgid "Oromo"
 msgstr "奧羅莫文"
 
 #: osa
-#: osa
 msgid "Osage"
 msgstr "歐塞奇文"
 
@@ -1910,21 +1748,17 @@ msgid "Ossetic"
 msgstr "奧塞提文"
 
 #: ota
-#: ota
 msgid "Ottoman Turkish"
 msgstr "鄂圖曼土耳其文"
 
-#: pag
 #: pag
 msgid "Pangasinan"
 msgstr "潘加辛文"
 
 #: pal
-#: pal
 msgid "Pahlavi"
 msgstr "巴列維文"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "潘帕嘉文"
@@ -1935,11 +1769,9 @@ msgid "Punjabi"
 msgstr "旁遮普文"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "帕皮阿門托文"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "帛琉文"
@@ -1961,7 +1793,6 @@ msgid "Plautdietsch"
 msgstr "門諾低地德文"
 
 #: peo
-#: peo
 msgid "Old Persian"
 msgstr "古波斯文"
 
@@ -1969,7 +1800,6 @@ msgstr "古波斯文"
 msgid "Palatine German"
 msgstr "普法爾茨德文"
 
-#: phn
 #: phn
 msgid "Phoenician"
 msgstr "腓尼基文"
@@ -1993,7 +1823,6 @@ msgid "Polish"
 msgstr "波蘭文"
 
 #: pon
-#: pon
 msgid "Pohnpeian"
 msgstr "波那貝文"
 
@@ -2006,7 +1835,6 @@ msgstr "葡萄牙文"
 msgid "Prussian"
 msgstr "普魯士文"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "古普羅旺斯文"
@@ -2030,16 +1858,13 @@ msgid "Chimborazo Highland Quichua"
 msgstr "欽博拉索海蘭蓋丘亞文"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "拉賈斯坦諸文"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "復活島文"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "拉羅通加文"
@@ -2065,7 +1890,6 @@ msgstr "蘭博文"
 msgid "Romansh"
 msgstr "羅曼斯文"
 
-#: rom
 #: rom
 msgid "Romany"
 msgstr "吉普賽文"
@@ -2097,7 +1921,6 @@ msgid "Rundi"
 msgstr "隆迪文"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "羅馬尼亞語系"
 
@@ -2111,7 +1934,6 @@ msgid "Rwa"
 msgstr "羅瓦文"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "桑達韋文"
 
@@ -2121,11 +1943,9 @@ msgid "Sango"
 msgstr "桑戈文"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "雅庫特文"
 
-#: sam
 #: sam
 msgid "Samaritan Aramaic"
 msgstr "薩瑪利亞阿拉姆文"
@@ -2140,11 +1960,9 @@ msgid "Samburu"
 msgstr "薩布魯文"
 
 #: sas
-#: sas
 msgid "Sasak"
 msgstr "撒撒克文"
 
-#: sat
 #: sat
 msgid "Santali"
 msgstr "散塔利文"
@@ -2162,11 +1980,9 @@ msgid "Sangu"
 msgstr "桑古文"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "西西里文"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "蘇格蘭文"
@@ -2192,7 +2008,6 @@ msgid "Seri"
 msgstr "瑟里文"
 
 #: sel
-#: sel
 msgid "Selkup"
 msgstr "塞爾庫普文"
 
@@ -2200,7 +2015,6 @@ msgstr "塞爾庫普文"
 msgid "Koyraboro Senni"
 msgstr "東桑海文"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "古愛爾蘭文"
@@ -2214,7 +2028,6 @@ msgid "Tachelhit"
 msgstr "希爾哈文"
 
 #: shn
-#: shn
 msgid "Shan"
 msgstr "撣文"
 
@@ -2222,7 +2035,6 @@ msgstr "撣文"
 msgid "Chadian Arabic"
 msgstr "阿拉伯文（查德）"
 
-#: sid
 #: sid
 msgid "Sidamo"
 msgstr "希達摩文"
@@ -2251,7 +2063,6 @@ msgid "Selayar"
 msgstr "塞拉亞文"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "南薩米文"
 
@@ -2261,11 +2072,9 @@ msgid "Northern Sami"
 msgstr "北薩米文"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "魯勒薩米文"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "伊納里薩米文"
@@ -2275,7 +2084,6 @@ msgstr "伊納里薩米文"
 msgid "Samoan"
 msgstr "薩摩亞文"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "斯科特薩米文"
@@ -2291,11 +2099,9 @@ msgid "Sindhi"
 msgstr "信德文"
 
 #: snk
-#: snk
 msgid "Soninke"
 msgstr "索尼基文"
 
-#: sog
 #: sog
 msgid "Sogdien"
 msgstr "索格底亞納文"
@@ -2326,7 +2132,6 @@ msgid "Sardinian"
 msgstr "撒丁文"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "蘇拉南東墎文"
 
@@ -2335,7 +2140,6 @@ msgstr "蘇拉南東墎文"
 msgid "Serbian"
 msgstr "塞爾維亞文"
 
-#: srr
 #: srr
 msgid "Serer"
 msgstr "塞雷爾文"
@@ -2354,7 +2158,6 @@ msgid "Saterland Frisian"
 msgstr "沙特菲士蘭文"
 
 #: suk
-#: suk
 msgid "Sukuma"
 msgstr "蘇庫馬文"
 
@@ -2364,11 +2167,9 @@ msgid "Sundanese"
 msgstr "巽他文"
 
 #: sus
-#: sus
 msgid "Susu"
 msgstr "蘇蘇文"
 
-#: sux
 #: sux
 msgid "Sumerian"
 msgstr "蘇美文"
@@ -2392,11 +2193,9 @@ msgid "Swedish"
 msgstr "瑞典文"
 
 #: syc
-#: syc
 msgid "Classical Syriac"
 msgstr "古敘利亞文"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "敘利亞文"
@@ -2430,7 +2229,6 @@ msgid "Telugu"
 msgstr "泰盧固文"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "提姆文"
 
@@ -2439,11 +2237,9 @@ msgid "Teso"
 msgstr "特索文"
 
 #: ter
-#: ter
 msgid "Tereno"
 msgstr "泰雷諾文"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "泰頓文"
@@ -2464,7 +2260,6 @@ msgid "Thai"
 msgstr "泰文"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "蒂格雷文"
 
@@ -2474,11 +2269,9 @@ msgid "Tigrinya"
 msgstr "提格利尼亞文"
 
 #: tiv
-#: tiv
 msgid "Tiv"
 msgstr "提夫文"
 
-#: tkl
 #: tkl
 msgid "Tokelau"
 msgstr "托克勞文"
@@ -2488,11 +2281,9 @@ msgid "Tsakhur"
 msgstr "查庫爾文"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "克林貢文"
 
-#: tli
 #: tli
 msgid "Tlingit"
 msgstr "特林基特文"
@@ -2502,11 +2293,9 @@ msgid "Talysh"
 msgstr "塔里什文"
 
 #: tmh
-#: tmh
 msgid "Tamashek"
 msgstr "塔馬奇克文"
 
-#: tog
 #: tog
 msgid "Nyasa Tonga"
 msgstr "東加文（尼亞薩）"
@@ -2516,7 +2305,6 @@ msgstr "東加文（尼亞薩）"
 msgid "Tongan"
 msgstr "東加文"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "托比辛文"
@@ -2533,7 +2321,6 @@ msgstr "太魯閣文"
 msgid "Tsakonian"
 msgstr "特薩克尼恩文"
 
-#: tsi
 #: tsi
 msgid "Tsimshian"
 msgstr "欽西安文"
@@ -2558,7 +2345,6 @@ msgid "Turkmen"
 msgstr "土庫曼文"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "圖姆布卡文"
 
@@ -2567,7 +2353,6 @@ msgstr "圖姆布卡文"
 msgid "Turkish"
 msgstr "土耳其文"
 
-#: tvl
 #: tvl
 msgid "Tuvalu"
 msgstr "吐瓦魯文"
@@ -2582,7 +2367,6 @@ msgid "Tasawaq"
 msgstr "北桑海文"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "圖瓦文"
 
@@ -2591,11 +2375,9 @@ msgid "Central Atlas Tamazight"
 msgstr "中阿特拉斯塔馬塞特文"
 
 #: udm
-#: udm
 msgid "Udmurt"
 msgstr "烏德穆爾特文"
 
-#: uga
 #: uga
 msgid "Ugaritic"
 msgstr "烏加列文"
@@ -2611,11 +2393,9 @@ msgid "Ukrainian"
 msgstr "烏克蘭文"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "姆本杜文"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "未知語言"
@@ -2630,7 +2410,6 @@ msgstr "烏都文"
 msgid "Uzbek"
 msgstr "烏茲別克文"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "瓦伊文"
@@ -2667,7 +2446,6 @@ msgid "Volapük"
 msgstr "沃拉普克文"
 
 #: vot
-#: vot
 msgid "Votic"
 msgstr "沃提克文"
 
@@ -2684,16 +2462,13 @@ msgid "Walser"
 msgstr "瓦爾瑟文"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "瓦拉莫文"
 
 #: war
-#: war
 msgid "Waray"
 msgstr "瓦瑞文"
 
-#: was
 #: was
 msgid "Washo"
 msgstr "瓦紹文"
@@ -2717,7 +2492,6 @@ msgid "Wu Chinese"
 msgstr "吳語"
 
 #: xal
-#: xal
 msgid "Kalmyk"
 msgstr "卡爾梅克文"
 
@@ -2735,11 +2509,9 @@ msgid "Soga"
 msgstr "索加文"
 
 #: yao
-#: yao
 msgid "Yao"
 msgstr "瑤文"
 
-#: yap
 #: yap
 msgid "Yapese"
 msgstr "雅浦文"
@@ -2771,11 +2543,9 @@ msgid "Cantonese"
 msgstr "粵語"
 
 #: zap
-#: zap
 msgid "Zapotec"
 msgstr "薩波特克文"
 
-#: zbl
 #: zbl
 msgid "Blissymbols"
 msgstr "布列斯符號"
@@ -2784,7 +2554,6 @@ msgstr "布列斯符號"
 msgid "Zeelandic"
 msgstr "西蘭文"
 
-#: zen
 #: zen
 msgid "Zenaga"
 msgstr "澤納加文"
@@ -2817,16 +2586,13 @@ msgid "Zulu"
 msgstr "祖魯文"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "祖尼文"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "無語言內容"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "扎扎文"

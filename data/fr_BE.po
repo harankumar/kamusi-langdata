@@ -6,11 +6,9 @@ msgid "Arpitan"
 msgstr "franco-provençal"
 
 #: goh
-#: goh
 msgid "Old High German"
 msgstr "ancien haut-allemand"
 
-#: got
 #: got
 msgid "Gothic"
 msgstr "gotique"
@@ -25,7 +23,6 @@ msgid "Ao Naga"
 msgstr "ao"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "same du Sud"
 
@@ -35,16 +32,13 @@ msgid "Northern Sami"
 msgstr "same du Nord"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "same de Lule"
 
 #: smn
-#: smn
 msgid "Inari Sami"
 msgstr "same d’Inari"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "same skolt"

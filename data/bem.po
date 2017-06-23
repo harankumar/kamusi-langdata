@@ -22,7 +22,6 @@ msgid "Belarusian"
 msgstr "Ichi Belarus"
 
 #: bem
-#: bem
 msgid "Bemba"
 msgstr "Ichibemba"
 

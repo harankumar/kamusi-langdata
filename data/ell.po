@@ -12,26 +12,21 @@ msgid "Abkhazian"
 msgstr "Αμπχαζικά"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "Αχινίζ"
 
-#: ach
 #: ach
 msgid "Acoli"
 msgstr "Ακολί"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "Αντάνγκμε"
 
 #: ady
-#: ady
 msgid "Adyghe"
 msgstr "Αντιγκέα"
 
-#: afh
 #: afh
 msgid "Afrihili"
 msgstr "Αφριχίλι"
@@ -46,7 +41,6 @@ msgid "Aghem"
 msgstr "Αγκέμ"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "Αϊνού"
 
@@ -56,16 +50,13 @@ msgid "Akan"
 msgstr "Ακάν"
 
 #: akk
-#: akk
 msgid "Akkadian"
 msgstr "Ακάντιαν"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "Αλούτ"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "Νότια Αλαταϊκά"
@@ -76,11 +67,9 @@ msgid "Amharic"
 msgstr "Αμαρικά"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "Παλαιά Αγγλικά"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "Ανγκικά"
@@ -95,7 +84,6 @@ msgid "Arabic"
 msgstr "Αραβικά"
 
 #: arc
-#: arc
 msgid "Aramaic"
 msgstr "Αραμαϊκά"
 
@@ -105,16 +93,13 @@ msgid "Aragonese"
 msgstr "Αραγκονικά"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "Αρουκάνιαν"
 
 #: arp
-#: arp
 msgid "Arapaho"
 msgstr "Αράπαχο"
 
-#: arw
 #: arw
 msgid "Arawak"
 msgstr "Αραγουάκ"
@@ -129,7 +114,6 @@ msgid "Assamese"
 msgstr "Ασαμεζικά"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "Αστουριανά"
 
@@ -143,7 +127,6 @@ msgstr "Άβαρικ"
 msgid "Avestan"
 msgstr "Αβεστάν"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "Αγουαντί"
@@ -168,7 +151,6 @@ msgid "Bashkir"
 msgstr "Μπασκίρ"
 
 #: bal
-#: bal
 msgid "Baluchi"
 msgstr "Μπαλούτσι"
 
@@ -178,11 +160,9 @@ msgid "Bambara"
 msgstr "Μπαμπάρα"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "Μπαλινίζ"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "Μπάσα"
@@ -196,7 +176,6 @@ msgid "Ghomala"
 msgstr "Γκομάλα"
 
 #: bej
-#: bej
 msgid "Beja"
 msgstr "Μπέζα"
 
@@ -205,7 +184,6 @@ msgstr "Μπέζα"
 msgid "Belarusian"
 msgstr "Λευκορωσικά"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "Μπέμπα"
@@ -228,16 +206,13 @@ msgid "Western Balochi"
 msgstr "Δυτικά Μπαλοχικά"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "Μποζπούρι"
 
 #: bik
-#: bik
 msgid "Bikol"
 msgstr "Μπικόλ"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "Μπίνι"
@@ -252,7 +227,6 @@ msgid "Kom"
 msgstr "Κομ"
 
 #: bla
-#: bla
 msgid "Siksika"
 msgstr "Σικσίκα"
 
@@ -266,7 +240,6 @@ msgstr "Θιβετιανά"
 msgid "Bosnian"
 msgstr "Βοσνιακά"
 
-#: bra
 #: bra
 msgid "Braj"
 msgstr "Μπρατζ"
@@ -285,11 +258,9 @@ msgid "Akoose"
 msgstr "Ακόσι"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "Μπουριάτ"
 
-#: bug
 #: bug
 msgid "Buginese"
 msgstr "Μπουγκίζ"
@@ -304,7 +275,6 @@ msgid "Bulu"
 msgstr "Μπουλού"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "Μπλιν"
 
@@ -313,11 +283,9 @@ msgid "Medumba"
 msgstr "Μεντούμπα"
 
 #: cad
-#: cad
 msgid "Caddo"
 msgstr "Κάντο"
 
-#: car
 #: car
 msgid "Carib"
 msgstr "Καρίμπ"
@@ -335,7 +303,6 @@ msgstr "Καγιούγκα"
 msgid "Atsam"
 msgstr "Ατσάμ"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "Κεμπουάνο"
@@ -355,7 +322,6 @@ msgid "Chamorro"
 msgstr "Καμόρρο"
 
 #: chb
-#: chb
 msgid "Chibcha"
 msgstr "Τσίμπτσα"
 
@@ -365,36 +331,29 @@ msgid "Chechen"
 msgstr "Τσετσενικά"
 
 #: chg
-#: chg
 msgid "Chagatai"
 msgstr "Τσαγκατάι"
 
-#: chk
 #: chk
 msgid "Chuukese"
 msgstr "Τσουκίζι"
 
 #: chm
-#: chm
 msgid "Mari"
 msgstr "Μάρι"
 
-#: chn
 #: chn
 msgid "Chinook Jargon"
 msgstr "Ιδιωματικά Σινούκ"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "Τσοκτάου"
 
 #: chp
-#: chp
 msgid "Chipewyan"
 msgstr "Τσίπιουαν"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "Τσερόκι"
@@ -410,7 +369,6 @@ msgid "Chuvash"
 msgstr "Τσουβασικά"
 
 #: chy
-#: chy
 msgid "Cheyenne"
 msgstr "Σεγιέν"
 
@@ -418,7 +376,6 @@ msgstr "Σεγιέν"
 msgid "Central Kurdish"
 msgstr "Κουρδικά Σοράνι"
 
-#: cop
 #: cop
 msgid "Coptic"
 msgstr "Κοπτικά"
@@ -439,7 +396,6 @@ msgid "Cree"
 msgstr "Κρι"
 
 #: crh
-#: crh
 msgid "Crimean Turkish"
 msgstr "Τουρκικά Κριμαίας"
 
@@ -447,7 +403,6 @@ msgstr "Τουρκικά Κριμαίας"
 msgid "Seselwa Creole French"
 msgstr "Κρεολικά Γαλλικά Σεϋχελλών"
 
-#: csb
 #: csb
 msgid "Kashubian"
 msgstr "Κασούμπιαν"
@@ -458,7 +413,6 @@ msgid "Welsh"
 msgstr "Ουαλικά"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "Ντακότα"
 
@@ -467,7 +421,6 @@ msgstr "Ντακότα"
 msgid "Danish"
 msgstr "Δανικά"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "Ντάργκουα"
@@ -485,11 +438,9 @@ msgid "Swiss High German"
 msgstr "Άνω Γερμανικά Ελβετίας"
 
 #: del
-#: del
 msgid "Delaware"
 msgstr "Ντέλαγουερ"
 
-#: den
 #: den
 msgid "Slave"
 msgstr "Σλαβικά"
@@ -500,11 +451,9 @@ msgid "German"
 msgstr "Γερμανικά"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "Ντόγκριμπ"
 
-#: din
 #: din
 msgid "Dinka"
 msgstr "Ντίνκα"
@@ -519,21 +468,17 @@ msgid "Zarma"
 msgstr "Ζάρμα"
 
 #: doi
-#: doi
 msgid "Dogri"
 msgstr "Ντόγκρι"
 
-#: dsb
 #: dsb
 msgid "Lower Sorbian"
 msgstr "Γλώσσα Κάτω Λουσατίας"
 
 #: dua
-#: dua
 msgid "Duala"
 msgstr "Ντουάλα"
 
-#: dum
 #: dum
 msgid "Middle Dutch"
 msgstr "Μέσα Ολλανδικά"
@@ -542,7 +487,6 @@ msgstr "Μέσα Ολλανδικά"
 msgid "Jola-Fonyi"
 msgstr "Τζόλα-Φόνι"
 
-#: dyu
 #: dyu
 msgid "Dyula"
 msgstr "Ντογιούλα"
@@ -561,16 +505,13 @@ msgid "Embu"
 msgstr "Έμπου"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "Εφίκ"
 
 #: egy
-#: egy
 msgid "Ancient Egyptian"
 msgstr "Αρχαία Αιγυπτιακά"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "Εκατζούκ"
@@ -580,7 +521,6 @@ msgstr "Εκατζούκ"
 msgid "Greek"
 msgstr "Ελληνικά"
 
-#: elx
 #: elx
 msgid "Elamite"
 msgstr "Ελαμάιτ"
@@ -614,7 +554,6 @@ msgstr "Αγγλικά ΗΠΑ"
 msgid "English"
 msgstr "Αγγλικά"
 
-#: enm
 #: enm
 msgid "Middle English"
 msgstr "Μέσα Αγγλικά"
@@ -652,11 +591,9 @@ msgid "Ewe"
 msgstr "Γι"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "Εγουόντο"
 
-#: fan
 #: fan
 msgid "Fang"
 msgstr "Φανγκ"
@@ -672,7 +609,6 @@ msgid "Persian"
 msgstr "Περσικά"
 
 #: fat
-#: fat
 msgid "Fanti"
 msgstr "Φάντι"
 
@@ -682,7 +618,6 @@ msgid "Fijian"
 msgstr "Φίτζι"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Φιλιππινεζικά"
 
@@ -691,7 +626,6 @@ msgstr "Φιλιππινεζικά"
 msgid "Finnish"
 msgstr "Φινλανδικά"
 
-#: fon
 #: fon
 msgid "Fon"
 msgstr "Φον"
@@ -710,21 +644,17 @@ msgid "French"
 msgstr "Γαλλικά"
 
 #: frm
-#: frm
 msgid "Middle French"
 msgstr "Μέσα Γαλλικά"
 
-#: fro
 #: fro
 msgid "Old French"
 msgstr "Παλαιά Γαλλικά"
 
 #: frr
-#: frr
 msgid "Northern Frisian"
 msgstr "Βόρεια Φριζιανά"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "Ανατολικά Φριζιανά"
@@ -740,11 +670,9 @@ msgid "Fulah"
 msgstr "Φουλάχ"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "Φριούλιαν"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "Γκα"
@@ -754,21 +682,17 @@ msgid "Gagauz"
 msgstr "Γκαγκάουζ"
 
 #: gay
-#: gay
 msgid "Gayo"
 msgstr "Γκάγιο"
 
-#: gba
 #: gba
 msgid "Gbaya"
 msgstr "Γκμπάγια"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "Γκιζ"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "Γκιλμπερτίζ"
@@ -794,36 +718,29 @@ msgid "Manx"
 msgstr "Μανξ"
 
 #: gmh
-#: gmh
 msgid "Middle High German"
 msgstr "Μέσα Άνω Γερμανικά"
 
-#: goh
 #: goh
 msgid "Old High German"
 msgstr "Παλαιά Άνω Γερμανικά"
 
 #: gon
-#: gon
 msgid "Gondi"
 msgstr "Γκόντι"
 
-#: gor
 #: gor
 msgid "Gorontalo"
 msgstr "Γκοροντάλο"
 
 #: got
-#: got
 msgid "Gothic"
 msgstr "Γοτθικά"
 
 #: grb
-#: grb
 msgid "Grebo"
 msgstr "Γκρίμπο"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "Αρχαία Ελληνικά"
@@ -833,7 +750,6 @@ msgstr "Αρχαία Ελληνικά"
 msgid "Guarani"
 msgstr "Γκουαρανί"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "Γερμανικά Ελβετίας"
@@ -848,11 +764,9 @@ msgid "Gusii"
 msgstr "Γκούσι"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "Γκουίτσιν"
 
-#: hai
 #: hai
 msgid "Haida"
 msgstr "Χάιντα"
@@ -867,7 +781,6 @@ msgstr "Αϊτιανά"
 msgid "Hausa"
 msgstr "Χάουσα"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "Χαβανεζικά"
@@ -888,7 +801,6 @@ msgid "Herero"
 msgstr "Χερέρο"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "Χιλιγκαγιόν"
 
@@ -898,11 +810,9 @@ msgid "Hindi"
 msgstr "Χίντι"
 
 #: hit
-#: hit
 msgid "Hittite"
 msgstr "Χιτίτε"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "Χμονγκ"
@@ -918,7 +828,6 @@ msgid "Croatian"
 msgstr "Κροατικά"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "Γλώσσα Άνω Λουσατίας"
 
@@ -928,7 +837,6 @@ msgid "Hungarian"
 msgstr "Ουγγρικά"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "Χούπα"
 
@@ -937,7 +845,6 @@ msgstr "Χούπα"
 msgid "Armenian"
 msgstr "Αρμενικά"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "Ιμπάν"
@@ -972,7 +879,6 @@ msgid "Interlingue"
 msgstr "Ιντερλίνγκουε"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "Ιλόκο"
 
@@ -986,7 +892,6 @@ msgstr "Ιντερλίνγκουα"
 msgid "Indonesian"
 msgstr "Ινδονησιακά"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "Ινγκούς"
@@ -1012,7 +917,6 @@ msgid "Javanese"
 msgstr "Ιαβανεζικά"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "Λόζμπαν"
 
@@ -1030,26 +934,21 @@ msgid "Japanese"
 msgstr "Ιαπωνικά"
 
 #: jpr
-#: jpr
 msgid "Judeo-Persian"
 msgstr "Ιουδαϊκά-Περσικά"
 
-#: jrb
 #: jrb
 msgid "Judeo-Arabic"
 msgstr "Ιουδαϊκά-Αραβικά"
 
 #: kaa
-#: kaa
 msgid "Kara-Kalpak"
 msgstr "Κάρα-Καλπάκ"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "Καμπίλε"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "Κατσίν"
@@ -1063,7 +962,6 @@ msgstr "Τζου"
 msgid "Kalaallisut"
 msgstr "Καλαάλισουτ"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "Κάμπα"
@@ -1089,7 +987,6 @@ msgid "Kanuri"
 msgstr "Κανούρι"
 
 #: kaw
-#: kaw
 msgid "Kawi"
 msgstr "Κάουι"
 
@@ -1098,7 +995,6 @@ msgstr "Κάουι"
 msgid "Kazakh"
 msgstr "Καζακικά"
 
-#: kbd
 #: kbd
 msgid "Kabardian"
 msgstr "Καμπαρντιανά"
@@ -1124,7 +1020,6 @@ msgid "Koro"
 msgstr "Κόρο"
 
 #: kha
-#: kha
 msgid "Khasi"
 msgstr "Κάσι"
 
@@ -1133,7 +1028,6 @@ msgstr "Κάσι"
 msgid "Khmer"
 msgstr "Καμποτζιανά"
 
-#: kho
 #: kho
 msgid "Khotanese"
 msgstr "Κοτανικά"
@@ -1166,7 +1060,6 @@ msgid "Kalenjin"
 msgstr "Καλεντζίν"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "Κιμπούντου"
 
@@ -1174,7 +1067,6 @@ msgstr "Κιμπούντου"
 msgid "Komi-Permyak"
 msgstr "Κόμι-Περμιάκ"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "Κονκάνι"
@@ -1195,26 +1087,21 @@ msgid "Korean"
 msgstr "Κορεατικά"
 
 #: kos
-#: kos
 msgid "Kosraean"
 msgstr "Κοσραενικά"
 
-#: kpe
 #: kpe
 msgid "Kpelle"
 msgstr "Κπέλε"
 
 #: krc
-#: krc
 msgid "Karachay-Balkar"
 msgstr "Καρατσάι-Μπαλκάρ"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "Καρελιακά"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "Κουρούχ"
@@ -1237,7 +1124,6 @@ msgid "Kuanyama"
 msgstr "Κουανιγιάμα"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "Κουμγιούκ"
 
@@ -1247,11 +1133,9 @@ msgid "Kurdish"
 msgstr "Κουρδικά"
 
 #: kut
-#: kut
 msgid "Kutenai"
 msgstr "Κουτενάι"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "Λαδίνο"
@@ -1261,11 +1145,9 @@ msgid "Langi"
 msgstr "Λάνγκι"
 
 #: lah
-#: lah
 msgid "Lahnda"
 msgstr "Λάχδα"
 
-#: lam
 #: lam
 msgid "Lamba"
 msgstr "Λάμπα"
@@ -1285,7 +1167,6 @@ msgstr "Λατινικά"
 msgid "Latvian"
 msgstr "Λετονικά"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "Λαζγκιάν"
@@ -1310,11 +1191,9 @@ msgid "Lakota"
 msgstr "Λακότα"
 
 #: lol
-#: lol
 msgid "Mongo"
 msgstr "Μόνγκο"
 
-#: loz
 #: loz
 msgid "Lozi"
 msgstr "Λόζι"
@@ -1328,7 +1207,6 @@ msgstr "Βόρεια Λούρι"
 msgid "Luxembourgish"
 msgstr "Λουξεμβουργιανά"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "Λούμπα-Λουλούα"
@@ -1344,21 +1222,17 @@ msgid "Ganda"
 msgstr "Γκάντα"
 
 #: lui
-#: lui
 msgid "Luiseno"
 msgstr "Λουισένο"
 
-#: lun
 #: lun
 msgid "Lunda"
 msgstr "Λούντα"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "Λούο"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "Λουσάι"
@@ -1368,7 +1242,6 @@ msgid "Luyia"
 msgstr "Λουχία"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "Μαντουρίζ"
 
@@ -1376,7 +1249,6 @@ msgstr "Μαντουρίζ"
 msgid "Mafa"
 msgstr "Μάφα"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "Μαγκάχι"
@@ -1387,11 +1259,9 @@ msgid "Marshallese"
 msgstr "Μάρσαλ"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "Μαϊτχίλι"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "Μακαζάρ"
@@ -1402,7 +1272,6 @@ msgid "Malayalam"
 msgstr "Μαλαγιαλάμ"
 
 #: man
-#: man
 msgid "Mandingo"
 msgstr "Μαντίνγκο"
 
@@ -1412,7 +1281,6 @@ msgid "Marathi"
 msgstr "Μαράθι"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "Μασάι"
 
@@ -1421,16 +1289,13 @@ msgid "Maba"
 msgstr "Μάμπα"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "Μόκσα"
 
 #: mdr
-#: mdr
 msgid "Mandar"
 msgstr "Μανδάρ"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "Μέντε"
@@ -1444,7 +1309,6 @@ msgid "Morisyen"
 msgstr "Μορίσιεν"
 
 #: mga
-#: mga
 msgid "Middle Irish"
 msgstr "Μέσα Ιρλανδικά"
 
@@ -1457,11 +1321,9 @@ msgid "Metaʼ"
 msgstr "Μετά"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "Μικμάκ"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "Μινανγκαμπάου"
@@ -1482,16 +1344,13 @@ msgid "Maltese"
 msgstr "Μαλτεζικά"
 
 #: mnc
-#: mnc
 msgid "Manchu"
 msgstr "Μαντσού"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "Μανιπούρι"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "Μοχόκ"
@@ -1501,7 +1360,6 @@ msgstr "Μοχόκ"
 msgid "Mongolian"
 msgstr "Μογγολικά"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "Μόσι"
@@ -1521,21 +1379,17 @@ msgid "Mundang"
 msgstr "Μουντάνγκ"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "Πολλαπλές γλώσσες"
 
-#: mus
 #: mus
 msgid "Creek"
 msgstr "Κρικ"
 
 #: mwl
-#: mwl
 msgid "Mirandese"
 msgstr "Μιραντεζικά"
 
-#: mwr
 #: mwr
 msgid "Marwari"
 msgstr "Μαργουάρι"
@@ -1550,7 +1404,6 @@ msgid "Myene"
 msgstr "Μιένε"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "Έρζυα"
 
@@ -1558,7 +1411,6 @@ msgstr "Έρζυα"
 msgid "Mazanderani"
 msgstr "Μαζαντεράνι"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "Ναπολιτανικά"
@@ -1593,7 +1445,6 @@ msgid "Ndonga"
 msgstr "Ντόνγκα"
 
 #: nds
-#: nds
 msgid "Low German"
 msgstr "Κάτω Γερμανικά"
 
@@ -1607,16 +1458,13 @@ msgid "Nepali"
 msgstr "Νεπάλι"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "Νεγουάρι"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "Νίας"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "Νιούεαν"
@@ -1649,11 +1497,9 @@ msgid "Norwegian Bokmål"
 msgstr "Νορβηγικά Μποκμάλ"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "Νογκάι"
 
-#: non
 #: non
 msgid "Old Norse"
 msgstr "Παλαιά Νορβηγικά"
@@ -1664,11 +1510,9 @@ msgid "Norwegian"
 msgstr "Νορβηγικά"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "Ν’Κο"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "Βόρεια Σόθο"
@@ -1677,7 +1521,6 @@ msgstr "Βόρεια Σόθο"
 msgid "Nuer"
 msgstr "Νουέρ"
 
-#: nwc
 #: nwc
 msgid "Classical Newari"
 msgstr "Κλασικά Νεουάρι"
@@ -1688,21 +1531,17 @@ msgid "Nyanja"
 msgstr "Νιάντζα"
 
 #: nym
-#: nym
 msgid "Nyamwezi"
 msgstr "Νιαμγουέζι"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "Νιανκόλε"
 
 #: nyo
-#: nyo
 msgid "Nyoro"
 msgstr "Νιόρο"
 
-#: nzi
 #: nzi
 msgid "Nzima"
 msgstr "Νζίμα"
@@ -1728,7 +1567,6 @@ msgid "Oromo"
 msgstr "Ορόμο"
 
 #: osa
-#: osa
 msgid "Osage"
 msgstr "Οσάζ"
 
@@ -1738,21 +1576,17 @@ msgid "Ossetic"
 msgstr "Οσετικά"
 
 #: ota
-#: ota
 msgid "Ottoman Turkish"
 msgstr "Οθωμανικά Τουρκικά"
 
-#: pag
 #: pag
 msgid "Pangasinan"
 msgstr "Πανγκασινάν"
 
 #: pal
-#: pal
 msgid "Pahlavi"
 msgstr "Παχλάβι"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "Παμπάνγκα"
@@ -1763,11 +1597,9 @@ msgid "Punjabi"
 msgstr "Παντζαπικά"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "Παπιαμέντο"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "Παλάουαν"
@@ -1777,11 +1609,9 @@ msgid "Nigerian Pidgin"
 msgstr "Πίτζιν Νιγηρίας"
 
 #: peo
-#: peo
 msgid "Old Persian"
 msgstr "Αρχαία Περσικά"
 
-#: phn
 #: phn
 msgid "Phoenician"
 msgstr "Φοινικικά"
@@ -1797,7 +1627,6 @@ msgid "Polish"
 msgstr "Πολωνικά"
 
 #: pon
-#: pon
 msgid "Pohnpeian"
 msgstr "Πομπηικά"
 
@@ -1810,7 +1639,6 @@ msgstr "Πορτογαλικά"
 msgid "Prussian"
 msgstr "Πρωσικά"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "Παλαιά Προβανσάλ"
@@ -1838,16 +1666,13 @@ msgid "Quechua"
 msgstr "Κετσούα"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "Ραζασθάνι"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "Ραπανούι"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "Ραροτονγκάν"
@@ -1865,7 +1690,6 @@ msgstr "Ρόμπο"
 msgid "Romansh"
 msgstr "Ρομανικά"
 
-#: rom
 #: rom
 msgid "Romany"
 msgstr "Ρομανί"
@@ -1885,7 +1709,6 @@ msgid "Rundi"
 msgstr "Ρούντι"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "Αρομανικά"
 
@@ -1899,7 +1722,6 @@ msgid "Rwa"
 msgstr "Ρουά"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "Σαντάγουε"
 
@@ -1909,11 +1731,9 @@ msgid "Sango"
 msgstr "Σάνγκο"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "Γιακούτ"
 
-#: sam
 #: sam
 msgid "Samaritan Aramaic"
 msgstr "Σαμαρίτικα Αραμαϊκά"
@@ -1928,11 +1748,9 @@ msgid "Samburu"
 msgstr "Σαμπούρου"
 
 #: sas
-#: sas
 msgid "Sasak"
 msgstr "Σασάκ"
 
-#: sat
 #: sat
 msgid "Santali"
 msgstr "Σαντάλι"
@@ -1946,11 +1764,9 @@ msgid "Sangu"
 msgstr "Σάνγκου"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "Σικελιανά"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "Σκωτικά"
@@ -1968,7 +1784,6 @@ msgid "Sena"
 msgstr "Σένα"
 
 #: sel
-#: sel
 msgid "Selkup"
 msgstr "Σελκούπ"
 
@@ -1976,7 +1791,6 @@ msgstr "Σελκούπ"
 msgid "Koyraboro Senni"
 msgstr "Κοϊραμπόρο Σένι"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "Παλαιά Ιρλανδικά"
@@ -1986,7 +1800,6 @@ msgid "Tachelhit"
 msgstr "Τασελχίτ"
 
 #: shn
-#: shn
 msgid "Shan"
 msgstr "Σαν"
 
@@ -1994,7 +1807,6 @@ msgstr "Σαν"
 msgid "Chadian Arabic"
 msgstr "Αραβικά του Τσαντ"
 
-#: sid
 #: sid
 msgid "Sidamo"
 msgstr "Σιντάμο"
@@ -2015,7 +1827,6 @@ msgid "Slovenian"
 msgstr "Σλοβενικά"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "Νότια Σάμι"
 
@@ -2025,11 +1836,9 @@ msgid "Northern Sami"
 msgstr "Βόρεια Σάμι"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "Λούλε Σάμι"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "Ινάρι Σάμι"
@@ -2039,7 +1848,6 @@ msgstr "Ινάρι Σάμι"
 msgid "Samoan"
 msgstr "Σαμόαν"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "Σκολτ Σάμι"
@@ -2055,11 +1863,9 @@ msgid "Sindhi"
 msgstr "Σίντι"
 
 #: snk
-#: snk
 msgid "Soninke"
 msgstr "Σονίνκε"
 
-#: sog
 #: sog
 msgid "Sogdien"
 msgstr "Σογκντιέν"
@@ -2090,7 +1896,6 @@ msgid "Sardinian"
 msgstr "Σαρδινικά"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "Σρανάν Τόνγκο"
 
@@ -2099,7 +1904,6 @@ msgstr "Σρανάν Τόνγκο"
 msgid "Serbian"
 msgstr "Σερβικά"
 
-#: srr
 #: srr
 msgid "Serer"
 msgstr "Σερέρ"
@@ -2114,7 +1918,6 @@ msgid "Saho"
 msgstr "Σάχο"
 
 #: suk
-#: suk
 msgid "Sukuma"
 msgstr "Σουκούμα"
 
@@ -2124,11 +1927,9 @@ msgid "Sundanese"
 msgstr "Σουνδανικά"
 
 #: sus
-#: sus
 msgid "Susu"
 msgstr "Σούσου"
 
-#: sux
 #: sux
 msgid "Sumerian"
 msgstr "Σουμερικά"
@@ -2152,11 +1953,9 @@ msgid "Swedish"
 msgstr "Σουηδικά"
 
 #: syc
-#: syc
 msgid "Classical Syriac"
 msgstr "Κλασικά Συριακά"
 
-#: syr
 #: syr
 msgid "Syriac"
 msgstr "Συριακά"
@@ -2182,7 +1981,6 @@ msgid "Telugu"
 msgstr "Τελούγκου"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "Τίμνε"
 
@@ -2191,11 +1989,9 @@ msgid "Teso"
 msgstr "Τέσο"
 
 #: ter
-#: ter
 msgid "Tereno"
 msgstr "Τερένο"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "Τέτουμ"
@@ -2216,7 +2012,6 @@ msgid "Thai"
 msgstr "Ταϊλανδικά"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "Τίγκρε"
 
@@ -2226,31 +2021,25 @@ msgid "Tigrinya"
 msgstr "Τιγκρινικά"
 
 #: tiv
-#: tiv
 msgid "Tiv"
 msgstr "Τιβ"
 
-#: tkl
 #: tkl
 msgid "Tokelau"
 msgstr "Τοκελάου"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "Κλίνγκον"
 
-#: tli
 #: tli
 msgid "Tlingit"
 msgstr "Τλίνγκιτ"
 
 #: tmh
-#: tmh
 msgid "Tamashek"
 msgstr "Ταμασέκ"
 
-#: tog
 #: tog
 msgid "Nyasa Tonga"
 msgstr "Νιάσα Τόνγκα"
@@ -2261,7 +2050,6 @@ msgid "Tongan"
 msgstr "Τονγκανικά"
 
 #: tpi
-#: tpi
 msgid "Tok Pisin"
 msgstr "Τοκ Πισίν"
 
@@ -2269,7 +2057,6 @@ msgstr "Τοκ Πισίν"
 msgid "Taroko"
 msgstr "Ταρόκο"
 
-#: tsi
 #: tsi
 msgid "Tsimshian"
 msgstr "Τσίμσιαν"
@@ -2290,7 +2077,6 @@ msgid "Turkmen"
 msgstr "Τουρκμενικά"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "Τουμπούκα"
 
@@ -2299,7 +2085,6 @@ msgstr "Τουμπούκα"
 msgid "Turkish"
 msgstr "Τουρκικά"
 
-#: tvl
 #: tvl
 msgid "Tuvalu"
 msgstr "Τουβαλού"
@@ -2314,7 +2099,6 @@ msgid "Tasawaq"
 msgstr "Τασαβάκ"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "Τουβινικά"
 
@@ -2323,7 +2107,6 @@ msgid "Central Atlas Tamazight"
 msgstr "Ταμαζίτ Κεντρικού Μαρόκο"
 
 #: udm
-#: udm
 msgid "Udmurt"
 msgstr "Ουντμούρτ"
 
@@ -2331,7 +2114,6 @@ msgstr "Ουντμούρτ"
 msgid "Uighur"
 msgstr "Ουιγκούρ"
 
-#: uga
 #: uga
 msgid "Ugaritic"
 msgstr "Ουγκαριτικά"
@@ -2347,11 +2129,9 @@ msgid "Ukrainian"
 msgstr "Ουκρανικά"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "Ουμπούντου"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "Άγνωστη γλώσσα"
@@ -2366,7 +2146,6 @@ msgstr "Ουρντού"
 msgid "Uzbek"
 msgstr "Ουζμπεκικά"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "Βάι"
@@ -2387,7 +2166,6 @@ msgid "Volapük"
 msgstr "Βόλαπικ"
 
 #: vot
-#: vot
 msgid "Votic"
 msgstr "Βότικ"
 
@@ -2400,16 +2178,13 @@ msgid "Walser"
 msgstr "Βάλσερ"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "Γουάλαμο"
 
 #: war
-#: war
 msgid "Waray"
 msgstr "Γουάρει"
 
-#: was
 #: was
 msgid "Washo"
 msgstr "Γουασό"
@@ -2429,7 +2204,6 @@ msgid "Wolof"
 msgstr "Γουόλοφ"
 
 #: xal
-#: xal
 msgid "Kalmyk"
 msgstr "Καλμίκ"
 
@@ -2443,11 +2217,9 @@ msgid "Soga"
 msgstr "Σόγκα"
 
 #: yao
-#: yao
 msgid "Yao"
 msgstr "Γιάο"
 
-#: yap
 #: yap
 msgid "Yapese"
 msgstr "Γιαπίζ"
@@ -2475,16 +2247,13 @@ msgid "Cantonese"
 msgstr "Καντονέζικα"
 
 #: zap
-#: zap
 msgid "Zapotec"
 msgstr "Ζάποτεκ"
 
 #: zbl
-#: zbl
 msgid "Blissymbols"
 msgstr "Σύμβολα Bliss"
 
-#: zen
 #: zen
 msgid "Zenaga"
 msgstr "Ζενάγκα"
@@ -2517,16 +2286,13 @@ msgid "Zulu"
 msgstr "Ζουλού"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "Ζούνι"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "Χωρίς γλωσσολογικό περιεχόμενο"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "Ζάζα"

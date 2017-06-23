@@ -35,7 +35,6 @@ msgid "Arabic"
 msgstr "árabi"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "araukanu"
 
@@ -77,7 +76,6 @@ msgstr "bambara"
 msgid "Belarusian"
 msgstr "bielorusu"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "bemba"
@@ -135,7 +133,6 @@ msgid "Chechen"
 msgstr "txetxenu"
 
 #: chr
-#: chr
 msgid "Cherokee"
 msgstr "xeroki"
 
@@ -190,11 +187,9 @@ msgid "Zarma"
 msgstr "zarma"
 
 #: dsb
-#: dsb
 msgid "Lower Sorbian"
 msgstr "sórbiu baxu"
 
-#: dua
 #: dua
 msgid "Duala"
 msgstr "duala"
@@ -294,7 +289,6 @@ msgid "Fijian"
 msgstr "fijianu"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "filipinu"
 
@@ -346,7 +340,6 @@ msgid "Guarani"
 msgstr "guarani"
 
 #: gsw
-#: gsw
 msgid "Swiss German"
 msgstr "alimãu suísu"
 
@@ -370,7 +363,6 @@ msgid "Hausa"
 msgstr "auza"
 
 #: haw
-#: haw
 msgid "Hawaiian"
 msgstr "avaianu"
 
@@ -389,7 +381,6 @@ msgstr "indi"
 msgid "Croatian"
 msgstr "kroata"
 
-#: hsb
 #: hsb
 msgid "Upper Sorbian"
 msgstr "sórbiu altu"
@@ -453,7 +444,6 @@ msgid "Japanese"
 msgstr "japones"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "kabila"
 
@@ -462,7 +452,6 @@ msgstr "kabila"
 msgid "Kalaallisut"
 msgstr "groenlandes"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "kamba"
@@ -523,7 +512,6 @@ msgstr "kalenjin"
 msgid "Komi-Permyak"
 msgstr "komi-permiak"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "konkani"
@@ -731,7 +719,6 @@ msgid "Slovenian"
 msgstr "slovéniu"
 
 #: smn
-#: smn
 msgid "Inari Sami"
 msgstr "inari sami"
 
@@ -839,7 +826,6 @@ msgid "Ukrainian"
 msgstr "ukranianu"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "língua diskonxedu"
 
@@ -891,7 +877,6 @@ msgstr "xines"
 msgid "Zulu"
 msgstr "zulu"
 
-#: zxx
 #: zxx
 msgid "No linguistic content"
 msgstr "sen kontiudu linguístiku"

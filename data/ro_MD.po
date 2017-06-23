@@ -6,7 +6,6 @@ msgid "Congo Swahili"
 msgstr "swahili (R. D. Congo)"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "wolaytta"
 

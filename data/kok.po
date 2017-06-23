@@ -312,7 +312,6 @@ msgid "Kyrgyz"
 msgstr "किर्गिज़"
 
 #: kok
-#: kok
 msgid "Konkani"
 msgstr "कोंकणी"
 

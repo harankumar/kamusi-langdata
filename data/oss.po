@@ -7,7 +7,6 @@ msgid "Abkhazian"
 msgstr "абхазаг"
 
 #: ady
-#: ady
 msgid "Adyghe"
 msgstr "адыгейаг"
 
@@ -16,7 +15,6 @@ msgstr "адыгейаг"
 msgid "Afrikaans"
 msgstr "африкаанс"
 
-#: ang
 #: ang
 msgid "Old English"
 msgstr "рагон англисаг"
@@ -52,7 +50,6 @@ msgid "Bosnian"
 msgstr "босниаг"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "бурятаг"
 
@@ -82,7 +79,6 @@ msgid "Chuvash"
 msgstr "чувашаг"
 
 #: cop
-#: cop
 msgid "Coptic"
 msgstr "коптаг"
 
@@ -104,7 +100,6 @@ msgstr "швйецариаг немыцаг"
 msgid "German"
 msgstr "немыцаг"
 
-#: egy
 #: egy
 msgid "Ancient Egyptian"
 msgstr "рагон египтаг"
@@ -178,7 +173,6 @@ msgid "Fijian"
 msgstr "фиджи"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "филиппинаг"
 
@@ -201,7 +195,6 @@ msgid "French"
 msgstr "францаг"
 
 #: fro
-#: fro
 msgid "Old French"
 msgstr "рагон францаг"
 
@@ -210,7 +203,6 @@ msgstr "рагон францаг"
 msgid "Irish"
 msgstr "ирландиаг"
 
-#: grc
 #: grc
 msgid "Ancient Greek"
 msgstr "рагон бердзейнаг"
@@ -236,7 +228,6 @@ msgid "Armenian"
 msgstr "сомихаг"
 
 #: inh
-#: inh
 msgid "Ingush"
 msgstr "мӕхъӕлон"
 
@@ -256,16 +247,13 @@ msgid "Georgian"
 msgstr "гуырдзиаг"
 
 #: kbd
-#: kbd
 msgid "Kabardian"
 msgstr "кӕсгон"
 
 #: krc
-#: krc
 msgid "Karachay-Balkar"
 msgstr "бӕлхъӕрон"
 
-#: kum
 #: kum
 msgid "Kumyk"
 msgstr "хъуымыхъхъаг"
@@ -280,7 +268,6 @@ msgstr "курдаг"
 msgid "Latin"
 msgstr "латинаг"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "лекъаг"
@@ -309,7 +296,6 @@ msgid "European Portuguese"
 msgstr "европӕйаг полтугалиаг"
 
 #: rom
-#: rom
 msgid "Romany"
 msgstr "цигайнаг"
 
@@ -323,7 +309,6 @@ msgstr "уырыссаг"
 msgid "Spanish"
 msgstr "испайнаг"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "нӕзонгӕ ӕвзаг"

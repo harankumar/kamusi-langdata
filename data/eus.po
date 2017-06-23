@@ -12,21 +12,17 @@ msgid "Abkhazian"
 msgstr "abkhazera"
 
 #: ace
-#: ace
 msgid "Achinese"
 msgstr "acehnera"
 
-#: ach
 #: ach
 msgid "Acoli"
 msgstr "acholiera"
 
 #: ada
-#: ada
 msgid "Adangme"
 msgstr "adangmera"
 
-#: ady
 #: ady
 msgid "Adyghe"
 msgstr "adyghera"
@@ -41,7 +37,6 @@ msgid "Aghem"
 msgstr "aghemera"
 
 #: ain
-#: ain
 msgid "Ainu"
 msgstr "ainuera"
 
@@ -51,11 +46,9 @@ msgid "Akan"
 msgstr "akanera"
 
 #: ale
-#: ale
 msgid "Aleut"
 msgstr "aleutera"
 
-#: alt
 #: alt
 msgid "Southern Altai"
 msgstr "hegoaldeko altaiera"
@@ -65,7 +58,6 @@ msgstr "hegoaldeko altaiera"
 msgid "Amharic"
 msgstr "amharera"
 
-#: anp
 #: anp
 msgid "Angika"
 msgstr "angikera"
@@ -85,11 +77,9 @@ msgid "Aragonese"
 msgstr "aragoiera"
 
 #: arn
-#: arn
 msgid "Mapuche"
 msgstr "maputxea"
 
-#: arp
 #: arp
 msgid "Arapaho"
 msgstr "arapahoa"
@@ -104,7 +94,6 @@ msgid "Assamese"
 msgstr "assamera"
 
 #: ast
-#: ast
 msgid "Asturian"
 msgstr "asturiera"
 
@@ -113,7 +102,6 @@ msgstr "asturiera"
 msgid "Avaric"
 msgstr "avarera"
 
-#: awa
 #: awa
 msgid "Awadhi"
 msgstr "awadhiera"
@@ -143,11 +131,9 @@ msgid "Bambara"
 msgstr "bambarera"
 
 #: ban
-#: ban
 msgid "Balinese"
 msgstr "baliera"
 
-#: bas
 #: bas
 msgid "Basaa"
 msgstr "basaa"
@@ -157,7 +143,6 @@ msgstr "basaa"
 msgid "Belarusian"
 msgstr "bielorrusiera"
 
-#: bem
 #: bem
 msgid "Bemba"
 msgstr "bembera"
@@ -172,11 +157,9 @@ msgid "Bena"
 msgstr "benera"
 
 #: bho
-#: bho
 msgid "Bhojpuri"
 msgstr "bhojpurera"
 
-#: bin
 #: bin
 msgid "Bini"
 msgstr "edoera"
@@ -186,7 +169,6 @@ msgstr "edoera"
 msgid "Bislama"
 msgstr "bislama"
 
-#: bla
 #: bla
 msgid "Siksika"
 msgstr "siksikera"
@@ -211,7 +193,6 @@ msgid "Bodo"
 msgstr "bodoera"
 
 #: bug
-#: bug
 msgid "Buginese"
 msgstr "buginera"
 
@@ -221,7 +202,6 @@ msgid "Bulgarian"
 msgstr "bulgariera"
 
 #: byn
-#: byn
 msgid "Blin"
 msgstr "bilena"
 
@@ -230,7 +210,6 @@ msgstr "bilena"
 msgid "Catalan"
 msgstr "katalana"
 
-#: ceb
 #: ceb
 msgid "Cebuano"
 msgstr "cebuera"
@@ -255,21 +234,17 @@ msgid "Chechen"
 msgstr "txetxeniera"
 
 #: chk
-#: chk
 msgid "Chuukese"
 msgstr "chuukera"
 
-#: chm
 #: chm
 msgid "Mari"
 msgstr "mariera"
 
 #: cho
-#: cho
 msgid "Choctaw"
 msgstr "choctaw"
 
-#: chr
 #: chr
 msgid "Cherokee"
 msgstr "txerokiera"
@@ -284,7 +259,6 @@ msgstr "Elizako eslaviera"
 msgid "Chuvash"
 msgstr "chuvashera"
 
-#: chy
 #: chy
 msgid "Cheyenne"
 msgstr "cheyennera"
@@ -313,7 +287,6 @@ msgid "Welsh"
 msgstr "galesera"
 
 #: dak
-#: dak
 msgid "Dakota"
 msgstr "dakotera"
 
@@ -322,7 +295,6 @@ msgstr "dakotera"
 msgid "Danish"
 msgstr "daniera"
 
-#: dar
 #: dar
 msgid "Dargwa"
 msgstr "dargvera"
@@ -345,7 +317,6 @@ msgid "German"
 msgstr "alemana"
 
 #: dgr
-#: dgr
 msgid "Dogrib"
 msgstr "dogribera"
 
@@ -359,11 +330,9 @@ msgid "Zarma"
 msgstr "zarmera"
 
 #: dsb
-#: dsb
 msgid "Lower Sorbian"
 msgstr "behe-sorabiera"
 
-#: dua
 #: dua
 msgid "Duala"
 msgstr "dualera"
@@ -386,11 +355,9 @@ msgid "Embu"
 msgstr "embua"
 
 #: efi
-#: efi
 msgid "Efik"
 msgstr "efikera"
 
-#: eka
 #: eka
 msgid "Ekajuk"
 msgstr "akajuka"
@@ -462,7 +429,6 @@ msgid "Ewe"
 msgstr "eweera"
 
 #: ewo
-#: ewo
 msgid "Ewondo"
 msgstr "ewondera"
 
@@ -482,7 +448,6 @@ msgid "Fijian"
 msgstr "fijiera"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "tagaloga"
 
@@ -491,7 +456,6 @@ msgstr "tagaloga"
 msgid "Finnish"
 msgstr "finlandiera"
 
-#: fon
 #: fon
 msgid "Fon"
 msgstr "fona"
@@ -520,11 +484,9 @@ msgid "Fulah"
 msgstr "fula"
 
 #: fur
-#: fur
 msgid "Friulian"
 msgstr "friuliera"
 
-#: gaa
 #: gaa
 msgid "Ga"
 msgstr "ga"
@@ -534,11 +496,9 @@ msgid "Gagauz"
 msgstr "gagauzera"
 
 #: gez
-#: gez
 msgid "Geez"
 msgstr "ge’ez"
 
-#: gil
 #: gil
 msgid "Gilbertese"
 msgstr "gilbertera"
@@ -564,7 +524,6 @@ msgid "Manx"
 msgstr "manxera"
 
 #: gor
-#: gor
 msgid "Gorontalo"
 msgstr "gorontaloa"
 
@@ -573,7 +532,6 @@ msgstr "gorontaloa"
 msgid "Guarani"
 msgstr "guaraniera"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "alemana (Suitza)"
@@ -588,7 +546,6 @@ msgid "Gusii"
 msgstr "gusiiera"
 
 #: gwi
-#: gwi
 msgid "Gwichʼin"
 msgstr "gwichʼin"
 
@@ -602,7 +559,6 @@ msgstr "Haitiko kreolera"
 msgid "Hausa"
 msgstr "hausa"
 
-#: haw
 #: haw
 msgid "Hawaiian"
 msgstr "hawaiiera"
@@ -623,7 +579,6 @@ msgid "Herero"
 msgstr "herera"
 
 #: hil
-#: hil
 msgid "Hiligaynon"
 msgstr "hiligainona"
 
@@ -632,7 +587,6 @@ msgstr "hiligainona"
 msgid "Hindi"
 msgstr "hindia"
 
-#: hmn
 #: hmn
 msgid "Hmong"
 msgstr "hmong"
@@ -643,7 +597,6 @@ msgid "Croatian"
 msgstr "kroaziera"
 
 #: hsb
-#: hsb
 msgid "Upper Sorbian"
 msgstr "goi-sorabiera"
 
@@ -653,7 +606,6 @@ msgid "Hungarian"
 msgstr "hungariera"
 
 #: hup
-#: hup
 msgid "Hupa"
 msgstr "hupera"
 
@@ -662,7 +614,6 @@ msgstr "hupera"
 msgid "Armenian"
 msgstr "armeniera"
 
-#: iba
 #: iba
 msgid "Iban"
 msgstr "ibanera"
@@ -697,7 +648,6 @@ msgid "Interlingue"
 msgstr "interlingue"
 
 #: ilo
-#: ilo
 msgid "Iloko"
 msgstr "ilokanera"
 
@@ -711,7 +661,6 @@ msgstr "interlingua"
 msgid "Indonesian"
 msgstr "indonesiera"
 
-#: inh
 #: inh
 msgid "Ingush"
 msgstr "ingushera"
@@ -732,7 +681,6 @@ msgid "Javanese"
 msgstr "javera"
 
 #: jbo
-#: jbo
 msgid "Lojban"
 msgstr "lojbanera"
 
@@ -750,11 +698,9 @@ msgid "Japanese"
 msgstr "japoniera"
 
 #: kab
-#: kab
 msgid "Kabyle"
 msgstr "kabilera"
 
-#: kac
 #: kac
 msgid "Kachin"
 msgstr "jingpoera"
@@ -768,7 +714,6 @@ msgstr "kaiji"
 msgid "Kalaallisut"
 msgstr "kalaallisutera"
 
-#: kam
 #: kam
 msgid "Kamba"
 msgstr "kambera"
@@ -799,7 +744,6 @@ msgid "Kazakh"
 msgstr "kazakhera"
 
 #: kbd
-#: kbd
 msgid "Kabardian"
 msgstr "kabardiera"
 
@@ -819,7 +763,6 @@ msgstr "Cabo Verdeko kreola"
 msgid "Koro"
 msgstr "koroa"
 
-#: kha
 #: kha
 msgid "Khasi"
 msgstr "kashia"
@@ -857,7 +800,6 @@ msgid "Kalenjin"
 msgstr "kalenjinera"
 
 #: kmb
-#: kmb
 msgid "Kimbundu"
 msgstr "kimbundua"
 
@@ -865,7 +807,6 @@ msgstr "kimbundua"
 msgid "Komi-Permyak"
 msgstr "komi-permyakera"
 
-#: kok
 #: kok
 msgid "Konkani"
 msgstr "konkaniera"
@@ -886,21 +827,17 @@ msgid "Korean"
 msgstr "koreera"
 
 #: kpe
-#: kpe
 msgid "Kpelle"
 msgstr "kpellea"
 
-#: krc
 #: krc
 msgid "Karachay-Balkar"
 msgstr "karachayera-balkarera"
 
 #: krl
-#: krl
 msgid "Karelian"
 msgstr "kareliera"
 
-#: kru
 #: kru
 msgid "Kurukh"
 msgstr "kurukhera"
@@ -923,7 +860,6 @@ msgid "Kuanyama"
 msgstr "kuanyama"
 
 #: kum
-#: kum
 msgid "Kumyk"
 msgstr "kumykera"
 
@@ -932,7 +868,6 @@ msgstr "kumykera"
 msgid "Kurdish"
 msgstr "kurduera"
 
-#: lad
 #: lad
 msgid "Ladino"
 msgstr "ladinera"
@@ -957,7 +892,6 @@ msgid "Latvian"
 msgstr "letoniera"
 
 #: lez
-#: lez
 msgid "Lezghian"
 msgstr "lezgiera"
 
@@ -981,7 +915,6 @@ msgid "Lakota"
 msgstr "lakotera"
 
 #: loz
-#: loz
 msgid "Lozi"
 msgstr "loziera"
 
@@ -994,7 +927,6 @@ msgstr "iparraldeko lurera"
 msgid "Luxembourgish"
 msgstr "luxenburgera"
 
-#: lua
 #: lua
 msgid "Luba-Lulua"
 msgstr "txilubera"
@@ -1010,16 +942,13 @@ msgid "Ganda"
 msgstr "gandera"
 
 #: lun
-#: lun
 msgid "Lunda"
 msgstr "lundera"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "luoera"
 
-#: lus
 #: lus
 msgid "Mizo"
 msgstr "mizoa"
@@ -1029,11 +958,9 @@ msgid "Luyia"
 msgstr "luhyera"
 
 #: mad
-#: mad
 msgid "Madurese"
 msgstr "madurera"
 
-#: mag
 #: mag
 msgid "Magahi"
 msgstr "magahiera"
@@ -1044,11 +971,9 @@ msgid "Marshallese"
 msgstr "marshallera"
 
 #: mai
-#: mai
 msgid "Maithili"
 msgstr "maithilera"
 
-#: mak
 #: mak
 msgid "Makasar"
 msgstr "makasarera"
@@ -1064,16 +989,13 @@ msgid "Marathi"
 msgstr "marathera"
 
 #: mas
-#: mas
 msgid "Masai"
 msgstr "masaiera"
 
 #: mdf
-#: mdf
 msgid "Moksha"
 msgstr "mokxera"
 
-#: men
 #: men
 msgid "Mende"
 msgstr "mendeera"
@@ -1095,11 +1017,9 @@ msgid "Metaʼ"
 msgstr "metera"
 
 #: mic
-#: mic
 msgid "Mi'kmaq"
 msgstr "mikmakera"
 
-#: min
 #: min
 msgid "Minangkabau"
 msgstr "minangkabauera"
@@ -1120,11 +1040,9 @@ msgid "Maltese"
 msgstr "maltera"
 
 #: mni
-#: mni
 msgid "Manipuri"
 msgstr "manipurera"
 
-#: moh
 #: moh
 msgid "Mohawk"
 msgstr "mohawkera"
@@ -1134,7 +1052,6 @@ msgstr "mohawkera"
 msgid "Mongolian"
 msgstr "mongoliera"
 
-#: mos
 #: mos
 msgid "Mossi"
 msgstr "moreera"
@@ -1154,16 +1071,13 @@ msgid "Mundang"
 msgstr "mudangera"
 
 #: mul
-#: mul
 msgid "Multiple languages"
 msgstr "hizkuntza anitzak"
 
 #: mus
-#: mus
 msgid "Creek"
 msgstr "creera"
 
-#: mwl
 #: mwl
 msgid "Mirandese"
 msgstr "mirandera"
@@ -1174,7 +1088,6 @@ msgid "Burmese"
 msgstr "burmatarra"
 
 #: myv
-#: myv
 msgid "Erzya"
 msgstr "erziera"
 
@@ -1182,7 +1095,6 @@ msgstr "erziera"
 msgid "Mazanderani"
 msgstr "mazandarandera"
 
-#: nap
 #: nap
 msgid "Neapolitan"
 msgstr "napoliera"
@@ -1226,16 +1138,13 @@ msgid "Nepali"
 msgstr "nepalera"
 
 #: new
-#: new
 msgid "Newari"
 msgstr "newarera"
 
 #: nia
-#: nia
 msgid "Nias"
 msgstr "niasa"
 
-#: niu
 #: niu
 msgid "Niuean"
 msgstr "niuera"
@@ -1268,7 +1177,6 @@ msgid "Norwegian Bokmål"
 msgstr "bokmala (Norvegia)"
 
 #: nog
-#: nog
 msgid "Nogai"
 msgstr "nogaiera"
 
@@ -1278,11 +1186,9 @@ msgid "Norwegian"
 msgstr "norvegiera"
 
 #: nqo
-#: nqo
 msgid "N’Ko"
 msgstr "n’koera"
 
-#: nso
 #: nso
 msgid "Northern Sotho"
 msgstr "pediera"
@@ -1296,7 +1202,6 @@ msgstr "nuerera"
 msgid "Nyanja"
 msgstr "nyanja"
 
-#: nyn
 #: nyn
 msgid "Nyankole"
 msgstr "ankolera"
@@ -1322,11 +1227,9 @@ msgid "Ossetic"
 msgstr "osetiera"
 
 #: pag
-#: pag
 msgid "Pangasinan"
 msgstr "pangasinanera"
 
-#: pam
 #: pam
 msgid "Pampanga"
 msgstr "pampangera"
@@ -1337,11 +1240,9 @@ msgid "Punjabi"
 msgstr "punjabera"
 
 #: pap
-#: pap
 msgid "Papiamento"
 msgstr "papiamentoa"
 
-#: pau
 #: pau
 msgid "Palauan"
 msgstr "palauera"
@@ -1391,11 +1292,9 @@ msgid "Quechua"
 msgstr "quechuera"
 
 #: rap
-#: rap
 msgid "Rapanui"
 msgstr "rapa nui"
 
-#: rar
 #: rar
 msgid "Rarotongan"
 msgstr "rarotongera"
@@ -1428,7 +1327,6 @@ msgid "Rundi"
 msgstr "rundiera"
 
 #: rup
-#: rup
 msgid "Aromanian"
 msgstr "aromania"
 
@@ -1442,7 +1340,6 @@ msgid "Rwa"
 msgstr "rwaera"
 
 #: sad
-#: sad
 msgid "Sandawe"
 msgstr "sandawea"
 
@@ -1451,7 +1348,6 @@ msgstr "sandawea"
 msgid "Sango"
 msgstr "sangoera"
 
-#: sah
 #: sah
 msgid "Sakha"
 msgstr "sakhera"
@@ -1466,7 +1362,6 @@ msgid "Samburu"
 msgstr "samburuera"
 
 #: sat
-#: sat
 msgid "Santali"
 msgstr "santalera"
 
@@ -1479,11 +1374,9 @@ msgid "Sangu"
 msgstr "sanguera"
 
 #: scn
-#: scn
 msgid "Sicilian"
 msgstr "siziliera"
 
-#: sco
 #: sco
 msgid "Scots"
 msgstr "eskoziera"
@@ -1500,7 +1393,6 @@ msgstr "koyraboro sennia"
 msgid "Tachelhit"
 msgstr "tachelhita"
 
-#: shn
 #: shn
 msgid "Shan"
 msgstr "shanera"
@@ -1521,7 +1413,6 @@ msgid "Slovenian"
 msgstr "esloveniera"
 
 #: sma
-#: sma
 msgid "Southern Sami"
 msgstr "hegoaldeko samiera"
 
@@ -1531,11 +1422,9 @@ msgid "Northern Sami"
 msgstr "iparraldeko samiera"
 
 #: smj
-#: smj
 msgid "Lule Sami"
 msgstr "lule samiera"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "inari-samiera"
@@ -1545,7 +1434,6 @@ msgstr "inari-samiera"
 msgid "Samoan"
 msgstr "samoera"
 
-#: sms
 #: sms
 msgid "Skolt Sami"
 msgstr "skolt samiera"
@@ -1560,7 +1448,6 @@ msgstr "shonera"
 msgid "Sindhi"
 msgstr "sindhia"
 
-#: snk
 #: snk
 msgid "Soninke"
 msgstr "soninkera"
@@ -1591,7 +1478,6 @@ msgid "Sardinian"
 msgstr "sardiniera"
 
 #: srn
-#: srn
 msgid "Sranan Tongo"
 msgstr "srananera"
 
@@ -1609,7 +1495,6 @@ msgstr "swatiera"
 msgid "Saho"
 msgstr "sahoa"
 
-#: suk
 #: suk
 msgid "Sukuma"
 msgstr "sukumera"
@@ -1638,7 +1523,6 @@ msgid "Swedish"
 msgstr "suediera"
 
 #: syr
-#: syr
 msgid "Syriac"
 msgstr "asiriera"
 
@@ -1663,7 +1547,6 @@ msgid "Telugu"
 msgstr "teluguera"
 
 #: tem
-#: tem
 msgid "Timne"
 msgstr "temnea"
 
@@ -1671,7 +1554,6 @@ msgstr "temnea"
 msgid "Teso"
 msgstr "tesoera"
 
-#: tet
 #: tet
 msgid "Tetum"
 msgstr "tetuma"
@@ -1692,7 +1574,6 @@ msgid "Thai"
 msgstr "thailandiera"
 
 #: tig
-#: tig
 msgid "Tigre"
 msgstr "tigrea"
 
@@ -1702,7 +1583,6 @@ msgid "Tigrinya"
 msgstr "tigriñera"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "klingonera"
 
@@ -1711,7 +1591,6 @@ msgstr "klingonera"
 msgid "Tongan"
 msgstr "tongera"
 
-#: tpi
 #: tpi
 msgid "Tok Pisin"
 msgstr "tok pisina"
@@ -1736,7 +1615,6 @@ msgid "Turkmen"
 msgstr "turkmeniera"
 
 #: tum
-#: tum
 msgid "Tumbuka"
 msgstr "tumbukera"
 
@@ -1745,7 +1623,6 @@ msgstr "tumbukera"
 msgid "Turkish"
 msgstr "turkiera"
 
-#: tvl
 #: tvl
 msgid "Tuvalu"
 msgstr "tuvaluera"
@@ -1760,7 +1637,6 @@ msgid "Tasawaq"
 msgstr "tasawaqa"
 
 #: tyv
-#: tyv
 msgid "Tuvinian"
 msgstr "tuvera"
 
@@ -1768,7 +1644,6 @@ msgstr "tuvera"
 msgid "Central Atlas Tamazight"
 msgstr "Maroko erdialdeko tamazighta"
 
-#: udm
 #: udm
 msgid "Udmurt"
 msgstr "udmurtera"
@@ -1784,11 +1659,9 @@ msgid "Ukrainian"
 msgstr "ukrainera"
 
 #: umb
-#: umb
 msgid "Umbundu"
 msgstr "umbunduera"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "hizkuntza ezezaguna"
@@ -1803,7 +1676,6 @@ msgstr "urdua"
 msgid "Uzbek"
 msgstr "uzbekera"
 
-#: vai
 #: vai
 msgid "Vai"
 msgstr "vaiera"
@@ -1832,11 +1704,9 @@ msgid "Walser"
 msgstr "walserera"
 
 #: wal
-#: wal
 msgid "Wolaytta"
 msgstr "welayta"
 
-#: war
 #: war
 msgid "Waray"
 msgstr "samerera"
@@ -1851,7 +1721,6 @@ msgstr "valoniera"
 msgid "Wolof"
 msgstr "wolofera"
 
-#: xal
 #: xal
 msgid "Kalmyk"
 msgstr "kalmykera"
@@ -1910,16 +1779,13 @@ msgid "Zulu"
 msgstr "zuluera"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "zuñia"
 
 #: zxx
-#: zxx
 msgid "No linguistic content"
 msgstr "ez dago eduki linguistikorik"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "zazakia"

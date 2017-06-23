@@ -11,7 +11,6 @@ msgid "Modern Standard Arabic"
 msgstr "جدید معیاری عربی"
 
 #: awa
-#: awa
 msgid "Awadhi"
 msgstr "اودھی"
 
@@ -54,11 +53,9 @@ msgid "Kurdish"
 msgstr "کرد"
 
 #: mag
-#: mag
 msgid "Magahi"
 msgstr "مگہی"
 
-#: mas
 #: mas
 msgid "Masai"
 msgstr "مسائی"

@@ -49,7 +49,6 @@ msgid "French"
 msgstr "ཧྥ་རན་སིའི་།"
 
 #: gaa
-#: gaa
 msgid "Ga"
 msgstr "གཱ་སྐད།"
 
@@ -203,7 +202,6 @@ msgid "Ukrainian"
 msgstr "ཡུ་ཀྲ་ནི་སྐད།"
 
 #: und
-#: und
 msgid "Unknown language"
 msgstr "མིའི་ཤེས་རྟོགས་མ་བྱུང་བ། ཡང་ན་ཆད་ལྷག་ཅན་གྱི་སྐད་བརྡ།"
 
@@ -217,7 +215,6 @@ msgstr "ཝུའུ་ཏུའུ་སྐད།"
 msgid "Vietnamese"
 msgstr "ཡོ་ནན་སྐད།"
 
-#: zen
 #: zen
 msgid "Zenaga"
 msgstr "ཟེ་ན་གཱ་སྐད།"
@@ -241,11 +238,9 @@ msgid "Zulu"
 msgstr "ཟུ་ལུ་སྐད།"
 
 #: zun
-#: zun
 msgid "Zuni"
 msgstr "ཟུ་ནི་སྐད།"
 
-#: zza
 #: zza
 msgid "Zaza"
 msgstr "ཟ་ཟའ་སྐད།"

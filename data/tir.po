@@ -107,7 +107,6 @@ msgid "Persian"
 msgstr "ፐርሲያኛ"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "ታጋሎገኛ"
 
@@ -409,7 +408,6 @@ msgstr "ታይኛ"
 msgid "Tigrinya"
 msgstr "ትግርኛ"
 
-#: tlh
 #: tlh
 msgid "Klingon"
 msgstr "ክሊንግኦንኛ"

@@ -137,7 +137,6 @@ msgid "Persian"
 msgstr "Faarisi"
 
 #: fil
-#: fil
 msgid "Filipino"
 msgstr "Tagalog"
 
@@ -504,7 +503,6 @@ msgid "Tigrinya"
 msgstr "Tigrinya"
 
 #: tlh
-#: tlh
 msgid "Klingon"
 msgstr "Kiligoon"
 
@@ -533,7 +531,6 @@ msgstr "UIGHUR"
 msgid "Ukrainian"
 msgstr "Yukreeniyaan"
 
-#: und
 #: und
 msgid "Unknown language"
 msgstr "Af aan la aqoon ama aan sax ahayn"

@@ -117,7 +117,6 @@ msgid "Korean"
 msgstr "Kikorea"
 
 #: luo
-#: luo
 msgid "Luo"
 msgstr "Dholuo"
 

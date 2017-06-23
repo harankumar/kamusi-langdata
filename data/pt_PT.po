@@ -7,7 +7,6 @@ msgid "Afrikaans"
 msgstr "africanês"
 
 #: ang
-#: ang
 msgid "Old English"
 msgstr "inglês antigo"
 
@@ -15,7 +14,6 @@ msgstr "inglês antigo"
 msgid "Modern Standard Arabic"
 msgstr "árabe moderno padrão"
 
-#: arn
 #: arn
 msgid "Mapuche"
 msgstr "mapuche"
@@ -29,7 +27,6 @@ msgid "Ghomala"
 msgstr "ghomala"
 
 #: bua
-#: bua
 msgid "Buriat"
 msgstr "buriat"
 
@@ -38,7 +35,6 @@ msgstr "buriat"
 msgid "Czech"
 msgstr "checo"
 
-#: chn
 #: chn
 msgid "Chinook Jargon"
 msgstr "jargão chinook"
@@ -64,7 +60,6 @@ msgstr "alemão austríaco"
 msgid "Swiss High German"
 msgstr "alto alemão suíço"
 
-#: egy
 #: egy
 msgid "Ancient Egyptian"
 msgstr "egípcio clássico"
@@ -116,11 +111,9 @@ msgid "Swiss French"
 msgstr "francês suíço"
 
 #: fro
-#: fro
 msgid "Old French"
 msgstr "francês antigo"
 
-#: frs
 #: frs
 msgid "Eastern Frisian"
 msgstr "frísio oriental"
@@ -131,16 +124,13 @@ msgid "Western Frisian"
 msgstr "frísico ocidental"
 
 #: goh
-#: goh
 msgid "Old High German"
 msgstr "alemão alto antigo"
 
 #: grc
-#: grc
 msgid "Ancient Greek"
 msgstr "grego clássico"
 
-#: gsw
 #: gsw
 msgid "Swiss German"
 msgstr "alemão suíço"
@@ -171,7 +161,6 @@ msgid "Kannada"
 msgstr "canarim"
 
 #: kbd
-#: kbd
 msgid "Kabardian"
 msgstr "cabardiano"
 
@@ -184,7 +173,6 @@ msgstr "crioulo cabo-verdiano"
 msgid "Kinyarwanda"
 msgstr "kinyarwanda"
 
-#: lez
 #: lez
 msgid "Lezghian"
 msgstr "lezghiano"
@@ -204,11 +192,9 @@ msgid "Macedonian"
 msgstr "macedónio"
 
 #: moh
-#: moh
 msgid "Mohawk"
 msgstr "mohawk"
 
-#: nds
 #: nds
 msgid "Low German"
 msgstr "baixo-alemão"
@@ -228,7 +214,6 @@ msgid "Norwegian Bokmål"
 msgstr "norueguês bokmål"
 
 #: non
-#: non
 msgid "Old Norse"
 msgstr "nórdico antigo"
 
@@ -243,11 +228,9 @@ msgid "Ossetic"
 msgstr "ossético"
 
 #: pag
-#: pag
 msgid "Pangasinan"
 msgstr "língua pangasinesa"
 
-#: peo
 #: peo
 msgid "Old Persian"
 msgstr "persa antigo"
@@ -258,11 +241,9 @@ msgid "Polish"
 msgstr "polaco"
 
 #: pon
-#: pon
 msgid "Pohnpeian"
 msgstr "língua pohnpeica"
 
-#: pro
 #: pro
 msgid "Old Provençal"
 msgstr "provençal antigo"
@@ -281,7 +262,6 @@ msgid "Pashto"
 msgstr "pastó"
 
 #: raj
-#: raj
 msgid "Rajasthani"
 msgstr "rajastanês"
 
@@ -290,11 +270,9 @@ msgid "Root"
 msgstr "root"
 
 #: sah
-#: sah
 msgid "Sakha"
 msgstr "sakha"
 
-#: sga
 #: sga
 msgid "Old Irish"
 msgstr "irlandês antigo"
@@ -308,7 +286,6 @@ msgstr "árabe do Chade"
 msgid "Northern Sami"
 msgstr "sami do norte"
 
-#: smn
 #: smn
 msgid "Inari Sami"
 msgstr "inari sami"
