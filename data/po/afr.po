@@ -62,14 +62,14 @@ msgstr "Amharies"
 msgid "Angika"
 msgstr "Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Moderne Standaard Arabies"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arabies"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Moderne Standaard Arabies"
 
 #: arc
 msgid "Aramaic"
@@ -315,14 +315,14 @@ msgstr "Dakota"
 msgid "Taita"
 msgstr "Taita"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "Switserse hoog-Duits"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Duits"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Switserse hoog-Duits"
 
 #: dgr
 msgid "Dogrib"
@@ -379,27 +379,23 @@ msgstr "Ekajuk"
 msgid "Greek"
 msgstr "Grieks"
 
-#: en GB-short
-msgid "UK English"
-msgstr "Engels (VK)"
-
-#: en US-short
-msgid "US English"
-msgstr "Engels (VSA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Engels"
 
+#: eng_GB-short
+msgid "UK English"
+msgstr "Engels (VK)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Engels (VSA)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Spaans (Suid-Amerika)"
 
 #: est
 #: et
@@ -780,7 +776,7 @@ msgstr "Rwandees"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirgisies"
 
 #: kkj
@@ -1076,7 +1072,7 @@ msgstr "Mirandees"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Birmaans"
 
 #: myv
@@ -1124,7 +1120,7 @@ msgstr "Ndonga"
 msgid "Low German"
 msgstr "Lae Duits"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Nedersaksies"
 
@@ -1145,14 +1141,14 @@ msgstr "Nias"
 msgid "Niuean"
 msgstr "Niuean"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Vlaams"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Nederlands"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Vlaams"
 
 #: nmg
 msgid "Kwasio"
@@ -1265,14 +1261,10 @@ msgstr "Portugees"
 msgid "Prussian"
 msgstr "Pruisies"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "Pushto"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "Pasjto"
+msgid "Pashto,Pushto"
+msgstr "Pasjto,Pushto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1291,10 +1283,6 @@ msgstr "Rapanui"
 msgid "Rarotongan"
 msgstr "Rarotongaans"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldawies"
-
 #: rof
 msgid "Rombo"
 msgstr "Rombo"
@@ -1308,6 +1296,10 @@ msgstr "Reto-Romaans"
 #: ro
 msgid "Romanian"
 msgstr "Roemeens"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldawies"
 
 #: root
 msgid "Root"
@@ -1463,6 +1455,10 @@ msgstr "Suid-Sotho"
 msgid "Spanish"
 msgstr "Spaans"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Spaans (Suid-Amerika)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1500,14 +1496,14 @@ msgstr "Sukuma"
 msgid "Sundanese"
 msgstr "Sundanees"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Swahili (Kongo)"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Swahili (Kongo)"
 
 #: swb
 msgid "Comorian"
@@ -1641,7 +1637,7 @@ msgstr "Udmurt"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uighur"
 
 #: ukr

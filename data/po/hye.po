@@ -74,14 +74,14 @@ msgstr "հին անգլերեն"
 msgid "Angika"
 msgstr "անգիկա"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "արդի ընդհանուր արաբերեն"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "արաբերեն"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "արդի ընդհանուր արաբերեն"
 
 #: arc
 msgid "Aramaic"
@@ -347,18 +347,18 @@ msgstr "դարգիներեն"
 msgid "Taita"
 msgstr "թաիթա"
 
-#: de AT
-msgid "Austrian German"
-msgstr "ավստրիական գերմաներեն"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "շվեյցարական վերին գերմաներեն"
-
 #: deu
 #: de
 msgid "German"
 msgstr "գերմաներեն"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "ավստրիական գերմաներեն"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "շվեյցարական վերին գերմաներեն"
 
 #: dgr
 msgid "Dogrib"
@@ -415,51 +415,39 @@ msgstr "էկաջուկ"
 msgid "Greek"
 msgstr "հունարեն"
 
-#: en AU
-msgid "Australian English"
-msgstr "ավստրալիական անգլերեն"
-
-#: en CA
-msgid "Canadian English"
-msgstr "կանադական անգլերեն"
-
-#: en GB
-msgid "British English"
-msgstr "բրիտանական անգլերեն"
-
-#: en GB-short
-msgid "UK English"
-msgstr "անգլերեն (Բրիտանիա)"
-
-#: en US
-msgid "American English"
-msgstr "ամերիկյան անգլերեն"
-
-#: en US-short
-msgid "US English"
-msgstr "անգլերեն (ԱՄՆ)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "անգլերեն"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "ավստրալիական անգլերեն"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "կանադական անգլերեն"
+
+#: eng_GB
+msgid "British English"
+msgstr "բրիտանական անգլերեն"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "անգլերեն (Բրիտանիա)"
+
+#: eng_US
+msgid "American English"
+msgstr "ամերիկյան անգլերեն"
+
+#: eng_US-short
+msgid "US English"
+msgstr "անգլերեն (ԱՄՆ)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "էսպերանտո"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "լատինամերիկյան իսպաներեն"
-
-#: es ES
-msgid "European Spanish"
-msgstr "եվրոպական իսպաներեն"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "մեքսիկական իսպաներեն"
 
 #: est
 #: et
@@ -512,18 +500,18 @@ msgstr "տորնադելեն ֆիններեն"
 msgid "Fon"
 msgstr "ֆոն"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "կանադական ֆրանսերեն"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "շվեյցարական ֆրանսերեն"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ֆրանսերեն"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "կանադական ֆրանսերեն"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "շվեյցարական ֆրանսերեն"
 
 #: fro
 msgid "Old French"
@@ -872,7 +860,7 @@ msgstr "կինյառուանդա"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ղրղզերեն"
 
 #: kkj
@@ -1167,7 +1155,7 @@ msgstr "միրանդերեն"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "բիրմայերեն"
 
 #: myv
@@ -1211,7 +1199,7 @@ msgstr "հյուսիսային նդեբելե"
 msgid "Ndonga"
 msgstr "նդոնգա"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "ստորին սաքսոներեն"
 
@@ -1232,14 +1220,14 @@ msgstr "նիասերեն"
 msgid "Niuean"
 msgstr "նիուերեն"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ֆլամանդերեն"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "հոլանդերեն"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ֆլամանդերեն"
 
 #: nmg
 msgid "Kwasio"
@@ -1406,6 +1394,14 @@ msgstr "պոնպեերեն"
 msgid "Portuguese"
 msgstr "պորտուգալերեն"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "բրազիլական պորտուգալերեն"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "եվրոպական պորտուգալերեն"
+
 #: prg
 msgid "Prussian"
 msgstr "պրուսերեն"
@@ -1414,17 +1410,9 @@ msgstr "պրուսերեն"
 msgid "Old Provençal"
 msgstr "հին պրովանսերեն"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "բրազիլական պորտուգալերեն"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "եվրոպական պորտուգալերեն"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "փուշթու"
 
 #: quc
@@ -1456,10 +1444,6 @@ msgstr "ռոմանիոլերեն"
 msgid "Riffian"
 msgstr "ռիֆերեն"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "մոլդովերեն"
-
 #: rof
 msgid "Rombo"
 msgstr "ռոմբո"
@@ -1477,6 +1461,10 @@ msgstr "ռոմաներեն"
 #: ro
 msgid "Romanian"
 msgstr "ռումիներեն"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "մոլդովերեն"
 
 #: root
 msgid "Root"
@@ -1648,6 +1636,18 @@ msgstr "հարավային սոթո"
 msgid "Spanish"
 msgstr "իսպաներեն"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "լատինամերիկյան իսպաներեն"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "եվրոպական իսպաներեն"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "մեքսիկական իսպաներեն"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1685,14 +1685,14 @@ msgstr "սուկումա"
 msgid "Sundanese"
 msgstr "սունդաներեն"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "կոնգոյի սուահիլի"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "սուահիլի"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "կոնգոյի սուահիլի"
 
 #: swb
 msgid "Comorian"
@@ -1879,7 +1879,7 @@ msgstr "ուգարիտերեն"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ույղուրերեն"
 
 #: ukr
@@ -2041,14 +2041,6 @@ msgstr "զենագա"
 msgid "Standard Moroccan Tamazight"
 msgstr "ընդհանուր մարոկյան թամազիղտ"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "պարզեցված չինարեն"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ավանդական չինարեն"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2058,6 +2050,14 @@ msgstr "ժուանգ"
 #: zh
 msgid "Chinese"
 msgstr "չինարեն"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "պարզեցված չինարեն"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ավանդական չինարեն"
 
 #: zul
 #: zu

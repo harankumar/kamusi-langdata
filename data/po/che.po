@@ -25,14 +25,14 @@ msgstr "акан"
 msgid "Amharic"
 msgstr "амхаройн"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "ХӀинца болу стандартан Ӏаьрбийн"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Ӏаьрбийн"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "ХӀинца болу стандартан Ӏаьрбийн"
 
 #: arn
 msgid "Mapuche"
@@ -168,18 +168,18 @@ msgstr "датхойн"
 msgid "Taita"
 msgstr "таита"
 
-#: de AT
-msgid "Austrian German"
-msgstr "австрин немцойн"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "швейцарин лакхара немцойн"
-
 #: deu
 #: de
 msgid "German"
 msgstr "немцойн"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "австрин немцойн"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "швейцарин лакхара немцойн"
 
 #: dje
 msgid "Zarma"
@@ -211,51 +211,39 @@ msgstr "эмбу"
 msgid "Greek"
 msgstr "грекийн"
 
-#: en AU
-msgid "Australian English"
-msgstr "Австралин ингалсан"
-
-#: en CA
-msgid "Canadian English"
-msgstr "канадан ингалсан"
-
-#: en GB
-msgid "British English"
-msgstr "британин ингалсан"
-
-#: en GB-short
-msgid "UK English"
-msgstr "ингалсан (Британи)"
-
-#: en US
-msgid "American English"
-msgstr "американ ингалсан"
-
-#: en US-short
-msgid "US English"
-msgstr "ингалсан (АЦШ)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ингалсан"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "Австралин ингалсан"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "канадан ингалсан"
+
+#: eng_GB
+msgid "British English"
+msgstr "британин ингалсан"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "ингалсан (Британи)"
+
+#: eng_US
+msgid "American English"
+msgstr "американ ингалсан"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ингалсан (АЦШ)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "эсперанто"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "латинан американ испанхойн"
-
-#: es ES
-msgid "European Spanish"
-msgstr "европан испанхойн"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "мексикан испанхойн"
 
 #: est
 #: et
@@ -296,18 +284,18 @@ msgstr "филиппинийн"
 msgid "Finnish"
 msgstr "финнийн"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "канадан французийн"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "швейцарин французийн"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "французийн"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "канадан французийн"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "швейцарин французийн"
 
 #: fry
 #: fy
@@ -504,7 +492,7 @@ msgstr "киньяруанда"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "гӀиргӀизойн"
 
 #: kln
@@ -667,7 +655,7 @@ msgstr "мунданг"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "бирманийн"
 
 #: mzn
@@ -687,7 +675,7 @@ msgstr "къилбаседа ндебели"
 msgid "Low German"
 msgstr "лахара германхойн"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "лахара саксонийн"
 
@@ -696,14 +684,14 @@ msgstr "лахара саксонийн"
 msgid "Nepali"
 msgstr "непалхойн"
 
-#: nl BE
-msgid "Flemish"
-msgstr "фламандийн"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "голландхойн"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "фламандийн"
 
 #: nmg
 msgid "Kwasio"
@@ -756,17 +744,17 @@ msgstr "полякийн"
 msgid "Portuguese"
 msgstr "португалихойн"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "бразилин португалихойн"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "европан португалихойн"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "пушту"
 
 #: quc
@@ -777,10 +765,6 @@ msgstr "киче"
 #: qu
 msgid "Quechua"
 msgstr "кечуа"
-
-#: ro MD
-msgid "Moldavian"
-msgstr "молдавийн"
 
 #: rof
 msgid "Rombo"
@@ -795,6 +779,10 @@ msgstr "романшийн"
 #: ro
 msgid "Romanian"
 msgstr "румынийн"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "молдавийн"
 
 #: run
 #: rn
@@ -896,6 +884,18 @@ msgstr "сомали"
 msgid "Spanish"
 msgstr "испанхойн"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "латинан американ испанхойн"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "европан испанхойн"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "мексикан испанхойн"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -911,14 +911,14 @@ msgstr "сербийн"
 msgid "Sundanese"
 msgstr "сунданхойн"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "суахили (Конго)"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "суахили"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "суахили (Конго)"
 
 #: swe
 #: sv
@@ -984,7 +984,7 @@ msgstr "тамазигхтийн"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "уйгурийн"
 
 #: ukr
@@ -1046,18 +1046,18 @@ msgstr "йоруба"
 msgid "Standard Moroccan Tamazight"
 msgstr "мороккон стандартан тамазигхтийн"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "атта китайн"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ламастан китайн"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "китайн"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "атта китайн"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ламастан китайн"
 
 #: zul
 #: zu

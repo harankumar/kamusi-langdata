@@ -42,14 +42,14 @@ msgstr "Amáiris"
 msgid "Old English"
 msgstr "Sean-Bhéarla"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Araibis Chaighdeánach"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Araibis"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Araibis Chaighdeánach"
 
 #: arc
 msgid "Aramaic"
@@ -236,18 +236,18 @@ msgstr "Danmhairgis"
 msgid "Taita"
 msgstr "Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Gearmáinis Ostarach"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Ard-Ghearmáinis Eilvéiseach"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Gearmáinis"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Gearmáinis Ostarach"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Ard-Ghearmáinis Eilvéiseach"
 
 #: div
 #: dv
@@ -280,34 +280,34 @@ msgstr "Sean-Éigiptis"
 msgid "Greek"
 msgstr "Gréigis"
 
-#: en AU
-msgid "Australian English"
-msgstr "Béarla Astrálach"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Béarla Ceanadach"
-
-#: en GB
-msgid "British English"
-msgstr "Béarla Briotanach"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Béarla na R.A."
-
-#: en US
-msgid "American English"
-msgstr "Béarla Meiriceánach"
-
-#: en US-short
-msgid "US English"
-msgstr "Béarla S.A.M."
-
 #: eng
 #: en
 msgid "English"
 msgstr "Béarla"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Béarla Astrálach"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Béarla Ceanadach"
+
+#: eng_GB
+msgid "British English"
+msgstr "Béarla Briotanach"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Béarla na R.A."
+
+#: eng_US
+msgid "American English"
+msgstr "Béarla Meiriceánach"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Béarla S.A.M."
 
 #: enm
 msgid "Middle English"
@@ -317,18 +317,6 @@ msgstr "Meán-Bhéarla"
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Spáinnis Mheiriceá Laidinigh"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Spáinnis Eorpach"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Spáinnis Mheicsiceach"
 
 #: est
 #: et
@@ -364,18 +352,18 @@ msgstr "Filipínis"
 msgid "Finnish"
 msgstr "Fionlainnis"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Fraincis Cheanadach"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Fraincis Eilvéiseach"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Fraincis"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Fraincis Cheanadach"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Fraincis Eilvéiseach"
 
 #: frm
 msgid "Middle French"
@@ -661,7 +649,7 @@ msgstr "Ciniaruaindis"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Cirgisis"
 
 #: kok
@@ -840,7 +828,7 @@ msgstr "Marmhairis"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmais"
 
 #: nau
@@ -872,7 +860,7 @@ msgstr "Ndongais"
 msgid "Low German"
 msgstr "Gearmáinis Íochtarach"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Sacsainis Íochtarach"
 
@@ -885,14 +873,14 @@ msgstr "Neipeailis"
 msgid "Niuean"
 msgstr "Níobhais"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Pléimeannais"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Ollainnis"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Pléimeannais"
 
 #: nno
 #: nn
@@ -971,21 +959,21 @@ msgstr "Polainnis"
 msgid "Portuguese"
 msgstr "Portaingéilis"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Portaingéilis na Brasaíle"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Portaingéilis Ibéarach"
+
 #: prg
 msgid "Prussian"
 msgstr "Prúisis"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Portaingéilis na Brasaíle"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Portaingéilis Ibéarach"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Paistis"
 
 #: quc
@@ -996,10 +984,6 @@ msgstr "Cuitséis"
 #: qu
 msgid "Quechua"
 msgstr "Ceatsuais"
-
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldáivis"
 
 #: roh
 #: rm
@@ -1014,6 +998,10 @@ msgstr "Romainis"
 #: ro
 msgid "Romanian"
 msgstr "Rómáinis"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldáivis"
 
 #: run
 #: rn
@@ -1125,6 +1113,18 @@ msgstr "Seasóitis"
 msgid "Spanish"
 msgstr "Spáinnis"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Spáinnis Mheiriceá Laidinigh"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Spáinnis Eorpach"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Spáinnis Mheicsiceach"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1154,14 +1154,14 @@ msgstr "Sundais"
 msgid "Sumerian"
 msgstr "Suiméiris"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Svahaílis an Chongó"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Svahaílis"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Svahaílis an Chongó"
 
 #: swe
 #: sv
@@ -1256,7 +1256,7 @@ msgstr "Udmairtis"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uigiúiris"
 
 #: ukr
@@ -1338,14 +1338,6 @@ msgstr "Cantainis"
 msgid "Zeelandic"
 msgstr "Séalainnis"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Sínis Shimplithe"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Sínis Thraidisiúnta"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -1355,6 +1347,14 @@ msgstr "Siuáingis"
 #: zh
 msgid "Chinese"
 msgstr "Sínis"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Sínis Shimplithe"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Sínis Thraidisiúnta"
 
 #: zul
 #: zu

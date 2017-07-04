@@ -78,14 +78,14 @@ msgstr "고대 영어"
 msgid "Angika"
 msgstr "앙가어"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "현대 표준 아랍어"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "아랍어"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "현대 표준 아랍어"
 
 #: arc
 msgid "Aramaic"
@@ -449,10 +449,6 @@ msgstr "다르그와어"
 msgid "Taita"
 msgstr "타이타어"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "고지 독일어(스위스)"
-
 #: del
 msgid "Delaware"
 msgstr "델라웨어어"
@@ -465,6 +461,10 @@ msgstr "슬라브어"
 #: de
 msgid "German"
 msgstr "독일어"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "고지 독일어(스위스)"
 
 #: dgr
 msgid "Dogrib"
@@ -541,14 +541,14 @@ msgstr "그리스어"
 msgid "Elamite"
 msgstr "엘람어"
 
-#: en AU
-msgid "Australian English"
-msgstr "영어(호주)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "영어"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "영어(호주)"
 
 #: enm
 msgid "Middle English"
@@ -1056,7 +1056,7 @@ msgstr "르완다어"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "키르기스어"
 
 #: kkj
@@ -1412,7 +1412,7 @@ msgstr "마르와리어"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "버마어"
 
 #: mye
@@ -1468,7 +1468,7 @@ msgstr "느동가어"
 msgid "Low German"
 msgstr "저지 독일어"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "저지 색슨어"
 
@@ -1489,14 +1489,14 @@ msgstr "니아스어"
 msgid "Niuean"
 msgstr "니웨언어"
 
-#: nl BE
-msgid "Flemish"
-msgstr "플라망어"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "네덜란드어"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "플라망어"
 
 #: nmg
 msgid "Kwasio"
@@ -1669,7 +1669,7 @@ msgstr "고대 프로방스어"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "파슈토어"
 
 #: quc
@@ -1693,10 +1693,6 @@ msgstr "라파뉴이"
 msgid "Rarotongan"
 msgstr "라로통가어"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "몰도바어"
-
 #: rof
 msgid "Rombo"
 msgstr "롬보어"
@@ -1714,6 +1710,10 @@ msgstr "집시어"
 #: ro
 msgid "Romanian"
 msgstr "루마니아어"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "몰도바어"
 
 #: root
 msgid "Root"
@@ -1954,14 +1954,14 @@ msgstr "수수어"
 msgid "Sumerian"
 msgstr "수메르어"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "콩고 스와힐리어"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "스와힐리어"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "콩고 스와힐리어"
 
 #: swb
 msgid "Comorian"
@@ -2144,7 +2144,7 @@ msgstr "유가리틱어"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "위구르어"
 
 #: ukr

@@ -74,14 +74,14 @@ msgstr "staroengleski"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "moderni standardni arapski"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arapski"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "moderni standardni arapski"
 
 #: arc
 msgid "Aramaic"
@@ -429,10 +429,6 @@ msgstr "dargva"
 msgid "Taita"
 msgstr "taita"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "gornjonjemački (Švicarska)"
-
 #: del
 msgid "Delaware"
 msgstr "delaver"
@@ -445,6 +441,10 @@ msgstr "slave"
 #: de
 msgid "German"
 msgstr "njemački"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "gornjonjemački (Švicarska)"
 
 #: dgr
 msgid "Dogrib"
@@ -521,18 +521,18 @@ msgstr "grčki"
 msgid "Elamite"
 msgstr "elamitski"
 
-#: en GB-short
-msgid "UK English"
-msgstr "engleski (UK)"
-
-#: en US-short
-msgid "US English"
-msgstr "engleski (SAD)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "engleski"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "engleski (UK)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "engleski (SAD)"
 
 #: enm
 msgid "Middle English"
@@ -1004,7 +1004,7 @@ msgstr "kinjarvanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgiški"
 
 #: kkj
@@ -1352,7 +1352,7 @@ msgstr "marvari"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmanski"
 
 #: mye
@@ -1404,7 +1404,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "donjonjemački"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "donjosaksonski"
 
@@ -1425,14 +1425,14 @@ msgstr "nias"
 msgid "Niuean"
 msgstr "niuean"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamanski"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "holandski"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamanski"
 
 #: nmg
 msgid "Kwasio"
@@ -1599,14 +1599,10 @@ msgstr "pruski"
 msgid "Old Provençal"
 msgstr "staroprovansalski"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "pušto"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "paštu"
+msgid "Pashto,Pushto"
+msgstr "paštu,pušto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1629,10 +1625,6 @@ msgstr "rapanui"
 msgid "Rarotongan"
 msgstr "rarotongan"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldavski"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1650,6 +1642,10 @@ msgstr "romani"
 #: ro
 msgid "Romanian"
 msgstr "rumunski"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldavski"
 
 #: root
 msgid "Root"
@@ -2064,7 +2060,7 @@ msgstr "ugaritski"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ujgurski"
 
 #: ukr
@@ -2202,14 +2198,6 @@ msgstr "zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "standardni marokanski tamazigt"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "kineski (pojednostavljeni)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "kineski (tradicionalni)"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2219,6 +2207,14 @@ msgstr "zuang"
 #: zh
 msgid "Chinese"
 msgstr "kineski"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "kineski (pojednostavljeni)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "kineski (tradicionalni)"
 
 #: zul
 #: zu

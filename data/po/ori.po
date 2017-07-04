@@ -74,14 +74,14 @@ msgstr "ପୁରୁଣା ଇଁରାଜୀ"
 msgid "Angika"
 msgstr "ଅଁଗୀକା"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "ମାନକ ଆରବିକ"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "ଆରବିକ୍"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "ମାନକ ଆରବିକ"
 
 #: arc
 msgid "Aramaic"
@@ -373,14 +373,6 @@ msgstr "ଡାନ୍ନିସ୍"
 msgid "Dargwa"
 msgstr "ଡାରାଗ୍ୱା"
 
-#: de AT
-msgid "Austrian German"
-msgstr "ଅଷ୍ଟ୍ରିଆନ୍ ଜର୍ମାନ"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "ସ୍ବିସ୍ ହାଇ ଜର୍ମାନ୍"
-
 #: del
 msgid "Delaware"
 msgstr "ଡେଲାୱେର୍"
@@ -393,6 +385,14 @@ msgstr "ସ୍ଲେଭ୍"
 #: de
 msgid "German"
 msgstr "ଜର୍ମାନ୍"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "ଅଷ୍ଟ୍ରିଆନ୍ ଜର୍ମାନ"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "ସ୍ବିସ୍ ହାଇ ଜର୍ମାନ୍"
 
 #: dgr
 msgid "Dogrib"
@@ -453,26 +453,26 @@ msgstr "ଗ୍ରୀକ୍"
 msgid "Elamite"
 msgstr "ଏଲାମାଇଟ୍"
 
-#: en AU
-msgid "Australian English"
-msgstr "ଅଷ୍ଟ୍ରେଲିଆନ୍ ଇଁରାଜୀ"
-
-#: en CA
-msgid "Canadian English"
-msgstr "କାନାଡିଆନ୍ ଇଁରାଜୀ"
-
-#: en GB
-msgid "British English"
-msgstr "ବ୍ରିଟିଶ୍ ଇଁରାଜୀ"
-
-#: en US
-msgid "American English"
-msgstr "ୟୁ.ଏସ୍. ଇଁରାଜୀ"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ଇଂରାଜୀ"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "ଅଷ୍ଟ୍ରେଲିଆନ୍ ଇଁରାଜୀ"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "କାନାଡିଆନ୍ ଇଁରାଜୀ"
+
+#: eng_GB
+msgid "British English"
+msgstr "ବ୍ରିଟିଶ୍ ଇଁରାଜୀ"
+
+#: eng_US
+msgid "American English"
+msgstr "ୟୁ.ଏସ୍. ଇଁରାଜୀ"
 
 #: enm
 msgid "Middle English"
@@ -482,14 +482,6 @@ msgstr "ମଧ୍ୟ ଇଁରାଜୀ"
 #: eo
 msgid "Esperanto"
 msgstr "ଏସ୍ପାରେଣ୍ଟୋ"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "ଲାଟିନ୍ ଆମେରିକାନ୍ ସ୍ପାନିଶ୍"
-
-#: es ES
-msgid "European Spanish"
-msgstr "ଲେବେରିଆନ୍ ସ୍ପାନିଶ୍"
 
 #: est
 #: et
@@ -546,18 +538,18 @@ msgstr "ଫିନ୍ନିସ୍"
 msgid "Fon"
 msgstr "ଫନ୍"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "କାନାଡିଆନ୍ ଫ୍ରେଞ୍ଚ"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "ସ୍ବିସ୍ ଫ୍ରେଞ୍ଚ୍"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ଫ୍ରେଞ୍ଚ"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "କାନାଡିଆନ୍ ଫ୍ରେଞ୍ଚ"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "ସ୍ବିସ୍ ଫ୍ରେଞ୍ଚ୍"
 
 #: frm
 msgid "Middle French"
@@ -928,7 +920,7 @@ msgstr "କିନ୍ୟାରୱାଣ୍ଡା"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "କିରଗିଜ୍"
 
 #: kmb
@@ -1208,7 +1200,7 @@ msgstr "ମାରୱାରୀ"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "ବର୍ମୀଜ୍"
 
 #: myv
@@ -1265,14 +1257,14 @@ msgstr "ନୀୟାସ୍"
 msgid "Niuean"
 msgstr "ନିୟୁଆନ୍"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ଫ୍ଲେମିଶ୍"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "ଡଚ୍"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ଫ୍ଲେମିଶ୍"
 
 #: nno
 #: nn
@@ -1415,21 +1407,21 @@ msgstr "ପୋହପିଏନ୍"
 msgid "Portuguese"
 msgstr "ପର୍ତ୍ତୁଗ୍ରୀଜ୍"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "ବ୍ରାଜିଲିଆନ୍ ପର୍ତ୍ତୁଗୀଜ୍"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "ଲେବେରିଆନ୍ ପର୍ତ୍ତୁଗୀଜ୍"
+
 #: pro
 msgid "Old Provençal"
 msgstr "ପୁରୁଣା ପ୍ରେଭେନେସିଆଲ୍"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "ବ୍ରାଜିଲିଆନ୍ ପର୍ତ୍ତୁଗୀଜ୍"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "ଲେବେରିଆନ୍ ପର୍ତ୍ତୁଗୀଜ୍"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "ପାସ୍ତୋ"
 
 #: que
@@ -1449,10 +1441,6 @@ msgstr "ରାପାନୁଇ"
 msgid "Rarotongan"
 msgstr "ରାରୋତୋଙ୍ଗନ୍"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "ମୋଲଡୋଭିଆନ୍"
-
 #: rof
 msgid "Rombo"
 msgstr "ରୋମ୍ବୋ"
@@ -1470,6 +1458,10 @@ msgstr "ରୋମାନି"
 #: ro
 msgid "Romanian"
 msgstr "ରୋମାନିଆନ୍"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "ମୋଲଡୋଭିଆନ୍"
 
 #: root
 msgid "Root"
@@ -1616,6 +1608,14 @@ msgstr "ସେସୋଥୋ"
 #: es
 msgid "Spanish"
 msgstr "ସ୍ପାନିସ୍"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "ଲାଟିନ୍ ଆମେରିକାନ୍ ସ୍ପାନିଶ୍"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "ଲେବେରିଆନ୍ ସ୍ପାନିଶ୍"
 
 #: sqi
 #: sq
@@ -1820,7 +1820,7 @@ msgstr "ୟୁଗୋରଟିକ୍"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ୟୁଘୁର୍"
 
 #: ukr
@@ -1930,14 +1930,6 @@ msgstr "ବ୍ଲିସିମ୍ବଲସ୍"
 msgid "Zenaga"
 msgstr "ଜେନାଗା"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ସରଳିକରଣ ଚାଇନୀଜ୍"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ପାରମ୍ପରିକ ଚାଇନୀଜ୍"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -1947,6 +1939,14 @@ msgstr "ଜୁଆଙ୍ଗ"
 #: zh
 msgid "Chinese"
 msgstr "ଚାଇନୀଜ୍"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ସରଳିକରଣ ଚାଇନୀଜ୍"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ପାରମ୍ପରିକ ଚାଇନୀଜ୍"
 
 #: zul
 #: zu

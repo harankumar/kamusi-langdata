@@ -62,14 +62,14 @@ msgstr "isi-Amharic"
 msgid "Angika"
 msgstr "isi-Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "isi-Arabic esivamile sesimanje"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "isi-Arabic"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "isi-Arabic esivamile sesimanje"
 
 #: arg
 #: an
@@ -307,18 +307,18 @@ msgstr "isi-Dargwa"
 msgid "Taita"
 msgstr "isi-Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "isi-Austrian German"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "i-Swiss High German"
-
 #: deu
 #: de
 msgid "German"
 msgstr "isi-German"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "isi-Austrian German"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "i-Swiss High German"
 
 #: dgr
 msgid "Dogrib"
@@ -371,51 +371,39 @@ msgstr "isi-Ekajuk"
 msgid "Greek"
 msgstr "isi-Greek"
 
-#: en AU
-msgid "Australian English"
-msgstr "isi-Austrillian English"
-
-#: en CA
-msgid "Canadian English"
-msgstr "i-Canadian English"
-
-#: en GB
-msgid "British English"
-msgstr "i-British English"
-
-#: en GB-short
-msgid "UK English"
-msgstr "i-UK English"
-
-#: en US
-msgid "American English"
-msgstr "i-American English"
-
-#: en US-short
-msgid "US English"
-msgstr "i-English (US)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "i-English"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "isi-Austrillian English"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "i-Canadian English"
+
+#: eng_GB
+msgid "British English"
+msgstr "i-British English"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "i-UK English"
+
+#: eng_US
+msgid "American English"
+msgstr "i-American English"
+
+#: eng_US-short
+msgid "US English"
+msgstr "i-English (US)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "isi-Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "isi-Latin American Spanish"
-
-#: es ES
-msgid "European Spanish"
-msgstr "i-European Spanish"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "i-Mexican Spanish"
 
 #: est
 #: et
@@ -464,18 +452,18 @@ msgstr "isi-Finnish"
 msgid "Fon"
 msgstr "isi-Fon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "i-Canadian French"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "i-Swiss French"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "isi-French"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "i-Canadian French"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "i-Swiss French"
 
 #: fry
 #: fy
@@ -804,7 +792,7 @@ msgstr "isi-Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "isi-Kyrgyz"
 
 #: kkj
@@ -1100,7 +1088,7 @@ msgstr "isi-Mirandese"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "isi-Burmese"
 
 #: myv
@@ -1152,7 +1140,7 @@ msgstr "isi-Ndonga"
 msgid "Low German"
 msgstr "isi-Low German"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "isi-Low Saxon"
 
@@ -1173,14 +1161,14 @@ msgstr "isi-Nias"
 msgid "Niuean"
 msgstr "isi-Niuean"
 
-#: nl BE
-msgid "Flemish"
-msgstr "isi-Flemish"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "isi-Dutch"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "isi-Flemish"
 
 #: nmg
 msgid "Kwasio"
@@ -1285,26 +1273,22 @@ msgstr "isi-Polish"
 msgid "Portuguese"
 msgstr "isi-Portuguese"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "isi-Brazillian Portuguese"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "isi-European Portuguese"
+
 #: prg
 msgid "Prussian"
 msgstr "isi-Prussian"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "isi-Pushto"
-
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "isi-Brazillian Portuguese"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "isi-European Portuguese"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "isi-Pashto"
+msgid "Pashto,Pushto"
+msgstr "isi-Pashto,isi-Pushto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1323,10 +1307,6 @@ msgstr "i-Rapanui"
 msgid "Rarotongan"
 msgstr "i-Rarotongan"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "isi-Moldavian"
-
 #: rof
 msgid "Rombo"
 msgstr "isi-Rombo"
@@ -1340,6 +1320,10 @@ msgstr "isi-Romansh"
 #: ro
 msgid "Romanian"
 msgstr "isi-Romanian"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "isi-Moldavian"
 
 #: root
 msgid "Root"
@@ -1495,6 +1479,18 @@ msgstr "isiSuthu"
 msgid "Spanish"
 msgstr "isi-Spanish"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "isi-Latin American Spanish"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "i-European Spanish"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "i-Mexican Spanish"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1532,14 +1528,14 @@ msgstr "i-Sukuma"
 msgid "Sundanese"
 msgstr "isi-Sundanese"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "isi-Congo Swahili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "isiSwahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "isi-Congo Swahili"
 
 #: swb
 msgid "Comorian"
@@ -1673,7 +1669,7 @@ msgstr "isi-Udmurt"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "isi-Uighur"
 
 #: ukr
@@ -1791,18 +1787,18 @@ msgstr "isi-Cantonese"
 msgid "Standard Moroccan Tamazight"
 msgstr "isi-Moroccan Tamazight esivamile"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "isi-Chinese (esenziwe-lula)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "isi-Chinese (Okosiko)"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "isi-Chinese"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "isi-Chinese (esenziwe-lula)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "isi-Chinese (Okosiko)"
 
 #: zul
 #: zu

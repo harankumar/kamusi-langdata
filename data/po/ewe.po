@@ -188,18 +188,18 @@ msgstr "walesgbe"
 msgid "Danish"
 msgstr "denmarkgbe"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Germaniagbe (Austria)"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Germaniagbe (Switzerland)"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Germaniagbe"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Germaniagbe (Austria)"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Germaniagbe (Switzerland)"
 
 #: div
 #: dv
@@ -236,51 +236,39 @@ msgstr "efigbe"
 msgid "Greek"
 msgstr "grisigbe"
 
-#: en AU
-msgid "Australian English"
-msgstr "Yevugbe (Australia)"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Yevugbe (Canada)"
-
-#: en GB
-msgid "British English"
-msgstr "Yevugbe (Britain)"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Yevugbe (GB)"
-
-#: en US
-msgid "American English"
-msgstr "Yevugbe (America)"
-
-#: en US-short
-msgid "US English"
-msgstr "Yevugbe (US)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Yevugbe"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "Yevugbe (Australia)"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Yevugbe (Canada)"
+
+#: eng_GB
+msgid "British English"
+msgstr "Yevugbe (Britain)"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Yevugbe (GB)"
+
+#: eng_US
+msgid "American English"
+msgstr "Yevugbe (America)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Yevugbe (US)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "esperantogbe"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Spanishgbe (Latin America)"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Spanishgbe (Europe)"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Spanishgbe (Mexico)"
 
 #: est
 #: et
@@ -329,18 +317,18 @@ msgstr "filipingbe"
 msgid "Finnish"
 msgstr "finlanɖgbe"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Fransegbe (Canada)"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Fransegbe (Switzerland)"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Fransegbe"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Fransegbe (Canada)"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Fransegbe (Switzerland)"
 
 #: fry
 #: fy
@@ -538,7 +526,7 @@ msgstr "ruwandagbe"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirghistangbe"
 
 #: kkj
@@ -707,7 +695,7 @@ msgstr "gbegbɔgblɔ sɔgbɔwo"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmagbe"
 
 #: mye
@@ -742,14 +730,14 @@ msgstr "nepalgbe"
 msgid "Niuean"
 msgstr "niuegbe"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flemishgbe"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Hollandgbe"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flemishgbe"
 
 #: nmg
 msgid "Kwasio"
@@ -828,17 +816,17 @@ msgstr "ponpeiagbe"
 msgid "Portuguese"
 msgstr "Portuguesegbe"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Portuguesegbe (Brazil)"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Portuguesegbe (Europe)"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pashtogbe"
 
 #: que
@@ -945,6 +933,18 @@ msgstr "anyiehe sothogbe"
 #: es
 msgid "Spanish"
 msgstr "Spanishgbe"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Spanishgbe (Latin America)"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Spanishgbe (Europe)"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Spanishgbe (Mexico)"
 
 #: sqi
 #: sq
@@ -1070,7 +1070,7 @@ msgstr "udmurtgbe"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uighurgbe"
 
 #: ukr
@@ -1145,14 +1145,6 @@ msgstr "yorubagbe"
 msgid "Cantonese"
 msgstr "cantongbe"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "tsainagbe"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "blema tsainagbe"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -1162,6 +1154,14 @@ msgstr "zhuangbe"
 #: zh
 msgid "Chinese"
 msgstr "Chinagbe"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "tsainagbe"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "blema tsainagbe"
 
 #: zul
 #: zu

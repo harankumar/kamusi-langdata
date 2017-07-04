@@ -122,7 +122,7 @@ msgstr "Imalesia"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Iburma"
 
 #: nep

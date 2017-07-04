@@ -86,14 +86,14 @@ msgstr "vanainglise"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "araabia (tänapäevane)"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "araabia"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "araabia (tänapäevane)"
 
 #: arc
 msgid "Aramaic"
@@ -497,14 +497,6 @@ msgstr "dargi"
 msgid "Taita"
 msgstr "davida"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Austria saksa"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Šveitsi ülemsaksa"
-
 #: del
 msgid "Delaware"
 msgstr "delavari"
@@ -517,6 +509,14 @@ msgstr "sleivi"
 #: de
 msgid "German"
 msgstr "saksa"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Austria saksa"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Šveitsi ülemsaksa"
 
 #: dgr
 msgid "Dogrib"
@@ -601,34 +601,34 @@ msgstr "kreeka"
 msgid "Elamite"
 msgstr "eelami"
 
-#: en AU
-msgid "Australian English"
-msgstr "Austraalia inglise"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanada inglise"
-
-#: en GB
-msgid "British English"
-msgstr "Briti inglise"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Briti inglise"
-
-#: en US
-msgid "American English"
-msgstr "Ameerika inglise"
-
-#: en US-short
-msgid "US English"
-msgstr "USA inglise"
-
 #: eng
 #: en
 msgid "English"
 msgstr "inglise"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Austraalia inglise"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanada inglise"
+
+#: eng_GB
+msgid "British English"
+msgstr "Briti inglise"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Briti inglise"
+
+#: eng_US
+msgid "American English"
+msgstr "Ameerika inglise"
+
+#: eng_US-short
+msgid "US English"
+msgstr "USA inglise"
 
 #: enm
 msgid "Middle English"
@@ -638,18 +638,6 @@ msgstr "keskinglise"
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Ladina-Ameerika hispaania"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Euroopa hispaania"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Mehhiko hispaania"
 
 #: est
 #: et
@@ -718,18 +706,18 @@ msgstr "meä"
 msgid "Fon"
 msgstr "foni"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanada prantsuse"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Šveitsi prantsuse"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "prantsuse"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanada prantsuse"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Šveitsi prantsuse"
 
 #: frc
 msgid "Cajun French"
@@ -1188,7 +1176,7 @@ msgstr "ruanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgiisi"
 
 #: kiu
@@ -1576,7 +1564,7 @@ msgstr "mentavei"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "birma"
 
 #: mye
@@ -1632,7 +1620,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "alamsaksa"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Hollandi alamsaksa"
 
@@ -1657,14 +1645,14 @@ msgstr "niue"
 msgid "Ao Naga"
 msgstr "ao"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flaami"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "hollandi"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flaami"
 
 #: nmg
 msgid "Kwasio"
@@ -1851,6 +1839,14 @@ msgstr "poonpei"
 msgid "Portuguese"
 msgstr "portugali"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Brasiilia portugali"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Euroopa portugali"
+
 #: prg
 msgid "Prussian"
 msgstr "preisi"
@@ -1859,17 +1855,9 @@ msgstr "preisi"
 msgid "Old Provençal"
 msgstr "vanaprovansi"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Brasiilia portugali"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Euroopa portugali"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "puštu"
 
 #: quc
@@ -1901,10 +1889,6 @@ msgstr "romanja"
 msgid "Riffian"
 msgstr "riifi"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldova"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1922,6 +1906,10 @@ msgstr "mustlaskeel"
 #: ro
 msgid "Romanian"
 msgstr "rumeenia"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldova"
 
 #: rtm
 msgid "Rotuman"
@@ -2137,6 +2125,18 @@ msgstr "lõunasotho"
 msgid "Spanish"
 msgstr "hispaania"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Ladina-Ameerika hispaania"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Euroopa hispaania"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Mehhiko hispaania"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2190,14 +2190,14 @@ msgstr "susu"
 msgid "Sumerian"
 msgstr "sumeri"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kongo suahiili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "suahiili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kongo suahiili"
 
 #: swb
 msgid "Comorian"
@@ -2400,7 +2400,7 @@ msgstr "ugariti"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uiguuri"
 
 #: ukr

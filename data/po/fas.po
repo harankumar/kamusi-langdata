@@ -82,14 +82,14 @@ msgstr "انگلیسی باستان"
 msgid "Angika"
 msgstr "آنگیکا"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "عربی رسمی"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "عربی"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "عربی رسمی"
 
 #: arc
 msgid "Aramaic"
@@ -156,22 +156,18 @@ msgstr "اودهی"
 msgid "Aymara"
 msgstr "آیمارایی"
 
-#: az Arab
-msgid "undefined"
-msgstr "ترکی آذری جنوبی"
-
 #: az-short
 msgid "Azeri"
 msgstr "آذری"
 
-#: az-variant
-msgid "undefined"
-msgstr "آذربایجانی"
-
 #: aze
 #: az
 msgid "Azerbaijani"
-msgstr "ترکی آذربایجانی"
+msgstr "ترکی آذربایجانی,آذربایجانی"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "ترکی آذری جنوبی"
 
 #: bak
 #: ba
@@ -433,14 +429,6 @@ msgstr "دارقینی"
 msgid "Taita"
 msgstr "تایتا"
 
-#: de AT
-msgid "Austrian German"
-msgstr "آلمانی اتریش"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "آلمانی معیار سوئیس"
-
 #: del
 msgid "Delaware"
 msgstr "دلاواری"
@@ -449,6 +437,14 @@ msgstr "دلاواری"
 #: de
 msgid "German"
 msgstr "آلمانی"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "آلمانی اتریش"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "آلمانی معیار سوئیس"
 
 #: dgr
 msgid "Dogrib"
@@ -525,34 +521,34 @@ msgstr "یونانی"
 msgid "Elamite"
 msgstr "عیلامی"
 
-#: en AU
-msgid "Australian English"
-msgstr "انگلیسی استرالیا"
-
-#: en CA
-msgid "Canadian English"
-msgstr "انگلیسی کانادا"
-
-#: en GB
-msgid "British English"
-msgstr "انگلیسی بریتانیا"
-
-#: en GB-short
-msgid "UK English"
-msgstr "انگلیسی بریتانیا"
-
-#: en US
-msgid "American English"
-msgstr "انگلیسی امریکا"
-
-#: en US-short
-msgid "US English"
-msgstr "انگلیسی امریکا"
-
 #: eng
 #: en
 msgid "English"
 msgstr "انگلیسی"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "انگلیسی استرالیا"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "انگلیسی کانادا"
+
+#: eng_GB
+msgid "British English"
+msgstr "انگلیسی بریتانیا"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "انگلیسی بریتانیا"
+
+#: eng_US
+msgid "American English"
+msgstr "انگلیسی امریکا"
+
+#: eng_US-short
+msgid "US English"
+msgstr "انگلیسی امریکا"
 
 #: enm
 msgid "Middle English"
@@ -562,18 +558,6 @@ msgstr "انگلیسی میانه"
 #: eo
 msgid "Esperanto"
 msgstr "اسپرانتو"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "اسپانیایی امریکای لاتین"
-
-#: es ES
-msgid "European Spanish"
-msgstr "اسپانیایی اروپا"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "اسپانیایی مکزیک"
 
 #: est
 #: et
@@ -594,10 +578,6 @@ msgstr "اوه‌ای"
 msgid "Ewondo"
 msgstr "اواندو"
 
-#: fa AF
-msgid "Dari"
-msgstr "دری"
-
 #: fan
 msgid "Fang"
 msgstr "فانگی"
@@ -611,6 +591,10 @@ msgstr "فارویی"
 #: fa
 msgid "Persian"
 msgstr "فارسی"
+
+#: fas_AF
+msgid "Dari"
+msgstr "دری"
 
 #: fat
 msgid "Fanti"
@@ -634,18 +618,18 @@ msgstr "فنلاندی"
 msgid "Fon"
 msgstr "فونی"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "فرانسوی کانادا"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "فرانسوی سوئیس"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "فرانسوی"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "فرانسوی کانادا"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "فرانسوی سوئیس"
 
 #: frc
 msgid "Cajun French"
@@ -1068,7 +1052,7 @@ msgstr "کینیارواندایی"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "قرقیزی"
 
 #: kiu
@@ -1412,7 +1396,7 @@ msgstr "مارواری"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "برمه‌ای"
 
 #: myv
@@ -1460,7 +1444,7 @@ msgstr "اندونگایی"
 msgid "Low German"
 msgstr "آلمانی سفلی"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "ساکسونی سفلی"
 
@@ -1481,14 +1465,14 @@ msgstr "نیاسی"
 msgid "Niuean"
 msgstr "نیویی"
 
-#: nl BE
-msgid "Flemish"
-msgstr "فلمنگی"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "هلندی"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "فلمنگی"
 
 #: nmg
 msgid "Kwasio"
@@ -1651,6 +1635,14 @@ msgstr "پانپیی"
 msgid "Portuguese"
 msgstr "پرتغالی"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "پرتغالی برزیل"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "پرتغالی اروپا"
+
 #: prg
 msgid "Prussian"
 msgstr "پروسی"
@@ -1659,22 +1651,10 @@ msgstr "پروسی"
 msgid "Old Provençal"
 msgstr "پرووانسی باستان"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "پختو"
-
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "پرتغالی برزیل"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "پرتغالی اروپا"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "پشتو"
+msgid "Pashto,Pushto"
+msgstr "پشتو,پختو"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1697,10 +1677,6 @@ msgstr "راپانویی"
 msgid "Rarotongan"
 msgstr "راروتونگایی"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "مولداویایی"
-
 #: rof
 msgid "Rombo"
 msgstr "رومبویی"
@@ -1718,6 +1694,10 @@ msgstr "رومانویی"
 #: ro
 msgid "Romanian"
 msgstr "رومانیایی"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "مولداویایی"
 
 #: root
 msgid "Root"
@@ -1905,6 +1885,18 @@ msgstr "سوتویی جنوبی"
 msgid "Spanish"
 msgstr "اسپانیایی"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "اسپانیایی امریکای لاتین"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "اسپانیایی اروپا"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "اسپانیایی مکزیک"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1954,14 +1946,14 @@ msgstr "سوسویی"
 msgid "Sumerian"
 msgstr "سومری"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "سواحیلی کنگو"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "سواحیلی"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "سواحیلی کنگو"
 
 #: swb
 msgid "Comorian"
@@ -2140,7 +2132,7 @@ msgstr "اوگاریتی"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "اویغوری"
 
 #: ukr
@@ -2278,14 +2270,6 @@ msgstr "زناگا"
 msgid "Standard Moroccan Tamazight"
 msgstr "آمازیغی معیار مراکش"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "چینی ساده‌شده"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "چینی سنتی"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2295,6 +2279,14 @@ msgstr "چوانگی"
 #: zh
 msgid "Chinese"
 msgstr "چینی"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "چینی ساده‌شده"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "چینی سنتی"
 
 #: zul
 #: zu

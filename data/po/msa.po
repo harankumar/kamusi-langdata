@@ -53,14 +53,14 @@ msgstr "Altai Selatan"
 msgid "Amharic"
 msgstr "Amharic"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Arab Standard Moden"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arab"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Arab Standard Moden"
 
 #: arg
 #: an
@@ -375,18 +375,18 @@ msgstr "Dargwa"
 msgid "Taita"
 msgstr "Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Jerman Austria"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Jerman Halus Switzerland"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Jerman"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Jerman Austria"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Jerman Halus Switzerland"
 
 #: dgr
 msgid "Dogrib"
@@ -443,51 +443,39 @@ msgstr "Ekajuk"
 msgid "Greek"
 msgstr "Greek"
 
-#: en AU
-msgid "Australian English"
-msgstr "Inggeris Australia"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Inggeris Kanada"
-
-#: en GB
-msgid "British English"
-msgstr "Inggeris British"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Inggeris U.K."
-
-#: en US
-msgid "American English"
-msgstr "Inggeris AS"
-
-#: en US-short
-msgid "US English"
-msgstr "Inggeris A.S."
-
 #: eng
 #: en
 msgid "English"
 msgstr "Inggeris"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "Inggeris Australia"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Inggeris Kanada"
+
+#: eng_GB
+msgid "British English"
+msgstr "Inggeris British"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Inggeris U.K."
+
+#: eng_US
+msgid "American English"
+msgstr "Inggeris AS"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Inggeris A.S."
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Sepanyol Amerika Latin"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Sepanyol Eropah"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Sepanyol Mexico"
 
 #: est
 #: et
@@ -536,18 +524,18 @@ msgstr "Finland"
 msgid "Fon"
 msgstr "Fon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Perancis Kanada"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Perancis Switzerland"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Perancis"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Perancis Kanada"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Perancis Switzerland"
 
 #: fry
 #: fy
@@ -900,7 +888,7 @@ msgstr "Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirghiz"
 
 #: kkj
@@ -1208,7 +1196,7 @@ msgstr "Mirandese"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burma"
 
 #: mye
@@ -1264,7 +1252,7 @@ msgstr "Ndonga"
 msgid "Low German"
 msgstr "Jerman Rendah"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Saxon Rendah"
 
@@ -1285,14 +1273,14 @@ msgstr "Nias"
 msgid "Niuean"
 msgstr "Niu"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flemish"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Belanda"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flemish"
 
 #: nmg
 msgid "Kwasio"
@@ -1397,26 +1385,22 @@ msgstr "Poland"
 msgid "Portuguese"
 msgstr "Portugis"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Portugis Brazil"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Portugis Eropah"
+
 #: prg
 msgid "Prussian"
 msgstr "Prussian"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "Pushto"
-
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Portugis Brazil"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Portugis Eropah"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "Pashto"
+msgid "Pashto,Pushto"
+msgstr "Pashto,Pushto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1435,10 +1419,6 @@ msgstr "Rapanui"
 msgid "Rarotongan"
 msgstr "Rarotonga"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldavia"
-
 #: rof
 msgid "Rombo"
 msgstr "Rombo"
@@ -1452,6 +1432,10 @@ msgstr "Romansh"
 #: ro
 msgid "Romanian"
 msgstr "Romania"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldavia"
 
 #: root
 msgid "Root"
@@ -1615,6 +1599,18 @@ msgstr "Sotho Selatan"
 msgid "Spanish"
 msgstr "Sepanyol"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Sepanyol Amerika Latin"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Sepanyol Eropah"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Sepanyol Mexico"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1652,14 +1648,14 @@ msgstr "Sukuma"
 msgid "Sundanese"
 msgstr "Sunda"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Congo Swahili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Congo Swahili"
 
 #: swb
 msgid "Comorian"
@@ -1795,14 +1791,10 @@ msgstr "Tamazight Atlas Tengah"
 msgid "Udmurt"
 msgstr "Udmurt"
 
-#: ug-variant
-msgid "Uighur"
-msgstr "Uighur"
-
 #: uig
 #: ug
-msgid "Uyghur"
-msgstr "Uyghur"
+msgid "Uyghur,Uighur"
+msgstr "Uyghur,Uighur"
 
 #: ukr
 #: uk
@@ -1919,18 +1911,18 @@ msgstr "Kantonis"
 msgid "Standard Moroccan Tamazight"
 msgstr "Tamazight Maghribi Standard"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Cina Ringkas"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Cina Tradisional"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Cina"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Cina Ringkas"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Cina Tradisional"
 
 #: zul
 #: zu

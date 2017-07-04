@@ -26,44 +26,44 @@ msgstr "Kelemānia"
 msgid "Greek"
 msgstr "Helene"
 
-#: en AU
-msgid "Australian English"
-msgstr "Pelekāne Nū Hōlani"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Pelekāne Kanakā"
-
-#: en GB
-msgid "British English"
-msgstr "Pelekānia Pekekāne"
-
-#: en US
-msgid "American English"
-msgstr "Pelekānia ʻAmelika"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Pelekānia"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Pelekāne Nū Hōlani"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Pelekāne Kanakā"
+
+#: eng_GB
+msgid "British English"
+msgstr "Pelekānia Pekekāne"
+
+#: eng_US
+msgid "American English"
+msgstr "Pelekānia ʻAmelika"
 
 #: fij
 #: fj
 msgid "Fijian"
 msgstr "Pīkī"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Palani Kanakā"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Kuikilani"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Palani"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Palani Kanakā"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Kuikilani"
 
 #: gle
 #: ga
@@ -118,7 +118,7 @@ msgstr "Hōlani"
 msgid "Portuguese"
 msgstr "Pukikī"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Pukikī Palakila"
 
@@ -161,16 +161,16 @@ msgstr "ʻIke ʻole ‘ia a kūpono ʻole paha ka ʻōlelo"
 msgid "Vietnamese"
 msgstr "Wiekanama"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Pākē Hoʻomaʻalahi ʻia"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Pākē Kuʻuna"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Pākē"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Pākē Hoʻomaʻalahi ʻia"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Pākē Kuʻuna"
 

@@ -74,14 +74,14 @@ msgstr "אנגלית עתיקה"
 msgid "Angika"
 msgstr "אנג׳יקה"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "ערבית ספרותית"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "ערבית"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "ערבית ספרותית"
 
 #: arc
 msgid "Aramaic"
@@ -433,10 +433,6 @@ msgstr "דרגווה"
 msgid "Taita"
 msgstr "טאיטה"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "גרמנית (שוויץ)"
-
 #: del
 msgid "Delaware"
 msgstr "דלאוור"
@@ -449,6 +445,10 @@ msgstr "סלאבית"
 #: de
 msgid "German"
 msgstr "גרמנית"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "גרמנית (שוויץ)"
 
 #: dgr
 msgid "Dogrib"
@@ -525,18 +525,18 @@ msgstr "יוונית"
 msgid "Elamite"
 msgstr "עילמית"
 
-#: en GB
-msgid "British English"
-msgstr "אנגלית (בריטניה)"
-
-#: en US-short
-msgid "US English"
-msgstr "אנגלית (ארה״ב)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "אנגלית"
+
+#: eng_GB
+msgid "British English"
+msgstr "אנגלית (בריטניה)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "אנגלית (ארה״ב)"
 
 #: enm
 msgid "Middle English"
@@ -602,14 +602,14 @@ msgstr "פינית"
 msgid "Fon"
 msgstr "פון"
 
-#: fr CH
-msgid "Swiss French"
-msgstr "צרפתית (שוויץ)"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "צרפתית"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "צרפתית (שוויץ)"
 
 #: frm
 msgid "Middle French"
@@ -1028,7 +1028,7 @@ msgstr "קנירואנדית"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "קירגיזית"
 
 #: kkj
@@ -1376,7 +1376,7 @@ msgstr "מרווארי"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "בורמזית"
 
 #: mye
@@ -1432,7 +1432,7 @@ msgstr "נדונגה"
 msgid "Low German"
 msgstr "גרמנית תחתית"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "סקסונית תחתית"
 
@@ -1453,14 +1453,14 @@ msgstr "ניאס"
 msgid "Niuean"
 msgstr "ניואן"
 
-#: nl BE
-msgid "Flemish"
-msgstr "פלמית"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "הולנדית"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "פלמית"
 
 #: nmg
 msgid "Kwasio"
@@ -1627,14 +1627,10 @@ msgstr "פרוסית"
 msgid "Old Provençal"
 msgstr "פרובנסאל עתיקה"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "פושטו"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "פאשטו"
+msgid "Pashto,Pushto"
+msgstr "פאשטו,פושטו"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1657,10 +1653,6 @@ msgstr "רפאנוי"
 msgid "Rarotongan"
 msgstr "ררוטונגאן"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "מולדבית"
-
 #: rof
 msgid "Rombo"
 msgstr "רומבו"
@@ -1678,6 +1670,10 @@ msgstr "רומאני"
 #: ro
 msgid "Romanian"
 msgstr "רומנית"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "מולדבית"
 
 #: root
 msgid "Root"
@@ -1914,14 +1910,14 @@ msgstr "סוסו"
 msgid "Sumerian"
 msgstr "שומרית"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "סווהילי קונגו"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "סווהילי"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "סווהילי קונגו"
 
 #: swb
 msgid "Comorian"
@@ -2096,7 +2092,7 @@ msgstr "אוגריתית"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "אויגור"
 
 #: ukr
@@ -2242,14 +2238,6 @@ msgstr "זנאגה"
 msgid "Standard Moroccan Tamazight"
 msgstr "תמזיע׳ת מרוקאית תקנית"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "סינית פשוטה"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "סינית מסורתית"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2259,6 +2247,14 @@ msgstr "זואנג"
 #: zh
 msgid "Chinese"
 msgstr "סינית"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "סינית פשוטה"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "סינית מסורתית"
 
 #: zul
 #: zu

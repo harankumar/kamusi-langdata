@@ -58,7 +58,7 @@ msgstr "gazakça"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "gyrgyzça"
 
 #: nld
@@ -68,7 +68,7 @@ msgstr "golland dilini"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "paştoça"
 
 #: rus

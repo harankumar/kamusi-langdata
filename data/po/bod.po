@@ -26,22 +26,22 @@ msgstr "འཇར་མན་གྱི།"
 msgid "Dzongkha"
 msgstr "རྫོང་ཁ"
 
-#: en CA
-msgid "Canadian English"
-msgstr "དབྱིན་ཇིའི་སྐད། (ཁེ་ན་ཌ་)"
-
-#: en GB
-msgid "British English"
-msgstr "དབྱིན་ཇིའི་སྐད། (དབྱིན་ལན་)"
-
-#: en US
-msgid "American English"
-msgstr "དབྱིན་ཇིའི་སྐད། (ཨ་རི་)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "དབྱིན་ཇིའི་སྐད།"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "དབྱིན་ཇིའི་སྐད། (ཁེ་ན་ཌ་)"
+
+#: eng_GB
+msgid "British English"
+msgstr "དབྱིན་ཇིའི་སྐད། (དབྱིན་ལན་)"
+
+#: eng_US
+msgid "American English"
+msgstr "དབྱིན་ཇིའི་སྐད། (ཨ་རི་)"
 
 #: fra
 #: fr
@@ -109,7 +109,7 @@ msgstr "མ་ལ་ཡ་སྐད།"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "འབར་མའི་སྐད།"
 
 #: nep
@@ -142,7 +142,7 @@ msgstr "པོ་ལན་སྐད།"
 msgid "Portuguese"
 msgstr "ཕི་ཐོ་ཡའི།"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "པ་ཞའི་མི། ཕི་ཐོ་ཡའི་མི།"
 
@@ -193,7 +193,7 @@ msgstr "ཐུར་ཁེའི་སྐད།"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ཡུ་གུར་སྐད།"
 
 #: ukr
@@ -219,18 +219,18 @@ msgstr "ཡོ་ནན་སྐད།"
 msgid "Zenaga"
 msgstr "ཟེ་ན་གཱ་སྐད།"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "སྟབས་བརྡའི། ཀྲུང་གོའི།"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "སྲོལ་རྒྱུན་གྱི།"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "རྒྱ་སྐད་"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "སྟབས་བརྡའི། ཀྲུང་གོའི།"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "སྲོལ་རྒྱུན་གྱི།"
 
 #: zul
 #: zu

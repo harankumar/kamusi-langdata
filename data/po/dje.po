@@ -127,7 +127,7 @@ msgstr "Maleezi senni"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burme senni"
 
 #: nep

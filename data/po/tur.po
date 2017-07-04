@@ -86,14 +86,14 @@ msgstr "Eski İngilizce"
 msgid "Angika"
 msgstr "Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Modern Standart Arapça"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arapça"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Modern Standart Arapça"
 
 #: arc
 msgid "Aramaic"
@@ -172,10 +172,6 @@ msgstr "Awadhi"
 msgid "Aymara"
 msgstr "Aymara"
 
-#: az Arab
-msgid "undefined"
-msgstr "Güney Azerice"
-
 #: az-short
 msgid "Azeri"
 msgstr "Azerice"
@@ -184,6 +180,10 @@ msgstr "Azerice"
 #: az
 msgid "Azerbaijani"
 msgstr "Azerice"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "Güney Azerice"
 
 #: bak
 #: ba
@@ -505,14 +505,6 @@ msgstr "Dargince"
 msgid "Taita"
 msgstr "Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Avusturya Almancası"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "İsviçre Yüksek Almancası"
-
 #: del
 msgid "Delaware"
 msgstr "Delaware"
@@ -525,6 +517,14 @@ msgstr "Slavey dili"
 #: de
 msgid "German"
 msgstr "Almanca"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Avusturya Almancası"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "İsviçre Yüksek Almancası"
 
 #: dgr
 msgid "Dogrib"
@@ -609,34 +609,34 @@ msgstr "Yunanca"
 msgid "Elamite"
 msgstr "Elam"
 
-#: en AU
-msgid "Australian English"
-msgstr "Avustralya İngilizcesi"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanada İngilizcesi"
-
-#: en GB
-msgid "British English"
-msgstr "İngiliz İngilizcesi"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Birleşik Krallık İngilizcesi"
-
-#: en US
-msgid "American English"
-msgstr "Amerikan İngilizcesi"
-
-#: en US-short
-msgid "US English"
-msgstr "ABD İngilizcesi"
-
 #: eng
 #: en
 msgid "English"
 msgstr "İngilizce"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Avustralya İngilizcesi"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanada İngilizcesi"
+
+#: eng_GB
+msgid "British English"
+msgstr "İngiliz İngilizcesi"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Birleşik Krallık İngilizcesi"
+
+#: eng_US
+msgid "American English"
+msgstr "Amerikan İngilizcesi"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ABD İngilizcesi"
 
 #: enm
 msgid "Middle English"
@@ -646,18 +646,6 @@ msgstr "Ortaçağ İngilizcesi"
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Latin Amerika İspanyolcası"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Avrupa İspanyolcası"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Meksika İspanyolcası"
 
 #: est
 #: et
@@ -726,18 +714,18 @@ msgstr "Tornedalin Fincesi"
 msgid "Fon"
 msgstr "Fon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanada Fransızcası"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "İsviçre Fransızcası"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Fransızca"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanada Fransızcası"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "İsviçre Fransızcası"
 
 #: frc
 msgid "Cajun French"
@@ -1212,7 +1200,7 @@ msgstr "Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kırgızca"
 
 #: kiu
@@ -1608,7 +1596,7 @@ msgstr "Mentawai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmaca"
 
 #: mye
@@ -1664,7 +1652,7 @@ msgstr "Ndonga"
 msgid "Low German"
 msgstr "Aşağı Almanca"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Aşağı Saksonca"
 
@@ -1689,14 +1677,14 @@ msgstr "Niue dili"
 msgid "Ao Naga"
 msgstr "Ao Naga"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flamanca"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Felemenkçe"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flamanca"
 
 #: nmg
 msgid "Kwasio"
@@ -1883,6 +1871,14 @@ msgstr "Pohnpeian"
 msgid "Portuguese"
 msgstr "Portekizce"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Brezilya Portekizcesi"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Avrupa Portekizcesi"
+
 #: prg
 msgid "Prussian"
 msgstr "Prusyaca"
@@ -1891,17 +1887,9 @@ msgstr "Prusyaca"
 msgid "Old Provençal"
 msgstr "Eski Provensal"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Brezilya Portekizcesi"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Avrupa Portekizcesi"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Peştuca"
 
 #: quc
@@ -1937,10 +1925,6 @@ msgstr "Romanyolca"
 msgid "Riffian"
 msgstr "Rif Berbericesi"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldovaca"
-
 #: rof
 msgid "Rombo"
 msgstr "Rombo"
@@ -1958,6 +1942,10 @@ msgstr "Romanca"
 #: ro
 msgid "Romanian"
 msgstr "Rumence"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldovaca"
 
 #: root
 msgid "Root"
@@ -2181,6 +2169,18 @@ msgstr "Güney Sotho dili"
 msgid "Spanish"
 msgstr "İspanyolca"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Latin Amerika İspanyolcası"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Avrupa İspanyolcası"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Meksika İspanyolcası"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2234,14 +2234,14 @@ msgstr "Susu"
 msgid "Sumerian"
 msgstr "Sümerce"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kongo Svahili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Svahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kongo Svahili"
 
 #: swb
 msgid "Comorian"
@@ -2444,7 +2444,7 @@ msgstr "Ugarit dili"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uygurca"
 
 #: ukr
@@ -2622,14 +2622,6 @@ msgstr "Zenaga dili"
 msgid "Standard Moroccan Tamazight"
 msgstr "Standart Fas Tamazigti"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Basitleştirilmiş Çince"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Geleneksel Çince"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2639,6 +2631,14 @@ msgstr "Zhuangca"
 #: zh
 msgid "Chinese"
 msgstr "Çince"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Basitleştirilmiş Çince"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Geleneksel Çince"
 
 #: zul
 #: zu

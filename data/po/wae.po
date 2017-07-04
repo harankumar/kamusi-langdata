@@ -81,18 +81,18 @@ msgstr "Walisiš"
 msgid "Danish"
 msgstr "Däniš"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Öštričišes Titš"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Schwizer Hočtitš"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Titš"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Öštričišes Titš"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Schwizer Hočtitš"
 
 #: div
 #: dv
@@ -113,34 +113,26 @@ msgstr "Efik"
 msgid "Greek"
 msgstr "Gričiš"
 
-#: en AU
-msgid "Australian English"
-msgstr "Auštrališes Engliš"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanadišes Engliš"
-
-#: en GB
-msgid "British English"
-msgstr "Britišes Engliš"
-
-#: en US
-msgid "American English"
-msgstr "Amerikanišes Engliš"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Engliš"
 
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Latiamerikanišes Schpaniš"
+#: eng_AU
+msgid "Australian English"
+msgstr "Auštrališes Engliš"
 
-#: es ES
-msgid "European Spanish"
-msgstr "Iberišes Schpaniš"
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanadišes Engliš"
+
+#: eng_GB
+msgid "British English"
+msgstr "Britišes Engliš"
+
+#: eng_US
+msgid "American English"
+msgstr "Amerikanišes Engliš"
 
 #: est
 #: et
@@ -171,18 +163,18 @@ msgstr "Filipiniš"
 msgid "Finnish"
 msgstr "Finiš"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanadišes Wälš"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Schwizer Wälš"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Wälš"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanadišes Wälš"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Schwizer Wälš"
 
 #: gle
 #: ga
@@ -300,7 +292,7 @@ msgstr "Ruandiš"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirgisiš"
 
 #: kor
@@ -385,7 +377,7 @@ msgstr "Malaíš"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmesiš"
 
 #: nde
@@ -398,14 +390,14 @@ msgstr "Nordndebele"
 msgid "Nepali"
 msgstr "Nepalesiš"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flämiš"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Holändiš"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flämiš"
 
 #: nno
 #: nn
@@ -451,17 +443,17 @@ msgstr "Polniš"
 msgid "Portuguese"
 msgstr "Portugisiš"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Brasilianišes Portugisiš"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Iberišes Portugisiš"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Paštu"
 
 #: que
@@ -552,6 +544,14 @@ msgstr "Südsotho"
 #: es
 msgid "Spanish"
 msgstr "Schpaniš"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Latiamerikanišes Schpaniš"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Iberišes Schpaniš"
 
 #: sqi
 #: sq
@@ -648,7 +648,7 @@ msgstr "Türkiš"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uiguriš"
 
 #: ukr
@@ -699,18 +699,18 @@ msgstr "Xhosa"
 msgid "Yoruba"
 msgstr "Yoruba"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Vereifačts Chinesiš"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Traditionells Chinesiš"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Chinesiš"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Vereifačts Chinesiš"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Traditionells Chinesiš"
 
 #: zul
 #: zu

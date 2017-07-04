@@ -58,14 +58,14 @@ msgstr "ᎠᎹᎭᎵᎩ"
 msgid "Angika"
 msgstr "ᎠᎾᎩᎧ"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "ᎪᎯᏊ ᎢᎬᏥᎩ ᎠᏟᎶᏍᏗ ᎡᎳᏈ"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "ᎡᎳᏈ"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "ᎪᎯᏊ ᎢᎬᏥᎩ ᎠᏟᎶᏍᏗ ᎡᎳᏈ"
 
 #: arg
 #: an
@@ -303,18 +303,18 @@ msgstr "ᏓᎳᏆ"
 msgid "Taita"
 msgstr "ᏔᎢᏔ"
 
-#: de AT
-msgid "Austrian German"
-msgstr "ᎠᏟᏯᏂ ᎠᏂᏓᏥ"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "ᏍᏫᏏ ᎦᎸᎳᏗ ᎠᏂᏓᏥ"
-
 #: deu
 #: de
 msgid "German"
 msgstr "ᏙᎢᏥ"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "ᎠᏟᏯᏂ ᎠᏂᏓᏥ"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "ᏍᏫᏏ ᎦᎸᎳᏗ ᎠᏂᏓᏥ"
 
 #: dgr
 msgid "Dogrib"
@@ -367,51 +367,39 @@ msgstr "ᎨᎧᏧᎧ"
 msgid "Greek"
 msgstr "ᎠᏂᎪᎢ"
 
-#: en AU
-msgid "Australian English"
-msgstr "ᎡᎳᏗᏜ ᎩᎵᏏ"
-
-#: en CA
-msgid "Canadian English"
-msgstr "ᎨᎾᏓ ᎩᎵᏏ"
-
-#: en GB
-msgid "British English"
-msgstr "ᎩᎵᏏᏲ ᎩᎵᏏ"
-
-#: en GB-short
-msgid "UK English"
-msgstr "UK ᎩᎵᏏ"
-
-#: en US
-msgid "American English"
-msgstr "ᎠᎹᏰᏟ ᎩᎵᏏ"
-
-#: en US-short
-msgid "US English"
-msgstr "US ᎩᎵᏏ"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ᎩᎵᏏ"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "ᎡᎳᏗᏜ ᎩᎵᏏ"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "ᎨᎾᏓ ᎩᎵᏏ"
+
+#: eng_GB
+msgid "British English"
+msgstr "ᎩᎵᏏᏲ ᎩᎵᏏ"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "UK ᎩᎵᏏ"
+
+#: eng_US
+msgid "American English"
+msgstr "ᎠᎹᏰᏟ ᎩᎵᏏ"
+
+#: eng_US-short
+msgid "US English"
+msgstr "US ᎩᎵᏏ"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "ᎡᏍᏇᎳᏂᏙ"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "ᏔᏘᏂ ᎠᎹᏰᏟ ᏍᏆᏂ"
-
-#: es ES
-msgid "European Spanish"
-msgstr "ᎠᏂᏍᏆᏂᏱ ᏍᏆᏂ"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "ᏍᏆᏂᏱ ᏍᏆᏂ"
 
 #: est
 #: et
@@ -460,18 +448,18 @@ msgstr "ᏈᏂᏍ"
 msgid "Fon"
 msgstr "ᏠᏂ"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "ᎨᎾᏓ ᎦᎸᏥ"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "ᏍᏫᏏ ᎦᎸᏥ"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ᎦᎸᏥ"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "ᎨᎾᏓ ᎦᎸᏥ"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "ᏍᏫᏏ ᎦᎸᏥ"
 
 #: fry
 #: fy
@@ -770,7 +758,7 @@ msgstr "ᎩᏂᏯᏩᏂᏓ"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ᎩᎵᏣᎢᏍ"
 
 #: kkj
@@ -1057,7 +1045,7 @@ msgstr "ᎻᎳᏕᏏ"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "ᏋᎻᏍ"
 
 #: myv
@@ -1101,7 +1089,7 @@ msgstr "ᏧᏴᏢ ᏂᏕᏇᎴ"
 msgid "Ndonga"
 msgstr "ᎾᏙᎦ"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "ᎡᎳᏗ ᏁᏛᎳᏂ"
 
@@ -1122,14 +1110,14 @@ msgstr "ᏂᎠᏏ"
 msgid "Niuean"
 msgstr "ᏂᏳᏫᏯᏂ"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ᏊᎵᏥᎥᎻ ᏛᏥ"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "ᏛᏥ"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ᏊᎵᏥᎥᎻ ᏛᏥ"
 
 #: nmg
 msgid "Kwasio"
@@ -1229,21 +1217,21 @@ msgstr "ᏉᎵᏍ"
 msgid "Portuguese"
 msgstr "ᏉᏧᎩᏍ"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "ᏆᏏᎵᎢ ᏉᏧᎦᎵ"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "ᏉᏥᎦᎳ ᏉᏧᎦᎵ"
+
 #: prg
 msgid "Prussian"
 msgstr "ᏡᏏᎠᏂ"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "ᏆᏏᎵᎢ ᏉᏧᎦᎵ"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "ᏉᏥᎦᎳ ᏉᏧᎦᎵ"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "ᏆᏍᏙ"
 
 #: quc
@@ -1263,10 +1251,6 @@ msgstr "ᎳᏆᏄᏫ"
 msgid "Rarotongan"
 msgstr "ᎳᎶᏙᎾᎦᏂ"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "ᎹᎵᏙᏫᎠ ᏣᎹᏂᎠᏂ"
-
 #: rof
 msgid "Rombo"
 msgstr "ᎶᎹᏉ"
@@ -1280,6 +1264,10 @@ msgstr "ᎠᏂᎶᎺᏂ"
 #: ro
 msgid "Romanian"
 msgstr "ᎶᎹᏂᎠᏂ"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "ᎹᎵᏙᏫᎠ ᏣᎹᏂᎠᏂ"
 
 #: root
 msgid "Root"
@@ -1431,6 +1419,18 @@ msgstr "ᏧᎦᎾᏮ ᏗᏜ ᏐᏠ"
 msgid "Spanish"
 msgstr "ᏍᏆᏂ"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "ᏔᏘᏂ ᎠᎹᏰᏟ ᏍᏆᏂ"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "ᎠᏂᏍᏆᏂᏱ ᏍᏆᏂ"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "ᏍᏆᏂᏱ ᏍᏆᏂ"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1468,14 +1468,14 @@ msgstr "ᏑᎫᎹ"
 msgid "Sundanese"
 msgstr "ᏑᏂᏓᏂᏏ"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "ᎧᏂᎪ ᏍᏩᎯᎵ"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "ᏍᏩᎯᎵ"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "ᎧᏂᎪ ᏍᏩᎯᎵ"
 
 #: swb
 msgid "Comorian"
@@ -1604,7 +1604,7 @@ msgstr "ᎤᏚᎷᏘ"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ᏫᎦ"
 
 #: ukr
@@ -1714,18 +1714,18 @@ msgstr "ᎨᎾᏙᏂᏏ"
 msgid "Standard Moroccan Tamazight"
 msgstr "ᎠᏟᎶᏍᏗ ᎼᎶᎪ ᏔᎹᏏᏘ"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ᎠᎯᏗᎨ ᏓᎶᏂᎨ"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ᎤᏦᏍᏗ ᏓᎶᏂᎨ"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "ᏓᎶᏂᎨ"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ᎠᎯᏗᎨ ᏓᎶᏂᎨ"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ᎤᏦᏍᏗ ᏓᎶᏂᎨ"
 
 #: zul
 #: zu

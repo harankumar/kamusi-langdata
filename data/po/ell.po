@@ -74,14 +74,14 @@ msgstr "Παλαιά Αγγλικά"
 msgid "Angika"
 msgstr "Ανγκικά"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Σύγχρονα Τυπικά Αραβικά"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Αραβικά"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Σύγχρονα Τυπικά Αραβικά"
 
 #: arc
 msgid "Aramaic"
@@ -429,14 +429,6 @@ msgstr "Ντάργκουα"
 msgid "Taita"
 msgstr "Τάιτα"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Γερμανικά Αυστρίας"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Άνω Γερμανικά Ελβετίας"
-
 #: del
 msgid "Delaware"
 msgstr "Ντέλαγουερ"
@@ -449,6 +441,14 @@ msgstr "Σλαβικά"
 #: de
 msgid "German"
 msgstr "Γερμανικά"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Γερμανικά Αυστρίας"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Άνω Γερμανικά Ελβετίας"
 
 #: dgr
 msgid "Dogrib"
@@ -525,34 +525,34 @@ msgstr "Ελληνικά"
 msgid "Elamite"
 msgstr "Ελαμάιτ"
 
-#: en AU
-msgid "Australian English"
-msgstr "Αγγλικά Αυστραλίας"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Αγγλικά Καναδά"
-
-#: en GB
-msgid "British English"
-msgstr "Αγγλικά Ηνωμένου Βασιλείου"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Αγγλικά ΗΒ"
-
-#: en US
-msgid "American English"
-msgstr "Αγγλικά Αμερικής"
-
-#: en US-short
-msgid "US English"
-msgstr "Αγγλικά ΗΠΑ"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Αγγλικά"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Αγγλικά Αυστραλίας"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Αγγλικά Καναδά"
+
+#: eng_GB
+msgid "British English"
+msgstr "Αγγλικά Ηνωμένου Βασιλείου"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Αγγλικά ΗΒ"
+
+#: eng_US
+msgid "American English"
+msgstr "Αγγλικά Αμερικής"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Αγγλικά ΗΠΑ"
 
 #: enm
 msgid "Middle English"
@@ -562,18 +562,6 @@ msgstr "Μέσα Αγγλικά"
 #: eo
 msgid "Esperanto"
 msgstr "Εσπεράντο"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Ισπανικά Λατινικής Αμερικής"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Ισπανικά Ευρώπης"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Ισπανικά Μεξικού"
 
 #: est
 #: et
@@ -630,18 +618,18 @@ msgstr "Φινλανδικά"
 msgid "Fon"
 msgstr "Φον"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Γαλλικά Καναδά"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Γαλλικά Ελβετίας"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Γαλλικά"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Γαλλικά Καναδά"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Γαλλικά Ελβετίας"
 
 #: frm
 msgid "Middle French"
@@ -1048,7 +1036,7 @@ msgstr "Κινιαρβάντα"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Κυργιζικά"
 
 #: kkj
@@ -1396,7 +1384,7 @@ msgstr "Μαργουάρι"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Βιρμανικά"
 
 #: mye
@@ -1448,7 +1436,7 @@ msgstr "Ντόνγκα"
 msgid "Low German"
 msgstr "Κάτω Γερμανικά"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Κάτω Γερμανικά Ολλανδίας"
 
@@ -1469,14 +1457,14 @@ msgstr "Νίας"
 msgid "Niuean"
 msgstr "Νιούεαν"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Φλαμανδικά"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Ολλανδικά"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Φλαμανδικά"
 
 #: nmg
 msgid "Kwasio"
@@ -1635,6 +1623,14 @@ msgstr "Πομπηικά"
 msgid "Portuguese"
 msgstr "Πορτογαλικά"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Πορτογαλικά Βραζιλίας"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Πορτογαλικά Ευρώπης"
+
 #: prg
 msgid "Prussian"
 msgstr "Πρωσικά"
@@ -1643,17 +1639,9 @@ msgstr "Πρωσικά"
 msgid "Old Provençal"
 msgstr "Παλαιά Προβανσάλ"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Πορτογαλικά Βραζιλίας"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Πορτογαλικά Ευρώπης"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Πάστο"
 
 #: quc
@@ -1677,10 +1665,6 @@ msgstr "Ραπανούι"
 msgid "Rarotongan"
 msgstr "Ραροτονγκάν"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Μολδαβικά"
-
 #: rof
 msgid "Rombo"
 msgstr "Ρόμπο"
@@ -1698,6 +1682,10 @@ msgstr "Ρομανί"
 #: ro
 msgid "Romanian"
 msgstr "Ρουμανικά"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Μολδαβικά"
 
 #: root
 msgid "Root"
@@ -1885,6 +1873,18 @@ msgstr "Νότια Σόθο"
 msgid "Spanish"
 msgstr "Ισπανικά"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Ισπανικά Λατινικής Αμερικής"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Ισπανικά Ευρώπης"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Ισπανικά Μεξικού"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1934,14 +1934,14 @@ msgstr "Σούσου"
 msgid "Sumerian"
 msgstr "Σουμερικά"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Κονγκό Σουαχίλι"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Σουαχίλι"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Κονγκό Σουαχίλι"
 
 #: swb
 msgid "Comorian"
@@ -2110,18 +2110,14 @@ msgstr "Ταμαζίτ Κεντρικού Μαρόκο"
 msgid "Udmurt"
 msgstr "Ουντμούρτ"
 
-#: ug-variant
-msgid "Uighur"
-msgstr "Ουιγκούρ"
-
 #: uga
 msgid "Ugaritic"
 msgstr "Ουγκαριτικά"
 
 #: uig
 #: ug
-msgid "Uyghur"
-msgstr "Ουιγουρικά"
+msgid "Uyghur,Uighur"
+msgstr "Ουιγουρικά,Ουιγκούρ"
 
 #: ukr
 #: uk
@@ -2262,14 +2258,6 @@ msgstr "Ζενάγκα"
 msgid "Standard Moroccan Tamazight"
 msgstr "Τυπικά Ταμαζίγκτ Μαρόκου"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Απλοποιημένα Κινεζικά"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Παραδοσιακά Κινεζικά"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2279,6 +2267,14 @@ msgstr "Ζουάνγκ"
 #: zh
 msgid "Chinese"
 msgstr "Κινεζικά"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Απλοποιημένα Κινεζικά"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Παραδοσιακά Κινεζικά"
 
 #: zul
 #: zu

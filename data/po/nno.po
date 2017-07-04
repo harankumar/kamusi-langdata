@@ -74,14 +74,14 @@ msgstr "gammalengelsk"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "moderne standardarabisk"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabisk"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "moderne standardarabisk"
 
 #: arc
 msgid "Aramaic"
@@ -485,14 +485,14 @@ msgstr "gresk"
 msgid "Elamite"
 msgstr "elamite"
 
-#: en GB
-msgid "British English"
-msgstr "britisk engelsk"
-
 #: eng
 #: en
 msgid "English"
 msgstr "engelsk"
+
+#: eng_GB
+msgid "British English"
+msgstr "britisk engelsk"
 
 #: enm
 msgid "Middle English"
@@ -956,7 +956,7 @@ msgstr "kinjarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgisisk"
 
 #: kkj
@@ -1288,7 +1288,7 @@ msgstr "marwari"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmesisk"
 
 #: myv
@@ -1336,7 +1336,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "lågtysk"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "lågsaksisk"
 
@@ -1357,14 +1357,14 @@ msgstr "nias"
 msgid "Niuean"
 msgstr "niuisk"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamsk"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "nederlandsk"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamsk"
 
 #: nmg
 msgid "Kwasio"
@@ -1533,7 +1533,7 @@ msgstr "gammalprovençalsk"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pashto"
 
 #: quc
@@ -1557,10 +1557,6 @@ msgstr "rapanui"
 msgid "Rarotongan"
 msgstr "rarotongansk"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldavisk"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1578,6 +1574,10 @@ msgstr "romani"
 #: ro
 msgid "Romanian"
 msgstr "rumensk"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldavisk"
 
 #: root
 msgid "Root"
@@ -1980,7 +1980,7 @@ msgstr "ugaritisk"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uigurisk"
 
 #: ukr
@@ -2114,14 +2114,6 @@ msgstr "zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "standard marokkansk tamazight"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "forenkla kinesisk"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "tradisjonell kinesisk"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2131,6 +2123,14 @@ msgstr "zhuang"
 #: zh
 msgid "Chinese"
 msgstr "kinesisk"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "forenkla kinesisk"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "tradisjonell kinesisk"
 
 #: zul
 #: zu

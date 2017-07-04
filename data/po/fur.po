@@ -152,14 +152,6 @@ msgstr "galês"
 msgid "Danish"
 msgstr "danês"
 
-#: de AT
-msgid "Austrian German"
-msgstr "todesc de Austrie"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "alt todesc de Svuizare"
-
 #: den
 msgid "Slave"
 msgstr "sclâf"
@@ -168,6 +160,14 @@ msgstr "sclâf"
 #: de
 msgid "German"
 msgstr "todesc"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "todesc de Austrie"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "alt todesc de Svuizare"
 
 #: egy
 msgid "Ancient Egyptian"
@@ -178,39 +178,31 @@ msgstr "vieri egjizian"
 msgid "Greek"
 msgstr "grêc"
 
-#: en AU
-msgid "Australian English"
-msgstr "inglês australian"
-
-#: en CA
-msgid "Canadian English"
-msgstr "inglês canadês"
-
-#: en GB
-msgid "British English"
-msgstr "inglês britanic"
-
-#: en US
-msgid "American English"
-msgstr "ingles merecan"
-
 #: eng
 #: en
 msgid "English"
 msgstr "inglês"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "inglês australian"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "inglês canadês"
+
+#: eng_GB
+msgid "British English"
+msgstr "inglês britanic"
+
+#: eng_US
+msgid "American English"
+msgstr "ingles merecan"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "spagnûl de Americhe Latine"
-
-#: es ES
-msgid "European Spanish"
-msgstr "spagnûl iberic"
 
 #: est
 #: et
@@ -246,18 +238,18 @@ msgstr "filipin"
 msgid "Finnish"
 msgstr "finlandês"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "francês dal Canade"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "francês de Svuizare"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "francês"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "francês dal Canade"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "francês de Svuizare"
 
 #: fro
 msgid "Old French"
@@ -530,14 +522,14 @@ msgstr "bas todesc"
 msgid "Nepali"
 msgstr "nepalês"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamant"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "olandês"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamant"
 
 #: nno
 #: nn
@@ -604,31 +596,27 @@ msgstr "polac"
 msgid "Portuguese"
 msgstr "portughês"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "portughês brasilian"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "portughês iberic"
+
 #: pro
 msgid "Old Provençal"
 msgstr "vieri provenzâl"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "portughês brasilian"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "portughês iberic"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pashto"
 
 #: que
 #: qu
 msgid "Quechua"
 msgstr "quechua"
-
-#: ro MD
-msgid "Moldavian"
-msgstr "moldâf"
 
 #: roh
 #: rm
@@ -639,6 +627,10 @@ msgstr "rumanç"
 #: ro
 msgid "Romanian"
 msgstr "romen"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldâf"
 
 #: rus
 #: ru
@@ -711,6 +703,14 @@ msgstr "sotho meridionâl"
 #: es
 msgid "Spanish"
 msgstr "spagnûl"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "spagnûl de Americhe Latine"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "spagnûl iberic"
 
 #: sqi
 #: sq
@@ -802,7 +802,7 @@ msgstr "turc"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uigur"
 
 #: ukr
@@ -859,18 +859,18 @@ msgstr "yiddish"
 msgid "Yoruba"
 msgstr "yoruba"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "cinês semplificât"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "cinês tradizionâl"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "cinês"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "cinês semplificât"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "cinês tradizionâl"
 
 #: zul
 #: zu

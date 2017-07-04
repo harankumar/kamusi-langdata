@@ -86,14 +86,14 @@ msgstr "古英文"
 msgid "Angika"
 msgstr "昂加文"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "現代標準阿拉伯文"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "阿拉伯文"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "現代標準阿拉伯文"
 
 #: arc
 msgid "Aramaic"
@@ -501,10 +501,6 @@ msgstr "達爾格瓦文"
 msgid "Taita"
 msgstr "台塔文"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "高地德文（瑞士）"
-
 #: del
 msgid "Delaware"
 msgstr "德拉瓦文"
@@ -517,6 +513,10 @@ msgstr "斯拉夫"
 #: de
 msgid "German"
 msgstr "德文"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "高地德文（瑞士）"
 
 #: dgr
 msgid "Dogrib"
@@ -1160,7 +1160,7 @@ msgstr "盧安達文"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "吉爾吉斯文"
 
 #: kiu
@@ -1556,7 +1556,7 @@ msgstr "明打威文"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "緬甸文"
 
 #: mye
@@ -1612,7 +1612,7 @@ msgstr "恩東加文"
 msgid "Low German"
 msgstr "低地德文"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "低地薩克遜文"
 
@@ -1637,14 +1637,14 @@ msgstr "紐埃文"
 msgid "Ao Naga"
 msgstr "阿沃那加文"
 
-#: nl BE
-msgid "Flemish"
-msgstr "佛蘭芒文"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "荷蘭文"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "佛蘭芒文"
 
 #: nmg
 msgid "Kwasio"
@@ -1841,7 +1841,7 @@ msgstr "古普羅旺斯文"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "普什圖文"
 
 #: quc
@@ -1877,10 +1877,6 @@ msgstr "羅馬格諾里文"
 msgid "Riffian"
 msgstr "里菲亞諾文"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "摩爾多瓦文"
-
 #: rof
 msgid "Rombo"
 msgstr "蘭博文"
@@ -1898,6 +1894,10 @@ msgstr "吉普賽文"
 #: ro
 msgid "Romanian"
 msgstr "羅馬尼亞文"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "摩爾多瓦文"
 
 #: root
 msgid "Root"
@@ -2174,14 +2174,14 @@ msgstr "蘇蘇文"
 msgid "Sumerian"
 msgstr "蘇美文"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "史瓦希里文（剛果）"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "史瓦希里文"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "史瓦希里文（剛果）"
 
 #: swb
 msgid "Comorian"
@@ -2384,7 +2384,7 @@ msgstr "烏加列文"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "維吾爾文"
 
 #: ukr
@@ -2562,14 +2562,6 @@ msgstr "澤納加文"
 msgid "Standard Moroccan Tamazight"
 msgstr "標準摩洛哥塔馬塞特文"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "簡體中文"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "繁體中文"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2579,6 +2571,14 @@ msgstr "壯文"
 #: zh
 msgid "Chinese"
 msgstr "中文"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "簡體中文"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "繁體中文"
 
 #: zul
 #: zu

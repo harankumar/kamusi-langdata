@@ -58,14 +58,14 @@ msgstr "amharakielâ"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "standard arabiakielâ"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabiakielâ"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "standard arabiakielâ"
 
 #: arg
 #: an
@@ -295,18 +295,18 @@ msgstr "dargikielâ"
 msgid "Taita"
 msgstr "taitakielâ"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Nuorttâriijkâ saksakielâ"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Sveitsi pajesaksakielâ"
-
 #: deu
 #: de
 msgid "German"
 msgstr "saksakielâ"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Nuorttâriijkâ saksakielâ"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Sveitsi pajesaksakielâ"
 
 #: dgr
 msgid "Dogrib"
@@ -359,51 +359,39 @@ msgstr "ekajuk"
 msgid "Greek"
 msgstr "kreikakielâ"
 
-#: en AU
-msgid "Australian English"
-msgstr "Australia eŋgâlâskielâ"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanada eŋgâlâskielâ"
-
-#: en GB
-msgid "British English"
-msgstr "Britannia eŋgâlâskielâ"
-
-#: en GB-short
-msgid "UK English"
-msgstr "eŋgâlâskielâ (OK)"
-
-#: en US
-msgid "American English"
-msgstr "Amerika eŋgâlâskielâ"
-
-#: en US-short
-msgid "US English"
-msgstr "eŋgâlâskielâ (USA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "eŋgâlâskielâ"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "Australia eŋgâlâskielâ"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanada eŋgâlâskielâ"
+
+#: eng_GB
+msgid "British English"
+msgstr "Britannia eŋgâlâskielâ"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "eŋgâlâskielâ (OK)"
+
+#: eng_US
+msgid "American English"
+msgstr "Amerika eŋgâlâskielâ"
+
+#: eng_US-short
+msgid "US English"
+msgstr "eŋgâlâskielâ (USA)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "esperantokielâ"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Läättin-Amerika espanjakielâ"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Espanja espanjakielâ"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Meksiko espanjakielâ"
 
 #: est
 #: et
@@ -452,18 +440,18 @@ msgstr "suomâkielâ"
 msgid "Fon"
 msgstr "fonkielâ"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanada ranskakielâ"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Sveitsi ranskakielâ"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ranskakielâ"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanada ranskakielâ"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Sveitsi ranskakielâ"
 
 #: fry
 #: fy
@@ -765,7 +753,7 @@ msgstr "ruandakielâ"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgiskielâ"
 
 #: kkj
@@ -1052,7 +1040,7 @@ msgstr "mirandeskielâ"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmakielâ"
 
 #: myv
@@ -1096,7 +1084,7 @@ msgstr "tave-nbedele"
 msgid "Ndonga"
 msgstr "ndonga"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Vuáládâhenâmij saksakielâ"
 
@@ -1117,14 +1105,14 @@ msgstr "niaskielâ"
 msgid "Niuean"
 msgstr "niuekielâ"
 
-#: nl BE
-msgid "Flemish"
-msgstr "hollandkielâ (flaami)"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "hollandkielâ"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "hollandkielâ (flaami)"
 
 #: nmg
 msgid "Kwasio"
@@ -1233,21 +1221,21 @@ msgstr "puolakielâ"
 msgid "Portuguese"
 msgstr "portugalkielâ"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Brasilia portugalkielâ"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Portugal portugalkielâ"
+
 #: prg
 msgid "Prussian"
 msgstr "toovláš preussikielâ"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Brasilia portugalkielâ"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Portugal portugalkielâ"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "paštu"
 
 #: quc
@@ -1435,6 +1423,18 @@ msgstr "maadâsotho"
 msgid "Spanish"
 msgstr "espanjakielâ"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Läättin-Amerika espanjakielâ"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Espanja espanjakielâ"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Meksiko espanjakielâ"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1472,14 +1472,14 @@ msgstr "sukumakielâ"
 msgid "Sundanese"
 msgstr "sundakielâ"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kongo swahilikielâ"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "swahilikielâ"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kongo swahilikielâ"
 
 #: swb
 msgid "Comorian"
@@ -1608,7 +1608,7 @@ msgstr "udmurtkielâ"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uigurkielâ"
 
 #: ukr
@@ -1722,18 +1722,18 @@ msgstr "kantonkielâ"
 msgid "Standard Moroccan Tamazight"
 msgstr "standard tamazight"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "oovtâkiärdánis kiinakielâ"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ärbivuáválâš kiinakielâ"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "mandarinkiinakielâ"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "oovtâkiärdánis kiinakielâ"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ärbivuáválâš kiinakielâ"
 
 #: zul
 #: zu

@@ -21,10 +21,6 @@ msgstr "عەرەبی"
 msgid "Assamese"
 msgstr "ئاسامی"
 
-#: az Arab
-msgid "undefined"
-msgstr "ئازەربایجانی باشووری"
-
 #: az-short
 msgid "Azeri"
 msgstr "ئازەربایجانی"
@@ -33,6 +29,10 @@ msgstr "ئازەربایجانی"
 #: az
 msgid "Azerbaijani"
 msgstr "ئازەربایجانی"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "ئازەربایجانی باشووری"
 
 #: bel
 #: be
@@ -93,30 +93,30 @@ msgstr "ئاڵمانی"
 msgid "Greek"
 msgstr "یۆنانی"
 
-#: en AU
-msgid "Australian English"
-msgstr "ئینگلیزیی ئۆسترالیایی"
-
-#: en CA
-msgid "Canadian English"
-msgstr "ئینگلیزیی کەنەدایی"
-
-#: en GB
-msgid "British English"
-msgstr "ئینگلیزیی بریتانیایی"
-
-#: en US
-msgid "American English"
-msgstr "ئینگلیزیی ئەمەریکایی"
-
-#: en US-short
-msgid "US English"
-msgstr "ئینگلیزیی ئەمەریکایی"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ئینگلیزی"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "ئینگلیزیی ئۆسترالیایی"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "ئینگلیزیی کەنەدایی"
+
+#: eng_GB
+msgid "British English"
+msgstr "ئینگلیزیی بریتانیایی"
+
+#: eng_US
+msgid "American English"
+msgstr "ئینگلیزیی ئەمەریکایی"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ئینگلیزیی ئەمەریکایی"
 
 #: epo
 #: eo
@@ -274,7 +274,7 @@ msgstr "کامبۆجی (زوبان)"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "كرگیزی"
 
 #: kor
@@ -386,17 +386,17 @@ msgstr "پۆڵۆنیایی (لەهستانی)"
 msgid "Portuguese"
 msgstr "پورتوگالی"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "پورتوگاڵی برازیل"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "پورتوگاڵی (پورتوگاڵ)"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "پەشتوو"
 
 #: ron
@@ -528,7 +528,7 @@ msgstr "توی"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ئويخووری"
 
 #: ukr

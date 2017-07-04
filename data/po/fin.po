@@ -86,14 +86,14 @@ msgstr "muinaisenglanti"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "yleisarabia"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabia"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "yleisarabia"
 
 #: arc
 msgid "Aramaic"
@@ -505,14 +505,6 @@ msgstr "dargi"
 msgid "Taita"
 msgstr "taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "itävallansaksa"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "sveitsinyläsaksa"
-
 #: del
 msgid "Delaware"
 msgstr "delaware"
@@ -525,6 +517,14 @@ msgstr "slevi"
 #: de
 msgid "German"
 msgstr "saksa"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "itävallansaksa"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "sveitsinyläsaksa"
 
 #: dgr
 msgid "Dogrib"
@@ -609,34 +609,34 @@ msgstr "kreikka"
 msgid "Elamite"
 msgstr "elami"
 
-#: en AU
-msgid "Australian English"
-msgstr "australianenglanti"
-
-#: en CA
-msgid "Canadian English"
-msgstr "kanadanenglanti"
-
-#: en GB
-msgid "British English"
-msgstr "britannianenglanti"
-
-#: en GB-short
-msgid "UK English"
-msgstr "englanti (Britannia)"
-
-#: en US
-msgid "American English"
-msgstr "amerikanenglanti"
-
-#: en US-short
-msgid "US English"
-msgstr "englanti (USA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "englanti"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "australianenglanti"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "kanadanenglanti"
+
+#: eng_GB
+msgid "British English"
+msgstr "britannianenglanti"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "englanti (Britannia)"
+
+#: eng_US
+msgid "American English"
+msgstr "amerikanenglanti"
+
+#: eng_US-short
+msgid "US English"
+msgstr "englanti (USA)"
 
 #: enm
 msgid "Middle English"
@@ -646,18 +646,6 @@ msgstr "keskienglanti"
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "amerikanespanja"
-
-#: es ES
-msgid "European Spanish"
-msgstr "euroopanespanja"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "meksikonespanja"
 
 #: est
 #: et
@@ -726,18 +714,18 @@ msgstr "suomi"
 msgid "Tornedalen Finnish"
 msgstr "meänkieli"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "kanadanranska"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "sveitsinranska"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ranska"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "kanadanranska"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "sveitsinranska"
 
 #: frc
 msgid "Cajun French"
@@ -1212,7 +1200,7 @@ msgstr "ruanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgiisi"
 
 #: kiu
@@ -1612,7 +1600,7 @@ msgstr "mentawai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burma"
 
 #: mye
@@ -1668,7 +1656,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "alasaksa"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "alankomaidenalasaksa"
 
@@ -1693,14 +1681,14 @@ msgstr "niue"
 msgid "Ao Naga"
 msgstr "ao naga"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flaami"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "hollanti"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flaami"
 
 #: nmg
 msgid "Kwasio"
@@ -1887,6 +1875,14 @@ msgstr "pohnpei"
 msgid "Portuguese"
 msgstr "portugali"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "brasilianportugali"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "euroopanportugali"
+
 #: prg
 msgid "Prussian"
 msgstr "muinaispreussi"
@@ -1895,17 +1891,9 @@ msgstr "muinaispreussi"
 msgid "Old Provençal"
 msgstr "muinaisprovensaali"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "brasilianportugali"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "euroopanportugali"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "paštu"
 
 #: quc
@@ -1941,10 +1929,6 @@ msgstr "romagnoli"
 msgid "Riffian"
 msgstr "tarifit"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldova"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1962,6 +1946,10 @@ msgstr "romani"
 #: ro
 msgid "Romanian"
 msgstr "romania"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldova"
 
 #: root
 msgid "Root"
@@ -2185,6 +2173,18 @@ msgstr "eteläsotho"
 msgid "Spanish"
 msgstr "espanja"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "amerikanespanja"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "euroopanespanja"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "meksikonespanja"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2238,14 +2238,14 @@ msgstr "susu"
 msgid "Sumerian"
 msgstr "sumeri"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "kingwana"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "kingwana"
 
 #: swb
 msgid "Comorian"
@@ -2448,7 +2448,7 @@ msgstr "ugarit"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uiguuri"
 
 #: ukr
@@ -2622,14 +2622,6 @@ msgstr "zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "vakioitu tamazight"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "yksinkertaistettu kiina"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "perinteinen kiina"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2639,6 +2631,14 @@ msgstr "zhuang"
 #: zh
 msgid "Chinese"
 msgstr "kiina"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "yksinkertaistettu kiina"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "perinteinen kiina"
 
 #: zul
 #: zu

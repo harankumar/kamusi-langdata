@@ -70,14 +70,14 @@ msgstr "ძველი ინგლისური"
 msgid "Angika"
 msgstr "ანგიკა"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "თანამედროვე სტანდარტული არაბული"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "არაბული"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "თანამედროვე სტანდარტული არაბული"
 
 #: arc
 msgid "Aramaic"
@@ -381,14 +381,6 @@ msgstr "დარგუული"
 msgid "Taita"
 msgstr "ტაიტა"
 
-#: de AT
-msgid "Austrian German"
-msgstr "ავსტრიული გერმანული"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "შვეიცარიული ზემოგერმანული"
-
 #: del
 msgid "Delaware"
 msgstr "დელავერული"
@@ -401,6 +393,14 @@ msgstr "სლეივი"
 #: de
 msgid "German"
 msgstr "გერმანული"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "ავსტრიული გერმანული"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "შვეიცარიული ზემოგერმანული"
 
 #: dgr
 msgid "Dogrib"
@@ -473,34 +473,34 @@ msgstr "ეკაჯუკი"
 msgid "Greek"
 msgstr "ბერძნული"
 
-#: en AU
-msgid "Australian English"
-msgstr "ავსტრალიური ინგლისური"
-
-#: en CA
-msgid "Canadian English"
-msgstr "კანადური ინგლისური"
-
-#: en GB
-msgid "British English"
-msgstr "ბრიტანული ინგლისური"
-
-#: en GB-short
-msgid "UK English"
-msgstr "გართ. სამ. ინგლისური"
-
-#: en US
-msgid "American English"
-msgstr "ამერიკული ინგლისური"
-
-#: en US-short
-msgid "US English"
-msgstr "აშშ ინგლისური"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ინგლისური"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "ავსტრალიური ინგლისური"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "კანადური ინგლისური"
+
+#: eng_GB
+msgid "British English"
+msgstr "ბრიტანული ინგლისური"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "გართ. სამ. ინგლისური"
+
+#: eng_US
+msgid "American English"
+msgstr "ამერიკული ინგლისური"
+
+#: eng_US-short
+msgid "US English"
+msgstr "აშშ ინგლისური"
 
 #: enm
 msgid "Middle English"
@@ -510,18 +510,6 @@ msgstr "საშუალო ინგლისური"
 #: eo
 msgid "Esperanto"
 msgstr "ესპერანტო"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "ლათინურ ამერიკული ესპანური"
-
-#: es ES
-msgid "European Spanish"
-msgstr "ევროპული ესპანური"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "მექსიკური ესპანური"
 
 #: est
 #: et
@@ -570,18 +558,18 @@ msgstr "ფინური"
 msgid "Fon"
 msgstr "ფონი"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "კანადური ფრანგული"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "შვეიცარიული ფრანგული"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ფრანგული"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "კანადური ფრანგული"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "შვეიცარიული ფრანგული"
 
 #: frm
 msgid "Middle French"
@@ -954,7 +942,7 @@ msgstr "კინიარუანდა"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ყირგიზული"
 
 #: kkj
@@ -1294,7 +1282,7 @@ msgstr "მარვარი"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "ბირმული"
 
 #: mye
@@ -1346,7 +1334,7 @@ msgstr "ნდონგა"
 msgid "Low German"
 msgstr "ქვემოგერმანული"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "ქვემოსაქსონური"
 
@@ -1367,14 +1355,14 @@ msgstr "ნიასი"
 msgid "Niuean"
 msgstr "ნიუე"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ფლამანდიური"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "ნიდერლანდური"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ფლამანდიური"
 
 #: nmg
 msgid "Kwasio"
@@ -1521,6 +1509,14 @@ msgstr "პოლონური"
 msgid "Portuguese"
 msgstr "პორტუგალიური"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "ბრაზილიური პორტუგალიური"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "ევროპული პორტუგალიური"
+
 #: prg
 msgid "Prussian"
 msgstr "პრუსიული"
@@ -1529,17 +1525,9 @@ msgstr "პრუსიული"
 msgid "Old Provençal"
 msgstr "ძველი პროვანსული"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "ბრაზილიური პორტუგალიური"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "ევროპული პორტუგალიური"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "პუშტუ"
 
 #: quc
@@ -1563,10 +1551,6 @@ msgstr "რაპანუი"
 msgid "Rarotongan"
 msgstr "რაროტონგული"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "მოლდავური"
-
 #: rof
 msgid "Rombo"
 msgstr "რომბო"
@@ -1584,6 +1568,10 @@ msgstr "ბოშური"
 #: ro
 msgid "Romanian"
 msgstr "რუმინული"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "მოლდავური"
 
 #: root
 msgid "Root"
@@ -1759,6 +1747,18 @@ msgstr "სამხრეთ სოთოს ენა"
 msgid "Spanish"
 msgstr "ესპანური"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "ლათინურ ამერიკული ესპანური"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "ევროპული ესპანური"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "მექსიკური ესპანური"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1800,14 +1800,14 @@ msgstr "სუნდური"
 msgid "Sumerian"
 msgstr "შუმერული"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "კონგოს სუაჰილი"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "სუაჰილი"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "კონგოს სუაჰილი"
 
 #: swb
 msgid "Comorian"
@@ -1949,7 +1949,7 @@ msgstr "უგარითული"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "უიღურული"
 
 #: ukr
@@ -2071,18 +2071,18 @@ msgstr "ზენაგა"
 msgid "Standard Moroccan Tamazight"
 msgstr "სტანდარტული მაროკოული ტამაზიგხტი"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "გამარტივებული ჩინური"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ტრადიციული ჩინური"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "ჩინური"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "გამარტივებული ჩინური"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ტრადიციული ჩინური"
 
 #: zul
 #: zu

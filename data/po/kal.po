@@ -158,7 +158,7 @@ msgstr "portugalimiutut"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pashtomiutut"
 
 #: ron

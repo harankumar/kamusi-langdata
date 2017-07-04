@@ -86,14 +86,14 @@ msgstr "lea fakapālangi-motuʻa"
 msgid "Angika"
 msgstr "lea fakaʻangika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "lea fakaʻalepea (māmani)"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "lea fakaʻalepea"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "lea fakaʻalepea (māmani)"
 
 #: arc
 msgid "Aramaic"
@@ -501,14 +501,6 @@ msgstr "lea fakatalakuā"
 msgid "Taita"
 msgstr "lea fakataita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "lea fakasiamane-ʻaositulia"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "lea fakasiamane-hake-suisilani"
-
 #: del
 msgid "Delaware"
 msgstr "lea fakatelauale"
@@ -521,6 +513,14 @@ msgstr "lea fakasilave"
 #: de
 msgid "German"
 msgstr "lea fakasiamane"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "lea fakasiamane-ʻaositulia"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "lea fakasiamane-hake-suisilani"
 
 #: dgr
 msgid "Dogrib"
@@ -605,34 +605,34 @@ msgstr "lea fakakalisi"
 msgid "Elamite"
 msgstr "lea fakaʻelamite"
 
-#: en AU
-msgid "Australian English"
-msgstr "lea fakapālangi-ʻaositelēlia"
-
-#: en CA
-msgid "Canadian English"
-msgstr "lea fakapālangi-kānata"
-
-#: en GB
-msgid "British English"
-msgstr "lea fakapilitānia"
-
-#: en GB-short
-msgid "UK English"
-msgstr "lea fakapilitānia"
-
-#: en US
-msgid "American English"
-msgstr "lea fakapālangi-ʻamelika"
-
-#: en US-short
-msgid "US English"
-msgstr "lea fakapālangi-ʻAmelika"
-
 #: eng
 #: en
 msgid "English"
 msgstr "lea fakapālangi"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "lea fakapālangi-ʻaositelēlia"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "lea fakapālangi-kānata"
+
+#: eng_GB
+msgid "British English"
+msgstr "lea fakapilitānia"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "lea fakapilitānia"
+
+#: eng_US
+msgid "American English"
+msgstr "lea fakapālangi-ʻamelika"
+
+#: eng_US-short
+msgid "US English"
+msgstr "lea fakapālangi-ʻAmelika"
 
 #: enm
 msgid "Middle English"
@@ -642,18 +642,6 @@ msgstr "lea fakapālangi-lotoloto"
 #: eo
 msgid "Esperanto"
 msgstr "lea fakaʻesipulanito"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "lea fakasipēnisi lātini-ʻamelika"
-
-#: es ES
-msgid "European Spanish"
-msgstr "lea fakasipēnisi-‘iulope"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "lea fakasipēnisi-mekisikou"
 
 #: est
 #: et
@@ -722,18 +710,18 @@ msgstr "lea fakafinilani-tōnetale"
 msgid "Fon"
 msgstr "lea fakafōngi"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "lea fakafalanisē-kānata"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "lea fakafalanisē-suisilani"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "lea fakafalanisē"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "lea fakafalanisē-kānata"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "lea fakafalanisē-suisilani"
 
 #: frc
 msgid "Cajun French"
@@ -1208,7 +1196,7 @@ msgstr "lea fakakiniāuanita"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "lea fakakīsisi"
 
 #: kiu
@@ -1604,7 +1592,7 @@ msgstr "lea fakamenitauai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "lea fakapema"
 
 #: mye
@@ -1660,7 +1648,7 @@ msgstr "lea fakanetongikā"
 msgid "Low German"
 msgstr "lea fakasiamane-hifo"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "lea fakasakisoni-hifo"
 
@@ -1685,14 +1673,14 @@ msgstr "lea fakaniuē"
 msgid "Ao Naga"
 msgstr "lea fakaʻaonasa"
 
-#: nl BE
-msgid "Flemish"
-msgstr "lea fakahōlani-pelesiume"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "lea fakahōlani"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "lea fakahōlani-pelesiume"
 
 #: nmg
 msgid "Kwasio"
@@ -1879,6 +1867,14 @@ msgstr "lea fakaponapē"
 msgid "Portuguese"
 msgstr "lea fakapotukali"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "lea fakapotukali-palāsili"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "lea fakapotukali-ʻiulope"
+
 #: prg
 msgid "Prussian"
 msgstr "lea fakapulūsia"
@@ -1887,17 +1883,9 @@ msgstr "lea fakapulūsia"
 msgid "Old Provençal"
 msgstr "lea fakapolovenisi-motuʻa"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "lea fakapotukali-palāsili"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "lea fakapotukali-ʻiulope"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "lea fakapasitō"
 
 #: quc
@@ -1933,10 +1921,6 @@ msgstr "lea fakalomaniolo"
 msgid "Riffian"
 msgstr "lea fakalifi"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "lea fakamolitāvia"
-
 #: rof
 msgid "Rombo"
 msgstr "lea fakalomipō"
@@ -1954,6 +1938,10 @@ msgstr "lea fakalomani"
 #: ro
 msgid "Romanian"
 msgstr "lea fakalōmenia"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "lea fakamolitāvia"
 
 #: root
 msgid "Root"
@@ -2177,6 +2165,18 @@ msgstr "lea fakasoto-tonga"
 msgid "Spanish"
 msgstr "lea fakasipēnisi"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "lea fakasipēnisi lātini-ʻamelika"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "lea fakasipēnisi-‘iulope"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "lea fakasipēnisi-mekisikou"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2230,14 +2230,14 @@ msgstr "lea fakasusū"
 msgid "Sumerian"
 msgstr "lea fakasumelia"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "lea fakasuahili-kongikō"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "lea fakasuahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "lea fakasuahili-kongikō"
 
 #: swb
 msgid "Comorian"
@@ -2440,7 +2440,7 @@ msgstr "lea fakaʻūkaliti"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "lea fakaʻuikūli"
 
 #: ukr
@@ -2618,14 +2618,6 @@ msgstr "lea fakasenaka"
 msgid "Standard Moroccan Tamazight"
 msgstr "lea fakatamasaiti-moloko"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "lea fakasiaina-fakafaingofua"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "lea fakasiaina-tukufakaholo"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2635,6 +2627,14 @@ msgstr "lea fakasuangi"
 #: zh
 msgid "Chinese"
 msgstr "lea fakasiaina"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "lea fakasiaina-fakafaingofua"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "lea fakasiaina-tukufakaholo"
 
 #: zul
 #: zu

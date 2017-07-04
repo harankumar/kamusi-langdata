@@ -41,62 +41,54 @@ msgstr "libiligali"
 msgid "Czech"
 msgstr "litshekɛ"
 
-#: de AT
-msgid "Austrian German"
-msgstr "lialémani ya Otrish"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "lialémani ya Swisi"
-
 #: deu
 #: de
 msgid "German"
 msgstr "lialemá"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "lialémani ya Otrish"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "lialémani ya Swisi"
 
 #: ell
 #: el
 msgid "Greek"
 msgstr "ligeleki"
 
-#: en CA
-msgid "Canadian English"
-msgstr "lingɛlɛ́sa ya Kanadá"
-
-#: en GB
-msgid "British English"
-msgstr "lingɛlɛ́sa ya Ingɛlɛ́tɛlɛ"
-
 #: eng
 #: en
 msgid "English"
 msgstr "lingɛlɛ́sa"
 
-#: es 419
-msgid "Latin American Spanish"
-msgstr "lispanyoli ya Ameríka Latína"
+#: eng_CA
+msgid "Canadian English"
+msgstr "lingɛlɛ́sa ya Kanadá"
 
-#: es ES
-msgid "European Spanish"
-msgstr "lispanyoli ya Erópa"
+#: eng_GB
+msgid "British English"
+msgstr "lingɛlɛ́sa ya Ingɛlɛ́tɛlɛ"
 
 #: fas
 #: fa
 msgid "Persian"
 msgstr "lipelésanɛ"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "lifalansɛ́ ya Kanadá"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "lifalansɛ́ ya Swisi"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "lifalansɛ́"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "lifalansɛ́ ya Kanadá"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "lifalansɛ́ ya Swisi"
 
 #: gsw
 msgid "Swiss German"
@@ -193,7 +185,7 @@ msgstr "limalezi"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "libilimá"
 
 #: nep
@@ -221,11 +213,11 @@ msgstr "lipolonɛ"
 msgid "Portuguese"
 msgstr "lipulutugɛ́si"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "lipulutugɛ́si ya Brazil"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "lipulutugɛ́si ya Erópa"
 
@@ -253,6 +245,14 @@ msgstr "lisomali"
 #: es
 msgid "Spanish"
 msgstr "lisipanye"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "lispanyoli ya Ameríka Latína"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "lispanyoli ya Erópa"
 
 #: swa
 #: sw

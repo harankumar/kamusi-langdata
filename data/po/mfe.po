@@ -127,7 +127,7 @@ msgstr "male"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "birman"
 
 #: nep

@@ -217,7 +217,7 @@ msgstr "ጊዮርጊያኛ"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ኪሩጋዚ"
 
 #: kor
@@ -315,17 +315,17 @@ msgstr "ፖሊሽ"
 msgid "Portuguese"
 msgstr "ፖርቱጋሊኛ"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "ፖርቱጋልኛ (ናይ ብራዚል)"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "ፖርቱጋልኛ (ናይ ፖርቱጋል)"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "ፓሽቶ"
 
 #: ron

@@ -159,7 +159,7 @@ msgstr "Хаһаахтыы"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Кыргыстыы"
 
 #: kor
@@ -252,7 +252,7 @@ msgstr "Тадьыыктыы"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Уйгуурдуу"
 
 #: ukr

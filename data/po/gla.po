@@ -86,14 +86,14 @@ msgstr "Seann-Bheurla"
 msgid "Angika"
 msgstr "Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Nuadh-Arabais Stannardach"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arabais"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Nuadh-Arabais Stannardach"
 
 #: arc
 msgid "Aramaic"
@@ -497,14 +497,6 @@ msgstr "Dargwa"
 msgid "Taita"
 msgstr "Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Gearmailtis na h-Ostaire"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Àrd-Ghearmailtis na h-Eilbheise"
-
 #: del
 msgid "Delaware"
 msgstr "Delaware"
@@ -517,6 +509,14 @@ msgstr "Slavey"
 #: de
 msgid "German"
 msgstr "Gearmailtis"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Gearmailtis na h-Ostaire"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Àrd-Ghearmailtis na h-Eilbheise"
 
 #: dgr
 msgid "Dogrib"
@@ -597,34 +597,34 @@ msgstr "Greugais"
 msgid "Elamite"
 msgstr "Elamais"
 
-#: en AU
-msgid "Australian English"
-msgstr "Beurla Astràilia"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Beurla Chanada"
-
-#: en GB
-msgid "British English"
-msgstr "Beurla Bhreatainn"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Beurla na RA"
-
-#: en US
-msgid "American English"
-msgstr "Beurla na h-Aimeireaga"
-
-#: en US-short
-msgid "US English"
-msgstr "Beurla nan SA"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Beurla"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Beurla Astràilia"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Beurla Chanada"
+
+#: eng_GB
+msgid "British English"
+msgstr "Beurla Bhreatainn"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Beurla na RA"
+
+#: eng_US
+msgid "American English"
+msgstr "Beurla na h-Aimeireaga"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Beurla nan SA"
 
 #: enm
 msgid "Middle English"
@@ -634,18 +634,6 @@ msgstr "Meadhan-Bheurla"
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Spàinntis na h-Aimeireaga Laidinneach"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Spàinntis Eòrpach"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Spàinntis Mheagsagach"
 
 #: est
 #: et
@@ -714,18 +702,18 @@ msgstr "Meänkieli"
 msgid "Fon"
 msgstr "Fon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Fraingis Chanada"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Fraingis Eilbheiseach"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Fraingis"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Fraingis Chanada"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Fraingis Eilbheiseach"
 
 #: frc
 msgid "Cajun French"
@@ -1192,7 +1180,7 @@ msgstr "Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Cìorgasais"
 
 #: kiu
@@ -1576,7 +1564,7 @@ msgstr "Mentawai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmais"
 
 #: mye
@@ -1632,7 +1620,7 @@ msgstr "Ndonga"
 msgid "Low German"
 msgstr "Gearmailtis Ìochdarach"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Sagsannais Ìochdarach"
 
@@ -1657,14 +1645,14 @@ msgstr "Cànan Niue"
 msgid "Ao Naga"
 msgstr "Ao Naga"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flannrais"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Duitsis"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flannrais"
 
 #: nmg
 msgid "Kwasio"
@@ -1843,6 +1831,14 @@ msgstr "Cànan Pohnpei"
 msgid "Portuguese"
 msgstr "Portagailis"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Portagailis Bhraisileach"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Portagailis Eòrpach"
+
 #: prg
 msgid "Prussian"
 msgstr "Pruisis"
@@ -1851,17 +1847,9 @@ msgstr "Pruisis"
 msgid "Old Provençal"
 msgstr "Seann-Phrovençal"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Portagailis Bhraisileach"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Portagailis Eòrpach"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Pashto"
 
 #: quc
@@ -1893,10 +1881,6 @@ msgstr "Cànan Rarotonga"
 msgid "Romagnol"
 msgstr "Romagnol"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldobhais"
-
 #: rof
 msgid "Rombo"
 msgstr "Rombo"
@@ -1914,6 +1898,10 @@ msgstr "Romanais"
 #: ro
 msgid "Romanian"
 msgstr "Romàinis"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldobhais"
 
 #: root
 msgid "Root"
@@ -2121,6 +2109,18 @@ msgstr "Sesotho"
 msgid "Spanish"
 msgstr "Spàinntis"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Spàinntis na h-Aimeireaga Laidinneach"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Spàinntis Eòrpach"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Spàinntis Mheagsagach"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2170,14 +2170,14 @@ msgstr "Susu"
 msgid "Sumerian"
 msgstr "Cànan Sumer"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kiswahili na Congo"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Kiswahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kiswahili na Congo"
 
 #: swb
 msgid "Comorian"
@@ -2368,7 +2368,7 @@ msgstr "Udmurt"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Ùigiurais"
 
 #: ukr
@@ -2530,14 +2530,6 @@ msgstr "Zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "Tamazight Stannardach Moroco"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Sìnis Shimplichte"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Sìnis Thradaiseanta"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2547,6 +2539,14 @@ msgstr "Zhuang"
 #: zh
 msgid "Chinese"
 msgstr "Sìnis"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Sìnis Shimplichte"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Sìnis Thradaiseanta"
 
 #: zul
 #: zu

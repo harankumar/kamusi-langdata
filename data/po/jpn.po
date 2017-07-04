@@ -86,14 +86,14 @@ msgstr "古英語"
 msgid "Angika"
 msgstr "アンギカ語"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "現代標準アラビア語"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "アラビア語"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "現代標準アラビア語"
 
 #: arc
 msgid "Aramaic"
@@ -501,10 +501,6 @@ msgstr "ダルガン語"
 msgid "Taita"
 msgstr "タイタ語"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "標準ドイツ語 (スイス)"
-
 #: del
 msgid "Delaware"
 msgstr "デラウェア語"
@@ -517,6 +513,10 @@ msgstr "スレイビー語"
 #: de
 msgid "German"
 msgstr "ドイツ語"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "標準ドイツ語 (スイス)"
 
 #: dgr
 msgid "Dogrib"
@@ -601,34 +601,34 @@ msgstr "ギリシャ語"
 msgid "Elamite"
 msgstr "エラム語"
 
-#: en AU
-msgid "Australian English"
-msgstr "オーストラリア英語"
-
-#: en CA
-msgid "Canadian English"
-msgstr "カナダ英語"
-
-#: en GB
-msgid "British English"
-msgstr "イギリス英語"
-
-#: en GB-short
-msgid "UK English"
-msgstr "英語(英国)"
-
-#: en US
-msgid "American English"
-msgstr "アメリカ英語"
-
-#: en US-short
-msgid "US English"
-msgstr "英語(米国)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "英語"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "オーストラリア英語"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "カナダ英語"
+
+#: eng_GB
+msgid "British English"
+msgstr "イギリス英語"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "英語(英国)"
+
+#: eng_US
+msgid "American English"
+msgstr "アメリカ英語"
+
+#: eng_US-short
+msgid "US English"
+msgstr "英語(米国)"
 
 #: enm
 msgid "Middle English"
@@ -638,10 +638,6 @@ msgstr "中英語"
 #: eo
 msgid "Esperanto"
 msgstr "エスペラント語"
-
-#: es ES
-msgid "European Spanish"
-msgstr "スペイン語 (イベリア半島)"
 
 #: est
 #: et
@@ -1188,7 +1184,7 @@ msgstr "キニアルワンダ語"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "キルギス語"
 
 #: kiu
@@ -1584,7 +1580,7 @@ msgstr "メンタワイ語"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "ミャンマー語"
 
 #: mye
@@ -1661,14 +1657,14 @@ msgstr "ニウーエイ語"
 msgid "Ao Naga"
 msgstr "アオ・ナガ語"
 
-#: nl BE
-msgid "Flemish"
-msgstr "フレミッシュ語"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "オランダ語"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "フレミッシュ語"
 
 #: nmg
 msgid "Kwasio"
@@ -1855,6 +1851,10 @@ msgstr "ポンペイ語"
 msgid "Portuguese"
 msgstr "ポルトガル語"
 
+#: por_PT
+msgid "European Portuguese"
+msgstr "ポルトガル語 (イベリア半島)"
+
 #: prg
 msgid "Prussian"
 msgstr "プロシア語"
@@ -1863,18 +1863,10 @@ msgstr "プロシア語"
 msgid "Old Provençal"
 msgstr "古期プロバンス語"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "パシュトゥ語"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "ポルトガル語 (イベリア半島)"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "パシュトゥー語"
+msgid "Pashto,Pushto"
+msgstr "パシュトゥー語,パシュトゥ語"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1909,10 +1901,6 @@ msgstr "ロマーニャ語"
 msgid "Riffian"
 msgstr "リーフ語"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "モルダビア語"
-
 #: rof
 msgid "Rombo"
 msgstr "ロンボ語"
@@ -1930,6 +1918,10 @@ msgstr "ロマーニー語"
 #: ro
 msgid "Romanian"
 msgstr "ルーマニア語"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "モルダビア語"
 
 #: root
 msgid "Root"
@@ -2153,6 +2145,10 @@ msgstr "南部ソト語"
 msgid "Spanish"
 msgstr "スペイン語"
 
+#: spa_ES
+msgid "European Spanish"
+msgstr "スペイン語 (イベリア半島)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2206,14 +2202,14 @@ msgstr "スス語"
 msgid "Sumerian"
 msgstr "シュメール語"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "コンゴ・スワヒリ語"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "スワヒリ語"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "コンゴ・スワヒリ語"
 
 #: swb
 msgid "Comorian"
@@ -2410,18 +2406,14 @@ msgstr "中央アトラス・タマジクト語"
 msgid "Udmurt"
 msgstr "ウドムルト語"
 
-#: ug-variant
-msgid "Uighur"
-msgstr "ウィグル語"
-
 #: uga
 msgid "Ugaritic"
 msgstr "ウガリト語"
 
 #: uig
 #: ug
-msgid "Uyghur"
-msgstr "ウイグル語"
+msgid "Uyghur,Uighur"
+msgstr "ウイグル語,ウィグル語"
 
 #: ukr
 #: uk
@@ -2598,14 +2590,6 @@ msgstr "ゼナガ語"
 msgid "Standard Moroccan Tamazight"
 msgstr "標準モロッコ タマジクト語"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "簡体中国語"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "繁体中国語"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2615,6 +2599,14 @@ msgstr "チワン語"
 #: zh
 msgid "Chinese"
 msgstr "中国語"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "簡体中国語"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "繁体中国語"
 
 #: zul
 #: zu

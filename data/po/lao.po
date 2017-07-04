@@ -74,14 +74,14 @@ msgstr "ອັງກິດໂບຮານ"
 msgid "Angika"
 msgstr "ແອນຈີກາ"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "ອາຣາບິກມາດຕະຖານສະໄໝໃໝ່"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "ອາຣັບ"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "ອາຣາບິກມາດຕະຖານສະໄໝໃໝ່"
 
 #: arc
 msgid "Aramaic"
@@ -429,14 +429,6 @@ msgstr "ດາກວາ"
 msgid "Taita"
 msgstr "ໄຕຕາ"
 
-#: de AT
-msgid "Austrian German"
-msgstr "ເຢຍລະມັນ (ໂອສຕຣິດ)"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "ສະວິສ ໄຮ ເຈີແມນ"
-
 #: del
 msgid "Delaware"
 msgstr "ເດລາວາ"
@@ -449,6 +441,14 @@ msgstr "ຊີເລັບ"
 #: de
 msgid "German"
 msgstr "ເຢຍລະມັນ"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "ເຢຍລະມັນ (ໂອສຕຣິດ)"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "ສະວິສ ໄຮ ເຈີແມນ"
 
 #: dgr
 msgid "Dogrib"
@@ -525,30 +525,30 @@ msgstr "ກຣີກ"
 msgid "Elamite"
 msgstr "ອີລາໄມ"
 
-#: en AU
-msgid "Australian English"
-msgstr "ອັງກິດ (ໂອດສະຕາລີ)"
-
-#: en GB
-msgid "British English"
-msgstr "ອັງກິດ (ບຣິດທິຊ)"
-
-#: en GB-short
-msgid "UK English"
-msgstr "ອັງກິດ (ສະຫະລາດຊະອານາຈັກ)"
-
-#: en US
-msgid "American English"
-msgstr "ອັງກິດ (ອາເມລິກັນ)"
-
-#: en US-short
-msgid "US English"
-msgstr "ອັງກິດ (ສະຫະລັດອາເມລິກາ)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ອັງກິດ"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "ອັງກິດ (ໂອດສະຕາລີ)"
+
+#: eng_GB
+msgid "British English"
+msgstr "ອັງກິດ (ບຣິດທິຊ)"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "ອັງກິດ (ສະຫະລາດຊະອານາຈັກ)"
+
+#: eng_US
+msgid "American English"
+msgstr "ອັງກິດ (ອາເມລິກັນ)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ອັງກິດ (ສະຫະລັດອາເມລິກາ)"
 
 #: enm
 msgid "Middle English"
@@ -558,18 +558,6 @@ msgstr "ອັງກິດກາງ"
 #: eo
 msgid "Esperanto"
 msgstr "ເອສປາຍ"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "ລາຕິນ ອາເມຣິກັນ ສະແປນນິຊ"
-
-#: es ES
-msgid "European Spanish"
-msgstr "ສະເປັນ ຢຸໂຣບ"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "ເມັກຊິກັນ ສະແປນນິຊ"
 
 #: est
 #: et
@@ -626,18 +614,18 @@ msgstr "ຟິນນິຊ"
 msgid "Fon"
 msgstr "ຟອນ"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "ຟລັງ(ການາດາ)"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "ຝຣັ່ງ (ສວິສ)"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ຝຣັ່ງ"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "ຟລັງ(ການາດາ)"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "ຝຣັ່ງ (ສວິສ)"
 
 #: frm
 msgid "Middle French"
@@ -1044,7 +1032,7 @@ msgstr "ຄິນຢາວານດາ"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ເກຍກີສ"
 
 #: kkj
@@ -1392,7 +1380,7 @@ msgstr "ມາວາຣິ"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "ມຽນມາ"
 
 #: mye
@@ -1444,7 +1432,7 @@ msgstr "ເອັນດອງກາ"
 msgid "Low German"
 msgstr "ເຢຍລະມັນ ຕອນໄຕ້"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "ຊາຊອນ ຕອນໄຕ"
 
@@ -1465,14 +1453,14 @@ msgstr "ນີ່ອັດ"
 msgid "Niuean"
 msgstr "ນີ່ອູ"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ຟລີມິຊ"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "ດັຊ"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ຟລີມິຊ"
 
 #: nmg
 msgid "Kwasio"
@@ -1631,6 +1619,14 @@ msgstr "ພອນເພ"
 msgid "Portuguese"
 msgstr "ປອກຕຸຍກິສ"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "ປອກຕຸຍກິສ ບະເລຊີ່ນ"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "ປອກຕຸຍກິສ ຢຸໂຣບ"
+
 #: prg
 msgid "Prussian"
 msgstr "ປຣັສຊຽນ"
@@ -1639,17 +1635,9 @@ msgstr "ປຣັສຊຽນ"
 msgid "Old Provençal"
 msgstr "ໂປວອງຊານໂບຮານ"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "ປອກຕຸຍກິສ ບະເລຊີ່ນ"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "ປອກຕຸຍກິສ ຢຸໂຣບ"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "ປາສໂຕ"
 
 #: quc
@@ -1673,10 +1661,6 @@ msgstr "ຣາປານຸຍ"
 msgid "Rarotongan"
 msgstr "ຣາໂຣທອນການ"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "ໂມດາວຽນ"
-
 #: rof
 msgid "Rombo"
 msgstr "ຣົມໂບ"
@@ -1694,6 +1678,10 @@ msgstr "ໂຣເມນີ"
 #: ro
 msgid "Romanian"
 msgstr "ໂຣແມນຽນ"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "ໂມດາວຽນ"
 
 #: root
 msgid "Root"
@@ -1881,6 +1869,18 @@ msgstr "ໂຊໂທໃຕ້"
 msgid "Spanish"
 msgstr "ສະແປນນິຊ"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "ລາຕິນ ອາເມຣິກັນ ສະແປນນິຊ"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "ສະເປັນ ຢຸໂຣບ"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "ເມັກຊິກັນ ສະແປນນິຊ"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1930,14 +1930,14 @@ msgstr "ຊູຊູ"
 msgid "Sumerian"
 msgstr "ຊູເມີເລຍ"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "ຄອງໂກ ຊວາຮີລິ"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "ຊວາຮີລິ"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "ຄອງໂກ ຊວາຮີລິ"
 
 #: swb
 msgid "Comorian"
@@ -2112,7 +2112,7 @@ msgstr "ຢູກາລິກ"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ອຸຍເຄີ"
 
 #: ukr
@@ -2254,14 +2254,6 @@ msgstr "ເຊນາກາ"
 msgid "Standard Moroccan Tamazight"
 msgstr "ໂມຣັອກແຄນ ທາມາຊີກ ມາດຕະຖານ"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ຈີນແບບຮຽບງ່າຍ"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ຈີນແບບດັ້ງເດີມ"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2271,6 +2263,14 @@ msgstr "ຊວາງ"
 #: zh
 msgid "Chinese"
 msgstr "ຈີນ"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ຈີນແບບຮຽບງ່າຍ"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ຈີນແບບດັ້ງເດີມ"
 
 #: zul
 #: zu

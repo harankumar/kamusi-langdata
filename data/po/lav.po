@@ -74,14 +74,14 @@ msgstr "senangļu"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "mūsdienu standarta arābu"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arābu"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "mūsdienu standarta arābu"
 
 #: arc
 msgid "Aramaic"
@@ -136,10 +136,6 @@ msgstr "avadhu"
 msgid "Aymara"
 msgstr "aimaru"
 
-#: az Arab
-msgid "undefined"
-msgstr "dienvidazerbaidžāņu"
-
 #: az-short
 msgid "Azeri"
 msgstr "azerbaidžāņu"
@@ -148,6 +144,10 @@ msgstr "azerbaidžāņu"
 #: az
 msgid "Azerbaijani"
 msgstr "azerbaidžāņu"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "dienvidazerbaidžāņu"
 
 #: bak
 #: ba
@@ -433,14 +433,6 @@ msgstr "dargu"
 msgid "Taita"
 msgstr "taitu"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Austrijas vācu"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Šveices augšvācu"
-
 #: del
 msgid "Delaware"
 msgstr "delavēru"
@@ -453,6 +445,14 @@ msgstr "sleivu"
 #: de
 msgid "German"
 msgstr "vācu"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Austrijas vācu"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Šveices augšvācu"
 
 #: dgr
 msgid "Dogrib"
@@ -529,30 +529,30 @@ msgstr "grieķu"
 msgid "Elamite"
 msgstr "elamiešu"
 
-#: en AU
-msgid "Australian English"
-msgstr "Austrālijas angļu"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanādas angļu"
-
-#: en GB
-msgid "British English"
-msgstr "Lielbritānijas angļu"
-
-#: en US
-msgid "American English"
-msgstr "ASV angļu"
-
-#: en US-short
-msgid "US English"
-msgstr "angļu (ASV)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "angļu"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Austrālijas angļu"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanādas angļu"
+
+#: eng_GB
+msgid "British English"
+msgstr "Lielbritānijas angļu"
+
+#: eng_US
+msgid "American English"
+msgstr "ASV angļu"
+
+#: eng_US-short
+msgid "US English"
+msgstr "angļu (ASV)"
 
 #: enm
 msgid "Middle English"
@@ -562,18 +562,6 @@ msgstr "vidusangļu"
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Latīņamerikas spāņu"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Eiropas spāņu"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Meksikas spāņu"
 
 #: est
 #: et
@@ -630,18 +618,18 @@ msgstr "somu"
 msgid "Fon"
 msgstr "fonu"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanādas franču"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Šveices franču"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "franču"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanādas franču"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Šveices franču"
 
 #: frm
 msgid "Middle French"
@@ -1044,7 +1032,7 @@ msgstr "kiņaruanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgīzu"
 
 #: kkj
@@ -1384,7 +1372,7 @@ msgstr "marvaru"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "birmiešu"
 
 #: mye
@@ -1436,7 +1424,7 @@ msgstr "ndongu"
 msgid "Low German"
 msgstr "lejasvācu"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "lejassakšu"
 
@@ -1457,14 +1445,14 @@ msgstr "njasu"
 msgid "Niuean"
 msgstr "niuāņu"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flāmu"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "holandiešu"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flāmu"
 
 #: nmg
 msgid "Kwasio"
@@ -1623,6 +1611,14 @@ msgstr "ponapiešu"
 msgid "Portuguese"
 msgstr "portugāļu"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Brazīlijas portugāļu"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Eiropas portugāļu"
+
 #: prg
 msgid "Prussian"
 msgstr "prūšu"
@@ -1631,17 +1627,9 @@ msgstr "prūšu"
 msgid "Old Provençal"
 msgstr "senprovansiešu"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Brazīlijas portugāļu"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Eiropas portugāļu"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "puštu"
 
 #: quc
@@ -1665,10 +1653,6 @@ msgstr "rapanuju"
 msgid "Rarotongan"
 msgstr "rarotongiešu"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldāvu"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1686,6 +1670,10 @@ msgstr "čigānu"
 #: ro
 msgid "Romanian"
 msgstr "rumāņu"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldāvu"
 
 #: root
 msgid "Root"
@@ -1873,6 +1861,18 @@ msgstr "dienvidsotu"
 msgid "Spanish"
 msgstr "spāņu"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Latīņamerikas spāņu"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Eiropas spāņu"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Meksikas spāņu"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1922,14 +1922,14 @@ msgstr "susu"
 msgid "Sumerian"
 msgstr "šumeru"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kongo svahili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "svahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kongo svahili"
 
 #: swb
 msgid "Comorian"
@@ -2104,7 +2104,7 @@ msgstr "ugaritiešu"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uiguru"
 
 #: ukr
@@ -2246,14 +2246,6 @@ msgstr "zenagu"
 msgid "Standard Moroccan Tamazight"
 msgstr "standarta marokāņu berberu"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ķīniešu vienkāršotā"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ķīniešu tradicionālā"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2263,6 +2255,14 @@ msgstr "džuanu"
 #: zh
 msgid "Chinese"
 msgstr "ķīniešu"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ķīniešu vienkāršotā"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ķīniešu tradicionālā"
 
 #: zul
 #: zu

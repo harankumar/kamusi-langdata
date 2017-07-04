@@ -70,14 +70,14 @@ msgstr "Ahl Änglesch"
 msgid "Angika"
 msgstr "Anjikahnesch"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Schtandatt Arahbesch"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arahbesch"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Schtandatt Arahbesch"
 
 #: arg
 #: an
@@ -136,10 +136,6 @@ msgstr "Awahdesch"
 msgid "Aymara"
 msgstr "Aimahresch"
 
-#: az Arab
-msgid "undefined"
-msgstr "Södasserbaidschahnesch"
-
 #: az-short
 msgid "Azeri"
 msgstr "Asehresch"
@@ -148,6 +144,10 @@ msgstr "Asehresch"
 #: az
 msgid "Azerbaijani"
 msgstr "Asserbaidschahnesch"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "Södasserbaidschahnesch"
 
 #: bak
 #: ba
@@ -356,18 +356,18 @@ msgstr "Darjihnesch"
 msgid "Taita"
 msgstr "Dawedahnesch"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Deutsch uß Öhßterich"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Deutsch uß de Schweijz"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Deutsch"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Deutsch uß Öhßterich"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Deutsch uß de Schweijz"
 
 #: dgr
 msgid "Dogrib"
@@ -432,34 +432,34 @@ msgstr "Ekajukesch"
 msgid "Greek"
 msgstr "Jrihschesch"
 
-#: en AU
-msgid "Australian English"
-msgstr "Änglesch uß Außtrahlije"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Änglesch uß Kanada"
-
-#: en GB
-msgid "British English"
-msgstr "Änglesch uß Jruhßbrettannije"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Brettesch Änglesch"
-
-#: en US
-msgid "American English"
-msgstr "Amärrekahnesch Änglesch"
-
-#: en US-short
-msgid "US English"
-msgstr "Änglesch uß de USA"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Änglesch"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Änglesch uß Außtrahlije"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Änglesch uß Kanada"
+
+#: eng_GB
+msgid "British English"
+msgstr "Änglesch uß Jruhßbrettannije"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Brettesch Änglesch"
+
+#: eng_US
+msgid "American English"
+msgstr "Amärrekahnesch Änglesch"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Änglesch uß de USA"
 
 #: enm
 msgid "Middle English"
@@ -469,18 +469,6 @@ msgstr "Meddelänglesch"
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Schpahnesch uß Latting-Ammärrika"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Schpahnesch en Schpahneje"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Schpahnesch en Mäxikoh"
 
 #: est
 #: et
@@ -533,18 +521,18 @@ msgstr "Finnesch"
 msgid "Fon"
 msgstr "Fohnesch"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Franzühsesch uß Kanada"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Franzühsesch uß de Schweijz"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Franzühsesch"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Franzühsesch uß Kanada"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Franzühsesch uß de Schweijz"
 
 #: fry
 #: fy
@@ -834,7 +822,7 @@ msgstr "Kinja-Ruandesch"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirjihsesch"
 
 #: kkj
@@ -1061,7 +1049,7 @@ msgstr "Mirandehsesch"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmehsesch"
 
 #: myv
@@ -1092,7 +1080,7 @@ msgstr "Nood-Ndebele"
 msgid "Ndonga"
 msgstr "Ndongjahnesch"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Nehdersaksesch en de Nederläng"
 
@@ -1105,14 +1093,14 @@ msgstr "Nepallehsesch"
 msgid "Newari"
 msgstr "Newahresch"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flähmesch"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Holländesch"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flähmesch"
 
 #: nmg
 msgid "Kwasio"
@@ -1175,17 +1163,17 @@ msgstr "Pollnesch"
 msgid "Portuguese"
 msgstr "Pochtojesesch"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Brasilljaanesch Pochtojesesch"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Pochtojesesch uß Pochtojall"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Paschtuunesch"
 
 #: quc
@@ -1308,6 +1296,18 @@ msgstr "Söd-Sooto"
 #: es
 msgid "Spanish"
 msgstr "Schpahnesch"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Schpahnesch uß Latting-Ammärrika"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Schpahnesch en Schpahneje"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Schpahnesch en Mäxikoh"
 
 #: sqi
 #: sq
@@ -1446,7 +1446,7 @@ msgstr "Udmuchtesch"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uj’juhresch"
 
 #: ukr
@@ -1536,18 +1536,18 @@ msgstr "Joruhba"
 msgid "Cantonese"
 msgstr "Kanton-Schinehsesch"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Schinehsesch (eijfache Schreff)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Schinehsesch (tradizjonälle Schreff)"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Schinehsesch (Mandarin)"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Schinehsesch (eijfache Schreff)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Schinehsesch (tradizjonälle Schreff)"
 
 #: zul
 #: zu

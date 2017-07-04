@@ -127,7 +127,7 @@ msgstr "Hɔp u makɛ᷆"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Hɔp u birmàn"
 
 #: nep

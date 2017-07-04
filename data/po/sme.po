@@ -320,7 +320,7 @@ msgstr "maorigiella"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmagiella"
 
 #: myv
@@ -507,16 +507,16 @@ msgstr "vallonagiella"
 msgid "Cantonese"
 msgstr "kantongiella"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "álki kiinágiella"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "árbevirolaš kiinnágiella"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "kiinnágiella"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "álki kiinágiella"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "árbevirolaš kiinnágiella"
 

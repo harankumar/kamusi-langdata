@@ -58,14 +58,14 @@ msgstr "amhariskt"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "nútíðar vanligt arabiskt"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabiskt"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "nútíðar vanligt arabiskt"
 
 #: arg
 #: an
@@ -307,14 +307,14 @@ msgstr "dargwa"
 msgid "Taita"
 msgstr "taita"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "høgt týskt (Sveis)"
-
 #: deu
 #: de
 msgid "German"
 msgstr "týskt"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "høgt týskt (Sveis)"
 
 #: dgr
 msgid "Dogrib"
@@ -367,18 +367,18 @@ msgstr "ekajuk"
 msgid "Greek"
 msgstr "grikskt"
 
-#: en GB-short
-msgid "UK English"
-msgstr "enskt (UK)"
-
-#: en US-short
-msgid "US English"
-msgstr "enskt (USA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "enskt"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "enskt (UK)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "enskt (USA)"
 
 #: epo
 #: eo
@@ -760,7 +760,7 @@ msgstr "kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kyrgyz"
 
 #: kkj
@@ -1051,7 +1051,7 @@ msgstr "mirandesiskt"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmesiskt"
 
 #: myv
@@ -1103,7 +1103,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "lágt týskt"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "lágt saksiskt"
 
@@ -1124,14 +1124,14 @@ msgstr "nias"
 msgid "Niuean"
 msgstr "niuean"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamskt"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "hálendskt"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamskt"
 
 #: nmg
 msgid "Kwasio"
@@ -1236,21 +1236,21 @@ msgstr "pólskt"
 msgid "Portuguese"
 msgstr "portugiskiskt"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "portugiskiskt (Brasilia)"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "portugiskiskt (Evropa)"
+
 #: prg
 msgid "Prussian"
 msgstr "prusslanskt"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "portugiskiskt (Brasilia)"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "portugiskiskt (Evropa)"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pashto"
 
 #: quc
@@ -1270,10 +1270,6 @@ msgstr "rapanui"
 msgid "Rarotongan"
 msgstr "rarotongiskt"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldaviskt"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1287,6 +1283,10 @@ msgstr "retoromanskt"
 #: ro
 msgid "Romanian"
 msgstr "rumenskt"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldaviskt"
 
 #: run
 #: rn
@@ -1475,14 +1475,14 @@ msgstr "sukuma"
 msgid "Sundanese"
 msgstr "sundanesiskt"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "kongo svahili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "kongo svahili"
 
 #: swb
 msgid "Comorian"
@@ -1621,7 +1621,7 @@ msgstr "udmurt"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uyghur"
 
 #: ukr
@@ -1735,18 +1735,18 @@ msgstr "kantonesiskt"
 msgid "Standard Moroccan Tamazight"
 msgstr "vanligt marokanskt tamazight"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "einkult kinesiskt"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "vanligt kinesiskt"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "kinesiskt"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "einkult kinesiskt"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "vanligt kinesiskt"
 
 #: zul
 #: zu

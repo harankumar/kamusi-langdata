@@ -176,31 +176,23 @@ msgstr "Dogri Iyápi"
 msgid "Greek"
 msgstr "Greece Iyápi"
 
-#: en GB
-msgid "British English"
-msgstr "Šagláša Wašíčuiyapi"
-
-#: en US
-msgid "American English"
-msgstr "Mílahaŋska Wašíčuiyapi"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Wašíčuiyapi"
 
+#: eng_GB
+msgid "British English"
+msgstr "Šagláša Wašíčuiyapi"
+
+#: eng_US
+msgid "American English"
+msgstr "Mílahaŋska Wašíčuiyapi"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto Iyápi"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Wiyóȟpeyata Spayóla Iyápi"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Spayólaȟča Iyápi"
 
 #: est
 #: et
@@ -373,7 +365,7 @@ msgstr "Khmer Iyápi"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirghiz Iyápi"
 
 #: kor
@@ -464,7 +456,7 @@ msgstr "Malay Iyápi"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmese Iyápi"
 
 #: nav
@@ -477,14 +469,14 @@ msgstr "Šináglegleǧa Iyápi"
 msgid "Nepali"
 msgstr "Nepal Iyápi"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flemish Iyápi"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Dutch Iyápi"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flemish Iyápi"
 
 #: oji
 #: oj
@@ -513,7 +505,7 @@ msgstr "Portuguese Iyápi"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Pashto Iyápi"
 
 #: que
@@ -570,6 +562,14 @@ msgstr "Somali Iyápi"
 #: es
 msgid "Spanish"
 msgstr "Spayóla Iyápi"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Wiyóȟpeyata Spayóla Iyápi"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Spayólaȟča Iyápi"
 
 #: sqi
 #: sq
@@ -647,7 +647,7 @@ msgstr "Turkish Iyápi"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uyghur Iyápi"
 
 #: ukr
@@ -689,18 +689,18 @@ msgstr "Xhosa Iyápi"
 msgid "Yoruba"
 msgstr "Yoruba Iyápi"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Pȟečhókaŋ Háŋska Iyápi Ikčéka"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Pȟečhókaŋ Háŋska Iyápi Ȟče"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Pȟečhókaŋ Háŋska Iyápi"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Pȟečhókaŋ Háŋska Iyápi Ikčéka"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Pȟečhókaŋ Háŋska Iyápi Ȟče"
 
 #: zul
 #: zu

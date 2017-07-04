@@ -74,14 +74,14 @@ msgstr "古英文"
 msgid "Angika"
 msgstr "昂加文"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "现代标准阿拉伯语"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "阿拉伯语"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "现代标准阿拉伯语"
 
 #: arc
 msgid "Aramaic"
@@ -136,10 +136,6 @@ msgstr "阿瓦乔文"
 msgid "Aymara"
 msgstr "艾马拉文"
 
-#: az Arab
-msgid "undefined"
-msgstr "南阿塞拜疆文"
-
 #: az-short
 msgid "Azeri"
 msgstr "阿塞拜疆语"
@@ -148,6 +144,10 @@ msgstr "阿塞拜疆语"
 #: az
 msgid "Azerbaijani"
 msgstr "阿塞拜疆语"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "南阿塞拜疆文"
 
 #: bak
 #: ba
@@ -433,14 +433,6 @@ msgstr "达尔格瓦文"
 msgid "Taita"
 msgstr "台塔文"
 
-#: de AT
-msgid "Austrian German"
-msgstr "奥地利德文"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "瑞士高地德文"
-
 #: del
 msgid "Delaware"
 msgstr "特拉华文"
@@ -453,6 +445,14 @@ msgstr "史拉维文"
 #: de
 msgid "German"
 msgstr "德文"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "奥地利德文"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "瑞士高地德文"
 
 #: dgr
 msgid "Dogrib"
@@ -529,18 +529,18 @@ msgstr "希腊语"
 msgid "Elamite"
 msgstr "埃兰文"
 
-#: en GB-short
-msgid "UK English"
-msgstr "英式英文"
-
-#: en US-short
-msgid "US English"
-msgstr "美式英文"
-
 #: eng
 #: en
 msgid "English"
 msgstr "英语"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "英式英文"
+
+#: eng_US-short
+msgid "US English"
+msgstr "美式英文"
 
 #: enm
 msgid "Middle English"
@@ -550,18 +550,6 @@ msgstr "中古英文"
 #: eo
 msgid "Esperanto"
 msgstr "世界语"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "拉丁美洲西班牙文"
-
-#: es ES
-msgid "European Spanish"
-msgstr "欧洲西班牙文"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "墨西哥西班牙文"
 
 #: est
 #: et
@@ -1040,7 +1028,7 @@ msgstr "卢旺达语"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "吉尔吉斯文"
 
 #: kkj
@@ -1388,7 +1376,7 @@ msgstr "马尔瓦里文"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "缅甸语"
 
 #: mye
@@ -1444,7 +1432,7 @@ msgstr "恩东加文"
 msgid "Low German"
 msgstr "低地德文"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "低萨克森文"
 
@@ -1465,14 +1453,14 @@ msgstr "尼亚斯文"
 msgid "Niuean"
 msgstr "纽埃文"
 
-#: nl BE
-msgid "Flemish"
-msgstr "佛兰德文"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "荷兰语"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "佛兰德文"
 
 #: nmg
 msgid "Kwasio"
@@ -1631,6 +1619,14 @@ msgstr "波纳佩文"
 msgid "Portuguese"
 msgstr "葡萄牙文"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "巴西葡萄牙文"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "欧洲葡萄牙文"
+
 #: prg
 msgid "Prussian"
 msgstr "普鲁士文"
@@ -1639,17 +1635,9 @@ msgstr "普鲁士文"
 msgid "Old Provençal"
 msgstr "古普罗文斯文"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "巴西葡萄牙文"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "欧洲葡萄牙文"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "普什图文"
 
 #: quc
@@ -1673,10 +1661,6 @@ msgstr "拉帕努伊文"
 msgid "Rarotongan"
 msgstr "拉罗汤加文"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "摩尔多瓦文"
-
 #: rof
 msgid "Rombo"
 msgstr "兰博文"
@@ -1694,6 +1678,10 @@ msgstr "吉普赛文"
 #: ro
 msgid "Romanian"
 msgstr "罗马尼亚文"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "摩尔多瓦文"
 
 #: root
 msgid "Root"
@@ -1881,6 +1869,18 @@ msgstr "南索托文"
 msgid "Spanish"
 msgstr "西班牙文"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "拉丁美洲西班牙文"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "欧洲西班牙文"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "墨西哥西班牙文"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1930,14 +1930,14 @@ msgstr "苏苏文"
 msgid "Sumerian"
 msgstr "苏美尔文"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "刚果斯瓦希里文"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "斯瓦希里文"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "刚果斯瓦希里文"
 
 #: swb
 msgid "Comorian"
@@ -2112,7 +2112,7 @@ msgstr "乌加里特文"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "维吾尔语"
 
 #: ukr
@@ -2262,14 +2262,6 @@ msgstr "泽纳加文"
 msgid "Standard Moroccan Tamazight"
 msgstr "标准摩洛哥塔马塞特文"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "简体中文"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "繁体中文"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2279,6 +2271,14 @@ msgstr "壮语"
 #: zh
 msgid "Chinese"
 msgstr "中文"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "简体中文"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "繁体中文"
 
 #: zul
 #: zu

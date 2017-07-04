@@ -85,18 +85,18 @@ msgstr "ད་ཀོ་ཏ་ཁ"
 msgid "Danish"
 msgstr "ཌེ་ནིཤ་ཁ"
 
-#: de AT
-msgid "Austrian German"
-msgstr "ཨཱོས་ཊྲི་ཡཱན་ཇཱར་མཱན་ཁ"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "སུ་ཡིས་གི་མཐོ་སའི་ཇཱར་མཱན་ཁ"
-
 #: deu
 #: de
 msgid "German"
 msgstr "ཇཱར་མཱན་ཁ"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "ཨཱོས་ཊྲི་ཡཱན་ཇཱར་མཱན་ཁ"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "སུ་ཡིས་གི་མཐོ་སའི་ཇཱར་མཱན་ཁ"
 
 #: div
 #: dv
@@ -117,39 +117,31 @@ msgstr "ཨི་ཇིཔ་ཤཱན (སྔ་དུས་ཀྱི)"
 msgid "Greek"
 msgstr "གྲིཀ་ཁ"
 
-#: en AU
-msgid "Australian English"
-msgstr "ཨཱོས་ཊྲེ་ལི་ཡཱན་ཨིང་ལིཤ་ཁ"
-
-#: en CA
-msgid "Canadian English"
-msgstr "ཀེ་ན་ཌི་ཡཱན་ཨིང་ལིཤ་ཁ"
-
-#: en GB
-msgid "British English"
-msgstr "བྲི་ཊིཤ་ཨིང་ལིཤ་ཁ"
-
-#: en US
-msgid "American English"
-msgstr "ཡུ་ཨེས་ཨིང་ལིཤ་ཁ"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ཨིང་ལིཤ་ཁ"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "ཨཱོས་ཊྲེ་ལི་ཡཱན་ཨིང་ལིཤ་ཁ"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "ཀེ་ན་ཌི་ཡཱན་ཨིང་ལིཤ་ཁ"
+
+#: eng_GB
+msgid "British English"
+msgstr "བྲི་ཊིཤ་ཨིང་ལིཤ་ཁ"
+
+#: eng_US
+msgid "American English"
+msgstr "ཡུ་ཨེས་ཨིང་ལིཤ་ཁ"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "ཨེས་པ་རཱན་ཏོ་ཁ"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "ལེ་ཊིན་ཨ་མེ་རི་ཀཱན་གི་ཨིས་པེ་ནིཤ་ཁ"
-
-#: es ES
-msgid "European Spanish"
-msgstr "ཡུ་རོབ་ཀྱི་ཨིས་པེ་ནིཤ་ཁ"
 
 #: est
 #: et
@@ -185,18 +177,18 @@ msgstr "ཕི་ལི་པི་ནོ་ཁ"
 msgid "Finnish"
 msgstr "ཕི་ནིཤ་ཁ"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "ཀེ་ན་ཌི་ཡཱན་ཕྲནཅ་ཁ"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "སུ་ཡིས་ཕྲནཅ་ཁ"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "ཕྲནཅ་ཁ"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "ཀེ་ན་ཌི་ཡཱན་ཕྲནཅ་ཁ"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "སུ་ཡིས་ཕྲནཅ་ཁ"
 
 #: fry
 #: fy
@@ -335,7 +327,7 @@ msgstr "ཁེ་མེར་ཁ"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ཀིར་གིས་ཁ"
 
 #: kor
@@ -423,7 +415,7 @@ msgstr "མ་ལེ་ཁ"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "བར་མིས་ཁ"
 
 #: nep
@@ -435,14 +427,14 @@ msgstr "ནེ་པཱལི་ཁ"
 msgid "Newari"
 msgstr "ནི་ཝ་རི"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ཕྷེལེ་མིཤ་ཁ"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "ཌཆ་ཁ"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ཕྷེལེ་མིཤ་ཁ"
 
 #: nno
 #: nn
@@ -484,17 +476,17 @@ msgstr "པོ་ལིཤ་ཁ"
 msgid "Portuguese"
 msgstr "པོར་ཅུ་གིས་ཁ"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "བྲ་ཛི་ལི་ཡཱན་པོར་ཅུ་གིས་ཁ"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "ཨི་བེ་རི་ཡཱན་པོར་ཅུ་གིས་ཁ"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "པཱཤ་ཏོ་ཁ"
 
 #: que
@@ -555,6 +547,14 @@ msgstr "སོ་མ་ལི་ཁ"
 #: es
 msgid "Spanish"
 msgstr "ཨིས་པེ་ནིཤ་ཁ"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "ལེ་ཊིན་ཨ་མེ་རི་ཀཱན་གི་ཨིས་པེ་ནིཤ་ཁ"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "ཡུ་རོབ་ཀྱི་ཨིས་པེ་ནིཤ་ཁ"
 
 #: sqi
 #: sq
@@ -628,7 +628,7 @@ msgstr "ཊཱར་ཀིཤ་ཁ"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ཝི་གུར་ཁ"
 
 #: ukr
@@ -670,18 +670,18 @@ msgstr "ཞོ་ས་ཁ"
 msgid "Yoruba"
 msgstr "ཡོ་རུ་བ་ཁ"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "རྒྱ་མི་ཁ་འཇམ་སངམ"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "རྒྱ་མི་ཁ"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "རྒྱ་མི་ཁ་འཇམ་སངམ"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ"
 
 #: zul
 #: zu

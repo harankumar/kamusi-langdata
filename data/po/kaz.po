@@ -58,14 +58,14 @@ msgstr "амхар тілі"
 msgid "Angika"
 msgstr "ангика тілі"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "қазіргі стандартты араб тілі"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "араб тілі"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "қазіргі стандартты араб тілі"
 
 #: arg
 #: an
@@ -359,18 +359,18 @@ msgstr "экаджук тілі"
 msgid "Greek"
 msgstr "грек тілі"
 
-#: en US
-msgid "American English"
-msgstr "ағылшын тілі (АҚШ)"
-
-#: en US-short
-msgid "US English"
-msgstr "ағылшын тілі (АҚШ)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ағылшын тілі"
+
+#: eng_US
+msgid "American English"
+msgstr "ағылшын тілі (АҚШ)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ағылшын тілі (АҚШ)"
 
 #: epo
 #: eo
@@ -744,7 +744,7 @@ msgstr "киньяруанда тілі"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "қырғыз тілі"
 
 #: kkj
@@ -1035,7 +1035,7 @@ msgstr "миранд тілі"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "бирма тілі"
 
 #: myv
@@ -1083,7 +1083,7 @@ msgstr "ндонга тілі"
 msgid "Low German"
 msgstr "төменгі неміс тілі"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "төменгі саксон тілі"
 
@@ -1104,14 +1104,14 @@ msgstr "ниас тілі"
 msgid "Niuean"
 msgstr "ниуэ тілі"
 
-#: nl BE
-msgid "Flemish"
-msgstr "фламанд тілі"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "нидерланд тілі"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "фламанд тілі"
 
 #: nmg
 msgid "Kwasio"
@@ -1222,7 +1222,7 @@ msgstr "пруссия тілі"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "пушту тілі"
 
 #: quc
@@ -1242,10 +1242,6 @@ msgstr "рапануй тілі"
 msgid "Rarotongan"
 msgstr "раротонган тілі"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "молдован тілі"
-
 #: rof
 msgid "Rombo"
 msgstr "ромбо тілі"
@@ -1259,6 +1255,10 @@ msgstr "романш тілі"
 #: ro
 msgid "Romanian"
 msgstr "румын тілі"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "молдован тілі"
 
 #: root
 msgid "Root"
@@ -1451,14 +1451,14 @@ msgstr "сукума тілі"
 msgid "Sundanese"
 msgstr "сундан тілі"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "конго суахили тілі"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "суахили тілі"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "конго суахили тілі"
 
 #: swb
 msgid "Comorian"
@@ -1592,7 +1592,7 @@ msgstr "удмурт тілі"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ұйғыр тілі"
 
 #: ukr
@@ -1706,18 +1706,18 @@ msgstr "кантон тілі"
 msgid "Standard Moroccan Tamazight"
 msgstr "марокколық стандартты тамазигхт тілі"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "жеңілдетілген қытай тілі"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "дәстүрлі қытай тілі"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "қытай тілі"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "жеңілдетілген қытай тілі"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "дәстүрлі қытай тілі"
 
 #: zul
 #: zu

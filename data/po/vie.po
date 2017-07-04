@@ -82,14 +82,14 @@ msgstr "Tiếng Anh cổ"
 msgid "Angika"
 msgstr "Tiếng Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Tiếng Ả Rập Hiện đại"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Tiếng Ả Rập"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Tiếng Ả Rập Hiện đại"
 
 #: arc
 msgid "Aramaic"
@@ -489,10 +489,6 @@ msgstr "Tiếng Dargwa"
 msgid "Taita"
 msgstr "Tiếng Taita"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "Tiếng Thượng Giéc-man (Thụy Sĩ)"
-
 #: del
 msgid "Delaware"
 msgstr "Tiếng Delaware"
@@ -505,6 +501,10 @@ msgstr "Tiếng Slave"
 #: de
 msgid "German"
 msgstr "Tiếng Đức"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Tiếng Thượng Giéc-man (Thụy Sĩ)"
 
 #: dgr
 msgid "Dogrib"
@@ -589,26 +589,26 @@ msgstr "Tiếng Hy Lạp"
 msgid "Elamite"
 msgstr "Tiếng Elamite"
 
-#: en GB
-msgid "British English"
-msgstr "Tiếng Anh (Anh)"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Tiếng Anh (Anh)"
-
-#: en US
-msgid "American English"
-msgstr "Tiếng Anh (Mỹ)"
-
-#: en US-short
-msgid "US English"
-msgstr "Tiếng Anh (Mỹ)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Tiếng Anh"
+
+#: eng_GB
+msgid "British English"
+msgstr "Tiếng Anh (Anh)"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Tiếng Anh (Anh)"
+
+#: eng_US
+msgid "American English"
+msgstr "Tiếng Anh (Mỹ)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Tiếng Anh (Mỹ)"
 
 #: enm
 msgid "Middle English"
@@ -618,14 +618,6 @@ msgstr "Tiếng Anh Trung cổ"
 #: eo
 msgid "Esperanto"
 msgstr "Tiếng Quốc Tế Ngữ"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Tiếng Tây Ban Nha (Mỹ La tinh)"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Tiếng Tây Ban Nha (Châu Âu)"
 
 #: est
 #: et
@@ -1148,7 +1140,7 @@ msgstr "Tiếng Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Tiếng Kyrgyz"
 
 #: kkj
@@ -1496,7 +1488,7 @@ msgstr "Tiếng Marwari"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Tiếng Miến Điện"
 
 #: mye
@@ -1552,7 +1544,7 @@ msgstr "Tiếng Ndonga"
 msgid "Low German"
 msgstr "Tiếng Hạ Giéc-man"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Tiếng Hạ Saxon"
 
@@ -1577,14 +1569,14 @@ msgstr "Tiếng Niuean"
 msgid "Ao Naga"
 msgstr "Tiếng Ao Naga"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Tiếng Flemish"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Tiếng Hà Lan"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Tiếng Flemish"
 
 #: nmg
 msgid "Kwasio"
@@ -1743,6 +1735,10 @@ msgstr "Tiếng Pohnpeian"
 msgid "Portuguese"
 msgstr "Tiếng Bồ Đào Nha"
 
+#: por_PT
+msgid "European Portuguese"
+msgstr "Tiếng Bồ Đào Nha (Châu Âu)"
+
 #: prg
 msgid "Prussian"
 msgstr "Tiếng Prussia"
@@ -1751,18 +1747,10 @@ msgstr "Tiếng Prussia"
 msgid "Old Provençal"
 msgstr "Tiếng Provençal cổ"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "Tiếng Pushto"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Tiếng Bồ Đào Nha (Châu Âu)"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "Tiếng Pashto"
+msgid "Pashto,Pushto"
+msgstr "Tiếng Pashto,Tiếng Pushto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1789,10 +1777,6 @@ msgstr "Tiếng Rapanui"
 msgid "Rarotongan"
 msgstr "Tiếng Rarotongan"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Tiếng Moldova"
-
 #: rof
 msgid "Rombo"
 msgstr "Tiếng Rombo"
@@ -1810,6 +1794,10 @@ msgstr "Tiếng Romany"
 #: ro
 msgid "Romanian"
 msgstr "Tiếng Romania"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Tiếng Moldova"
 
 #: root
 msgid "Root"
@@ -1997,6 +1985,14 @@ msgstr "Tiếng Sotho Miền Nam"
 msgid "Spanish"
 msgstr "Tiếng Tây Ban Nha"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Tiếng Tây Ban Nha (Mỹ La tinh)"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Tiếng Tây Ban Nha (Châu Âu)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2046,14 +2042,14 @@ msgstr "Tiếng Susu"
 msgid "Sumerian"
 msgstr "Tiếng Sumeria"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Tiếng Swahili Congo"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Tiếng Swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Tiếng Swahili Congo"
 
 #: swb
 msgid "Comorian"
@@ -2228,7 +2224,7 @@ msgstr "Tiếng Ugaritic"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Tiếng Duy Ngô Nhĩ"
 
 #: ukr

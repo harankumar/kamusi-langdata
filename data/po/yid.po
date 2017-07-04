@@ -146,18 +146,18 @@ msgstr "זשאלא־פֿאני"
 msgid "Greek"
 msgstr "גריכיש"
 
-#: en GB-short
-msgid "UK English"
-msgstr "ענגליש (GB)"
-
-#: en US-short
-msgid "US English"
-msgstr "ענגליש (US)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ענגליש"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "ענגליש (GB)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ענגליש (US)"
 
 #: enm
 msgid "Middle English"
@@ -363,7 +363,7 @@ msgstr "כמער"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "קירגיזיש"
 
 #: kor
@@ -440,7 +440,7 @@ msgstr "מאַאריש"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "בירמאַניש"
 
 #: nap
@@ -456,14 +456,14 @@ msgstr "נידערדײַטש"
 msgid "Nepali"
 msgstr "נעפּאַליש"
 
-#: nl BE
-msgid "Flemish"
-msgstr "פֿלעמיש"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "האלענדיש"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "פֿלעמיש"
 
 #: nno
 #: nn
@@ -505,7 +505,7 @@ msgstr "פּרייסיש"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "פּאַשטאָ"
 
 #: ron
@@ -611,14 +611,14 @@ msgstr "סערביש"
 msgid "Sumerian"
 msgstr "סומעריש"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "קאנגא־סוואַהיליש"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "סוואַהיליש"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "קאנגא־סוואַהיליש"
 
 #: swb
 msgid "Comorian"

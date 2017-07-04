@@ -87,18 +87,18 @@ msgstr "коптаг"
 msgid "Danish"
 msgstr "даниаг"
 
-#: de AT
-msgid "Austrian German"
-msgstr "австралиаг немыцаг"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "швйецариаг немыцаг"
-
 #: deu
 #: de
 msgid "German"
 msgstr "немыцаг"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "австралиаг немыцаг"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "швйецариаг немыцаг"
 
 #: egy
 msgid "Ancient Egyptian"
@@ -109,43 +109,31 @@ msgstr "рагон египтаг"
 msgid "Greek"
 msgstr "бердзейнаг"
 
-#: en AU
-msgid "Australian English"
-msgstr "австралиаг англисаг"
-
-#: en CA
-msgid "Canadian English"
-msgstr "канадӕйаг англисаг"
-
-#: en GB
-msgid "British English"
-msgstr "бритайнаг англисаг"
-
-#: en US
-msgid "American English"
-msgstr "америкаг англисаг"
-
 #: eng
 #: en
 msgid "English"
 msgstr "англисаг"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "австралиаг англисаг"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "канадӕйаг англисаг"
+
+#: eng_GB
+msgid "British English"
+msgstr "бритайнаг англисаг"
+
+#: eng_US
+msgid "American English"
+msgstr "америкаг англисаг"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "есперанто"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "латинаг америкаг англисаг"
-
-#: es ES
-msgid "European Spanish"
-msgstr "европӕйаг англисаг"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "мексикӕйаг испайнаг"
 
 #: est
 #: et
@@ -181,18 +169,18 @@ msgstr "филиппинаг"
 msgid "Finnish"
 msgstr "финнаг"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "канадӕйаг францаг"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "швейцариаг францаг"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "францаг"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "канадӕйаг францаг"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "швейцариаг францаг"
 
 #: fro
 msgid "Old French"
@@ -287,11 +275,11 @@ msgstr "ирон"
 msgid "Portuguese"
 msgstr "португалиаг"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "бразилиаг португалиаг"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "европӕйаг полтугалиаг"
 
@@ -309,20 +297,32 @@ msgstr "уырыссаг"
 msgid "Spanish"
 msgstr "испайнаг"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "латинаг америкаг англисаг"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "европӕйаг англисаг"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "мексикӕйаг испайнаг"
+
 #: und
 msgid "Unknown language"
 msgstr "нӕзонгӕ ӕвзаг"
-
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ӕнцонгонд китайаг"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "традицион китайаг"
 
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "китайаг"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ӕнцонгонд китайаг"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "традицион китайаг"
 

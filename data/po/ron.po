@@ -74,14 +74,14 @@ msgstr "engleză veche"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "arabă standard modernă"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabă"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "arabă standard modernă"
 
 #: arc
 msgid "Aramaic"
@@ -429,10 +429,6 @@ msgstr "dargwa"
 msgid "Taita"
 msgstr "taita"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "germană standard (Elveția)"
-
 #: del
 msgid "Delaware"
 msgstr "delaware"
@@ -445,6 +441,10 @@ msgstr "slave"
 #: de
 msgid "German"
 msgstr "germană"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "germană standard (Elveția)"
 
 #: dgr
 msgid "Dogrib"
@@ -521,14 +521,14 @@ msgstr "greacă"
 msgid "Elamite"
 msgstr "elamită"
 
-#: en US-short
-msgid "US English"
-msgstr "engleză (S.U.A)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "engleză"
+
+#: eng_US-short
+msgid "US English"
+msgstr "engleză (S.U.A)"
 
 #: enm
 msgid "Middle English"
@@ -1012,7 +1012,7 @@ msgstr "kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kârgâză"
 
 #: kkj
@@ -1356,7 +1356,7 @@ msgstr "marwari"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "birmană"
 
 #: mye
@@ -1412,7 +1412,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "germana de jos"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "saxona de jos"
 
@@ -1433,14 +1433,14 @@ msgstr "nias"
 msgid "Niuean"
 msgstr "niueană"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamandă"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "neerlandeză"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamandă"
 
 #: nmg
 msgid "Kwasio"
@@ -1607,14 +1607,10 @@ msgstr "prusacă"
 msgid "Old Provençal"
 msgstr "provensală veche"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "pushto"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "paștună"
+msgid "Pashto,Pushto"
+msgstr "paștună,pushto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1637,10 +1633,6 @@ msgstr "rapanui"
 msgid "Rarotongan"
 msgstr "rarotongan"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldovenească"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1658,6 +1650,10 @@ msgstr "romani"
 #: ro
 msgid "Romanian"
 msgstr "română"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldovenească"
 
 #: run
 #: rn
@@ -1890,14 +1886,14 @@ msgstr "susu"
 msgid "Sumerian"
 msgstr "sumeriană"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "swahili (R.D. Congo)"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "swahili (R.D. Congo)"
 
 #: swb
 msgid "Comorian"
@@ -2072,7 +2068,7 @@ msgstr "ugaritică"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uigură"
 
 #: ukr
@@ -2214,10 +2210,6 @@ msgstr "zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "tamazight standard marocană"
 
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "chineză tradițională"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2227,6 +2219,10 @@ msgstr "zhuang"
 #: zh
 msgid "Chinese"
 msgstr "chineză"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "chineză tradițională"
 
 #: zul
 #: zu

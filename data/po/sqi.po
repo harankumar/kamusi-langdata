@@ -58,14 +58,14 @@ msgstr "amarisht"
 msgid "Angika"
 msgstr "angikisht"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "arabishte standarde moderne"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabisht"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "arabishte standarde moderne"
 
 #: arg
 #: an
@@ -303,18 +303,18 @@ msgstr "darguaisht"
 msgid "Taita"
 msgstr "tajtaisht"
 
-#: de AT
-msgid "Austrian German"
-msgstr "gjermanishte austriake"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "gjermanishte zvicerane (dialekti i Alpeve)"
-
 #: deu
 #: de
 msgid "German"
 msgstr "gjermanisht"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "gjermanishte austriake"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "gjermanishte zvicerane (dialekti i Alpeve)"
 
 #: dgr
 msgid "Dogrib"
@@ -367,51 +367,39 @@ msgstr "ekajukisht"
 msgid "Greek"
 msgstr "greqisht"
 
-#: en AU
-msgid "Australian English"
-msgstr "anglishte australiane"
-
-#: en CA
-msgid "Canadian English"
-msgstr "anglishte kanadeze"
-
-#: en GB
-msgid "British English"
-msgstr "anglishte britanike"
-
-#: en GB-short
-msgid "UK English"
-msgstr "anglishte e Mbretërisë së Bashkuar"
-
-#: en US
-msgid "American English"
-msgstr "anglishte amerikane"
-
-#: en US-short
-msgid "US English"
-msgstr "anglishte e SHBA-së"
-
 #: eng
 #: en
 msgid "English"
 msgstr "anglisht"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "anglishte australiane"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "anglishte kanadeze"
+
+#: eng_GB
+msgid "British English"
+msgstr "anglishte britanike"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "anglishte e Mbretërisë së Bashkuar"
+
+#: eng_US
+msgid "American English"
+msgstr "anglishte amerikane"
+
+#: eng_US-short
+msgid "US English"
+msgstr "anglishte e SHBA-së"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "spanjishte amerikano-latine"
-
-#: es ES
-msgid "European Spanish"
-msgstr "spanjishte evropiane"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "spanjishte meksikane"
 
 #: est
 #: et
@@ -460,18 +448,18 @@ msgstr "finlandisht"
 msgid "Fon"
 msgstr "fonisht"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "frëngjishte kanadeze"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "frëngjishte zvicerane"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "frëngjisht"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "frëngjishte kanadeze"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "frëngjishte zvicerane"
 
 #: fry
 #: fy
@@ -788,7 +776,7 @@ msgstr "kiniaruandisht"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgizisht"
 
 #: kkj
@@ -1079,7 +1067,7 @@ msgstr "mirandisht"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "birmanisht"
 
 #: myv
@@ -1127,7 +1115,7 @@ msgstr "ndongaisht"
 msgid "Low German"
 msgstr "gjermanishte e vendeve të ulëta"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "gjermanishte saksone e vendeve të ulëta"
 
@@ -1148,14 +1136,14 @@ msgstr "niasisht"
 msgid "Niuean"
 msgstr "niueanisht"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamandisht"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "holandisht"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamandisht"
 
 #: nmg
 msgid "Kwasio"
@@ -1260,21 +1248,21 @@ msgstr "polonisht"
 msgid "Portuguese"
 msgstr "portugalisht"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "portugalishte braziliane"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "portugalishte evropiane"
+
 #: prg
 msgid "Prussian"
 msgstr "prusisht"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "portugalishte braziliane"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "portugalishte evropiane"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pashtoisht"
 
 #: quc
@@ -1294,10 +1282,6 @@ msgstr "rapanuisht"
 msgid "Rarotongan"
 msgstr "rarontonganisht"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldavisht"
-
 #: rof
 msgid "Rombo"
 msgstr "romboisht"
@@ -1311,6 +1295,10 @@ msgstr "retoromanisht"
 #: ro
 msgid "Romanian"
 msgstr "rumanisht"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldavisht"
 
 #: root
 msgid "Root"
@@ -1466,6 +1454,18 @@ msgstr "sotoishte jugore"
 msgid "Spanish"
 msgstr "spanjisht"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "spanjishte amerikano-latine"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "spanjishte evropiane"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "spanjishte meksikane"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1503,14 +1503,14 @@ msgstr "sukumaisht"
 msgid "Sundanese"
 msgstr "sundanisht"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "suahilishte kongoje"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "suahilisht"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "suahilishte kongoje"
 
 #: swb
 msgid "Comorian"
@@ -1644,7 +1644,7 @@ msgstr "udmurtisht"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ujgurisht"
 
 #: ukr

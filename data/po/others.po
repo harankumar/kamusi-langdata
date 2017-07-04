@@ -58,14 +58,14 @@ msgstr "am"
 msgid "Angika"
 msgstr "anp"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "ar_001"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "ar"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "ar_001"
 
 #: arg
 #: an
@@ -299,18 +299,18 @@ msgstr "dar"
 msgid "Taita"
 msgstr "dav"
 
-#: de AT
-msgid "Austrian German"
-msgstr "de_AT"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "de_CH"
-
 #: deu
 #: de
 msgid "German"
 msgstr "de"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "de_AT"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "de_CH"
 
 #: dgr
 msgid "Dogrib"
@@ -363,51 +363,39 @@ msgstr "eka"
 msgid "Greek"
 msgstr "el"
 
-#: en AU
-msgid "Australian English"
-msgstr "en_AU"
-
-#: en CA
-msgid "Canadian English"
-msgstr "en_CA"
-
-#: en GB
-msgid "British English"
-msgstr "en_GB"
-
-#: en GB-short
-msgid "UK English"
-msgstr "en_GB"
-
-#: en US
-msgid "American English"
-msgstr "en_US"
-
-#: en US-short
-msgid "US English"
-msgstr "en_US"
-
 #: eng
 #: en
 msgid "English"
 msgstr "en"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "en_AU"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "en_CA"
+
+#: eng_GB
+msgid "British English"
+msgstr "en_GB"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "en_GB"
+
+#: eng_US
+msgid "American English"
+msgstr "en_US"
+
+#: eng_US-short
+msgid "US English"
+msgstr "en_US"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "eo"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "es_419"
-
-#: es ES
-msgid "European Spanish"
-msgstr "es_ES"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "es_MX"
 
 #: est
 #: et
@@ -456,18 +444,18 @@ msgstr "fi"
 msgid "Fon"
 msgstr "fon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "fr_CA"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "fr_CH"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "fr"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "fr_CA"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "fr_CH"
 
 #: fry
 #: fy
@@ -782,7 +770,7 @@ msgstr "rw"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "ky"
 
 #: kkj
@@ -1069,7 +1057,7 @@ msgstr "mwl"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "my"
 
 #: myv
@@ -1117,7 +1105,7 @@ msgstr "nd"
 msgid "Ndonga"
 msgstr "ng"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "nds_NL"
 
@@ -1138,14 +1126,14 @@ msgstr "nia"
 msgid "Niuean"
 msgstr "niu"
 
-#: nl BE
-msgid "Flemish"
-msgstr "nl_BE"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "nl"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "nl_BE"
 
 #: nmg
 msgid "Kwasio"
@@ -1245,21 +1233,21 @@ msgstr "pl"
 msgid "Portuguese"
 msgstr "pt"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "pt_BR"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "pt_PT"
+
 #: prg
 msgid "Prussian"
 msgstr "prg"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "pt_BR"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "pt_PT"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "ps"
 
 #: quc
@@ -1279,10 +1267,6 @@ msgstr "rap"
 msgid "Rarotongan"
 msgstr "rar"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "ro_MD"
-
 #: rof
 msgid "Rombo"
 msgstr "rof"
@@ -1296,6 +1280,10 @@ msgstr "rm"
 #: ro
 msgid "Romanian"
 msgstr "ro"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "ro_MD"
 
 #: root
 msgid "Root"
@@ -1447,6 +1435,18 @@ msgstr "st"
 msgid "Spanish"
 msgstr "es"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "es_419"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "es_ES"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "es_MX"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1484,14 +1484,14 @@ msgstr "suk"
 msgid "Sundanese"
 msgstr "su"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "sw_CD"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "sw"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "sw_CD"
 
 #: swb
 msgid "Comorian"
@@ -1620,7 +1620,7 @@ msgstr "udm"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ug"
 
 #: ukr
@@ -1734,18 +1734,18 @@ msgstr "yue"
 msgid "Standard Moroccan Tamazight"
 msgstr "zgh"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "zh_Hans"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "zh_Hant"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "zh"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "zh_Hans"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "zh_Hant"
 
 #: zul
 #: zu

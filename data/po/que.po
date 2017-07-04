@@ -300,7 +300,7 @@ msgstr "Kinyarwanda Simi"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirghiz Simi"
 
 #: kok
@@ -421,7 +421,7 @@ msgstr "Portugues Simi"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Pashto Simi"
 
 #: quc
@@ -574,7 +574,7 @@ msgstr "Turco Simi"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uigur Simi"
 
 #: ukr

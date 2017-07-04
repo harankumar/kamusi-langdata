@@ -76,45 +76,37 @@ msgstr "Welsh"
 msgid "Danish"
 msgstr "Danmarkays"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "Jarmal (Iswiiserlaand)"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Jarmal"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Jarmal (Iswiiserlaand)"
 
 #: ell
 #: el
 msgid "Greek"
 msgstr "Giriik"
 
-#: en GB
-msgid "British English"
-msgstr "Ingiriisi (Boqortooyada Midowday)"
-
-#: en US
-msgid "American English"
-msgstr "Ingiriisi (Maraykan)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Ingiriisi"
 
+#: eng_GB
+msgid "British English"
+msgstr "Ingiriisi (Boqortooyada Midowday)"
+
+#: eng_US
+msgid "American English"
+msgstr "Ingiriisi (Maraykan)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "Isberento"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Isbaanishka Laatiin Ameerika"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Isbaanish (Isbayn)"
 
 #: est
 #: et
@@ -145,14 +137,14 @@ msgstr "Tagalog"
 msgid "Finnish"
 msgstr "Fiinlaandees"
 
-#: fr CH
-msgid "Swiss French"
-msgstr "Faransiis (Iswiiserlaand)"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Faransiis"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Faransiis (Iswiiserlaand)"
 
 #: fry
 #: fy
@@ -281,7 +273,7 @@ msgstr "Rwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirgiis"
 
 #: kor
@@ -351,7 +343,7 @@ msgstr "Malaay"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmese"
 
 #: nep
@@ -399,17 +391,17 @@ msgstr "Boolish"
 msgid "Portuguese"
 msgstr "Boortaqiis"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Boortaqiiska Baraasiil"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Boortaqiis (Boortuqaal)"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Bashtuu"
 
 #: ron
@@ -461,6 +453,14 @@ msgstr "Sesooto"
 #: es
 msgid "Spanish"
 msgstr "Isbaanish"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Isbaanishka Laatiin Ameerika"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Isbaanish (Isbayn)"
 
 #: sqi
 #: sq
@@ -523,7 +523,7 @@ msgstr "Tiwiyan"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "UIGHUR"
 
 #: ukr

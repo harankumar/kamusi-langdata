@@ -86,14 +86,14 @@ msgstr "staroangličtina"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "arabština (moderní standardní)"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabština"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "arabština (moderní standardní)"
 
 #: arc
 msgid "Aramaic"
@@ -501,10 +501,6 @@ msgstr "dargština"
 msgid "Taita"
 msgstr "taita"
 
-#: de CH
-msgid "Swiss High German"
-msgstr "němčina standardní (Švýcarsko)"
-
 #: del
 msgid "Delaware"
 msgstr "delawarština"
@@ -517,6 +513,10 @@ msgstr "slejvština (athabaský jazyk)"
 #: de
 msgid "German"
 msgstr "němčina"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "němčina standardní (Švýcarsko)"
 
 #: dgr
 msgid "Dogrib"
@@ -601,26 +601,26 @@ msgstr "řečtina"
 msgid "Elamite"
 msgstr "elamitština"
 
-#: en GB
-msgid "British English"
-msgstr "angličtina (Velká Británie)"
-
-#: en GB-short
-msgid "UK English"
-msgstr "angličtina (VB)"
-
-#: en US
-msgid "American English"
-msgstr "angličtina (USA)"
-
-#: en US-short
-msgid "US English"
-msgstr "angličtina (USA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "angličtina"
+
+#: eng_GB
+msgid "British English"
+msgstr "angličtina (Velká Británie)"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "angličtina (VB)"
+
+#: eng_US
+msgid "American English"
+msgstr "angličtina (USA)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "angličtina (USA)"
 
 #: enm
 msgid "Middle English"
@@ -630,10 +630,6 @@ msgstr "angličtina (středověká)"
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es ES
-msgid "European Spanish"
-msgstr "španělština (Evropa)"
 
 #: est
 #: et
@@ -1180,7 +1176,7 @@ msgstr "kiňarwandština"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kyrgyzština"
 
 #: kiu
@@ -1576,7 +1572,7 @@ msgstr "mentavajština"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "barmština"
 
 #: mye
@@ -1632,7 +1628,7 @@ msgstr "ndondština"
 msgid "Low German"
 msgstr "dolnoněmčina"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "dolnosaština"
 
@@ -1657,14 +1653,14 @@ msgstr "niueština"
 msgid "Ao Naga"
 msgstr "ao (jazyky Nágálandu)"
 
-#: nl BE
-msgid "Flemish"
-msgstr "vlámština"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "nizozemština"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "vlámština"
 
 #: nmg
 msgid "Kwasio"
@@ -1851,6 +1847,10 @@ msgstr "pohnpeiština"
 msgid "Portuguese"
 msgstr "portugalština"
 
+#: por_PT
+msgid "European Portuguese"
+msgstr "portugalština (Evropa)"
+
 #: prg
 msgid "Prussian"
 msgstr "pruština"
@@ -1859,13 +1859,9 @@ msgstr "pruština"
 msgid "Old Provençal"
 msgstr "provensálština"
 
-#: pt PT
-msgid "European Portuguese"
-msgstr "portugalština (Evropa)"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "paštština"
 
 #: quc
@@ -1901,10 +1897,6 @@ msgstr "romaňolština"
 msgid "Riffian"
 msgstr "rífština"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldavština"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1922,6 +1914,10 @@ msgstr "romština"
 #: ro
 msgid "Romanian"
 msgstr "rumunština"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldavština"
 
 #: root
 msgid "Root"
@@ -2145,6 +2141,10 @@ msgstr "sotština (jižní)"
 msgid "Spanish"
 msgstr "španělština"
 
+#: spa_ES
+msgid "European Spanish"
+msgstr "španělština (Evropa)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2198,14 +2198,14 @@ msgstr "susu"
 msgid "Sumerian"
 msgstr "sumerština"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "svahilština (Kongo)"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "svahilština"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "svahilština (Kongo)"
 
 #: swb
 msgid "Comorian"
@@ -2408,7 +2408,7 @@ msgstr "ugaritština"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ujgurština"
 
 #: ukr
@@ -2582,10 +2582,6 @@ msgstr "zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "tamazight (standardní marocký)"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "čínština (zjednodušená)"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2595,6 +2591,10 @@ msgstr "čuangština"
 #: zh
 msgid "Chinese"
 msgstr "čínština"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "čínština (zjednodušená)"
 
 #: zul
 #: zu

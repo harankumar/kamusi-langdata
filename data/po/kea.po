@@ -25,14 +25,14 @@ msgstr "akan"
 msgid "Amharic"
 msgstr "amáriku"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "árabi mudernu"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "árabi"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "árabi mudernu"
 
 #: arn
 msgid "Mapuche"
@@ -169,18 +169,18 @@ msgstr "dinamarkes"
 msgid "Taita"
 msgstr "taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "alimãu austriaku"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "altu alimãu suisu"
-
 #: deu
 #: de
 msgid "German"
 msgstr "alimãu"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "alimãu austriaku"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "altu alimãu suisu"
 
 #: dje
 msgid "Zarma"
@@ -212,51 +212,39 @@ msgstr "embu"
 msgid "Greek"
 msgstr "gregu"
 
-#: en AU
-msgid "Australian English"
-msgstr "ingles australianu"
-
-#: en CA
-msgid "Canadian English"
-msgstr "ingles kanadianu"
-
-#: en GB
-msgid "British English"
-msgstr "ingles britaniku"
-
-#: en GB-short
-msgid "UK English"
-msgstr "ingles (R.U.)"
-
-#: en US
-msgid "American English"
-msgstr "ingles merkanu"
-
-#: en US-short
-msgid "US English"
-msgstr "ingles (S.U.)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ingles"
 
+#: eng_AU
+msgid "Australian English"
+msgstr "ingles australianu"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "ingles kanadianu"
+
+#: eng_GB
+msgid "British English"
+msgstr "ingles britaniku"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "ingles (R.U.)"
+
+#: eng_US
+msgid "American English"
+msgstr "ingles merkanu"
+
+#: eng_US-short
+msgid "US English"
+msgstr "ingles (S.U.)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "sperantu"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "spanhol latinu-merkanu"
-
-#: es ES
-msgid "European Spanish"
-msgstr "spanhol europeu"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "spanhol mexikanu"
 
 #: est
 #: et
@@ -297,18 +285,18 @@ msgstr "filipinu"
 msgid "Finnish"
 msgstr "finlandes"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "franses kanadianu"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "franses suisu"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "franses"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "franses kanadianu"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "franses suisu"
 
 #: fry
 #: fy
@@ -501,7 +489,7 @@ msgstr "kiniaruanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgiz"
 
 #: kln
@@ -597,7 +585,7 @@ msgstr "maláiu"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "birmanes"
 
 #: nep
@@ -605,14 +593,14 @@ msgstr "birmanes"
 msgid "Nepali"
 msgstr "nepales"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flamengu"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "olandes"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flamengu"
 
 #: nmg
 msgid "Kwasio"
@@ -653,17 +641,17 @@ msgstr "pulaku"
 msgid "Portuguese"
 msgstr "purtuges"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "purtuges brazileru"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "purtuges europeu"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "paxto"
 
 #: quc
@@ -675,10 +663,6 @@ msgstr "kitxe"
 msgid "Quechua"
 msgstr "kexua"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "rumenu moldáviku"
-
 #: roh
 #: rm
 msgid "Romansh"
@@ -688,6 +672,10 @@ msgstr "romanxi"
 #: ro
 msgid "Romanian"
 msgstr "rumenu"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "rumenu moldáviku"
 
 #: rus
 #: ru
@@ -737,6 +725,18 @@ msgstr "somali"
 msgid "Spanish"
 msgstr "spanhol"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "spanhol latinu-merkanu"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "spanhol europeu"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "spanhol mexikanu"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -752,14 +752,14 @@ msgstr "sérviu"
 msgid "Sundanese"
 msgstr "sundanes"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "suaíli kongoles"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "suaíli"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "suaíli kongoles"
 
 #: swe
 #: sv
@@ -817,7 +817,7 @@ msgstr "tamazait di Atlas Sentral"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "uigur"
 
 #: ukr
@@ -859,18 +859,18 @@ msgstr "koza"
 msgid "Yoruba"
 msgstr "ioruba"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "xines simplifikadu"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "xines tradisional"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "xines"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "xines simplifikadu"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "xines tradisional"
 
 #: zul
 #: zu

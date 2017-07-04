@@ -308,7 +308,7 @@ msgstr "किन्यार्वान्डा"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "किर्गिज़"
 
 #: kok
@@ -392,7 +392,7 @@ msgstr "मलय"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "बर्मीज़्"
 
 #: nau
@@ -447,17 +447,13 @@ msgstr "पोर्चुगीज़्"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "पाष्टो (पुष्टो)"
 
 #: que
 #: qu
 msgid "Quechua"
 msgstr "क्वेच्वा"
-
-#: ro MD
-msgid "Moldavian"
-msgstr "मोल्डावियन्"
 
 #: roh
 #: rm
@@ -468,6 +464,10 @@ msgstr "रहटो-रोमान्स्"
 #: ro
 msgid "Romanian"
 msgstr "रोमानियन्"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "मोल्डावियन्"
 
 #: run
 #: rn
@@ -631,7 +631,7 @@ msgstr "त्वि"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "उधूर"
 
 #: ukr

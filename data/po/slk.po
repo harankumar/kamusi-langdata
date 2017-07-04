@@ -74,14 +74,14 @@ msgstr "stará angličtina"
 msgid "Angika"
 msgstr "angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "arabčina (moderná štandardná)"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabčina"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "arabčina (moderná štandardná)"
 
 #: arc
 msgid "Aramaic"
@@ -429,14 +429,6 @@ msgstr "darginčina"
 msgid "Taita"
 msgstr "taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "nemčina (rakúska)"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "nemčina (švajčiarska spisovná)"
-
 #: del
 msgid "Delaware"
 msgstr "delawarčina"
@@ -449,6 +441,14 @@ msgstr "slavé"
 #: de
 msgid "German"
 msgstr "nemčina"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "nemčina (rakúska)"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "nemčina (švajčiarska spisovná)"
 
 #: dgr
 msgid "Dogrib"
@@ -525,34 +525,34 @@ msgstr "gréčtina"
 msgid "Elamite"
 msgstr "elamčina"
 
-#: en AU
-msgid "Australian English"
-msgstr "angličtina (austrálska)"
-
-#: en CA
-msgid "Canadian English"
-msgstr "angličtina (kanadská)"
-
-#: en GB
-msgid "British English"
-msgstr "angličtina (britská)"
-
-#: en GB-short
-msgid "UK English"
-msgstr "angličtina (britská)"
-
-#: en US
-msgid "American English"
-msgstr "angličtina (americká)"
-
-#: en US-short
-msgid "US English"
-msgstr "angličtina (americká)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "angličtina"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "angličtina (austrálska)"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "angličtina (kanadská)"
+
+#: eng_GB
+msgid "British English"
+msgstr "angličtina (britská)"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "angličtina (britská)"
+
+#: eng_US
+msgid "American English"
+msgstr "angličtina (americká)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "angličtina (americká)"
 
 #: enm
 msgid "Middle English"
@@ -562,18 +562,6 @@ msgstr "stredná angličtina"
 #: eo
 msgid "Esperanto"
 msgstr "esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "španielčina (latinskoamerická)"
-
-#: es ES
-msgid "European Spanish"
-msgstr "španielčina (európska)"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "španielčina (mexická)"
 
 #: est
 #: et
@@ -630,18 +618,18 @@ msgstr "fínčina"
 msgid "Fon"
 msgstr "fončina"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "francúzština (kanadská)"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "francúzština (švajčiarska)"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "francúzština"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "francúzština (kanadská)"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "francúzština (švajčiarska)"
 
 #: frm
 msgid "Middle French"
@@ -1048,7 +1036,7 @@ msgstr "rwandčina"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgizština"
 
 #: kkj
@@ -1392,7 +1380,7 @@ msgstr "marwari"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "barmčina"
 
 #: mye
@@ -1444,7 +1432,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "dolná nemčina"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "dolná saština"
 
@@ -1465,14 +1453,14 @@ msgstr "niasánčina"
 msgid "Niuean"
 msgstr "niueština"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flámčina"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "holandčina"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flámčina"
 
 #: nmg
 msgid "Kwasio"
@@ -1631,6 +1619,14 @@ msgstr "pohnpeiština"
 msgid "Portuguese"
 msgstr "portugalčina"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "portugalčina (brazílska)"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "portugalčina (európska)"
+
 #: prg
 msgid "Prussian"
 msgstr "pruština"
@@ -1639,17 +1635,9 @@ msgstr "pruština"
 msgid "Old Provençal"
 msgstr "stará okcitánčina"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "portugalčina (brazílska)"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "portugalčina (európska)"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "paštčina"
 
 #: quc
@@ -1673,10 +1661,6 @@ msgstr "rapanujčina"
 msgid "Rarotongan"
 msgstr "rarotongská maorijčina"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldavčina"
-
 #: rof
 msgid "Rombo"
 msgstr "rombo"
@@ -1694,6 +1678,10 @@ msgstr "rómčina"
 #: ro
 msgid "Romanian"
 msgstr "rumunčina"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldavčina"
 
 #: root
 msgid "Root"
@@ -1881,6 +1869,18 @@ msgstr "južná sothčina"
 msgid "Spanish"
 msgstr "španielčina"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "španielčina (latinskoamerická)"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "španielčina (európska)"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "španielčina (mexická)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1930,14 +1930,14 @@ msgstr "susu"
 msgid "Sumerian"
 msgstr "sumerčina"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "svahilčina (konžská)"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "swahilčina"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "svahilčina (konžská)"
 
 #: swb
 msgid "Comorian"
@@ -2112,7 +2112,7 @@ msgstr "ugaritčina"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "ujgurčina"
 
 #: ukr
@@ -2250,14 +2250,6 @@ msgstr "zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "tuaregčina (štandardná marocká)"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "čínština (zjednodušená)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "čínština (tradičná)"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2267,6 +2259,14 @@ msgstr "čuangčina"
 #: zh
 msgid "Chinese"
 msgstr "čínština"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "čínština (zjednodušená)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "čínština (tradičná)"
 
 #: zul
 #: zu

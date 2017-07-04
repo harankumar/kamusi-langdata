@@ -36,7 +36,7 @@ msgstr "ꏝꀪꉙ"
 msgid "Portuguese"
 msgstr "ꁍꄨꑸꉙ"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "ꀠꑟꁍꄨꑸꉙ"
 
@@ -54,16 +54,16 @@ msgstr "ꑭꀠꑸꉙ"
 msgid "Unknown language"
 msgstr "ꅉꀋꌠꅇꂷ"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ꈝꐯꍏꇩꉙ"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ꀎꋏꍏꇩꉙ"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "ꍏꇩꉙ"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ꈝꐯꍏꇩꉙ"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ꀎꋏꍏꇩꉙ"
 

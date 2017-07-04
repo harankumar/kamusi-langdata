@@ -74,14 +74,14 @@ msgstr "fornenska"
 msgid "Angika"
 msgstr "angíka"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "stöðluð nútímaarabíska"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "arabíska"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "stöðluð nútímaarabíska"
 
 #: arc
 msgid "Aramaic"
@@ -409,14 +409,6 @@ msgstr "dargva"
 msgid "Taita"
 msgstr "taíta"
 
-#: de AT
-msgid "Austrian German"
-msgstr "austurrísk þýska"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "svissnesk háþýska"
-
 #: del
 msgid "Delaware"
 msgstr "delaver"
@@ -429,6 +421,14 @@ msgstr "slavneska"
 #: de
 msgid "German"
 msgstr "þýska"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "austurrísk þýska"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "svissnesk háþýska"
 
 #: dgr
 msgid "Dogrib"
@@ -505,34 +505,34 @@ msgstr "gríska"
 msgid "Elamite"
 msgstr "elamít"
 
-#: en AU
-msgid "Australian English"
-msgstr "áströlsk enska"
-
-#: en CA
-msgid "Canadian English"
-msgstr "kanadísk enska"
-
-#: en GB
-msgid "British English"
-msgstr "bresk enska"
-
-#: en GB-short
-msgid "UK English"
-msgstr "enska (bresk)"
-
-#: en US
-msgid "American English"
-msgstr "bandarísk enska"
-
-#: en US-short
-msgid "US English"
-msgstr "enska (BNA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "enska"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "áströlsk enska"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "kanadísk enska"
+
+#: eng_GB
+msgid "British English"
+msgstr "bresk enska"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "enska (bresk)"
+
+#: eng_US
+msgid "American English"
+msgstr "bandarísk enska"
+
+#: eng_US-short
+msgid "US English"
+msgstr "enska (BNA)"
 
 #: enm
 msgid "Middle English"
@@ -542,18 +542,6 @@ msgstr "miðenska"
 #: eo
 msgid "Esperanto"
 msgstr "esperantó"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "rómönsk-amerísk spænska"
-
-#: es ES
-msgid "European Spanish"
-msgstr "evrópsk spænska"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "mexíkósk spænska"
 
 #: est
 #: et
@@ -610,18 +598,18 @@ msgstr "finnska"
 msgid "Fon"
 msgstr "fón"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "kanadísk franska"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "svissnesk franska"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "franska"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "kanadísk franska"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "svissnesk franska"
 
 #: frm
 msgid "Middle French"
@@ -1024,7 +1012,7 @@ msgstr "kínjarvanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "kirgiska"
 
 #: kkj
@@ -1364,7 +1352,7 @@ msgstr "marvarí"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "burmneska"
 
 #: myv
@@ -1412,7 +1400,7 @@ msgstr "ndonga"
 msgid "Low German"
 msgstr "lágþýska; lágsaxneska"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "lágsaxneska"
 
@@ -1433,14 +1421,14 @@ msgstr "nías"
 msgid "Niuean"
 msgstr "níveska"
 
-#: nl BE
-msgid "Flemish"
-msgstr "flæmska"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "hollenska"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "flæmska"
 
 #: nmg
 msgid "Kwasio"
@@ -1599,6 +1587,14 @@ msgstr "ponpeiska"
 msgid "Portuguese"
 msgstr "portúgalska"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "brasílísk portúgalska"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "evrópsk portúgalska"
+
 #: prg
 msgid "Prussian"
 msgstr "prússneska"
@@ -1607,17 +1603,9 @@ msgstr "prússneska"
 msgid "Old Provençal"
 msgstr "fornpróvensalska"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "brasílísk portúgalska"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "evrópsk portúgalska"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "pastú"
 
 #: quc
@@ -1641,10 +1629,6 @@ msgstr "rapanúí"
 msgid "Rarotongan"
 msgstr "rarótongska"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "moldóvska"
-
 #: rof
 msgid "Rombo"
 msgstr "rombó"
@@ -1662,6 +1646,10 @@ msgstr "romaní"
 #: ro
 msgid "Romanian"
 msgstr "rúmenska"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "moldóvska"
 
 #: root
 msgid "Root"
@@ -1841,6 +1829,18 @@ msgstr "suðursótó"
 msgid "Spanish"
 msgstr "spænska"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "rómönsk-amerísk spænska"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "evrópsk spænska"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "mexíkósk spænska"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1890,14 +1890,14 @@ msgstr "súsú"
 msgid "Sumerian"
 msgstr "súmerska"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kongó-svahílí"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "svahílí"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kongó-svahílí"
 
 #: swb
 msgid "Comorian"
@@ -2072,7 +2072,7 @@ msgstr "úgarítíska"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "úígúr"
 
 #: ukr
@@ -2214,14 +2214,6 @@ msgstr "senaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "staðlað marokkóskt tamazight"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "kínverska (einfölduð)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "kínverska (hefðbundin)"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2231,6 +2223,14 @@ msgstr "súang"
 #: zh
 msgid "Chinese"
 msgstr "kínverska"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "kínverska (einfölduð)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "kínverska (hefðbundin)"
 
 #: zul
 #: zu

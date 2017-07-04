@@ -58,14 +58,14 @@ msgstr "អំហារិក"
 msgid "Angika"
 msgstr "អាហ្គីកា"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "អារ៉ាប់ផ្លូវការ"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "អារ៉ាប់"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "អារ៉ាប់ផ្លូវការ"
 
 #: arg
 #: an
@@ -364,27 +364,23 @@ msgstr "អ៊ីកាជុក"
 msgid "Greek"
 msgstr "ក្រិក"
 
-#: en GB-short
-msgid "UK English"
-msgstr "អង់គ្លេស (ច.អ.)"
-
-#: en US-short
-msgid "US English"
-msgstr "អង់គ្លេស (ស.រ.អ)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "អង់គ្លេស"
 
+#: eng_GB-short
+msgid "UK English"
+msgstr "អង់គ្លេស (ច.អ.)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "អង់គ្លេស (ស.រ.អ)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "អេស្ពេរ៉ាន់តូ"
-
-#: es ES
-msgid "European Spanish"
-msgstr "អេស្ប៉ាញ (អ៊ឺរ៉ុប)"
 
 #: est
 #: et
@@ -748,7 +744,7 @@ msgstr "គិនយ៉ាវ៉ាន់ដា"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "​កៀហ្ស៊ីស"
 
 #: kkj
@@ -1039,7 +1035,7 @@ msgstr "មីរ៉ានដេស"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "ភូមា"
 
 #: myv
@@ -1087,7 +1083,7 @@ msgstr "នុនហ្គា"
 msgid "Low German"
 msgstr "អាល្លឺម៉ង់ក្រោម"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "ហ្សាក់ស្យុងក្រោម"
 
@@ -1108,14 +1104,14 @@ msgstr "នីអាស"
 msgid "Niuean"
 msgstr "នូអៀន"
 
-#: nl BE
-msgid "Flemish"
-msgstr "ផ្លាមីស"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "ហូឡង់"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "ផ្លាមីស"
 
 #: nmg
 msgid "Kwasio"
@@ -1220,17 +1216,17 @@ msgstr "ប៉ូឡូញ"
 msgid "Portuguese"
 msgstr "ព័រទុយហ្គាល់"
 
+#: por_PT
+msgid "European Portuguese"
+msgstr "ព័រទុយហ្គាល់ (អឺរ៉ុប)"
+
 #: prg
 msgid "Prussian"
 msgstr "ព្រូស៊ាន"
 
-#: pt PT
-msgid "European Portuguese"
-msgstr "ព័រទុយហ្គាល់ (អឺរ៉ុប)"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "បាស្តូ"
 
 #: quc
@@ -1250,10 +1246,6 @@ msgstr "រ៉ាប៉ានូ"
 msgid "Rarotongan"
 msgstr "រ៉ារ៉ូតុងហ្គាន"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "ម៉ុលដាវី"
-
 #: rof
 msgid "Rombo"
 msgstr "រុមបូ"
@@ -1267,6 +1259,10 @@ msgstr "រ៉ូម៉ង់"
 #: ro
 msgid "Romanian"
 msgstr "រូម៉ានី"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "ម៉ុលដាវី"
 
 #: root
 msgid "Root"
@@ -1422,6 +1418,10 @@ msgstr "សូថូខាងត្បូង"
 msgid "Spanish"
 msgstr "អេស្ប៉ាញ"
 
+#: spa_ES
+msgid "European Spanish"
+msgstr "អេស្ប៉ាញ (អ៊ឺរ៉ុប)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1459,14 +1459,14 @@ msgstr "ស៊ូគូម៉ា"
 msgid "Sundanese"
 msgstr "ស៊ូដង់"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "កុងហ្គោស្វាហ៊ីលី"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "ស្វាហ៊ីលី"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "កុងហ្គោស្វាហ៊ីលី"
 
 #: swb
 msgid "Comorian"
@@ -1600,7 +1600,7 @@ msgstr "អាត់មូដ"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "អ៊ុយហ្គឺរ"
 
 #: ukr
@@ -1714,14 +1714,6 @@ msgstr "កន្តាំង"
 msgid "Standard Moroccan Tamazight"
 msgstr "តាម៉ាហ្សៃម៉ារ៉ុកស្តង់ដា"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "ចិន​អក្សរ​កាត់"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "ចិន​អក្សរ​ពេញ"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -1731,6 +1723,14 @@ msgstr "ហ្សួង"
 #: zh
 msgid "Chinese"
 msgstr "ចិន"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "ចិន​អក្សរ​កាត់"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "ចិន​អក្សរ​ពេញ"
 
 #: zul
 #: zu

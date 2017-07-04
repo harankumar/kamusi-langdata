@@ -257,7 +257,7 @@ msgstr "Kiniyaruwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirgizanci"
 
 #: kor
@@ -327,7 +327,7 @@ msgstr "Harshen Malai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Burmanci"
 
 #: nep
@@ -375,17 +375,17 @@ msgstr "Harshen Polan"
 msgid "Portuguese"
 msgstr "Harshen Portugal"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Fotigis (Burazil)"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Yaren Kasar Portugal"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Pashtanci"
 
 #: ron
@@ -504,7 +504,7 @@ msgstr "Tiwiniyanci"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Ugiranci"
 
 #: ukr

@@ -66,7 +66,7 @@ msgstr "Iseldiryek"
 msgid "Portuguese"
 msgstr "Portyngalek"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Portyngalek Brasil"
 
@@ -84,16 +84,16 @@ msgstr "Spaynek"
 msgid "Cantonese"
 msgstr "Kantonek"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Chinek sempel"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Chînek Tradycyonal"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Chinek"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Chinek sempel"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Chînek Tradycyonal"
 

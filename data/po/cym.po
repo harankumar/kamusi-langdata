@@ -86,14 +86,14 @@ msgstr "Hen Saesneg"
 msgid "Angika"
 msgstr "Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Arabeg Modern Safonol"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arabeg"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Arabeg Modern Safonol"
 
 #: arc
 msgid "Aramaic"
@@ -168,10 +168,6 @@ msgstr "Awadhi"
 msgid "Aymara"
 msgstr "Aymareg"
 
-#: az Arab
-msgid "undefined"
-msgstr "Aserbaijaneg Deheuol"
-
 #: az-short
 msgid "Azeri"
 msgstr "Aseri"
@@ -180,6 +176,10 @@ msgstr "Aseri"
 #: az
 msgid "Azerbaijani"
 msgstr "Aserbaijaneg"
+
+#: aze_Arab
+msgid "undefined"
+msgstr "Aserbaijaneg Deheuol"
 
 #: bak
 #: ba
@@ -433,18 +433,18 @@ msgstr "Dargwa"
 msgid "Taita"
 msgstr "Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Almaeneg Awstria"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Almaeneg Safonol y Swistir"
-
 #: deu
 #: de
 msgid "German"
 msgstr "Almaeneg"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Almaeneg Awstria"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Almaeneg Safonol y Swistir"
 
 #: dgr
 msgid "Dogrib"
@@ -517,34 +517,34 @@ msgstr "Groeg"
 msgid "Elamite"
 msgstr "Elameg"
 
-#: en AU
-msgid "Australian English"
-msgstr "Saesneg Awstralia"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Saesneg Canada"
-
-#: en GB
-msgid "British English"
-msgstr "Saesneg Prydain"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Saesneg (DU)"
-
-#: en US
-msgid "American English"
-msgstr "Saesneg America"
-
-#: en US-short
-msgid "US English"
-msgstr "Saesneg (UDA)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Saesneg"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Saesneg Awstralia"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Saesneg Canada"
+
+#: eng_GB
+msgid "British English"
+msgstr "Saesneg Prydain"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Saesneg (DU)"
+
+#: eng_US
+msgid "American English"
+msgstr "Saesneg America"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Saesneg (UDA)"
 
 #: enm
 msgid "Middle English"
@@ -554,18 +554,6 @@ msgstr "Saesneg Canol"
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Sbaeneg America Ladin"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Sbaeneg Ewrop"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Sbaeneg Mecsico"
 
 #: est
 #: et
@@ -626,18 +614,18 @@ msgstr "Ffinneg Tornedal"
 msgid "Fon"
 msgstr "Fon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Ffrangeg Canada"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Ffrangeg y Swistir"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Ffrangeg"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Ffrangeg Canada"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Ffrangeg y Swistir"
 
 #: frc
 msgid "Cajun French"
@@ -1035,7 +1023,7 @@ msgstr "Ciniarŵandeg"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Cirgiseg"
 
 #: kkj
@@ -1375,7 +1363,7 @@ msgstr "Marwari"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Byrmaneg"
 
 #: myv
@@ -1423,7 +1411,7 @@ msgstr "Ndonga"
 msgid "Low German"
 msgstr "Almaeneg Isel"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "Sacsoneg Isel"
 
@@ -1448,14 +1436,14 @@ msgstr "Niuean"
 msgid "Ao Naga"
 msgstr "Ao Naga"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Fflemeg"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Iseldireg"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Fflemeg"
 
 #: nmg
 msgid "Kwasio"
@@ -1634,6 +1622,14 @@ msgstr "Pohnpeianeg"
 msgid "Portuguese"
 msgstr "Portiwgeeg"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Portiwgeeg Brasil"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Portiwgeeg Ewrop"
+
 #: prg
 msgid "Prussian"
 msgstr "Prwseg"
@@ -1642,17 +1638,9 @@ msgstr "Prwseg"
 msgid "Old Provençal"
 msgstr "Hen Brofensaleg"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Portiwgeeg Brasil"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Portiwgeeg Ewrop"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Pashto"
 
 #: quc
@@ -1676,10 +1664,6 @@ msgstr "Rapanŵi"
 msgid "Rarotongan"
 msgstr "Raratongeg"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldofeg"
-
 #: rof
 msgid "Rombo"
 msgstr "Rombo"
@@ -1697,6 +1681,10 @@ msgstr "Romani"
 #: ro
 msgid "Romanian"
 msgstr "Rwmaneg"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldofeg"
 
 #: root
 msgid "Root"
@@ -1904,6 +1892,18 @@ msgstr "Sesotheg Deheuol"
 msgid "Spanish"
 msgstr "Sbaeneg"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Sbaeneg America Ladin"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Sbaeneg Ewrop"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Sbaeneg Mecsico"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1957,14 +1957,14 @@ msgstr "Swsŵeg"
 msgid "Sumerian"
 msgstr "Swmereg"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Swahili’r Congo"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Swahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Swahili’r Congo"
 
 #: swb
 msgid "Comorian"
@@ -2151,7 +2151,7 @@ msgstr "Wgariteg"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uighur"
 
 #: ukr
@@ -2297,18 +2297,18 @@ msgstr "Zêlandeg"
 msgid "Standard Moroccan Tamazight"
 msgstr "Tamaseit Safonol"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Tsieineeg Symledig"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Tsieineeg Traddodiadol"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Tsieineeg"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Tsieineeg Symledig"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Tsieineeg Traddodiadol"
 
 #: zul
 #: zu

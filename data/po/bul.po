@@ -74,14 +74,14 @@ msgstr "староанглийски"
 msgid "Angika"
 msgstr "ангика"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "съвременен стандартен арабски"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "арабски"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "съвременен стандартен арабски"
 
 #: arc
 msgid "Aramaic"
@@ -485,22 +485,22 @@ msgstr "гръцки"
 msgid "Elamite"
 msgstr "еламитски"
 
-#: en GB-short
-msgid "UK English"
-msgstr "английски (UK)"
-
-#: en US
-msgid "American English"
-msgstr "английски (САЩ)"
-
-#: en US-short
-msgid "US English"
-msgstr "английски (US)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "английски"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "английски (UK)"
+
+#: eng_US
+msgid "American English"
+msgstr "английски (САЩ)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "английски (US)"
 
 #: enm
 msgid "Middle English"
@@ -972,7 +972,7 @@ msgstr "киняруанда"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "киргизки"
 
 #: kkj
@@ -1312,7 +1312,7 @@ msgstr "марвари"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "бирмански"
 
 #: myv
@@ -1360,7 +1360,7 @@ msgstr "ндонга"
 msgid "Low German"
 msgstr "долнонемски"
 
-#: nds NL
+#: nds_NL
 msgid "Low Saxon"
 msgstr "долносаксонски"
 
@@ -1381,14 +1381,14 @@ msgstr "ниас"
 msgid "Niuean"
 msgstr "ниуеан"
 
-#: nl BE
-msgid "Flemish"
-msgstr "фламандски"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "нидерландски"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "фламандски"
 
 #: nmg
 msgid "Kwasio"
@@ -1555,14 +1555,10 @@ msgstr "пруски"
 msgid "Old Provençal"
 msgstr "старопровансалски"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "пущунски"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "пущу"
+msgid "Pashto,Pushto"
+msgstr "пущу,пущунски"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1585,10 +1581,6 @@ msgstr "рапа нуи"
 msgid "Rarotongan"
 msgstr "раротонга"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "молдовски"
-
 #: rof
 msgid "Rombo"
 msgstr "ромбо"
@@ -1606,6 +1598,10 @@ msgstr "ромски"
 #: ro
 msgid "Romanian"
 msgstr "румънски"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "молдовски"
 
 #: root
 msgid "Root"
@@ -1834,14 +1830,14 @@ msgstr "сусу"
 msgid "Sumerian"
 msgstr "шумерски"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "конгоански суахили"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "суахили"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "конгоански суахили"
 
 #: swb
 msgid "Comorian"
@@ -2016,7 +2012,7 @@ msgstr "угаритски"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "уйгурски"
 
 #: ukr
@@ -2158,10 +2154,6 @@ msgstr "зенага"
 msgid "Standard Moroccan Tamazight"
 msgstr "стандартен марокански тамазигт"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "китайски (опростен)"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2171,6 +2163,10 @@ msgstr "зуанг"
 #: zh
 msgid "Chinese"
 msgstr "китайски"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "китайски (опростен)"
 
 #: zul
 #: zu

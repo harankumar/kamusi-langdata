@@ -86,14 +86,14 @@ msgstr "Alenglesch"
 msgid "Angika"
 msgstr "Angika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Modernt Héicharabesch"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Arabesch"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Modernt Héicharabesch"
 
 #: arc
 msgid "Aramaic"
@@ -489,14 +489,6 @@ msgstr "Darginesch"
 msgid "Taita"
 msgstr "Taita"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Éisträichescht Däitsch"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Schwäizer Héichdäitsch"
-
 #: del
 msgid "Delaware"
 msgstr "Delaware-Sprooch"
@@ -509,6 +501,14 @@ msgstr "Slave"
 #: de
 msgid "German"
 msgstr "Däitsch"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Éisträichescht Däitsch"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Schwäizer Héichdäitsch"
 
 #: dgr
 msgid "Dogrib"
@@ -593,34 +593,34 @@ msgstr "Griichesch"
 msgid "Elamite"
 msgstr "Elamesch"
 
-#: en AU
-msgid "Australian English"
-msgstr "Australescht Englesch"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanadescht Englesch"
-
-#: en GB
-msgid "British English"
-msgstr "Britescht Englesch"
-
-#: en GB-short
-msgid "UK English"
-msgstr "Englesch (UK)"
-
-#: en US
-msgid "American English"
-msgstr "Amerikanescht Englesch"
-
-#: en US-short
-msgid "US English"
-msgstr "Englesch (US)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Englesch"
+
+#: eng_AU
+msgid "Australian English"
+msgstr "Australescht Englesch"
+
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanadescht Englesch"
+
+#: eng_GB
+msgid "British English"
+msgstr "Britescht Englesch"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Englesch (UK)"
+
+#: eng_US
+msgid "American English"
+msgstr "Amerikanescht Englesch"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Englesch (US)"
 
 #: enm
 msgid "Middle English"
@@ -630,18 +630,6 @@ msgstr "Mëttelenglesch"
 #: eo
 msgid "Esperanto"
 msgstr "Esperanto"
-
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Latäinamerikanescht Spuenesch"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Europäescht Spuenesch"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Mexikanescht Spuenesch"
 
 #: est
 #: et
@@ -710,18 +698,18 @@ msgstr "Meänkieli"
 msgid "Fon"
 msgstr "Fon-Sprooch"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanadescht Franséisch"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Schwäizer Franséisch"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Franséisch"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanadescht Franséisch"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Schwäizer Franséisch"
 
 #: frc
 msgid "Cajun French"
@@ -1196,7 +1184,7 @@ msgstr "Ruandesch"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirgisesch"
 
 #: kiu
@@ -1588,7 +1576,7 @@ msgstr "Mentawai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Birmanesch"
 
 #: mye
@@ -1665,14 +1653,14 @@ msgstr "Niue-Sprooch"
 msgid "Ao Naga"
 msgstr "Ao Naga"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Flämesch"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Hollännesch"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Flämesch"
 
 #: nmg
 msgid "Kwasio"
@@ -1855,6 +1843,14 @@ msgstr "Ponapeanesch"
 msgid "Portuguese"
 msgstr "Portugisesch"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Brasilianescht Portugisesch"
+
+#: por_PT
+msgid "European Portuguese"
+msgstr "Europäescht Portugisesch"
+
 #: prg
 msgid "Prussian"
 msgstr "Preisesch"
@@ -1863,17 +1859,9 @@ msgstr "Preisesch"
 msgid "Old Provençal"
 msgstr "Alprovenzalesch"
 
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Brasilianescht Portugisesch"
-
-#: pt PT
-msgid "European Portuguese"
-msgstr "Europäescht Portugisesch"
-
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Paschtu"
 
 #: quc
@@ -1909,10 +1897,6 @@ msgstr "Romagnol"
 msgid "Riffian"
 msgstr "Tarifit"
 
-#: ro MD
-msgid "Moldavian"
-msgstr "Moldawesch"
-
 #: rof
 msgid "Rombo"
 msgstr "Rombo"
@@ -1930,6 +1914,10 @@ msgstr "Romani"
 #: ro
 msgid "Romanian"
 msgstr "Rumänesch"
+
+#: ron_MD
+msgid "Moldavian"
+msgstr "Moldawesch"
 
 #: root
 msgid "Root"
@@ -2149,6 +2137,18 @@ msgstr "Süd-Sotho-Sprooch"
 msgid "Spanish"
 msgstr "Spuenesch"
 
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Latäinamerikanescht Spuenesch"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "Europäescht Spuenesch"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Mexikanescht Spuenesch"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -2202,14 +2202,14 @@ msgstr "Susu"
 msgid "Sumerian"
 msgstr "Sumeresch"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kongo-Swahili"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Suaheli"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kongo-Swahili"
 
 #: swb
 msgid "Comorian"
@@ -2412,7 +2412,7 @@ msgstr "Ugaritesch"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Uiguresch"
 
 #: ukr
@@ -2586,14 +2586,6 @@ msgstr "Zenaga"
 msgid "Standard Moroccan Tamazight"
 msgstr "Marokkanescht Standard-Tamazight"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Chinesesch (vereinfacht)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Chinesesch (traditionell)"
-
 #: zha
 #: za
 msgid "Zhuang"
@@ -2603,6 +2595,14 @@ msgstr "Zhuang"
 #: zh
 msgid "Chinese"
 msgstr "Chinesesch"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Chinesesch (vereinfacht)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Chinesesch (traditionell)"
 
 #: zul
 #: zu

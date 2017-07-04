@@ -127,7 +127,7 @@ msgstr "Ǹkɔ́bɔ malɛ́sian"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Ǹkɔ́bɔ birəmán"
 
 #: nep

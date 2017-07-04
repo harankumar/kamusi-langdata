@@ -242,7 +242,7 @@ msgstr "Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Inkerigizi"
 
 #: kor
@@ -355,17 +355,17 @@ msgstr "Igipolone"
 msgid "Portuguese"
 msgstr "Igiporutugali"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Inyeporutigali (Brezili)"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Inyeporutigali (Igiporutigali)"
 
 #: pus
 #: ps
-msgid "Pashto"
+msgid "Pashto,Pushto"
 msgstr "Impashito"
 
 #: ron
@@ -484,7 +484,7 @@ msgstr "Inyetuwi"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Ikiwiguri"
 
 #: ukr

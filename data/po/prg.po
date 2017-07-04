@@ -11,64 +11,52 @@ msgstr "arābiskan"
 msgid "Danish"
 msgstr "dāniskan"
 
-#: de AT
-msgid "Austrian German"
-msgstr "Āustrarīkis miksiskan"
-
-#: de CH
-msgid "Swiss High German"
-msgstr "Šwēicis aūktamiksiskan"
-
 #: deu
 #: de
 msgid "German"
 msgstr "miksiskan"
+
+#: deu_AT
+msgid "Austrian German"
+msgstr "Āustrarīkis miksiskan"
+
+#: deu_CH
+msgid "Swiss High German"
+msgstr "Šwēicis aūktamiksiskan"
 
 #: ell
 #: el
 msgid "Greek"
 msgstr "grēkiskan"
 
-#: en AU
-msgid "Australian English"
-msgstr "Austrālijas ēngliskan"
-
-#: en CA
-msgid "Canadian English"
-msgstr "Kanādas ēngliskan"
-
-#: en GB
-msgid "British English"
-msgstr "brītiskan ēngliskan"
-
-#: en GB-short
-msgid "UK English"
-msgstr "brītiskan ēngliskan"
-
-#: en US
-msgid "American English"
-msgstr "amērikaniskan ēngliskan"
-
-#: en US-short
-msgid "US English"
-msgstr "APW ēngliskan"
-
 #: eng
 #: en
 msgid "English"
 msgstr "ēngliskan"
 
-#: es 419
-msgid "Latin American Spanish"
-msgstr "Lātiniskas Amērikas špāniskan"
+#: eng_AU
+msgid "Australian English"
+msgstr "Austrālijas ēngliskan"
 
-#: es ES
-msgid "European Spanish"
-msgstr "eurōpiskan špāniskan"
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kanādas ēngliskan"
 
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Meksikus špāniskan"
+#: eng_GB
+msgid "British English"
+msgstr "brītiskan ēngliskan"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "brītiskan ēngliskan"
+
+#: eng_US
+msgid "American English"
+msgstr "amērikaniskan ēngliskan"
+
+#: eng_US-short
+msgid "US English"
+msgstr "APW ēngliskan"
 
 #: est
 #: et
@@ -80,18 +68,18 @@ msgstr "èstiskan"
 msgid "Finnish"
 msgstr "sōmiskan"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kanādas prancōziskan"
-
-#: fr CH
-msgid "Swiss French"
-msgstr "Šwēicis prancōziskan"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "prancōziskan"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kanādas prancōziskan"
+
+#: fra_CH
+msgid "Swiss French"
+msgstr "Šwēicis prancōziskan"
 
 #: ita
 #: it
@@ -128,17 +116,17 @@ msgstr "pōliskan"
 msgid "Portuguese"
 msgstr "pōrtugaliskan"
 
-#: prg
-msgid "Prussian"
-msgstr "prūsiskan"
-
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Brazīlijas pōrtugaliskan"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "eurōpiskan pōrtugaliskan"
+
+#: prg
+msgid "Prussian"
+msgstr "prūsiskan"
 
 #: rus
 #: ru
@@ -149,6 +137,18 @@ msgstr "maskōwitiskan"
 #: es
 msgid "Spanish"
 msgstr "špāniskan"
+
+#: spa_419
+msgid "Latin American Spanish"
+msgstr "Lātiniskas Amērikas špāniskan"
+
+#: spa_ES
+msgid "European Spanish"
+msgstr "eurōpiskan špāniskan"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Meksikus špāniskan"
 
 #: swe
 #: sv
@@ -164,16 +164,16 @@ msgstr "turkiskan"
 msgid "Unknown language"
 msgstr "niwaistā bilā"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "prastintan kīniskan"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "tradiciōnalin kīniskan"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "kīniskan"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "prastintan kīniskan"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "tradiciōnalin kīniskan"
 

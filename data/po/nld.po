@@ -593,18 +593,18 @@ msgstr "Grieks"
 msgid "Elamite"
 msgstr "Elamitisch"
 
-#: en GB-short
-msgid "UK English"
-msgstr "Engels (VK)"
-
-#: en US-short
-msgid "US English"
-msgstr "Engels (VS)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Engels"
+
+#: eng_GB-short
+msgid "UK English"
+msgstr "Engels (VK)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Engels (VS)"
 
 #: enm
 msgid "Middle English"
@@ -1160,7 +1160,7 @@ msgstr "Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kirgizisch"
 
 #: kiu
@@ -1556,7 +1556,7 @@ msgstr "Mentawai"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Birmaans"
 
 #: mye
@@ -1831,14 +1831,10 @@ msgstr "Oudpruisisch"
 msgid "Old Provençal"
 msgstr "Oudprovençaals"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "Pashto"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "Pasjtoe"
+msgid "Pashto,Pushto"
+msgstr "Pasjtoe,Pashto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -2372,7 +2368,7 @@ msgstr "Oegaritisch"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Oeigoers"
 
 #: ukr

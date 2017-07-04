@@ -295,11 +295,11 @@ msgstr "Afaan Polandii"
 msgid "Portuguese"
 msgstr "Afaan Porchugaal"
 
-#: pt BR
+#: por_BR
 msgid "Brazilian Portuguese"
 msgstr "Afaan Portugali (Braazil)"
 
-#: pt PT
+#: por_PT
 msgid "European Portuguese"
 msgstr "Afaan Protuguese"
 

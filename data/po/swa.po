@@ -66,14 +66,14 @@ msgstr "Kiingereza cha Kale"
 msgid "Angika"
 msgstr "Kiangika"
 
-#: ar 001
-msgid "Modern Standard Arabic"
-msgstr "Kiarabu Sanifu cha Kisasa"
-
 #: ara
 #: ar
 msgid "Arabic"
 msgstr "Kiarabu"
+
+#: ara_001
+msgid "Modern Standard Arabic"
+msgstr "Kiarabu Sanifu cha Kisasa"
 
 #: arc
 msgid "Aramaic"
@@ -419,31 +419,23 @@ msgstr "Kiekajuk"
 msgid "Greek"
 msgstr "Kigiriki"
 
-#: en CA
-msgid "Canadian English"
-msgstr "Kiingereza (Canada)"
-
-#: en US-short
-msgid "US English"
-msgstr "Kiingereza (US)"
-
 #: eng
 #: en
 msgid "English"
 msgstr "Kiingereza"
 
+#: eng_CA
+msgid "Canadian English"
+msgstr "Kiingereza (Canada)"
+
+#: eng_US-short
+msgid "US English"
+msgstr "Kiingereza (US)"
+
 #: epo
 #: eo
 msgid "Esperanto"
 msgstr "Kiesperanto"
-
-#: es ES
-msgid "European Spanish"
-msgstr "Kihispania (Uhispania)"
-
-#: es MX
-msgid "Mexican Spanish"
-msgstr "Kihispania (Mexico)"
 
 #: est
 #: et
@@ -492,14 +484,14 @@ msgstr "Kifini"
 msgid "Fon"
 msgstr "Kifon"
 
-#: fr CA
-msgid "Canadian French"
-msgstr "Kifaransa (Canada)"
-
 #: fra
 #: fr
 msgid "French"
 msgstr "Kifaransa"
+
+#: fra_CA
+msgid "Canadian French"
+msgstr "Kifaransa (Canada)"
 
 #: fro
 msgid "Old French"
@@ -844,7 +836,7 @@ msgstr "Kinyarwanda"
 
 #: kir
 #: ky
-msgid "Kyrgyz"
+msgid "Kyrgyz,Kirghiz"
 msgstr "Kikyrgyz"
 
 #: kkj
@@ -1156,7 +1148,7 @@ msgstr "Kimirandi"
 
 #: mya
 #: my
-msgid "Burmese"
+msgid "Burmese,Myanmar Language"
 msgstr "Kiburma"
 
 #: myv
@@ -1221,14 +1213,14 @@ msgstr "Kiniasi"
 msgid "Niuean"
 msgstr "Kiniuea"
 
-#: nl BE
-msgid "Flemish"
-msgstr "Kiflemi"
-
 #: nld
 #: nl
 msgid "Dutch"
 msgstr "Kiholanzi"
+
+#: nld_BE
+msgid "Flemish"
+msgstr "Kiflemi"
 
 #: nmg
 msgid "Kwasio"
@@ -1353,22 +1345,18 @@ msgstr "Kipolandi"
 msgid "Portuguese"
 msgstr "Kireno"
 
+#: por_BR
+msgid "Brazilian Portuguese"
+msgstr "Kireno (Brazil)"
+
 #: prg
 msgid "Prussian"
 msgstr "Kiprussia"
 
-#: ps-variant
-msgid "Pushto"
-msgstr "Kipushto"
-
-#: pt BR
-msgid "Brazilian Portuguese"
-msgstr "Kireno (Brazil)"
-
 #: pus
 #: ps
-msgid "Pashto"
-msgstr "Kipashto"
+msgid "Pashto,Pushto"
+msgstr "Kipashto,Kipushto"
 
 #: quc
 msgid "Kʼicheʼ"
@@ -1563,6 +1551,14 @@ msgstr "Kisotho"
 msgid "Spanish"
 msgstr "Kihispania"
 
+#: spa_ES
+msgid "European Spanish"
+msgstr "Kihispania (Uhispania)"
+
+#: spa_MX
+msgid "Mexican Spanish"
+msgstr "Kihispania (Mexico)"
+
 #: sqi
 #: sq
 msgid "Albanian"
@@ -1604,14 +1600,14 @@ msgstr "Kisunda"
 msgid "Susu"
 msgstr "Kisusu"
 
-#: sw CD
-msgid "Congo Swahili"
-msgstr "Kingwana"
-
 #: swa
 #: sw
 msgid "Swahili"
 msgstr "Kiswahili"
+
+#: swa_CD
+msgid "Congo Swahili"
+msgstr "Kingwana"
 
 #: swb
 msgid "Comorian"
@@ -1745,7 +1741,7 @@ msgstr "Udmurt"
 
 #: uig
 #: ug
-msgid "Uyghur"
+msgid "Uyghur,Uighur"
 msgstr "Kiuyghur"
 
 #: ukr
@@ -1863,18 +1859,18 @@ msgstr "Kikantoni"
 msgid "Standard Moroccan Tamazight"
 msgstr "Tamaziti Sanifu ya Kimoroko"
 
-#: zh Hans
-msgid "Simplified Chinese"
-msgstr "Kichina (Kilichorahisishwa)"
-
-#: zh Hant
-msgid "Traditional Chinese"
-msgstr "Kichina cha Jadi"
-
 #: zho
 #: zh
 msgid "Chinese"
 msgstr "Kichina"
+
+#: zho_Hans
+msgid "Simplified Chinese"
+msgstr "Kichina (Kilichorahisishwa)"
+
+#: zho_Hant
+msgid "Traditional Chinese"
+msgstr "Kichina cha Jadi"
 
 #: zul
 #: zu
